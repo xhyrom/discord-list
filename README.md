@@ -1,6 +1,6 @@
 <div align="center">
 
-    # Discord Activities
+   # Discord Activities
 
 </div>
 
