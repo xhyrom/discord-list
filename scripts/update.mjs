@@ -1,8 +1,5 @@
-import { Octokit as RawOctokit } from "octokit";
-import plugin from "octokit-commit-multiple-files";
+import { Octokit } from "octokit";
 import { fetch } from "undici";
-
-const Octokit = RawOctokit.plugin(plugin());
 
 const githubToken = process.env.GITHUB_TOKEN;
 const discordToken = process.env.DISCORD_TOKEN;
@@ -16,6 +13,7 @@ const activities = await fetch('https://discord.com/api/v9/activities/guilds/831
         'Authorization': discordToken
     }
 })
+(await import('octokit-commit-multiple-files'))(activities);
 
 const files = {};
 const app_ids = (await activities.json()).app_ids;
