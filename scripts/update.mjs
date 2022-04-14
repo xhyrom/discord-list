@@ -41,7 +41,7 @@ const pushFiles = async() => {
     await git.push('origin', 'master');
 }
 
-const existSync = () => {
+const existSync = async() => {
     try {
         await fs.access('./activities/', constants.R_OK | constants.W_OK);
         return true;
