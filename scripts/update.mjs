@@ -2,10 +2,10 @@ import simpleGit from 'simple-git';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { fetch } from 'undici';
+import { constants } from 'node:fs';
 
 const git = simpleGit({ baseDir: path.resolve('..') });
 
-const githubToken = process.env.GITHUB_TOKEN;
 const discordToken = process.env.DISCORD_TOKEN;
 
 const activities = await fetch('https://discord.com/api/v9/activities/guilds/831646372519346186/config', {
@@ -13,6 +13,8 @@ const activities = await fetch('https://discord.com/api/v9/activities/guilds/831
         'Authorization': discordToken
     }
 })
+
+if (!(await existSync())) await fs.mkdir('./activities/')
 
 const files = [];
 const app_ids = (await activities.json()).app_ids;
@@ -37,6 +39,15 @@ const pushFiles = async() => {
     await git.add(files);
     await git.commit('Update activities 🚀');
     await git.push('origin', 'master');
+}
+
+const existSync = () => {
+    try {
+        await fs.access('./activities/', constants.R_OK | constants.W_OK);
+        return true;
+    } catch {
+        return false;
+    }
 }
 
 pushFiles();
