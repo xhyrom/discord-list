@@ -21,7 +21,7 @@ const pushFiles = async() => {
 
 const existSync = async() => {
     try {
-        await fs.access('./activities/', constants.R_OK | constants.W_OK);
+        await fs.access(`${path.resolve('..')}/activities/`, constants.R_OK | constants.W_OK);
         return true;
     } catch {
         return false;
@@ -34,7 +34,7 @@ const activities = await fetch('https://discord.com/api/v9/activities/guilds/831
     }
 })
 
-if (!(await existSync())) await fs.mkdir('./activities/')
+if (!(await existSync())) await fs.mkdir(`${path.resolve('..')}/activities/`)
 
 const files = [];
 const app_ids = (await activities.json()).app_ids;
@@ -43,10 +43,10 @@ for (const appId of app_ids) {
     const assets = await assetsPromise;
 
     const image = await fetch(`https://cdn.discordapp.com/app-assets/${appId}/${assets.find((asset) => asset.name === 'embedded_cover').id}.png?size=1024`);
-    const name = `./activities/${appId}.png`
+    const name = `${path.resolve('..')}/activities/${appId}.png`;
 
     files.push(name);
-    fs.writeFile(name, Buffer.from(await image.arrayBuffer()));
+    fs.writeFile(name, Buffer.from(await image.arrayBuffer()).toString('base64'), 'base64');
 }
 
 pushFiles();
