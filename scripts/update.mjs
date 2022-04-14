@@ -1,13 +1,12 @@
 import simpleGit from 'simple-git';
-import fs from 'fs/promises';
+import path from 'node:path';
+import fs from 'node:fs/promises';
 import { fetch } from 'undici';
+
+const git = simpleGit({ baseDir: path.resolve('..') });
 
 const githubToken = process.env.GITHUB_TOKEN;
 const discordToken = process.env.DISCORD_TOKEN;
-
-const client = new Octokit({
-    auth: githubToken
-})
 
 const activities = await fetch('https://discord.com/api/v9/activities/guilds/831646372519346186/config', {
     headers: {
