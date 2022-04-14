@@ -37,7 +37,7 @@ client.repos.createOrUpdateFiles({
     branch: 'master',
     changes: [
         {
-            message: 'Activities update 🚀',
+            message: 'Update activities 🚀',
             files
         }
     ]

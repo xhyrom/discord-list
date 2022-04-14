@@ -21,3 +21,6 @@ jobs:
           cd scripts
           npm ci
           npm run update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
