@@ -1,6 +1,6 @@
 name: Auto Update
 on:
-  shedule:
+  schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
