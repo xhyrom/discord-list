@@ -1,0 +1,16 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "update": "node update.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "octokit": "^1.7.1",
+    "octokit-commit-multiple-files": "^4.0.0",
+    "undici": "^5.0.0"
+  }
+}
