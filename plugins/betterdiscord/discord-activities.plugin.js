@@ -6,7 +6,7 @@
  * @description Allows you to start activiity in voice channel
  * @invite https://discord.gg/AjKJSBbGm2
  * @website https://github.com/xHyroM
- * @source https://github.com/xHyroM/discord-activities/blob/master/plugins/discord-activities.plugin.js
+ * @source https://github.com/xHyroM/discord-activities/blob/master/plugins/betterdiscord/discord-activities.plugin.js
  */
 
  class VoiceActivities {
