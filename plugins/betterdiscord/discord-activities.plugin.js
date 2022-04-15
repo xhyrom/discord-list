@@ -26,6 +26,7 @@
         };
 
         this._config = config;
+        this.prop = BdApi.findModuleByProps(['getEnabledAppIds']);
     }
 
     getName() {
@@ -46,20 +47,16 @@
 
     async start() {
         const activities = await (await fetch('https://raw.githubusercontent.com/xHyroM/discord-activities/master/activities.json')).json();
-
-        const prop = BdApi.findModuleByProps(['getEnabledAppIds']);
         const appIds = activities.map(activity => activity.id);
 
-        Object.defineProperty(prop, 'getEnabledAppIds', {
+        Object.defineProperty(this.prop, 'getEnabledAppIds', {
             value: () => appIds,
             writable: true
         })
     }
 
     stop() {
-        const prop = BdApi.findModuleByProps(['getEnabledAppIds']);
-
-        Object.defineProperty(prop, 'getEnabledAppIds', {
+        Object.defineProperty(this.prop, 'getEnabledAppIds', {
             value: () => [],
             writable: true
         })
