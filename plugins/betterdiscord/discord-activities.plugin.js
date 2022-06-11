@@ -4,9 +4,11 @@
  * @authorId 525316393768452098
  * @version 0.1.0
  * @description Allows you to start activiity in voice channel
- * @invite https://discord.gg/AjKJSBbGm2
- * @website https://github.com/xHyroM
- * @source https://github.com/xHyroM/discord-activities/blob/master/plugins/betterdiscord/discord-activities.plugin.js
+ * @invite AjKJSBbGm2
+ * @website https://hyro.pages.dev
+ * @donate https://ko-fi.com/garlicteam
+ * @source https://github.com/xHyroM/discord-activities/blob/master/plugins/betterdiscord
+ * @updateUrl https://raw.githubusercontent.com/xHyroM/discord-activities/master/plugins/betterdiscord/discord-activities.plugin.js
  */
 
  class VoiceActivities {

@@ -16,7 +16,7 @@ const appIds = (await (await fetch('https://discord.com/api/v10/activities/guild
 if (!(await existSync())) await fs.mkdir(`${path.resolve('..')}/activities/`);
 
 const activities = [];
-const files = [];
+const files = [`${path.resolve('..')}/activities.json`, `${path.resolve('..')}/activities.md`];
 
 for (const appId of appIds) {
     const applicationInfo = await (await fetch(`https://canary.discord.com/api/v9/oauth2/authorize?client_id=${appId}`, {
