@@ -4,13 +4,12 @@
     "description": "Unleash your inner Grandmaster by playing multiple games of Chess at once vs anybody on your server.",
     "icon": "3b3981ddf67c8702920fae10b5f123ed",
     "activity_config": {
-        "activity_premium_tier_level": 1,
-        "activity_premium_tier_treatment_map": {
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "default": 1
-        },
-        "activity_preview_video_asset_id": "951327097396285470"
+        "activity_preview_video_asset_id": "951327097396285470",
+        "supported_platforms": [
+            "ios",
+            "web",
+            "android"
+        ],
+        "default_orientation_lock_state": 1
     }
 }

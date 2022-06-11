@@ -4,13 +4,12 @@
     "description": "Be the first to zero cards by swapping hands, skipping players, and reversing turns!",
     "icon": "6fe6e3dda7657b83758693205a833aa1",
     "activity_config": {
-        "activity_premium_tier_level": 1,
-        "activity_premium_tier_treatment_map": {
-            "1": 1,
-            "2": 0,
-            "3": 1,
-            "default": 1
-        },
-        "activity_preview_video_asset_id": "951327865570467880"
+        "activity_preview_video_asset_id": "951327865570467880",
+        "supported_platforms": [
+            "ios",
+            "web",
+            "android"
+        ],
+        "default_orientation_lock_state": 3
     }
 }
