@@ -7,11 +7,11 @@ import { markdownTable } from 'markdown-table';
 
 const discordToken = process.env.DISCORD_TOKEN;
 
-const appIds = (await (await fetch('https://discord.com/api/v9/activities/guilds/831646372519346186/config', {
+const appIds = (await (await fetch('https://discord.com/api/v10/activities/guilds/831646372519346186/shelf', {
     headers: {
         'Authorization': discordToken
     }
-})).json()).app_ids
+})).json()).activity_bundle_items.map(app => app.application_id);
 
 if (!(await existSync())) await fs.mkdir(`${path.resolve('..')}/activities/`);
 
