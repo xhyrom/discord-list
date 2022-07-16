@@ -1,34 +1,34 @@
-import path from 'node:path';
-import { mkdir } from 'node:fs/promises';
-import { existSync } from './utils/existSync.mjs';
-import { pushFiles } from './utils/pushFiles.mjs';
+import { resolve } from 'node:path';
+import { mkdirSync } from 'node:fs';
+import { existSync } from './utils/existSync.js';
+import { pushFiles } from './utils/pushFiles.js';
 import { markdownTable } from 'markdown-table';
 
-const discordToken = process.env.DISCORD_TOKEN;
+const discordToken: string = process.env.DISCORD_TOKEN as string;
 
-const appIds = (await (await fetch('https://discord.com/api/v10/activities/guilds/831646372519346186/shelf', {
+const appIds: any = (await (await fetch('https://discord.com/api/v10/activities/guilds/831646372519346186/shelf', {
     headers: {
         'Authorization': discordToken
     }
-})).json()).activity_bundle_items.map(app => app.application_id);
+})).json() as any).activity_bundle_items.map(app => app.application_id) as any;
 
-if (!(await existSync())) await mkdir(`${path.resolve('..')}/activities/`);
+if (!existSync()) await mkdirSync(`${resolve('..')}/activities/`);
 
-const activities = [];
-const files = [`${path.resolve('..')}/activities.json`, `${path.resolve('..')}/activities.md`];
+const activities: any[] = [];
+const files = [`${resolve('..')}/activities.json`, `${resolve('..')}/activities.md`];
 
 for (const appId of appIds) {
-    const applicationInfo = await (await fetch(`https://canary.discord.com/api/v9/oauth2/authorize?client_id=${appId}`, {
+    const applicationInfo: any = await (await fetch(`https://canary.discord.com/api/v9/oauth2/authorize?client_id=${appId}`, {
         headers: {
             'Authorization': discordToken
         }
-    })).json();
+    })).json() as any;
 
-    const assets = await (await fetch(`https://canary.discord.com/api/v9/oauth2/applications/${appId}/assets`)).json();
+    const assets: any = await (await fetch(`https://canary.discord.com/api/v9/oauth2/applications/${appId}/assets`)).json();
 
     const image = await fetch(`https://cdn.discordapp.com/app-assets/${appId}/${assets.find((asset) => asset.name === 'embedded_cover').id}.png?size=1024`);
-    const nameImage = `${path.resolve('..')}/activities/${appId}.png`;
-    const nameInfo = `${path.resolve('..')}/activities/${appId}.json`;
+    const nameImage = `${resolve('..')}/activities/${appId}.png`;
+    const nameInfo = `${resolve('..')}/activities/${appId}.json`;
 
     activities.push({
         id: appId,
@@ -56,12 +56,12 @@ for (const appId of appIds) {
         )
     );
 
-    Bun.write(nameImage, await image.arrayBuffer());
+    Bun.write(nameImage, await image.blob());
     console.log(`Activity ${applicationInfo.application?.name} (${appId}) updated. 🚀`);
 }
 
-Bun.write(`${path.resolve('..')}/activities.json`, JSON.stringify(activities, null, 4));
-Bun.write(`${path.resolve('..')}/activities.md`, markdownTable(
+Bun.write(`${resolve('..')}/activities.json`, JSON.stringify(activities, null, 4));
+Bun.write(`${resolve('..')}/activities.md`, markdownTable(
     [
         ['Application Id', 'Application Name', 'Premium Tier', 'Application Description', 'Application Icon', 'Image'],
         ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./activities/${activity.id}.png)`])
