@@ -1,5 +1,5 @@
 import path from 'node:path';
-import fs from 'node:fs/promises';
+import { mkdir } from 'node:fs/promises';
 import { existSync } from './utils/existSync.mjs';
 import { pushFiles } from './utils/pushFiles.mjs';
 import { markdownTable } from 'markdown-table';
@@ -12,7 +12,7 @@ const appIds = (await (await fetch('https://discord.com/api/v10/activities/guild
     }
 })).json()).activity_bundle_items.map(app => app.application_id);
 
-if (!(await existSync())) await fs.mkdir(`${path.resolve('..')}/activities/`);
+if (!(await existSync())) await mkdir(`${path.resolve('..')}/activities/`);
 
 const activities = [];
 const files = [`${path.resolve('..')}/activities.json`, `${path.resolve('..')}/activities.md`];
@@ -28,7 +28,7 @@ for (const appId of appIds) {
 
     const image = await fetch(`https://cdn.discordapp.com/app-assets/${appId}/${assets.find((asset) => asset.name === 'embedded_cover').id}.png?size=1024`);
     const nameImage = `${path.resolve('..')}/activities/${appId}.png`;
-    const nameInfo = `${path.resolve('..')}/activities/${appId}.json`
+    const nameInfo = `${path.resolve('..')}/activities/${appId}.json`;
 
     activities.push({
         id: appId,
@@ -41,7 +41,7 @@ for (const appId of appIds) {
     files.push(nameInfo);
     files.push(nameImage);
 
-    fs.writeFile(
+    Bun.write(
         nameInfo,
         JSON.stringify(
             {
@@ -56,12 +56,12 @@ for (const appId of appIds) {
         )
     );
 
-    fs.writeFile(nameImage, Buffer.from(await image.arrayBuffer()).toString('base64'), 'base64');
+    Bun.write(nameImage, await image.arrayBuffer());
     console.log(`Activity ${applicationInfo.application?.name} (${appId}) updated. 🚀`);
 }
 
-fs.writeFile(`${path.resolve('..')}/activities.json`, JSON.stringify(activities, null, 4));
-fs.writeFile(`${path.resolve('..')}/activities.md`, markdownTable(
+Bun.write(`${path.resolve('..')}/activities.json`, JSON.stringify(activities, null, 4));
+Bun.write(`${path.resolve('..')}/activities.md`, markdownTable(
     [
         ['Application Id', 'Application Name', 'Premium Tier', 'Application Description', 'Application Icon', 'Image'],
         ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./activities/${activity.id}.png)`])
