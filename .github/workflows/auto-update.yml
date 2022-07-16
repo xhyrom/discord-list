@@ -7,7 +7,7 @@ on:
 jobs:
   runner:
     runs-on: ubuntu-latest
-    name: Update domains
+    name: Update activities
     steps:
       - uses: actions/checkout@v3
       - uses: xhyrom/setup-bun@v0.1.3
