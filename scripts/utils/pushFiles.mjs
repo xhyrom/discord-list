@@ -9,6 +9,7 @@ export const pushFiles = async(files) => {
       return;
     }
 
+    await git.pull();
     await git.add(files);
     await git.commit('Update activities 🚀');
     await git.push('origin', 'master');
