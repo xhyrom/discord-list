@@ -7,13 +7,60 @@ import { existSync } from '../utils/existSync.mjs';
 if (!(await existSync(`${path.resolve('..')}/guilds/`))) await fs.mkdir(`${path.resolve('..')}/guilds/`);
 fs.copyFile(`${path.resolve('..')}/guilds/README.template.md`, `${path.resolve('..')}/guilds/README.md`);
 
+const discordToken = process.env.DISCORD_TOKEN;
 const files = [];
-
-const length = 12;
+const limit = 48;
 let offset = 0;
+let page = 0;
+
+const writeGuild = async(server) => {
+    if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
+
+    const icon = await fetch(`https://cdn.discordapp.com/icons/${server.id}/${server.icon}.webp?size=1024`);
+    const banner = await fetch(`https://cdn.discordapp.com/banners/${server.id}/${server.banner}.webp?size=1024`);
+    const splash = await fetch(`https://cdn.discordapp.com/discovery-splashes/${server.id}/${server.discovery_splash}.webp?size=1024`);
+
+    const nameIcon = `${path.resolve('..')}/guilds/${server.id}/icon.webp`;
+    const nameBanner = `${path.resolve('..')}/guilds/${server.id}/banner.webp`;
+    const nameSplash = `${path.resolve('..')}/guilds/${server.id}/splash.webp`;
+    const nameInfo = `${path.resolve('..')}/guilds/${server.id}/info.json`;
+
+    files.push(nameIcon, nameBanner, nameSplash, nameInfo);
+
+    fs.writeFile(
+        nameInfo,
+        JSON.stringify(
+            {
+                id: server.id,
+                name: server.name,
+                description: server.description,
+                icon: server.icon,
+                splash: server.splash,
+                discovery_splash: server.discovery_splash,
+                banner: server.banner,
+                approximate_presence_count: server.approximate_presence_count,
+                approximate_member_count: server.approximate_member_count,
+                premium_subscription_count: server.premium_subscription_count,
+                preferred_locale: server.preferred_locale,
+                vanity_url_code: server.vanity_url_code,
+                keywords: server.keywords,
+                features: server.features,
+                partnered: server.features.includes('PARTNERED'),
+                verified: server.features.includes('VERIFIED'),
+            },
+            null,
+            4
+        )
+    )
+    fs.writeFile(nameIcon, Buffer.from(await icon.arrayBuffer()).toString('base64'), 'base64');
+    fs.writeFile(nameBanner, Buffer.from(await banner.arrayBuffer()).toString('base64'), 'base64');
+    fs.writeFile(nameSplash, Buffer.from(await splash.arrayBuffer()).toString('base64'), 'base64');
+    fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
+    console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
+}
 
 while(true) {
-    const algoliaApiResponse = await fetch("https://nktzz4aizu-dsn.algolia.net/1/indexes/prod_discoverable_guilds/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.1.0)%3B%20Browser", {
+    const algoliaApiResponse = await fetch("https://nktzz4aizu-dsn.algolia.net/1/indexes/prod_discoverable_guilds/query", {
         "headers": {
           "accept": "*/*",
           "accept-language": "en-GB",
@@ -26,63 +73,42 @@ while(true) {
         },
         "referrer": "https://canary.discord.com/",
         "referrerPolicy": "strict-origin-when-cross-origin",
-        "body": `{"filters":"auto_removed:false AND approximate_presence_count> 0 AND approximate_member_count> 0","facets":["categories.id"],"length":12,"offset":${offset}}`,
+        "body": `{"filters":"auto_removed:false AND approximate_presence_count> 0 AND approximate_member_count> 0","facets":["categories.id"],"hitsPerPage":1000,"page":${page}}`,
         "method": "POST",
         "mode": "cors"
-      }).catch(() => {});
+    }).catch(() => {});
 
-      console.log(algoliaApiResponse.status, algoliaApiResponse.statusText);
-      const algolia = await algoliaApiResponse.json().catch(() => {});
-      console.log(algolia);
-      if (!algolia?.hits || algolia?.hits?.length === 0) break;
+    const algolia = await algoliaApiResponse.json().catch(() => {});
+    if (!algolia?.hits || algolia?.hits?.length === 0) break;
 
-      for (const server of algolia.hits) {
-        if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
+    for (const guild of algolia.hits) {
+        await writeGuild(guild);
+    }
 
-        const icon = await fetch(`https://cdn.discordapp.com/icons/${server.id}/${server.icon}.webp?size=1024`);
-        const banner = await fetch(`https://cdn.discordapp.com/banners/${server.id}/${server.banner}.webp?size=1024`);
-        const splash = await fetch(`https://cdn.discordapp.com/discovery-splashes/${server.id}/${server.splash}.webp?size=1024`);
+    page++;
+}
 
-        const nameIcon = `${path.resolve('..')}/guilds/${server.id}/icon.webp`;
-        const nameBanner = `${path.resolve('..')}/guilds/${server.id}/banner.webp`;
-        const nameSplash = `${path.resolve('..')}/guilds/${server.id}/splash.webp`;
-        const nameInfo = `${path.resolve('..')}/guilds/${server.id}/info.json`;
+for (let category = 0; category <= 49; category++) {
+    console.log(category);
+    while(true) {
+        const response = (await (await fetch(`https://discord.com/api/v10/discoverable-guilds?categories=${category}&limit=48&offset=${offset}`, {
+            headers: {
+                'Authorization': discordToken
+            }
+        })).json()).guilds;
 
-        files.push(nameIcon, nameBanner, nameSplash, nameInfo);
+        console.log(response.length, offset);
+        if (response.length === 0) {
+            offset = 0;
+            break;
+        };
 
-        fs.writeFile(
-            nameInfo,
-            JSON.stringify(
-                {
-                    id: server.id,
-                    name: server.name,
-                    description: server.description,
-                    icon: server.icon,
-                    splash: server.splash,
-                    banner: server.banner,
-                    approximate_presence_count: server.approximate_presence_count,
-                    approximate_member_count: server.approximate_member_count,
-                    premium_subscription_count: server.premium_subscription_count,
-                    preferred_locale: server.preferred_locale,
-                    vanity_url_code: server.vanity_url_code,
-                    keywords: server.keywords,
-                    features: server.features,
-                    partnered: server.features.includes('PARTNERED'),
-                    verified: server.features.includes('VERIFIED'),
-                    raw: server,
-                },
-                null,
-                4
-            )
-        )
-        fs.writeFile(nameIcon, Buffer.from(await icon.arrayBuffer()).toString('base64'), 'base64');
-        fs.writeFile(nameBanner, Buffer.from(await banner.arrayBuffer()).toString('base64'), 'base64');
-        fs.writeFile(nameSplash, Buffer.from(await splash.arrayBuffer()).toString('base64'), 'base64');
-        fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
-        console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
-      }
+        for (const guild of response) {
+            await writeGuild(guild);
+        }
 
-      offset += length;
+        offset += limit;
+    }
 }
 
 pushFiles(files, 'guilds');
