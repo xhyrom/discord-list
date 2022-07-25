@@ -69,4 +69,4 @@ fs.writeFile(`${path.resolve('..')}/activities.md`, markdownTable(
     ]
 ))
 
-pushFiles(files);
+pushFiles(files, 'activities');

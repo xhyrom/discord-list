@@ -30,7 +30,9 @@ while(true) {
         "mode": "cors"
       }).catch(() => {});
 
+      console.log(algoliaApiResponse.status, algoliaApiResponse.statusText);
       const algolia = await algoliaApiResponse.json().catch(() => {});
+      console.log(algolia);
       if (!algolia?.hits || algolia?.hits?.length === 0) break;
 
       for (const server of algolia.hits) {
@@ -66,6 +68,7 @@ while(true) {
                     features: server.features,
                     partnered: server.features.includes('PARTNERED'),
                     verified: server.features.includes('VERIFIED'),
+                    raw: server,
                 },
                 null,
                 4
@@ -80,4 +83,4 @@ while(true) {
       offset += length;
 }
 
-pushFiles(files);
+pushFiles(files, 'guilds');
