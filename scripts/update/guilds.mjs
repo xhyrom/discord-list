@@ -5,6 +5,7 @@ import { pushFiles } from '../utils/pushFiles.mjs';
 import { existSync } from '../utils/existSync.mjs';
 
 if (!(await existSync(`${path.resolve('..')}/guilds/`))) await fs.mkdir(`${path.resolve('..')}/guilds/`);
+fs.copyFile(`${path.resolve('..')}/guilds/README.template.md`, `${path.resolve('..')}/guilds/README.md`);
 
 const files = [];
 
@@ -77,6 +78,7 @@ while(true) {
         fs.writeFile(nameIcon, Buffer.from(await icon.arrayBuffer()).toString('base64'), 'base64');
         fs.writeFile(nameBanner, Buffer.from(await banner.arrayBuffer()).toString('base64'), 'base64');
         fs.writeFile(nameSplash, Buffer.from(await splash.arrayBuffer()).toString('base64'), 'base64');
+        fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
         console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
       }
 
