@@ -1,7 +1,9 @@
 <div align="center">
 
-   # Discord Activities
+   # Discord List
 
 </div>
 
-Check [activities.md](./activities.md) or [activities.json](./activities.json)
+List of discord activities and guilds
+
+Check [activities.md](./activities.md), [activities.json](./activities.json) or [guilds](https://github.com/xHyroM/discord-activities/tree/master/guilds)
