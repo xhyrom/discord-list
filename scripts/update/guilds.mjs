@@ -29,7 +29,7 @@ while(true) {
         "mode": "cors"
       }).catch(() => {});
 
-      const algolia = await algoliaApiResponse.json();
+      const algolia = await algoliaApiResponse.json().catch(() => {});
       if (!algolia?.hits || algolia?.hits?.length === 0) break;
 
       for (const server of algolia.hits) {
