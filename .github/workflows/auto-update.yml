@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  runner:
+  update-activities:
     runs-on: ubuntu-latest
     name: Update activities
     steps:
@@ -23,7 +23,30 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd scripts
           bun install
-          bun run update
+          bun run update:activities
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+
+  update-guilds:
+    runs-on: ubuntu-latest
+    name: Update guilds
+    steps:
+      - uses: actions/checkout@v3
+      - uses: xhyrom/setup-bun@v0.1.3
+        with:
+          bun-version: latest
+      - name: Setup NodeJS v17
+        uses: actions/setup-node@v2
+        with:
+          node-version: 17
+      - name: 'Run script'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd scripts
+          bun install
+          bun run update:guilds
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}

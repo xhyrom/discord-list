@@ -1,8 +1,8 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { fetch } from 'undici';
-import { existSync } from './utils/existSync.mjs';
-import { pushFiles } from './utils/pushFiles.mjs';
+import { existSync } from '../utils/existSync.mjs';
+import { pushFiles } from '../utils/pushFiles.mjs';
 import { markdownTable } from 'markdown-table';
 
 const discordToken = process.env.DISCORD_TOKEN;
@@ -29,7 +29,7 @@ for (const appId of appIds) {
 
     const image = await fetch(`https://cdn.discordapp.com/app-assets/${appId}/${assets.find((asset) => asset.name === 'embedded_cover').id}.png?size=1024`);
     const nameImage = `${path.resolve('..')}/activities/${appId}.png`;
-    const nameInfo = `${path.resolve('..')}/activities/${appId}.json`
+    const nameInfo = `${path.resolve('..')}/activities/${appId}.json`;
 
     activities.push({
         id: appId,

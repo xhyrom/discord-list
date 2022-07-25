@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "update": "node update.mjs"
+    "update:activities": "node update/activities.mjs",
+    "update:guilds": "node update/guilds.mjs"
   },
   "keywords": [],
   "author": "",
