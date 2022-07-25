@@ -47,6 +47,7 @@ const writeGuild = async(server) => {
                 features: server.features,
                 partnered: server.features.includes('PARTNERED'),
                 verified: server.features.includes('VERIFIED'),
+                raw: server
             },
             null,
             4
