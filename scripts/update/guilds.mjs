@@ -30,7 +30,7 @@ while(true) {
       });
 
       const algolia = await algoliaApiResponse.json();
-      if (algolia.hits.length === 0) break;
+      if (!algolia.hits || algolia?.hits?.length === 0) break;
 
       for (const server of algolia.hits) {
         if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
