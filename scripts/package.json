@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "update": "bun setup.ts"
+    "update": "node update.mjs"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +13,5 @@
     "octokit-commit-multiple-files": "^4.0.0",
     "simple-git": "^3.6.0",
     "undici": "^5.0.0"
-  },
-  "devDependencies": {
-    "bun-types": "^0.1.4"
   }
 }
