@@ -7,20 +7,20 @@ on:
 jobs:
   runner:
     runs-on: ubuntu-latest
-    name: Update activities
+    name: Update domains
     steps:
       - uses: actions/checkout@v3
-      - uses: xhyrom/setup-bun@v0.1.3
+      - name: Setup NodeJS v17
+        uses: actions/setup-node@v2
         with:
-          bun-version: latest
-
+          node-version: 17
       - name: 'Run script'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd scripts
-          bun install
-          bun run update
+          npm ci
+          npm run update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
