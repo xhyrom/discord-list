@@ -1,6 +1,6 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
-import { fetch } from 'undici';
+import fetch from 'node-fetch';
 import { existSync } from '../utils/existSync.mjs';
 
 if (!(await existSync(`${path.resolve('..')}/guilds/`))) await fs.mkdir(`${path.resolve('..')}/guilds/`);
@@ -27,10 +27,10 @@ while(true) {
         "body": `{"filters":"auto_removed:false AND approximate_presence_count> 0 AND approximate_member_count> 0","facets":["categories.id"],"length":12,"offset":${offset}}`,
         "method": "POST",
         "mode": "cors"
-      });
+      }).catch(() => {});
 
       const algolia = await algoliaApiResponse.json();
-      if (!algolia.hits || algolia?.hits?.length === 0) break;
+      if (!algolia?.hits || algolia?.hits?.length === 0) break;
 
       for (const server of algolia.hits) {
         if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
