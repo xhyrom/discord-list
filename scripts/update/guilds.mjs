@@ -1,6 +1,6 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
-import { fetch } from 'undici';
+import fetch from 'node-fetch';
 import { pushFiles } from '../utils/pushFiles.mjs';
 import { existSync } from '../utils/existSync.mjs';
 
