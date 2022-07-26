@@ -65,7 +65,7 @@ fs.writeFile(`${path.resolve('..')}/activities/activities.json`, JSON.stringify(
 fs.writeFile(`${path.resolve('..')}/activities/README.md`, markdownTable(
     [
         ['Application Id', 'Application Name', 'Premium Tier', 'Application Description', 'Application Icon', 'Image'],
-        ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./activities/${activity.id}.png)`])
+        ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./${activity.id}.png)`])
     ]
 ))
 
