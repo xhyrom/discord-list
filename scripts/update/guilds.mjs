@@ -50,9 +50,9 @@ const writeGuild = async(server) => {
             4
         )
     )
-    server.icon && fs.writeFile(nameIcon, Buffer.from(await icon?.arrayBuffer()).toString('base64'), 'base64');
-    server.banner && fs.writeFile(nameBanner, Buffer.from(await banner?.arrayBuffer()).toString('base64'), 'base64');
-    server.splash && fs.writeFile(nameSplash, Buffer.from(await splash?.arrayBuffer()).toString('base64'), 'base64');
+    server.icon && fs.writeFile(nameIcon, Buffer.from((await icon?.arrayBuffer()) || 'null').toString('base64'), 'base64');
+    server.banner && fs.writeFile(nameBanner, Buffer.from((await banner?.arrayBuffer()) || 'null').toString('base64'), 'base64');
+    server.splash && fs.writeFile(nameSplash, Buffer.from((await splash?.arrayBuffer()) || 'null').toString('base64'), 'base64');
     fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
     console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
 }
