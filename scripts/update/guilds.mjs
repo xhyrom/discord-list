@@ -15,9 +15,9 @@ let page = 0;
 const writeGuild = async(server) => {
     if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
 
-    const icon = await fetch(`https://cdn.discordapp.com/icons/${server.id}/${server.icon}.webp?size=1024`);
-    const banner = await fetch(`https://cdn.discordapp.com/banners/${server.id}/${server.banner}.webp?size=1024`);
-    const splash = await fetch(`https://cdn.discordapp.com/discovery-splashes/${server.id}/${server.discovery_splash}.webp?size=1024`);
+    const icon = server.icon ? await fetch(`https://cdn.discordapp.com/icons/${server.id}/${server.icon}.webp?size=1024`) : { arrayBuffer: () => 'null' };
+    const banner = server.banner ? await fetch(`https://cdn.discordapp.com/banners/${server.id}/${server.banner}.webp?size=1024`) : { arrayBuffer: () => 'null' };
+    const splash = server.discovery_splash ? await fetch(`https://cdn.discordapp.com/discovery-splashes/${server.id}/${server.discovery_splash}.webp?size=1024`) : { arrayBuffer: () => 'null' };
 
     const nameIcon = `${path.resolve('..')}/guilds/${server.id}/icon.webp`;
     const nameBanner = `${path.resolve('..')}/guilds/${server.id}/banner.webp`;
@@ -50,9 +50,9 @@ const writeGuild = async(server) => {
             4
         )
     )
-    fs.writeFile(nameIcon, Buffer.from(await icon.arrayBuffer()).toString('base64'), 'base64');
-    fs.writeFile(nameBanner, Buffer.from(await banner.arrayBuffer()).toString('base64'), 'base64');
-    fs.writeFile(nameSplash, Buffer.from(await splash.arrayBuffer()).toString('base64'), 'base64');
+    server.icon && fs.writeFile(nameIcon, Buffer.from(await icon.arrayBuffer()).toString('base64'), 'base64');
+    server.banner && fs.writeFile(nameBanner, Buffer.from(await banner.arrayBuffer()).toString('base64'), 'base64');
+    server.splash && fs.writeFile(nameSplash, Buffer.from(await splash.arrayBuffer()).toString('base64'), 'base64');
     fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
     console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
 }
