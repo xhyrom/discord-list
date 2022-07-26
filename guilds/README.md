@@ -1,9 +1,3 @@
-<div align="center">
-
-   # Guilds
-
-</div>
-
 * Genshin Impact Official [522681957373575168](./522681957373575168/info.json)
 * VALORANT [679875946597056683](./679875946597056683/info.json)
 * MINECRAFT 🐷👑🗡 [302094807046684672](./302094807046684672/info.json)

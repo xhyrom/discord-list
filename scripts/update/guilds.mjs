@@ -86,27 +86,24 @@ while(true) {
     page++;
 }
 
-for (let category = 0; category <= 49; category++) {
-    console.log(category);
-    while(true) {
-        const response = (await (await fetch(`https://discord.com/api/v10/discoverable-guilds?categories=${category}&limit=48&offset=${offset}`, {
-            headers: {
-                'Authorization': discordToken
-            }
-        })).json()).guilds;
-
-        console.log(response.length, offset);
-        if (response.length === 0) {
-            offset = 0;
-            break;
-        };
-
-        for (const guild of response) {
-            await writeGuild(guild);
+while(true) {
+    const response = (await (await fetch(`https://discord.com/api/v10/discoverable-guilds?limit=48&offset=${offset}`, {
+        headers: {
+            'Authorization': discordToken
         }
+    })).json()).guilds;
 
-        offset += limit;
+    console.log(response.length, offset);
+    if (response.length === 0) {
+        offset = 0;
+        break;
+    };
+
+    for (const guild of response) {
+        await writeGuild(guild);
     }
+
+    offset += limit;
 }
 
 pushFiles(['guilds/.'], 'guilds');
