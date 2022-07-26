@@ -13,6 +13,7 @@ jobs:
       - uses: xhyrom/setup-bun@v0.1.5
         with:
           bun-version: latest
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup NodeJS v17
         uses: actions/setup-node@v2
         with:
