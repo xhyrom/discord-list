@@ -1,6 +1,6 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
-import fetch from 'node-fetch';
+import { fetch } from 'undici';
 import { pushFiles } from '../utils/pushFiles.mjs';
 import { existSync } from '../utils/existSync.mjs';
 
@@ -8,7 +8,6 @@ if (!(await existSync(`${path.resolve('..')}/guilds/`))) await fs.mkdir(`${path.
 fs.copyFile(`${path.resolve('..')}/guilds/README.template.md`, `${path.resolve('..')}/guilds/README.md`);
 
 const discordToken = process.env.DISCORD_TOKEN;
-const files = [];
 const limit = 48;
 let offset = 0;
 let page = 0;
@@ -24,8 +23,6 @@ const writeGuild = async(server) => {
     const nameBanner = `${path.resolve('..')}/guilds/${server.id}/banner.webp`;
     const nameSplash = `${path.resolve('..')}/guilds/${server.id}/splash.webp`;
     const nameInfo = `${path.resolve('..')}/guilds/${server.id}/info.json`;
-
-    files.push(nameIcon, nameBanner, nameSplash, nameInfo);
 
     fs.writeFile(
         nameInfo,
@@ -112,4 +109,4 @@ for (let category = 0; category <= 49; category++) {
     }
 }
 
-pushFiles(files, 'guilds');
+pushFiles(['guilds/.'], 'guilds');
