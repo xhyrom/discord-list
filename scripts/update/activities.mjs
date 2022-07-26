@@ -16,7 +16,7 @@ const appIds = (await (await fetch('https://discord.com/api/v10/activities/guild
 if (!(await existSync())) await fs.mkdir(`${path.resolve('..')}/activities/`);
 
 const activities = [];
-const files = [`${path.resolve('..')}/activities.json`, `${path.resolve('..')}/activities.md`];
+const files = [`${path.resolve('..')}/activities/activities.json`, `${path.resolve('..')}/activities/README.md`];
 
 for (const appId of appIds) {
     const applicationInfo = await (await fetch(`https://canary.discord.com/api/v9/oauth2/authorize?client_id=${appId}`, {
@@ -61,8 +61,8 @@ for (const appId of appIds) {
     console.log(`Activity ${applicationInfo.application?.name} (${appId}) updated. 🚀`);
 }
 
-fs.writeFile(`${path.resolve('..')}/activities.json`, JSON.stringify(activities, null, 4));
-fs.writeFile(`${path.resolve('..')}/activities.md`, markdownTable(
+fs.writeFile(`${path.resolve('..')}/activities/activities.json`, JSON.stringify(activities, null, 4));
+fs.writeFile(`${path.resolve('..')}/activities/README.md`, markdownTable(
     [
         ['Application Id', 'Application Name', 'Premium Tier', 'Application Description', 'Application Icon', 'Image'],
         ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./activities/${activity.id}.png)`])
