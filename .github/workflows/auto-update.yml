@@ -38,6 +38,8 @@ jobs:
       - uses: xhyrom/setup-bun@v0.1.5
         with:
           bun-version: latest
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          misc-test-builds: false
       - name: Setup NodeJS v17
         uses: actions/setup-node@v2
         with:
