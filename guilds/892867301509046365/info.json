@@ -6,7 +6,7 @@
     "splash": "720406736957c960d350db76c9a92240",
     "discovery_splash": "b5e574bfee53496d0de047f5b0939670",
     "banner": "9bb44c4952f0ebc3e38b67de0cb1da32",
-    "approximate_presence_count": 1749,
+    "approximate_presence_count": 1468,
     "approximate_member_count": 5236,
     "premium_subscription_count": 4,
     "preferred_locale": "en-US",
@@ -20,17 +20,11 @@
         "fast food"
     ],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -43,7 +37,7 @@
         "icon": "d1dea114fd47389268a959aa0c4d0bd6",
         "splash": "720406736957c960d350db76c9a92240",
         "banner": "9bb44c4952f0ebc3e38b67de0cb1da32",
-        "approximate_presence_count": 1749,
+        "approximate_presence_count": 1468,
         "approximate_member_count": 5236,
         "premium_subscription_count": 4,
         "preferred_locale": "en-US",
@@ -61,19 +55,640 @@
             "fast food"
         ],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 10,
+                "is_primary": true,
+                "name": "Travel & Food",
+                "name_localizations": {
+                    "bg": "Пътуване и храна",
+                    "cs": "Cestování a jídlo",
+                    "da": "Rejse & mad",
+                    "de": "Reisen & Essen",
+                    "el": "Ταξίδια & Φαγητό",
+                    "fi": "Matkailu ja ruoka",
+                    "fr": "Voyage et nourriture",
+                    "hi": "ट्रैवल और फूड",
+                    "hr": "Putovanja i hrana",
+                    "hu": "Utazás és ételek",
+                    "it": "Viaggi e cibo",
+                    "ja": "旅行&食べ物",
+                    "ko": "여행, 음식",
+                    "lt": "Kelionės ir maistas",
+                    "nl": "Reizen en culinair",
+                    "no": "Reise og mat",
+                    "pl": "Podróże i jedzenie",
+                    "ro": "Turism și gastronomie",
+                    "ru": "Путешествия и еда",
+                    "th": "การท่องเที่ยวและอาหาร",
+                    "tr": "Seyahat ve Yemek",
+                    "uk": "Подорожі та їжа",
+                    "vi": "Du Lịch & Ẩm Thực",
+                    "en-GB": "Travel & Food",
+                    "en-US": "Travel & Food",
+                    "es-ES": "Viajes y comida",
+                    "pt-BR": "Viagens e Alimentação",
+                    "sv-SE": "Resor och mat",
+                    "zh-CN": "旅行&美食",
+                    "zh-TW": "旅遊與食物"
+                }
+            },
+            {
+                "id": 39,
+                "is_primary": false,
+                "name": "Fandom",
+                "name_localizations": {
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 10,
+            "is_primary": true,
+            "name": "Travel & Food",
+            "name_localizations": {
+                "bg": "Пътуване и храна",
+                "cs": "Cestování a jídlo",
+                "da": "Rejse & mad",
+                "de": "Reisen & Essen",
+                "el": "Ταξίδια & Φαγητό",
+                "fi": "Matkailu ja ruoka",
+                "fr": "Voyage et nourriture",
+                "hi": "ट्रैवल और फूड",
+                "hr": "Putovanja i hrana",
+                "hu": "Utazás és ételek",
+                "it": "Viaggi e cibo",
+                "ja": "旅行&食べ物",
+                "ko": "여행, 음식",
+                "lt": "Kelionės ir maistas",
+                "nl": "Reizen en culinair",
+                "no": "Reise og mat",
+                "pl": "Podróże i jedzenie",
+                "ro": "Turism și gastronomie",
+                "ru": "Путешествия и еда",
+                "th": "การท่องเที่ยวและอาหาร",
+                "tr": "Seyahat ve Yemek",
+                "uk": "Подорожі та їжа",
+                "vi": "Du Lịch & Ẩm Thực",
+                "en-GB": "Travel & Food",
+                "en-US": "Travel & Food",
+                "es-ES": "Viajes y comida",
+                "pt-BR": "Viagens e Alimentação",
+                "sv-SE": "Resor och mat",
+                "zh-CN": "旅行&美食",
+                "zh-TW": "旅遊與食物"
+            }
+        },
+        "objectID": "892867301509046365",
+        "_highlightResult": {
+            "name": {
+                "value": "Taco Bell",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Welcome to the Taco Bell family. We might have a hard shell, but we’re all goodness inside.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "officialtacobell",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "tacobell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "taco bell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "taco",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tacos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "food",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fast food",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Пътуване и храна",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Cestování a jídlo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rejse & mad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Reisen & Essen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταξίδια & Φαγητό",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Matkailu ja ruoka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Voyage et nourriture",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ट्रैवल और फूड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Putovanja i hrana",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Utazás és ételek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Viaggi e cibo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "旅行&食べ物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "여행, 음식",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kelionės ir maistas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Reizen en culinair",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Reise og mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Podróże i jedzenie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Turism și gastronomie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Путешествия и еда",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การท่องเที่ยวและอาหาร",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Seyahat ve Yemek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Подорожі та їжа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Du Lịch & Ẩm Thực",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Viajes y comida",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Viagens e Alimentação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Resor och mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "旅行&美食",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "旅遊與食物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фендъм",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Pro fanoušky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fangruppe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fanikunta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ैनडम",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rajongói",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファンダム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "팬덤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Fanai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фандомы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กลุ่มแฟนคลับ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Hayran Kitlesi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фандом",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "同好圈",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Пътуване и храна",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Cestování a jídlo",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Rejse & mad",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Reisen & Essen",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Ταξίδια & Φαγητό",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Matkailu ja ruoka",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Voyage et nourriture",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "ट्रैवल और फूड",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Putovanja i hrana",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Utazás és ételek",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Viaggi e cibo",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "旅行&食べ物",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "여행, 음식",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Kelionės ir maistas",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Reizen en culinair",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Reise og mat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Podróże i jedzenie",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Turism și gastronomie",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Путешествия и еда",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การท่องเที่ยวและอาหาร",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Seyahat ve Yemek",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Подорожі та їжа",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Du Lịch & Ẩm Thực",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Travel & Food",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Travel & Food",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Viajes y comida",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Viagens e Alimentação",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Resor och mat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "旅行&美食",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "旅遊與食物",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
