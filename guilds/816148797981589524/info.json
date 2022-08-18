@@ -4,22 +4,27 @@
     "description": "The Official Hoopz Basketball Community Server",
     "icon": "972b590aed6c3b6e0525295332fb54fb",
     "splash": "541b7a7edae6fafc381e3c43da716573",
+    "discovery_splash": "541b7a7edae6fafc381e3c43da716573",
     "banner": "d083de950008137313d7ca9bc0d8a570",
-    "approximate_presence_count": 2779,
-    "approximate_member_count": 17086,
-    "premium_subscription_count": 328,
+    "approximate_presence_count": 2936,
+    "approximate_member_count": 17735,
+    "premium_subscription_count": 332,
     "preferred_locale": "en-US",
     "vanity_url_code": "hoopz",
     "keywords": [
         "roblox",
         "basketball",
         "sports",
+        "hoopz",
+        "hoops",
         "twitch",
         "youtube",
         "tiktok"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -31,12 +36,12 @@
         "icon": "972b590aed6c3b6e0525295332fb54fb",
         "splash": "541b7a7edae6fafc381e3c43da716573",
         "banner": "d083de950008137313d7ca9bc0d8a570",
-        "approximate_presence_count": 2779,
-        "approximate_member_count": 17086,
-        "premium_subscription_count": 328,
+        "approximate_presence_count": 2936,
+        "approximate_member_count": 17735,
+        "premium_subscription_count": 332,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "541b7a7edae6fafc381e3c43da716573",
         "primary_category_id": 1,
         "vanity_url_code": "hoopz",
         "is_published": false,
@@ -44,12 +49,16 @@
             "roblox",
             "basketball",
             "sports",
+            "hoopz",
+            "hoops",
             "twitch",
             "youtube",
             "tiktok"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -168,6 +177,16 @@
                 },
                 {
                     "value": "sports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hoopz",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hoops",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
