@@ -50,7 +50,6 @@ for (const appId of appIds) {
                 name: applicationInfo.application?.name,
                 description: applicationInfo.application?.description,
                 icon: applicationInfo.application?.icon,
-                activity_config: applicationInfo.application.embedded_activity_config
             },
             null,
             4
@@ -64,8 +63,8 @@ for (const appId of appIds) {
 fs.writeFile(`${path.resolve('..')}/activities/activities.json`, JSON.stringify(activities, null, 4));
 fs.writeFile(`${path.resolve('..')}/activities/README.md`, markdownTable(
     [
-        ['Application Id', 'Application Name', 'Premium Tier', 'Application Description', 'Application Icon', 'Image'],
-        ...activities.map((activity) => [activity.id, activity.name, activity.activity_config.activity_premium_tier_level, activity.description, activity.icon, `[${activity.name}](./${activity.id}.png)`])
+        ['Application Id', 'Application Name', 'Application Description', 'Application Icon', 'Image'],
+        ...activities.map((activity) => [activity.id, activity.name, activity.description, activity.icon, `[${activity.name}](./${activity.id}.png)`])
     ]
 ))
 
