@@ -6,9 +6,9 @@
     "splash": "41f136f6ca032dd9e8d67567e2ebf63c",
     "discovery_splash": "41f136f6ca032dd9e8d67567e2ebf63c",
     "banner": "6f5913032977d31258514125fde3a79d",
-    "approximate_presence_count": 5525,
-    "approximate_member_count": 68555,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 4812,
+    "approximate_member_count": 68284,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "fifa-23",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_b0430da5c297aa665571419a77ea2c3b",
         "splash": "41f136f6ca032dd9e8d67567e2ebf63c",
         "banner": "6f5913032977d31258514125fde3a79d",
-        "approximate_presence_count": 5525,
-        "approximate_member_count": 68555,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 4812,
+        "approximate_member_count": 68284,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "41f136f6ca032dd9e8d67567e2ebf63c",
@@ -68,6 +68,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -103,16 +113,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -373,6 +373,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -520,25 +539,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
