@@ -6,9 +6,9 @@
     "splash": "ccabddbe4df100fc086e823f65f68d2b",
     "discovery_splash": "19c4e066dc2f354b4761e8b7111e7112",
     "banner": "e9ae42aca244fa0cf021d127400a1d66",
-    "approximate_presence_count": 1203,
-    "approximate_member_count": 7874,
-    "premium_subscription_count": 20,
+    "approximate_presence_count": 1300,
+    "approximate_member_count": 8823,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "atlantisworld",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_456071cff16626cdf98460af1d3213c5",
         "splash": "ccabddbe4df100fc086e823f65f68d2b",
         "banner": "e9ae42aca244fa0cf021d127400a1d66",
-        "approximate_presence_count": 1203,
-        "approximate_member_count": 7874,
-        "premium_subscription_count": 20,
+        "approximate_presence_count": 1300,
+        "approximate_member_count": 8823,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "19c4e066dc2f354b4761e8b7111e7112",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -177,16 +187,6 @@
                     "sv-SE": "Ekonomi",
                     "zh-CN": "理财",
                     "zh-TW": "財經"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -366,6 +366,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -823,25 +842,6 @@
                         },
                         "zh-TW": {
                             "value": "財經",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

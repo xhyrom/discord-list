@@ -6,8 +6,8 @@
     "splash": "f129937e4579828d0a71455a92d813e9",
     "discovery_splash": "cee7238e1672ab57c28f756a1d2c4ff6",
     "banner": "590803452d3027148c3739b221e19686",
-    "approximate_presence_count": 2502,
-    "approximate_member_count": 40515,
+    "approximate_presence_count": 2011,
+    "approximate_member_count": 40502,
     "premium_subscription_count": 29,
     "preferred_locale": "ja",
     "vanity_url_code": "ninjadao",
@@ -38,8 +38,8 @@
         "icon": "770bd7cb2f1e9bf0c21c5ca24de8d58a",
         "splash": "f129937e4579828d0a71455a92d813e9",
         "banner": "590803452d3027148c3739b221e19686",
-        "approximate_presence_count": 2502,
-        "approximate_member_count": 40515,
+        "approximate_presence_count": 2011,
+        "approximate_member_count": 40502,
         "premium_subscription_count": 29,
         "preferred_locale": "ja",
         "auto_removed": false,
@@ -66,6 +66,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -138,16 +148,6 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -322,6 +322,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -625,25 +644,6 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

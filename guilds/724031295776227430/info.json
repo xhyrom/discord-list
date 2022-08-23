@@ -6,9 +6,9 @@
     "splash": "599c1629bf9976e50d210b034ee4e9dd",
     "discovery_splash": "c3b1c176d69c7c1908542979aa121b53",
     "banner": "a_f1e205c20b247573fa5bf5cc2f0e7b04",
-    "approximate_presence_count": 2682,
-    "approximate_member_count": 17419,
-    "premium_subscription_count": 20,
+    "approximate_presence_count": 4880,
+    "approximate_member_count": 29528,
+    "premium_subscription_count": 34,
     "preferred_locale": "en-US",
     "vanity_url_code": "masteroogwgay",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_9991c56c3130a50d95c9fdfeb604378a",
         "splash": "599c1629bf9976e50d210b034ee4e9dd",
         "banner": "a_f1e205c20b247573fa5bf5cc2f0e7b04",
-        "approximate_presence_count": 2682,
-        "approximate_member_count": 17419,
-        "premium_subscription_count": 20,
+        "approximate_presence_count": 4880,
+        "approximate_member_count": 29528,
+        "premium_subscription_count": 34,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c3b1c176d69c7c1908542979aa121b53",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -103,16 +113,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -336,6 +336,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -483,25 +502,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

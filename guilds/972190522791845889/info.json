@@ -3,12 +3,12 @@
     "name": "NOTDAO",
     "description": "NOTDAOは、高貴な情報を取引するための日本の暗号通貨コミュニティです。クリエイター、投資家、エンジニアが多数在籍しています。",
     "icon": "01b7ee9c15927588ccfd91ef4c24ca95",
-    "splash": "89493eb0ebaed7a196543b01359c4517",
-    "discovery_splash": "89493eb0ebaed7a196543b01359c4517",
-    "banner": "2824f895ffd295eb882c360b16d00147",
-    "approximate_presence_count": 853,
-    "approximate_member_count": 3853,
-    "premium_subscription_count": 16,
+    "splash": "8442cb1c4b8fc06d4505613dc51f7618",
+    "discovery_splash": "8442cb1c4b8fc06d4505613dc51f7618",
+    "banner": "7c08a78820a6e8a78a0fa39df78c1190",
+    "approximate_presence_count": 790,
+    "approximate_member_count": 4010,
+    "premium_subscription_count": 17,
     "preferred_locale": "ja",
     "vanity_url_code": "notdao",
     "keywords": [
@@ -28,7 +28,8 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -37,14 +38,14 @@
         "name": "NOTDAO",
         "description": "NOTDAOは、高貴な情報を取引するための日本の暗号通貨コミュニティです。クリエイター、投資家、エンジニアが多数在籍しています。",
         "icon": "01b7ee9c15927588ccfd91ef4c24ca95",
-        "splash": "89493eb0ebaed7a196543b01359c4517",
-        "banner": "2824f895ffd295eb882c360b16d00147",
-        "approximate_presence_count": 853,
-        "approximate_member_count": 3853,
-        "premium_subscription_count": 16,
+        "splash": "8442cb1c4b8fc06d4505613dc51f7618",
+        "banner": "7c08a78820a6e8a78a0fa39df78c1190",
+        "approximate_presence_count": 790,
+        "approximate_member_count": 4010,
+        "premium_subscription_count": 17,
         "preferred_locale": "ja",
         "auto_removed": false,
-        "discovery_splash": "89493eb0ebaed7a196543b01359c4517",
+        "discovery_splash": "8442cb1c4b8fc06d4505613dc51f7618",
         "primary_category_id": 5,
         "vanity_url_code": "notdao",
         "is_published": false,
@@ -65,9 +66,20 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -177,16 +189,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -371,6 +373,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -828,25 +849,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
