@@ -6,8 +6,8 @@
     "splash": "e8496e6a044e0897917c1a673943b9f4",
     "discovery_splash": "e8496e6a044e0897917c1a673943b9f4",
     "banner": "e8496e6a044e0897917c1a673943b9f4",
-    "approximate_presence_count": 651,
-    "approximate_member_count": 7064,
+    "approximate_presence_count": 640,
+    "approximate_member_count": 7038,
     "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "coinskid",
@@ -36,8 +36,8 @@
         "icon": "cb057b9ce6971dc3b5bc7ee41ab05738",
         "splash": "e8496e6a044e0897917c1a673943b9f4",
         "banner": "e8496e6a044e0897917c1a673943b9f4",
-        "approximate_presence_count": 651,
-        "approximate_member_count": 7064,
+        "approximate_presence_count": 640,
+        "approximate_member_count": 7038,
         "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -62,6 +62,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -171,16 +181,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -313,6 +313,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -770,25 +789,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
