@@ -2,15 +2,15 @@
     "id": "953501875477549066",
     "name": "Apex Alliance",
     "description": "At Apex Alliance, we go the extra mile to teach traders what it takes to be successful and guide them on their journey!",
-    "icon": "a449d7c5c7d069d92ab628a134582eb6",
+    "icon": "a_30ae377e037969552f863deb87330a6f",
     "splash": "a3fe82378a070ec0661b3621e9673fba",
     "discovery_splash": "a3fe82378a070ec0661b3621e9673fba",
     "banner": "83b4519c4e1fb8d90198fbcdbfd3fd4b",
-    "approximate_presence_count": 895,
-    "approximate_member_count": 28186,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 1936,
+    "approximate_member_count": 38212,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "apexalliance",
     "keywords": [
         "stocks",
         "trading",
@@ -37,17 +37,17 @@
         "id": "953501875477549066",
         "name": "Apex Alliance",
         "description": "At Apex Alliance, we go the extra mile to teach traders what it takes to be successful and guide them on their journey!",
-        "icon": "a449d7c5c7d069d92ab628a134582eb6",
+        "icon": "a_30ae377e037969552f863deb87330a6f",
         "splash": "a3fe82378a070ec0661b3621e9673fba",
         "banner": "83b4519c4e1fb8d90198fbcdbfd3fd4b",
-        "approximate_presence_count": 895,
-        "approximate_member_count": 28186,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 1936,
+        "approximate_member_count": 38212,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a3fe82378a070ec0661b3621e9673fba",
         "primary_category_id": 12,
-        "vanity_url_code": null,
+        "vanity_url_code": "apexalliance",
         "is_published": false,
         "keywords": [
             "stocks",
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -180,16 +190,6 @@
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
                 }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
             }
         ],
         "primary_category": {
@@ -238,6 +238,11 @@
             },
             "description": {
                 "value": "At Apex Alliance, we go the extra mile to teach traders what it takes to be successful and guide them on their journey!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "apexalliance",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -294,6 +299,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -751,25 +775,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
