@@ -6,9 +6,9 @@
     "splash": "b976abae56b0748e5538047edaeca8a4",
     "discovery_splash": "b976abae56b0748e5538047edaeca8a4",
     "banner": "2c84ca777b5213e9d429dd14746e1531",
-    "approximate_presence_count": 2747,
-    "approximate_member_count": 14825,
-    "premium_subscription_count": 6,
+    "approximate_presence_count": 2789,
+    "approximate_member_count": 14797,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "developer-center-804432734066835556",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_28b011112cfdc2752034649db2c2151c",
         "splash": "b976abae56b0748e5538047edaeca8a4",
         "banner": "2c84ca777b5213e9d429dd14746e1531",
-        "approximate_presence_count": 2747,
-        "approximate_member_count": 14825,
-        "premium_subscription_count": 6,
+        "approximate_presence_count": 2789,
+        "approximate_member_count": 14797,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b976abae56b0748e5538047edaeca8a4",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -103,16 +113,6 @@
                     "sv-SE": "Programmering",
                     "zh-CN": "编程",
                     "zh-TW": "程式設計"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -373,6 +373,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Програмиране",
                             "matchLevel": "none",
@@ -520,25 +539,6 @@
                         },
                         "zh-TW": {
                             "value": "程式設計",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
