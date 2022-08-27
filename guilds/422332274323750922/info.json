@@ -6,8 +6,8 @@
     "splash": "c8c4bb14de4e323dea973bf7ba60fe0c",
     "discovery_splash": "5bc357fd8dfa503ea786ed454e5a6659",
     "banner": "23059ea90853b5957557ce1716d01a50",
-    "approximate_presence_count": 605,
-    "approximate_member_count": 3139,
+    "approximate_presence_count": 676,
+    "approximate_member_count": 3145,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -40,8 +40,8 @@
         "icon": "e56c8a2b12003f3a2c4b792848ec468e",
         "splash": "c8c4bb14de4e323dea973bf7ba60fe0c",
         "banner": "23059ea90853b5957557ce1716d01a50",
-        "approximate_presence_count": 605,
-        "approximate_member_count": 3139,
+        "approximate_presence_count": 676,
+        "approximate_member_count": 3145,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -142,16 +152,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -368,6 +368,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -671,25 +690,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
