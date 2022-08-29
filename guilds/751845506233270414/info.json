@@ -6,8 +6,8 @@
     "splash": "6cc967e44b84114c3e67574b3bb0b081",
     "discovery_splash": "ce66bc612f554af89d3c9c9d3bc339c4",
     "banner": "3c4bc0b65f2cc7a3f054fd67acde136c",
-    "approximate_presence_count": 1076,
-    "approximate_member_count": 4610,
+    "approximate_presence_count": 1013,
+    "approximate_member_count": 4621,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "selfimprovement",
@@ -40,8 +40,8 @@
         "icon": "9b0f06fe7e33adc561619d6b33b3066d",
         "splash": "6cc967e44b84114c3e67574b3bb0b081",
         "banner": "3c4bc0b65f2cc7a3f054fd67acde136c",
-        "approximate_presence_count": 1076,
-        "approximate_member_count": 4610,
+        "approximate_presence_count": 1013,
+        "approximate_member_count": 4621,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 9,
                 "is_primary": true,
@@ -118,40 +108,13 @@
                 }
             },
             {
-                "id": 11,
-                "is_primary": true,
-                "name": "Fitness & Health",
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
                 "name_localizations": {
-                    "bg": "Фитнес и здраве",
-                    "cs": "Zdraví a fitness",
-                    "da": "Fitness & sundhed",
-                    "de": "Fitness & Gesundheit",
-                    "el": "Φυσική κατάσταση & Υγεία",
-                    "fi": "Fitness ja terveys",
-                    "fr": "Fitness et santé",
-                    "hi": "फिटनेस और हेल्थ",
-                    "hr": "Vježba i zdravlje",
-                    "hu": "Fitnesz és egészség",
-                    "it": "Fitness e benessere",
-                    "ja": "フィットネス&健康",
-                    "ko": "피트니스, 건강",
-                    "lt": "Sportas ir sveikata",
-                    "nl": "Lichamelijke gezondheid",
-                    "no": "Trening og helse",
-                    "pl": "Zdrowie i fitness",
-                    "ro": "Fitness și sănătate",
-                    "ru": "Фитнес и здоровье",
-                    "th": "ฟิตเนสและสุขภาพ",
-                    "tr": "Zindelik ve Sağlık",
-                    "uk": "Фітнес і здоров'я",
-                    "vi": "Thể Chất & Sức Khỏe",
-                    "en-GB": "Fitness & Health",
-                    "en-US": "Fitness & Health",
-                    "es-ES": "Fitness y salud",
-                    "pt-BR": "Ginástica e Saúde",
-                    "sv-SE": "Träning och hälsa",
-                    "zh-CN": "健身&健康",
-                    "zh-TW": "健身與健康"
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -226,6 +189,43 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 11,
+                "is_primary": true,
+                "name": "Fitness & Health",
+                "name_localizations": {
+                    "bg": "Фитнес и здраве",
+                    "cs": "Zdraví a fitness",
+                    "da": "Fitness & sundhed",
+                    "de": "Fitness & Gesundheit",
+                    "el": "Φυσική κατάσταση & Υγεία",
+                    "fi": "Fitness ja terveys",
+                    "fr": "Fitness et santé",
+                    "hi": "फिटनेस और हेल्थ",
+                    "hr": "Vježba i zdravlje",
+                    "hu": "Fitnesz és egészség",
+                    "it": "Fitness e benessere",
+                    "ja": "フィットネス&健康",
+                    "ko": "피트니스, 건강",
+                    "lt": "Sportas ir sveikata",
+                    "nl": "Lichamelijke gezondheid",
+                    "no": "Trening og helse",
+                    "pl": "Zdrowie i fitness",
+                    "ro": "Fitness și sănătate",
+                    "ru": "Фитнес и здоровье",
+                    "th": "ฟิตเนสและสุขภาพ",
+                    "tr": "Zindelik ve Sağlık",
+                    "uk": "Фітнес і здоров'я",
+                    "vi": "Thể Chất & Sức Khỏe",
+                    "en-GB": "Fitness & Health",
+                    "en-US": "Fitness & Health",
+                    "es-ES": "Fitness y salud",
+                    "pt-BR": "Ginástica e Saúde",
+                    "sv-SE": "Träning och hälsa",
+                    "zh-CN": "健身&健康",
+                    "zh-TW": "健身與健康"
                 }
             }
         ],
@@ -336,25 +336,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -511,153 +492,18 @@
                 },
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Фитнес и здраве",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zdraví a fitness",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Fitness & sundhed",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Fitness & Gesundheit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Φυσική κατάσταση & Υγεία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Fitness ja terveys",
+                            "value": "Geldanlage",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Fitness et santé",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "फिटनेस और हेल्थ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Vježba i zdravlje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Fitnesz és egészség",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Fitness e benessere",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "フィットネス&健康",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "피트니스, 건강",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Sportas ir sveikata",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Lichamelijke gezondheid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Trening og helse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Zdrowie i fitness",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Fitness și sănătate",
+                            "value": "Investissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Фитнес и здоровье",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ฟิตเนสและสุขภาพ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Zindelik ve Sağlık",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фітнес і здоров'я",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Thể Chất & Sức Khỏe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Fitness & Health",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Fitness & Health",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Fitness y salud",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Ginástica e Saúde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Träning och hälsa",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "健身&健康",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "健身與健康",
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -966,6 +812,160 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фитнес и здраве",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zdraví a fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fitness & sundhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fitness & Gesundheit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Φυσική κατάσταση & Υγεία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fitness ja terveys",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fitness et santé",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फिटनेस और हेल्थ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Vježba i zdravlje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Fitnesz és egészség",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fitness e benessere",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "フィットネス&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "피트니스, 건강",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Sportas ir sveikata",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Lichamelijke gezondheid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Trening og helse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Zdrowie i fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fitness și sănătate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фитнес и здоровье",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฟิตเนสและสุขภาพ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Zindelik ve Sağlık",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фітнес і здоров'я",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Chất & Sức Khỏe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fitness y salud",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ginástica e Saúde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Träning och hälsa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "健身&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "健身與健康",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

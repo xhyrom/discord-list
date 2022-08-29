@@ -6,8 +6,8 @@
     "splash": "a1d9f1943a368a1526fc1c6e22a1916b",
     "discovery_splash": "d4e1846a08a3b3f4dd25b84068c1641f",
     "banner": "a75b12b06630d25744399cbfef660576",
-    "approximate_presence_count": 885,
-    "approximate_member_count": 4624,
+    "approximate_presence_count": 869,
+    "approximate_member_count": 4620,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "thordansmash",
@@ -35,8 +35,8 @@
         "icon": "83b42180305f3e0f9e2b0cffb150d711",
         "splash": "a1d9f1943a368a1526fc1c6e22a1916b",
         "banner": "a75b12b06630d25744399cbfef660576",
-        "approximate_presence_count": 885,
-        "approximate_member_count": 4624,
+        "approximate_presence_count": 869,
+        "approximate_member_count": 4620,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -95,16 +95,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -179,6 +169,16 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -499,25 +499,6 @@
                 },
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
                             "value": "LFG",
                             "matchLevel": "none",
@@ -819,6 +800,25 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
