@@ -6,9 +6,9 @@
     "splash": "fca580dc5dc5960a2a7b6ac733e4d4bd",
     "discovery_splash": null,
     "banner": "fff23b946537d24d1b03df83961b7372",
-    "approximate_presence_count": 2829,
-    "approximate_member_count": 45573,
-    "premium_subscription_count": 40,
+    "approximate_presence_count": 2931,
+    "approximate_member_count": 45972,
+    "premium_subscription_count": 38,
     "preferred_locale": "en-US",
     "vanity_url_code": "synthetix",
     "keywords": [
@@ -27,7 +27,9 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -38,9 +40,9 @@
         "icon": "fb87e063332f5b89020a5b686ae25ff6",
         "splash": "fca580dc5dc5960a2a7b6ac733e4d4bd",
         "banner": "fff23b946537d24d1b03df83961b7372",
-        "approximate_presence_count": 2829,
-        "approximate_member_count": 45573,
-        "premium_subscription_count": 40,
+        "approximate_presence_count": 2931,
+        "approximate_member_count": 45972,
+        "premium_subscription_count": 38,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -63,9 +65,21 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 27,
                 "is_primary": false,
@@ -101,16 +115,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -260,6 +264,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Криптовалута",
                             "matchLevel": "none",
@@ -407,25 +430,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
