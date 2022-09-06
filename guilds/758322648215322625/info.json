@@ -6,8 +6,8 @@
     "splash": null,
     "discovery_splash": "24c31bd7009827f92871c442b35d73da",
     "banner": null,
-    "approximate_presence_count": 977,
-    "approximate_member_count": 11494,
+    "approximate_presence_count": 792,
+    "approximate_member_count": 10484,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -24,8 +24,7 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -36,8 +35,8 @@
         "icon": "cc8fbd472025203e2c32563179e9dd4f",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 977,
-        "approximate_member_count": 11494,
+        "approximate_presence_count": 792,
+        "approximate_member_count": 10484,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -58,10 +57,19 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 5,
                 "is_primary": true,
@@ -134,16 +142,6 @@
                     "sv-SE": "Programmering",
                     "zh-CN": "编程",
                     "zh-TW": "程式設計"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -303,6 +301,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -606,25 +623,6 @@
                         },
                         "zh-TW": {
                             "value": "程式設計",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
