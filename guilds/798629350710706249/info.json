@@ -6,9 +6,9 @@
     "splash": "abb04030d07a006463099308b1d3c3f6",
     "discovery_splash": "38e9f6df16b9820e6d8674df0eb9238a",
     "banner": "abb04030d07a006463099308b1d3c3f6",
-    "approximate_presence_count": 215,
-    "approximate_member_count": 3775,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 253,
+    "approximate_member_count": 3754,
+    "premium_subscription_count": 0,
     "preferred_locale": "el",
     "vanity_url_code": null,
     "keywords": [
@@ -32,9 +32,9 @@
         "icon": "1c58c6e58d0ec61a8b2c7ce597bb2bb0",
         "splash": "abb04030d07a006463099308b1d3c3f6",
         "banner": "abb04030d07a006463099308b1d3c3f6",
-        "approximate_presence_count": 215,
-        "approximate_member_count": 3775,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 253,
+        "approximate_member_count": 3754,
+        "premium_subscription_count": 0,
         "preferred_locale": "el",
         "auto_removed": false,
         "discovery_splash": "38e9f6df16b9820e6d8674df0eb9238a",
@@ -54,6 +54,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
             {
                 "id": 43,
                 "is_primary": true,
@@ -89,6 +126,43 @@
                     "sv-SE": "Emoji",
                     "zh-CN": "表情符号",
                     "zh-TW": "表情符號"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             },
             {
@@ -163,80 +237,6 @@
                     "sv-SE": "Memes",
                     "zh-CN": "表情包",
                     "zh-TW": "迷因"
-                }
-            },
-            {
-                "id": 33,
-                "is_primary": false,
-                "name": "Events",
-                "name_localizations": {
-                    "bg": "Събития",
-                    "cs": "Události",
-                    "da": "Begivenheder",
-                    "de": "Events",
-                    "el": "Εκδηλώσεις",
-                    "fi": "Tapahtumat",
-                    "fr": "Événements",
-                    "hi": "इवेंट्स",
-                    "hr": "Događanja",
-                    "hu": "Rendezvények",
-                    "it": "Eventi",
-                    "ja": "イベント",
-                    "ko": "행사",
-                    "lt": "Renginiai",
-                    "nl": "Evenementen",
-                    "no": "Eventer",
-                    "pl": "Wydarzenia",
-                    "ro": "Evenimente",
-                    "ru": "Мероприятия",
-                    "th": "กิจกรรม",
-                    "tr": "Etkinlikler",
-                    "uk": "Події",
-                    "vi": "Sự Kiện",
-                    "en-GB": "Events",
-                    "en-US": "Events",
-                    "es-ES": "Eventos",
-                    "pt-BR": "Eventos",
-                    "sv-SE": "Event",
-                    "zh-CN": "组织活动",
-                    "zh-TW": "活動"
-                }
-            },
-            {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
                 }
             },
             {
@@ -344,6 +344,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -493,6 +647,160 @@
                         },
                         "zh-TW": {
                             "value": "表情符號",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -801,314 +1109,6 @@
                         },
                         "zh-TW": {
                             "value": "迷因",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Събития",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Události",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Begivenheder",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκδηλώσεις",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tapahtumat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Événements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "इवेंट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Događanja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Rendezvények",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Eventi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "イベント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "행사",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Renginiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Evenementen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Eventer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Wydarzenia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Evenimente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Мероприятия",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "กิจกรรม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Etkinlikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Події",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Sự Kiện",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Eventos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Event",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "组织活动",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
