@@ -6,8 +6,8 @@
     "splash": "ad173743114846939fa8c55b839708f6",
     "discovery_splash": "2c725919da81fa8de5c03f286464cc77",
     "banner": "9d673c7947e3fb6a2f54cb0f3810eed4",
-    "approximate_presence_count": 1203,
-    "approximate_member_count": 63956,
+    "approximate_presence_count": 4447,
+    "approximate_member_count": 63968,
     "premium_subscription_count": 22,
     "preferred_locale": "de",
     "vanity_url_code": "acnh-german",
@@ -20,28 +20,12 @@
         "acnh germany"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -53,8 +37,8 @@
         "icon": "a_b4f6c9a4d081f771f3d6b25f71785c35",
         "splash": "ad173743114846939fa8c55b839708f6",
         "banner": "9d673c7947e3fb6a2f54cb0f3810eed4",
-        "approximate_presence_count": 1203,
-        "approximate_member_count": 63956,
+        "approximate_presence_count": 4447,
+        "approximate_member_count": 63968,
         "premium_subscription_count": 22,
         "preferred_locale": "de",
         "auto_removed": false,
@@ -71,29 +55,1213 @@
             "acnh germany"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 8,
+                "is_primary": true,
+                "name": "Fashion & Beauty",
+                "name_localizations": {
+                    "bg": "Мода и красота",
+                    "cs": "Móda a krása",
+                    "da": "Mode & skønhed",
+                    "de": "Fashion & Beauty",
+                    "el": "Μόδα & Ομορφιά",
+                    "fi": "Muoti ja kauneus",
+                    "fr": "Mode et beauté",
+                    "hi": "फैशन और ब्यूटी",
+                    "hr": "Moda i ljepota",
+                    "hu": "Divat és szépségápolás",
+                    "it": "Moda e bellezza",
+                    "ja": "ファッション&ビューティー",
+                    "ko": "패션, 미용",
+                    "lt": "Mada ir grožis",
+                    "nl": "Mode en beauty",
+                    "no": "Mote og skjønnhet",
+                    "pl": "Moda i piękno",
+                    "ro": "Modă și frumusețe",
+                    "ru": "Мода и красота",
+                    "th": "แฟชันและความงาม",
+                    "tr": "Moda ve Güzellik",
+                    "uk": "Мода та краса",
+                    "vi": "Thời Trang & Làm Đẹp",
+                    "en-GB": "Fashion & Beauty",
+                    "en-US": "Fashion & Beauty",
+                    "es-ES": "Moda y belleza",
+                    "pt-BR": "Moda e Beleza",
+                    "sv-SE": "Mode och skönhet",
+                    "zh-CN": "时尚&美妆",
+                    "zh-TW": "時尚與美容"
+                }
+            },
+            {
+                "id": 4,
+                "is_primary": true,
+                "name": "Creative Arts",
+                "name_localizations": {
+                    "bg": "Художествени изкуства",
+                    "cs": "Umění",
+                    "da": "Kreativt",
+                    "de": "Kreative Künste",
+                    "el": "Δημιουργικές τέχνες",
+                    "fi": "Luovat alat",
+                    "fr": "Arts créatifs",
+                    "hi": "क्रिएटिव आर्ट",
+                    "hr": "Umjetnost i rukotvorine",
+                    "hu": "Kreatív művészetek",
+                    "it": "Arti creative",
+                    "ja": "クリエイティブアート",
+                    "ko": "창작 예술",
+                    "lt": "Kūrybiniai menai",
+                    "nl": "Beeldende kunst",
+                    "no": "Kreativt arbeid",
+                    "pl": "Twórczość artystyczna",
+                    "ro": "Arte creative",
+                    "ru": "Искусство",
+                    "th": "นฤมิตศิลป์",
+                    "tr": "Yaratıcı Sanatlar",
+                    "uk": "Креативне мистецтво",
+                    "vi": "Nghệ Thuật Sáng Tạo",
+                    "en-GB": "Creative Arts",
+                    "en-US": "Creative Arts",
+                    "es-ES": "Artes creativas",
+                    "pt-BR": "Artes",
+                    "sv-SE": "Kultur",
+                    "zh-CN": "创意美术",
+                    "zh-TW": "創作藝術"
+                }
+            },
+            {
+                "id": 39,
+                "is_primary": false,
+                "name": "Fandom",
+                "name_localizations": {
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            },
+            {
+                "id": 46,
+                "is_primary": false,
+                "name": "Console",
+                "name_localizations": {
+                    "bg": "Конзола",
+                    "cs": "Konzole",
+                    "da": "Konsol",
+                    "de": "Konsolen",
+                    "el": "Κονσόλες",
+                    "fi": "Konsolit",
+                    "fr": "Console",
+                    "hi": "कंसोल",
+                    "hr": "Konzole",
+                    "hu": "Konzol",
+                    "it": "Console",
+                    "ja": "コンソール",
+                    "ko": "게임 콘솔",
+                    "lt": "Žaidimų konsolės",
+                    "nl": "Console",
+                    "no": "Konsoll",
+                    "pl": "Konsola",
+                    "ro": "Consolă",
+                    "ru": "Консоли",
+                    "th": "คอนโซล",
+                    "tr": "Konsol",
+                    "uk": "Консолі",
+                    "vi": "Console",
+                    "en-GB": "Console",
+                    "en-US": "Console",
+                    "es-ES": "Consola",
+                    "pt-BR": "Console",
+                    "sv-SE": "Konsol",
+                    "zh-CN": "主机端",
+                    "zh-TW": "遊戲主機"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 1,
+            "is_primary": true,
+            "name": "Gaming",
+            "name_localizations": {
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
+            }
+        },
+        "objectID": "535117596337635349",
+        "_highlightResult": {
+            "name": {
+                "value": "Animal Crossing: New Horizons",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Größte deutsche Animal Crossing New Horizons Discord Community! Offizieller Nintendo & Discord Partner Server! 💕",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "acnh-german",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "Animal crossing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Animal Crossing New Horizons",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "animal crossing deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "animal crossing germany",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "acnh deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "acnh germany",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Móda a krása",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mode & skønhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μόδα & Ομορφιά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Muoti ja kauneus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Mode et beauté",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फैशन और ब्यूटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Moda i ljepota",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Divat és szépségápolás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Moda e bellezza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファッション&ビューティー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "패션, 미용",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mada ir grožis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mode en beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mote og skjønnhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Moda i piękno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Modă și frumusețe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "แฟชันและความงาม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Moda ve Güzellik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мода та краса",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thời Trang & Làm Đẹp",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Moda y belleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Moda e Beleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mode och skönhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "时尚&美妆",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "時尚與美容",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Художествени изкуства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kreativt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kreative Künste",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργικές τέχνες",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Luovat alat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Arts créatifs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिएटिव आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost i rukotvorine",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kreatív művészetek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arti creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "クリエイティブアート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "창작 예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kūrybiniai menai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Beeldende kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kreativt arbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórczość artystyczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Arte creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Искусство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "นฤมิตศิลป์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yaratıcı Sanatlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Креативне мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật Sáng Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artes creativas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kultur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "创意美术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "創作藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фендъм",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Pro fanoušky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fangruppe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fanikunta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ैनडम",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rajongói",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファンダム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "팬덤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Fanai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фандомы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กลุ่มแฟนคลับ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Hayran Kitlesi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фандом",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "同好圈",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Конзола",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Konzole",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Konsol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Konsolen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κονσόλες",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Konsolit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंसोल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Konzole",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Konzol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンソール",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 콘솔",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų konsolės",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Konsoll",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Konsola",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Consolă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Консоли",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "คอนโซล",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Konsol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Консолі",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Consola",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Console",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konsol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "主机端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲主機",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
