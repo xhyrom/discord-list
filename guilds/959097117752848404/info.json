@@ -5,9 +5,9 @@
     "icon": "a_fa320cda869708215b8506181f589c27",
     "splash": "6056ea00871147938a71e85aaa416d56",
     "discovery_splash": "79eb98857fc21d1ed4ca0dc607be0556",
-    "banner": "a_5407563cc452af8f1683cc57df91fc0a",
-    "approximate_presence_count": 209,
-    "approximate_member_count": 7509,
+    "banner": "f6b498e6ee550f950f935a1b9f751390",
+    "approximate_presence_count": 151,
+    "approximate_member_count": 14889,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "monkeymunchy",
@@ -34,9 +34,9 @@
         "description": "Welcome to the Metia Island!",
         "icon": "a_fa320cda869708215b8506181f589c27",
         "splash": "6056ea00871147938a71e85aaa416d56",
-        "banner": "a_5407563cc452af8f1683cc57df91fc0a",
-        "approximate_presence_count": 209,
-        "approximate_member_count": 7509,
+        "banner": "f6b498e6ee550f950f935a1b9f751390",
+        "approximate_presence_count": 151,
+        "approximate_member_count": 14889,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -98,6 +98,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -132,16 +142,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -420,6 +420,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Общуване",
                             "matchLevel": "none",
@@ -567,25 +586,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
