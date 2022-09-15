@@ -1,14 +1,14 @@
 {
     "id": "880132401815224391",
-    "name": "GorkhaliAdda Esports®",
+    "name": "GAExEON ESPORT©",
     "description": "Gorkhali Adda Esports is an organization moving forward to esports.",
     "icon": "a_3e851458999de204fe3b51c63b08a626",
     "splash": "3134459bbd5fc2f43893b9c712743000",
     "discovery_splash": "d92e384c9034efd3844ef648d3380bc9",
     "banner": "66b4f6c5db935e3cab7d74bf9f1e515c",
-    "approximate_presence_count": 55,
-    "approximate_member_count": 3192,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 25,
+    "approximate_member_count": 3342,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -34,14 +34,14 @@
     "verified": false,
     "raw": {
         "id": "880132401815224391",
-        "name": "GorkhaliAdda Esports®",
+        "name": "GAExEON ESPORT©",
         "description": "Gorkhali Adda Esports is an organization moving forward to esports.",
         "icon": "a_3e851458999de204fe3b51c63b08a626",
         "splash": "3134459bbd5fc2f43893b9c712743000",
         "banner": "66b4f6c5db935e3cab7d74bf9f1e515c",
-        "approximate_presence_count": 55,
-        "approximate_member_count": 3192,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 25,
+        "approximate_member_count": 3342,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d92e384c9034efd3844ef648d3380bc9",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -140,16 +150,6 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -230,7 +230,7 @@
         "objectID": "880132401815224391",
         "_highlightResult": {
             "name": {
-                "value": "GorkhaliAdda Esports®",
+                "value": "GAExEON ESPORT©",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -287,6 +287,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -590,25 +609,6 @@
                         },
                         "zh-TW": {
                             "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
