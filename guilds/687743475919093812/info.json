@@ -6,11 +6,11 @@
     "splash": null,
     "discovery_splash": null,
     "banner": "a_edba02bff192f01d8bf32b9426472a23",
-    "approximate_presence_count": 383,
-    "approximate_member_count": 1538,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 434,
+    "approximate_member_count": 1573,
+    "premium_subscription_count": 24,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "investorshaven",
     "keywords": [
         "stocks",
         "trading",
@@ -40,14 +40,14 @@
         "icon": "0acd6f844bb7c471884637524d83cd1c",
         "splash": null,
         "banner": "a_edba02bff192f01d8bf32b9426472a23",
-        "approximate_presence_count": 383,
-        "approximate_member_count": 1538,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 434,
+        "approximate_member_count": 1573,
+        "premium_subscription_count": 24,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 12,
-        "vanity_url_code": null,
+        "vanity_url_code": "investorshaven",
         "is_published": false,
         "keywords": [
             "stocks",
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -105,16 +115,6 @@
                     "sv-SE": "Ekonomi",
                     "zh-CN": "理财",
                     "zh-TW": "財經"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             }
         ],
@@ -164,6 +164,11 @@
             },
             "description": {
                 "value": "Welcome to Investor's Haven. Here we teach about financial literacy, and use custom bots for day trading! Check us out!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "investorshaven",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -220,6 +225,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -369,25 +393,6 @@
                         },
                         "zh-TW": {
                             "value": "財經",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

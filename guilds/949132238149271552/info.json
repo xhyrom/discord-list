@@ -2,13 +2,13 @@
     "id": "949132238149271552",
     "name": "Fichas Ordem Paranormal",
     "description": "Bem vindo ao servidor do FichasOP. Um site feito para facilitar a vida dos mestres e jogadores de Ordem Paranormal RPG",
-    "icon": "a_8d222ac06908db22f50bda3c118ad023",
+    "icon": "a_2e9505f82edbbd479a0f4a307079056d",
     "splash": "c1bc2580120816d72d404302bc42dcad",
     "discovery_splash": "864d208fea7b0091956483830272882c",
     "banner": "a_fc99d8a3a0f51af5fa57ef2d7e07b2ba",
-    "approximate_presence_count": 1457,
-    "approximate_member_count": 5996,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 1834,
+    "approximate_member_count": 8454,
+    "premium_subscription_count": 13,
     "preferred_locale": "pt-BR",
     "vanity_url_code": null,
     "keywords": [
@@ -16,16 +16,17 @@
         "paranormal",
         "rpg",
         "cellbit",
-        "fichasop",
         "fichas",
         "calamidade",
         "desconjuração",
-        "segredo"
+        "segredo",
+        "OP"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,12 +36,12 @@
         "id": "949132238149271552",
         "name": "Fichas Ordem Paranormal",
         "description": "Bem vindo ao servidor do FichasOP. Um site feito para facilitar a vida dos mestres e jogadores de Ordem Paranormal RPG",
-        "icon": "a_8d222ac06908db22f50bda3c118ad023",
+        "icon": "a_2e9505f82edbbd479a0f4a307079056d",
         "splash": "c1bc2580120816d72d404302bc42dcad",
         "banner": "a_fc99d8a3a0f51af5fa57ef2d7e07b2ba",
-        "approximate_presence_count": 1457,
-        "approximate_member_count": 5996,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 1834,
+        "approximate_member_count": 8454,
+        "premium_subscription_count": 13,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "864d208fea7b0091956483830272882c",
@@ -52,20 +53,132 @@
             "paranormal",
             "rpg",
             "cellbit",
-            "fichasop",
             "fichas",
             "calamidade",
             "desconjuração",
-            "segredo"
+            "segredo",
+            "OP"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 34,
+                "is_primary": false,
+                "name": "Roleplay",
+                "name_localizations": {
+                    "bg": "Ролева игра",
+                    "cs": "Roleplay",
+                    "da": "Rollespil",
+                    "de": "Rollenspiele",
+                    "el": "Παιχνίδια ρόλων",
+                    "fi": "Roolipeli",
+                    "fr": "Jeux de rôles",
+                    "hi": "रोलप्ले",
+                    "hr": "Roleplay",
+                    "hu": "Szerepjáték",
+                    "it": "Giochi di ruolo",
+                    "ja": "なりきり",
+                    "ko": "역할 놀이",
+                    "lt": "Vaidmenų žaidimai",
+                    "nl": "Rollenspel",
+                    "no": "Rollespill",
+                    "pl": "Role playing",
+                    "ro": "Jocuri de rol",
+                    "ru": "Ролевая игра",
+                    "th": "การเล่นบทบาทสมมติ",
+                    "tr": "Rol Yapma",
+                    "uk": "Рольові ігри",
+                    "vi": "Nhập Vai",
+                    "en-GB": "Roleplay",
+                    "en-US": "Roleplay",
+                    "es-ES": "Juego de roles",
+                    "pt-BR": "Interpretação de personagens",
+                    "sv-SE": "Rollspel",
+                    "zh-CN": "跑团",
+                    "zh-TW": "角色扮演"
+                }
+            },
+            {
+                "id": 31,
+                "is_primary": false,
+                "name": "Customer Support",
+                "name_localizations": {
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
+                }
+            },
+            {
+                "id": 40,
+                "is_primary": false,
+                "name": "Wiki & Guide",
+                "name_localizations": {
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -138,43 +251,6 @@
                     "sv-SE": "Bordsspel",
                     "zh-CN": "桌游",
                     "zh-TW": "桌遊"
-                }
-            },
-            {
-                "id": 40,
-                "is_primary": false,
-                "name": "Wiki & Guide",
-                "name_localizations": {
-                    "bg": "Уики и ръководство",
-                    "cs": "Wiki a návody",
-                    "da": "Wiki & guide",
-                    "de": "Wiki & Anleitungen",
-                    "el": "Wiki & Οδηγοί",
-                    "fi": "Wikit ja ohjeet",
-                    "fr": "Wiki et guide",
-                    "hi": "विकिपीडिया और गाइड",
-                    "hr": "Wiki i vodiči",
-                    "hu": "Wikik és útmutatók",
-                    "it": "Wiki e guide",
-                    "ja": "ウィキペディア&ガイド",
-                    "ko": "위키, 가이드",
-                    "lt": "Vikis ir instrukcijos",
-                    "nl": "Wiki en gids",
-                    "no": "Wiki og veiledning",
-                    "pl": "Wiki i przewodniki",
-                    "ro": "Wiki și ghid",
-                    "ru": "Вики и руководство",
-                    "th": "วิกิและคู่มือ",
-                    "tr": "Wiki ve Rehber",
-                    "uk": "Вікі та посібники",
-                    "vi": "Wiki & Hướng Dẫn",
-                    "en-GB": "Wiki & Guide",
-                    "en-US": "Wiki & Guide",
-                    "es-ES": "Wikipedia y guías",
-                    "pt-BR": "Wiki e Guias",
-                    "sv-SE": "Wiki och guide",
-                    "zh-CN": "维基&指南",
-                    "zh-TW": "維基百科與指南"
                 }
             },
             {
@@ -286,11 +362,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fichasop",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "fichas",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -309,9 +380,476 @@
                     "value": "segredo",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "OP",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ролева игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rollespil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Rollenspiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Παιχνίδια ρόλων",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Roolipeli",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de rôles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रोलप्ले",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szerepjáték",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi di ruolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "なりきり",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "역할 놀이",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vaidmenų žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Rollenspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Rollespill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Role playing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri de rol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Ролевая игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นบทบาทสมมติ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Rol Yapma",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Рольові ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhập Vai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juego de roles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Interpretação de personagens",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Rollspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "跑团",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Обслужване на клиенти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Uživatelská podpora",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kundesupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kundensupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εξυπηρέτηση πελατών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Asiakastuki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Assistance clientèle",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कस्टमर सपोर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Podrška korisnicima",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Ügyfélszolgálat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Assistenza clienti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "カスタマーサポート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "고객 지원",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Klientų palaikymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Klantenondersteuning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kundestøtte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pomoc techniczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Asistență clienți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Служба поддержки",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müşteri Desteği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Підтримка користувачів",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Chăm Sóc Khách Hàng",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Atención al cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Suporte ao cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kundsupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "客户支持",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "客戶支援",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Уики и ръководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Wiki a návody",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Wiki & guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wiki & Anleitungen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Wiki & Οδηγοί",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Wikit ja ohjeet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Wiki et guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "विकिपीडिया और गाइड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Wiki i vodiči",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Wikik és útmutatók",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Wiki e guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ウィキペディア&ガイド",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "위키, 가이드",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vikis ir instrukcijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wiki en gids",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Wiki og veiledning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wiki i przewodniki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Wiki și ghid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Вики и руководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิกิและคู่มือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Wiki ve Rehber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Вікі та посібники",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Wiki & Hướng Dẫn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Wikipedia y guías",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Wiki e Guias",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Wiki och guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "维基&指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "維基百科與指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -615,160 +1153,6 @@
                         },
                         "zh-TW": {
                             "value": "桌遊",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Уики и ръководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Wiki a návody",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Wiki & guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wiki & Anleitungen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Wiki & Οδηγοί",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Wikit ja ohjeet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Wiki et guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "विकिपीडिया और गाइड",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Wiki i vodiči",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Wikik és útmutatók",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Wiki e guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ウィキペディア&ガイド",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "위키, 가이드",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vikis ir instrukcijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wiki en gids",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Wiki og veiledning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Wiki i przewodniki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Wiki și ghid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Вики и руководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิกิและคู่มือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Wiki ve Rehber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Вікі та посібники",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Wiki & Hướng Dẫn",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Wikipedia y guías",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Wiki e Guias",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Wiki och guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "维基&指南",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
