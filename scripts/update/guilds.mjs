@@ -93,8 +93,7 @@ while(true) {
         }
     })).json()).guilds;
 
-    console.log(response.length, offset);
-    if (response.length === 0) {
+    if (!response || response.length === 0) {
         offset = 0;
         break;
     };
