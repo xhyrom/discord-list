@@ -4,11 +4,11 @@
     "description": "An idle game based bot inspired by Runescape. Complete with skills, levels, combat, production chains and auction house.",
     "icon": "a_6973b1075b7fd04648236c280133027b",
     "splash": "6c4cea3b82e3a051b3bae4d9830b88bf",
-    "discovery_splash": null,
+    "discovery_splash": "6c4cea3b82e3a051b3bae4d9830b88bf",
     "banner": "a8c6e510792ceafc7187372cd1367e9f",
-    "approximate_presence_count": 13440,
-    "approximate_member_count": 48953,
-    "premium_subscription_count": 21,
+    "approximate_presence_count": 12900,
+    "approximate_member_count": 49018,
+    "premium_subscription_count": 22,
     "preferred_locale": "en-US",
     "vanity_url_code": "suity",
     "keywords": [
@@ -19,7 +19,9 @@
         "OSRS",
         "Price",
         "Check",
-        "Trade"
+        "Trade",
+        "pct",
+        "pcbot"
     ],
     "features": [
         "COMMUNITY",
@@ -37,12 +39,12 @@
         "icon": "a_6973b1075b7fd04648236c280133027b",
         "splash": "6c4cea3b82e3a051b3bae4d9830b88bf",
         "banner": "a8c6e510792ceafc7187372cd1367e9f",
-        "approximate_presence_count": 13440,
-        "approximate_member_count": 48953,
-        "premium_subscription_count": 21,
+        "approximate_presence_count": 12900,
+        "approximate_member_count": 49018,
+        "premium_subscription_count": 22,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "6c4cea3b82e3a051b3bae4d9830b88bf",
         "primary_category_id": 49,
         "vanity_url_code": "suity",
         "is_published": false,
@@ -54,7 +56,9 @@
             "OSRS",
             "Price",
             "Check",
-            "Trade"
+            "Trade",
+            "pct",
+            "pcbot"
         ],
         "features": [
             "COMMUNITY",
@@ -379,6 +383,16 @@
                 },
                 {
                     "value": "Trade",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pct",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pcbot",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

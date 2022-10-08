@@ -6,9 +6,9 @@
     "splash": "880a85ec0e7178a3137a11f4bd2829aa",
     "discovery_splash": "713c296c7f940a74eedc9cf68cea9f64",
     "banner": "eda013d2966886e8234fee5a4c534fc7",
-    "approximate_presence_count": 968,
-    "approximate_member_count": 9163,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 780,
+    "approximate_member_count": 9334,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "thefabricant",
     "keywords": [
@@ -40,13 +40,13 @@
         "icon": "c872914627903d55cfc125e28d5ef95b",
         "splash": "880a85ec0e7178a3137a11f4bd2829aa",
         "banner": "eda013d2966886e8234fee5a4c534fc7",
-        "approximate_presence_count": 968,
-        "approximate_member_count": 9163,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 780,
+        "approximate_member_count": 9334,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "713c296c7f940a74eedc9cf68cea9f64",
-        "primary_category_id": 1,
+        "primary_category_id": 8,
         "vanity_url_code": "thefabricant",
         "is_published": false,
         "keywords": [
@@ -254,43 +254,80 @@
                     "zh-CN": "合作",
                     "zh-TW": "合作"
                 }
+            },
+            {
+                "id": 8,
+                "is_primary": true,
+                "name": "Fashion & Beauty",
+                "name_localizations": {
+                    "bg": "Мода и красота",
+                    "cs": "Móda a krása",
+                    "da": "Mode & skønhed",
+                    "de": "Fashion & Beauty",
+                    "el": "Μόδα & Ομορφιά",
+                    "fi": "Muoti ja kauneus",
+                    "fr": "Mode et beauté",
+                    "hi": "फैशन और ब्यूटी",
+                    "hr": "Moda i ljepota",
+                    "hu": "Divat és szépségápolás",
+                    "it": "Moda e bellezza",
+                    "ja": "ファッション&ビューティー",
+                    "ko": "패션, 미용",
+                    "lt": "Mada ir grožis",
+                    "nl": "Mode en beauty",
+                    "no": "Mote og skjønnhet",
+                    "pl": "Moda i piękno",
+                    "ro": "Modă și frumusețe",
+                    "ru": "Мода и красота",
+                    "th": "แฟชันและความงาม",
+                    "tr": "Moda ve Güzellik",
+                    "uk": "Мода та краса",
+                    "vi": "Thời Trang & Làm Đẹp",
+                    "en-GB": "Fashion & Beauty",
+                    "en-US": "Fashion & Beauty",
+                    "es-ES": "Moda y belleza",
+                    "pt-BR": "Moda e Beleza",
+                    "sv-SE": "Mode och skönhet",
+                    "zh-CN": "时尚&美妆",
+                    "zh-TW": "時尚與美容"
+                }
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 8,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "Fashion & Beauty",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Мода и красота",
+                "cs": "Móda a krása",
+                "da": "Mode & skønhed",
+                "de": "Fashion & Beauty",
+                "el": "Μόδα & Ομορφιά",
+                "fi": "Muoti ja kauneus",
+                "fr": "Mode et beauté",
+                "hi": "फैशन और ब्यूटी",
+                "hr": "Moda i ljepota",
+                "hu": "Divat és szépségápolás",
+                "it": "Moda e bellezza",
+                "ja": "ファッション&ビューティー",
+                "ko": "패션, 미용",
+                "lt": "Mada ir grožis",
+                "nl": "Mode en beauty",
+                "no": "Mote og skjønnhet",
+                "pl": "Moda i piękno",
+                "ro": "Modă și frumusețe",
+                "ru": "Мода и красота",
+                "th": "แฟชันและความงาม",
+                "tr": "Moda ve Güzellik",
+                "uk": "Мода та краса",
+                "vi": "Thời Trang & Làm Đẹp",
+                "en-GB": "Fashion & Beauty",
+                "en-US": "Fashion & Beauty",
+                "es-ES": "Moda y belleza",
+                "pt-BR": "Moda e Beleza",
+                "sv-SE": "Mode och skönhet",
+                "zh-CN": "时尚&美妆",
+                "zh-TW": "時尚與美容"
             }
         },
         "objectID": "851744074947493899",
@@ -1132,157 +1169,311 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Móda a krása",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mode & skønhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μόδα & Ομορφιά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Muoti ja kauneus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Mode et beauté",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फैशन और ब्यूटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Moda i ljepota",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Divat és szépségápolás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Moda e bellezza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファッション&ビューティー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "패션, 미용",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mada ir grožis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mode en beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mote og skjønnhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Moda i piękno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Modă și frumusețe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "แฟชันและความงาม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Moda ve Güzellik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мода та краса",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thời Trang & Làm Đẹp",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Moda y belleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Moda e Beleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mode och skönhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "时尚&美妆",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "時尚與美容",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Мода и красота",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Móda a krása",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Mode & skønhed",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Μόδα & Ομορφιά",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Muoti ja kauneus",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Mode et beauté",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "फैशन और ब्यूटी",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Moda i ljepota",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Divat és szépségápolás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Moda e bellezza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "ファッション&ビューティー",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "패션, 미용",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Mada ir grožis",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Mode en beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Mote og skjønnhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Moda i piękno",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Modă și frumusețe",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Мода и красота",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "แฟชันและความงาม",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Moda ve Güzellik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Мода та краса",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Thời Trang & Làm Đẹp",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Moda y belleza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Moda e Beleza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Mode och skönhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "时尚&美妆",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "時尚與美容",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
