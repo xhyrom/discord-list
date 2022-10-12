@@ -1,14 +1,14 @@
 {
     "id": "787870755340943360",
     "name": "StrongBlock.io Community",
-    "description": "StrongBlock Makes Blockchains STRONGER. Easily Create Blockchain Nodes & Earn Rewards. Join the Node Army Today!",
+    "description": "StrongBlock makes blockchains STRONGER. Easily create blockchain nodes & earn rewards. Join the Node Army today!",
     "icon": "f5323d4d0ec256956838ac0942281f26",
     "splash": "fab7ed7c19ae6716059fbaba50452080",
     "discovery_splash": "8fbf7485aa04c650ba650178755a5996",
     "banner": "a_09b6f8ca2ff1922ba063162d7f001c51",
-    "approximate_presence_count": 3769,
-    "approximate_member_count": 28128,
-    "premium_subscription_count": 60,
+    "approximate_presence_count": 3356,
+    "approximate_member_count": 24152,
+    "premium_subscription_count": 50,
     "preferred_locale": "en-US",
     "vanity_url_code": "strong",
     "keywords": [
@@ -35,13 +35,13 @@
     "raw": {
         "id": "787870755340943360",
         "name": "StrongBlock.io Community",
-        "description": "StrongBlock Makes Blockchains STRONGER. Easily Create Blockchain Nodes & Earn Rewards. Join the Node Army Today!",
+        "description": "StrongBlock makes blockchains STRONGER. Easily create blockchain nodes & earn rewards. Join the Node Army today!",
         "icon": "f5323d4d0ec256956838ac0942281f26",
         "splash": "fab7ed7c19ae6716059fbaba50452080",
         "banner": "a_09b6f8ca2ff1922ba063162d7f001c51",
-        "approximate_presence_count": 3769,
-        "approximate_member_count": 28128,
-        "premium_subscription_count": 60,
+        "approximate_presence_count": 3356,
+        "approximate_member_count": 24152,
+        "premium_subscription_count": 50,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8fbf7485aa04c650ba650178755a5996",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -180,16 +190,6 @@
                 }
             },
             {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
-            {
                 "id": 5,
                 "is_primary": true,
                 "name": "Science & Tech",
@@ -272,7 +272,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "StrongBlock Makes Blockchains STRONGER. Easily Create Blockchain Nodes & Earn Rewards. Join the Node Army Today!",
+                "value": "StrongBlock makes blockchains STRONGER. Easily create blockchain nodes & earn rewards. Join the Node Army today!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -329,6 +329,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -786,25 +805,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
