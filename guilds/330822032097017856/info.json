@@ -1,16 +1,16 @@
 {
     "id": "330822032097017856",
     "name": "BattlefrontModding",
-    "description": "",
+    "description": "Modding Battlefront 2",
     "icon": "a_f396de6ac8f78d9a2709e92ac43511d7",
     "splash": "b4056cf95a185db37f47936d6fe1a0c3",
     "discovery_splash": "e964508f252c861ef85de446c2ecd263",
     "banner": "fe2cca79999979259d381a240122ce44",
-    "approximate_presence_count": 4746,
-    "approximate_member_count": 24216,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 4610,
+    "approximate_member_count": 23701,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "battlefrontmodding-330822032097017856",
     "keywords": [
         "Modding",
         "Star Wars",
@@ -36,19 +36,19 @@
     "raw": {
         "id": "330822032097017856",
         "name": "BattlefrontModding",
-        "description": "",
+        "description": "Modding Battlefront 2",
         "icon": "a_f396de6ac8f78d9a2709e92ac43511d7",
         "splash": "b4056cf95a185db37f47936d6fe1a0c3",
         "banner": "fe2cca79999979259d381a240122ce44",
-        "approximate_presence_count": 4746,
-        "approximate_member_count": 24216,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 4610,
+        "approximate_member_count": 23701,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e964508f252c861ef85de446c2ecd263",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "battlefrontmodding-330822032097017856",
+        "is_published": true,
         "keywords": [
             "Modding",
             "Star Wars",
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -115,6 +105,16 @@
                     "sv-SE": "Fandom",
                     "zh-CN": "同好圈",
                     "zh-TW": "粉絲社群"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -274,7 +274,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Modding Battlefront 2",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "battlefrontmodding-330822032097017856",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -331,25 +336,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -499,6 +485,25 @@
                         },
                         "zh-TW": {
                             "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
