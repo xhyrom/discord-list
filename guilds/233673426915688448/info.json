@@ -1,14 +1,14 @@
 {
     "id": "233673426915688448",
     "name": "Love Live Radio",
-    "description": "",
-    "icon": "a_624cd6c19c0c6dc43922805c44513fc9",
-    "splash": "317434277891985e1ef17ef3bb9177a7",
-    "discovery_splash": "e0eb388d982c1b9a1f88610dc16821f9",
+    "description": "A Love Live series community server with weekly music livestreams and a 24/7 radio!",
+    "icon": "a_518127c69e4fe29c3473e5d884574500",
+    "splash": "bb706f9206d09858540ad3fc4a921bc0",
+    "discovery_splash": "0484e1cc166acc2060b46bc416498cb6",
     "banner": "a_42e5972775a43831b3a8bf14295d5dce",
-    "approximate_presence_count": 994,
-    "approximate_member_count": 3598,
-    "premium_subscription_count": 31,
+    "approximate_presence_count": 998,
+    "approximate_member_count": 3721,
+    "premium_subscription_count": 28,
     "preferred_locale": "en-US",
     "vanity_url_code": "loveliveradio",
     "keywords": [
@@ -34,19 +34,19 @@
     "raw": {
         "id": "233673426915688448",
         "name": "Love Live Radio",
-        "description": "",
-        "icon": "a_624cd6c19c0c6dc43922805c44513fc9",
-        "splash": "317434277891985e1ef17ef3bb9177a7",
+        "description": "A Love Live series community server with weekly music livestreams and a 24/7 radio!",
+        "icon": "a_518127c69e4fe29c3473e5d884574500",
+        "splash": "bb706f9206d09858540ad3fc4a921bc0",
         "banner": "a_42e5972775a43831b3a8bf14295d5dce",
-        "approximate_presence_count": 994,
-        "approximate_member_count": 3598,
-        "premium_subscription_count": 31,
+        "approximate_presence_count": 998,
+        "approximate_member_count": 3721,
+        "premium_subscription_count": 28,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e0eb388d982c1b9a1f88610dc16821f9",
-        "primary_category_id": 3,
+        "discovery_splash": "0484e1cc166acc2060b46bc416498cb6",
+        "primary_category_id": 2,
         "vanity_url_code": "loveliveradio",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "love-live",
             "lovelive",
@@ -213,80 +213,43 @@
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
                 }
-            },
-            {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
-                }
             }
         ],
         "primary_category": {
-            "id": 3,
+            "id": 2,
             "is_primary": true,
-            "name": "Entertainment",
+            "name": "Music",
             "name_localizations": {
-                "bg": "Забавление",
-                "cs": "Zábava",
-                "da": "Underholdning",
-                "de": "Unterhaltung",
-                "el": "Ψυχαγωγία",
-                "fi": "Viihde",
-                "fr": "Divertissements",
-                "hi": "एंटरटेनमेंट",
-                "hr": "Zabava",
-                "hu": "Szórakozás",
-                "it": "Intrattenimento",
-                "ja": "エンターテインメント",
-                "ko": "엔터테인먼트",
-                "lt": "Pramogos",
-                "nl": "Entertainment",
-                "no": "Underholdning",
-                "pl": "Rozrywka",
-                "ro": "Divertisment",
-                "ru": "Развлечения",
-                "th": "ความบันเทิง",
-                "tr": "Eğlence",
-                "uk": "Розваги",
-                "vi": "Giải Trí",
-                "en-GB": "Entertainment",
-                "en-US": "Entertainment",
-                "es-ES": "Entretenimiento",
-                "pt-BR": "Entretenimento",
-                "sv-SE": "Underhållning",
-                "zh-CN": "娱乐",
-                "zh-TW": "娛樂"
+                "bg": "Музика",
+                "cs": "Hudba",
+                "da": "Musik",
+                "de": "Musik",
+                "el": "Μουσική",
+                "fi": "Musiikki",
+                "fr": "Musique",
+                "hi": "म्यूज़िक",
+                "hr": "Glazba",
+                "hu": "Zene",
+                "it": "Musica",
+                "ja": "音楽",
+                "ko": "음악",
+                "lt": "Muzika",
+                "nl": "Muziek",
+                "no": "Musikk",
+                "pl": "Muzyka",
+                "ro": "Muzică",
+                "ru": "Музыка",
+                "th": "เพลง",
+                "tr": "Müzik",
+                "uk": "Музика",
+                "vi": "Âm Nhạc",
+                "en-GB": "Music",
+                "en-US": "Music",
+                "es-ES": "Música",
+                "pt-BR": "Música",
+                "sv-SE": "Musik",
+                "zh-CN": "音乐",
+                "zh-TW": "音樂"
             }
         },
         "objectID": "233673426915688448",
@@ -297,7 +260,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "A Love Live series community server with weekly music livestreams and a 24/7 radio!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -969,311 +932,157 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Забавление",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zábava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unterhaltung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ψυχαγωγία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Viihde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Divertissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एंटरटेनमेंट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Zabava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szórakozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Intrattenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "エンターテインメント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "엔터테인먼트",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Pramogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozrywka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Divertisment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Развлечения",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ความบันเทิง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğlence",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розваги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giải Trí",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Entretenimiento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Entretenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Underhållning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "娱乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Забавление",
+                        "value": "Музика",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Zábava",
+                        "value": "Hudba",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Underholdning",
+                        "value": "Musik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Unterhaltung",
+                        "value": "Musik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Ψυχαγωγία",
+                        "value": "Μουσική",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Viihde",
+                        "value": "Musiikki",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Divertissements",
+                        "value": "Musique",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "एंटरटेनमेंट",
+                        "value": "म्यूज़िक",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Zabava",
+                        "value": "Glazba",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Szórakozás",
+                        "value": "Zene",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Intrattenimento",
+                        "value": "Musica",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "エンターテインメント",
+                        "value": "音楽",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "엔터테인먼트",
+                        "value": "음악",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Pramogos",
+                        "value": "Muzika",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Entertainment",
+                        "value": "Muziek",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Underholdning",
+                        "value": "Musikk",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Rozrywka",
+                        "value": "Muzyka",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Divertisment",
+                        "value": "Muzică",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Развлечения",
+                        "value": "Музыка",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "ความบันเทิง",
+                        "value": "เพลง",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Eğlence",
+                        "value": "Müzik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Розваги",
+                        "value": "Музика",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Giải Trí",
+                        "value": "Âm Nhạc",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Entertainment",
+                        "value": "Music",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Entertainment",
+                        "value": "Music",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Entretenimiento",
+                        "value": "Música",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Entretenimento",
+                        "value": "Música",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Underhållning",
+                        "value": "Musik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "娱乐",
+                        "value": "音乐",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "娛樂",
+                        "value": "音樂",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
