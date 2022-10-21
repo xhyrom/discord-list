@@ -6,8 +6,8 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 864,
-    "approximate_member_count": 5507,
+    "approximate_presence_count": 891,
+    "approximate_member_count": 5700,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -37,13 +37,13 @@
         "icon": "af730d396fc75a8573370c6727287e1b",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 864,
-        "approximate_member_count": 5507,
+        "approximate_presence_count": 891,
+        "approximate_member_count": 5700,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
-        "primary_category_id": 0,
+        "primary_category_id": 13,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
@@ -65,17 +65,25 @@
         ],
         "categories": [
             {
-                "id": 0,
+                "id": 13,
                 "is_primary": true,
-                "name": "General",
-                "name_localizations": null
+                "name": "Other",
+                "name_localizations": {
+                    "de": "Sonstiges",
+                    "fr": "Autre",
+                    "ru": "Другое"
+                }
             }
         ],
         "primary_category": {
-            "id": 0,
+            "id": 13,
             "is_primary": true,
-            "name": "General",
-            "name_localizations": null
+            "name": "Other",
+            "name_localizations": {
+                "de": "Sonstiges",
+                "fr": "Autre",
+                "ru": "Другое"
+            }
         },
         "objectID": "501503149173899264",
         "_highlightResult": {
@@ -125,7 +133,47 @@
                     "matchLevel": "none",
                     "matchedWords": []
                 }
-            ]
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sonstiges",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Autre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Другое",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "de": {
+                        "value": "Sonstiges",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Autre",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Другое",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
         }
     }
 }
