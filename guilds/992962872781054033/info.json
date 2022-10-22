@@ -1,14 +1,14 @@
 {
     "id": "992962872781054033",
     "name": "Artifacter Bot",
-    "description": "Genshin Artifacter Official Server",
+    "description": "Genshin Artifacter Botの公式コミュニティ&サポートサーバーです。質問/botのアップデート通知はここから配信します。",
     "icon": "be41f03e0d748d90b6b0ae7719f990d0",
-    "splash": "5e09302935891e5cbf06b7f47ba40de3",
-    "discovery_splash": null,
+    "splash": "7cc6aa72e5cec0a9be6ae1e2a74b73c6",
+    "discovery_splash": "7cc6aa72e5cec0a9be6ae1e2a74b73c6",
     "banner": null,
-    "approximate_presence_count": 268,
-    "approximate_member_count": 3172,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 651,
+    "approximate_member_count": 4254,
+    "premium_subscription_count": 2,
     "preferred_locale": "ja",
     "vanity_url_code": null,
     "keywords": [
@@ -16,11 +16,12 @@
         "サポート",
         "原神",
         "genshin",
-        "日本語",
         "artifacter"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -30,16 +31,16 @@
     "raw": {
         "id": "992962872781054033",
         "name": "Artifacter Bot",
-        "description": "Genshin Artifacter Official Server",
+        "description": "Genshin Artifacter Botの公式コミュニティ&サポートサーバーです。質問/botのアップデート通知はここから配信します。",
         "icon": "be41f03e0d748d90b6b0ae7719f990d0",
-        "splash": "5e09302935891e5cbf06b7f47ba40de3",
+        "splash": "7cc6aa72e5cec0a9be6ae1e2a74b73c6",
         "banner": null,
-        "approximate_presence_count": 268,
-        "approximate_member_count": 3172,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 651,
+        "approximate_member_count": 4254,
+        "premium_subscription_count": 2,
         "preferred_locale": "ja",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "7cc6aa72e5cec0a9be6ae1e2a74b73c6",
         "primary_category_id": 49,
         "vanity_url_code": null,
         "is_published": false,
@@ -48,53 +49,17 @@
             "サポート",
             "原神",
             "genshin",
-            "日本語",
             "artifacter"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 31,
-                "is_primary": false,
-                "name": "Customer Support",
-                "name_localizations": {
-                    "bg": "Обслужване на клиенти",
-                    "cs": "Uživatelská podpora",
-                    "da": "Kundesupport",
-                    "de": "Kundensupport",
-                    "el": "Εξυπηρέτηση πελατών",
-                    "fi": "Asiakastuki",
-                    "fr": "Assistance clientèle",
-                    "hi": "कस्टमर सपोर्ट",
-                    "hr": "Podrška korisnicima",
-                    "hu": "Ügyfélszolgálat",
-                    "it": "Assistenza clienti",
-                    "ja": "カスタマーサポート",
-                    "ko": "고객 지원",
-                    "lt": "Klientų palaikymas",
-                    "nl": "Klantenondersteuning",
-                    "no": "Kundestøtte",
-                    "pl": "Pomoc techniczna",
-                    "ro": "Asistență clienți",
-                    "ru": "Служба поддержки",
-                    "th": "ฝ่ายสนับสนุนลูกค้า",
-                    "tr": "Müşteri Desteği",
-                    "uk": "Підтримка користувачів",
-                    "vi": "Chăm Sóc Khách Hàng",
-                    "en-GB": "Customer Support",
-                    "en-US": "Customer Support",
-                    "es-ES": "Atención al cliente",
-                    "pt-BR": "Suporte ao cliente",
-                    "sv-SE": "Kundsupport",
-                    "zh-CN": "客户支持",
-                    "zh-TW": "客戶支援"
-                }
-            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -130,6 +95,43 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 31,
+                "is_primary": false,
+                "name": "Customer Support",
+                "name_localizations": {
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
                 }
             },
             {
@@ -215,7 +217,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Genshin Artifacter Official Server",
+                "value": "Genshin Artifacter Botの公式コミュニティ&サポートサーバーです。質問/botのアップデート通知はここから配信します。",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -241,171 +243,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "日本語",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "artifacter",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Обслужване на клиенти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Uživatelská podpora",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kundesupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kundensupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εξυπηρέτηση πελατών",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Asiakastuki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Assistance clientèle",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कस्टमर सपोर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Podrška korisnicima",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Ügyfélszolgálat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Assistenza clienti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "カスタマーサポート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "고객 지원",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Klientų palaikymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Klantenondersteuning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kundestøtte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pomoc techniczna",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Asistență clienți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Служба поддержки",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ฝ่ายสนับสนุนลูกค้า",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Müşteri Desteği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Підтримка користувачів",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Chăm Sóc Khách Hàng",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Atención al cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Suporte ao cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kundsupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "客户支持",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "客戶支援",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -555,6 +398,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Обслужване на клиенти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Uživatelská podpora",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kundesupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kundensupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εξυπηρέτηση πελατών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Asiakastuki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Assistance clientèle",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कस्टमर सपोर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Podrška korisnicima",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Ügyfélszolgálat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Assistenza clienti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "カスタマーサポート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "고객 지원",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Klientų palaikymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Klantenondersteuning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kundestøtte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pomoc techniczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Asistență clienți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Служба поддержки",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müşteri Desteği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Підтримка користувачів",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Chăm Sóc Khách Hàng",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Atención al cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Suporte ao cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kundsupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "客户支持",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "客戶支援",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

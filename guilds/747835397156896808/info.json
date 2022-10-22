@@ -6,11 +6,11 @@
     "splash": null,
     "discovery_splash": "61eab0b89961e6be1e60028a5d33be4c",
     "banner": null,
-    "approximate_presence_count": 2960,
-    "approximate_member_count": 39911,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 2842,
+    "approximate_member_count": 40495,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "fantasypros",
     "keywords": [
         "Fantasy Football",
         "NFL",
@@ -39,14 +39,14 @@
         "icon": "bc5e5f6f659a2b36f9beff0db9faeead",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 2960,
-        "approximate_member_count": 39911,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 2842,
+        "approximate_member_count": 40495,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "61eab0b89961e6be1e60028a5d33be4c",
         "primary_category_id": 7,
-        "vanity_url_code": null,
+        "vanity_url_code": "fantasypros",
         "is_published": false,
         "keywords": [
             "Fantasy Football",
@@ -68,16 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -114,6 +104,16 @@
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
                 }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
             }
         ],
         "primary_category": {
@@ -135,6 +135,11 @@
             },
             "description": {
                 "value": "The ultimate place to chat with other Fantasy Football managers and experts about any fantasy topic. Expert AMAs daily!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "fantasypros",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -191,25 +196,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -359,6 +345,25 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
