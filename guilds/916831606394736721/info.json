@@ -6,9 +6,9 @@
     "splash": "02a6f89be1fa6bc1b675ecf78aab8a01",
     "discovery_splash": "c3587f2dc8650eee45e5ba9461df7199",
     "banner": "c3587f2dc8650eee45e5ba9461df7199",
-    "approximate_presence_count": 458,
-    "approximate_member_count": 4603,
-    "premium_subscription_count": 17,
+    "approximate_presence_count": 304,
+    "approximate_member_count": 4605,
+    "premium_subscription_count": 19,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
@@ -30,9 +30,9 @@
         "icon": "ac15e298220d43bcc9fe97861a2943e6",
         "splash": "02a6f89be1fa6bc1b675ecf78aab8a01",
         "banner": "c3587f2dc8650eee45e5ba9461df7199",
-        "approximate_presence_count": 458,
-        "approximate_member_count": 4603,
-        "premium_subscription_count": 17,
+        "approximate_presence_count": 304,
+        "approximate_member_count": 4605,
+        "premium_subscription_count": 19,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "c3587f2dc8650eee45e5ba9461df7199",
@@ -50,6 +50,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -85,16 +95,6 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -202,6 +202,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -351,25 +370,6 @@
                         },
                         "zh-TW": {
                             "value": "電競",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
