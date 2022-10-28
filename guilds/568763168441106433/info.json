@@ -6,11 +6,11 @@
     "splash": "2694ff4c9b160c96873548db97753704",
     "discovery_splash": null,
     "banner": "2694ff4c9b160c96873548db97753704",
-    "approximate_presence_count": 2768,
-    "approximate_member_count": 15694,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 2665,
+    "approximate_member_count": 15411,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
-    "vanity_url_code": "nansen",
+    "vanity_url_code": null,
     "keywords": [
         "defi",
         "ethereum",
@@ -34,14 +34,14 @@
         "icon": "a_e689e4c173ea14b28dafc5b6c3bd4e8a",
         "splash": "2694ff4c9b160c96873548db97753704",
         "banner": "2694ff4c9b160c96873548db97753704",
-        "approximate_presence_count": 2768,
-        "approximate_member_count": 15694,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 2665,
+        "approximate_member_count": 15411,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 12,
-        "vanity_url_code": "nansen",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "defi",
@@ -58,6 +58,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -131,16 +141,6 @@
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
                 }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
             }
         ],
         "primary_category": {
@@ -192,11 +192,6 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
-            "vanity_url_code": {
-                "value": "nansen",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
             "keywords": [
                 {
                     "value": "defi",
@@ -220,6 +215,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -523,25 +537,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
