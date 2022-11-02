@@ -2,13 +2,13 @@
     "id": "804673564291760148",
     "name": "Filthy Rich Futures",
     "description": "Hardcore futures trading. Risk management and education before profit!",
-    "icon": "a_cfdbfda13ea14e66f671ac10ecc1bce6",
+    "icon": "a_a5b51987aac81cae95d62735ec3803c4",
     "splash": "4d2a6e06a953bafb253b0b1295a71a94",
     "discovery_splash": "e14c64d808302ed06876527fd19b374c",
     "banner": "b73b67516ad252e6138971c174bead87",
-    "approximate_presence_count": 1330,
-    "approximate_member_count": 17368,
-    "premium_subscription_count": 45,
+    "approximate_presence_count": 1347,
+    "approximate_member_count": 17311,
+    "premium_subscription_count": 37,
     "preferred_locale": "en-US",
     "vanity_url_code": "filthyrichfutures",
     "keywords": [
@@ -35,12 +35,12 @@
         "id": "804673564291760148",
         "name": "Filthy Rich Futures",
         "description": "Hardcore futures trading. Risk management and education before profit!",
-        "icon": "a_cfdbfda13ea14e66f671ac10ecc1bce6",
+        "icon": "a_a5b51987aac81cae95d62735ec3803c4",
         "splash": "4d2a6e06a953bafb253b0b1295a71a94",
         "banner": "b73b67516ad252e6138971c174bead87",
-        "approximate_presence_count": 1330,
-        "approximate_member_count": 17368,
-        "premium_subscription_count": 45,
+        "approximate_presence_count": 1347,
+        "approximate_member_count": 17311,
+        "premium_subscription_count": 37,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e14c64d808302ed06876527fd19b374c",
@@ -141,6 +141,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 12,
                 "is_primary": true,
                 "name": "Finance",
@@ -212,16 +222,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             }
         ],
@@ -642,6 +642,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Финанси",
                             "matchLevel": "none",
@@ -943,25 +962,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
