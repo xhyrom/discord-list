@@ -6,9 +6,9 @@
     "splash": "2dd309f421e4a8d8a7abf47112842f96",
     "discovery_splash": "9cfc06c5fc2de24c3c2ec87d92a48346",
     "banner": "a_2dd309f421e4a8d8a7abf47112842f96",
-    "approximate_presence_count": 485,
-    "approximate_member_count": 4757,
-    "premium_subscription_count": 21,
+    "approximate_presence_count": 990,
+    "approximate_member_count": 8367,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "gold-squad",
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "a_97d898b1660e39d6c55a3bca87b439c6",
         "splash": "2dd309f421e4a8d8a7abf47112842f96",
         "banner": "a_2dd309f421e4a8d8a7abf47112842f96",
-        "approximate_presence_count": 485,
-        "approximate_member_count": 4757,
-        "premium_subscription_count": 21,
+        "approximate_presence_count": 990,
+        "approximate_member_count": 8367,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9cfc06c5fc2de24c3c2ec87d92a48346",
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -189,6 +179,16 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -336,25 +336,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -812,6 +793,25 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
