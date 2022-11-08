@@ -4,11 +4,11 @@
     "description": "Blockstars is a music management SIM being built on the Solana blockchain",
     "icon": "22ff220fe5e9d0bc5b1c8daab4d5823d",
     "splash": "be4b0cf7acc35b94ffba8fc4abb8ad4c",
-    "discovery_splash": null,
+    "discovery_splash": "4c56f2fb9c7e1546bdea5d2d48df1993",
     "banner": "c3f530c8713350341e672355a218b1d9",
-    "approximate_presence_count": 428,
-    "approximate_member_count": 6430,
-    "premium_subscription_count": 27,
+    "approximate_presence_count": 539,
+    "approximate_member_count": 6179,
+    "premium_subscription_count": 28,
     "preferred_locale": "en-US",
     "vanity_url_code": "blockstars",
     "keywords": [
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,15 +40,15 @@
         "icon": "22ff220fe5e9d0bc5b1c8daab4d5823d",
         "splash": "be4b0cf7acc35b94ffba8fc4abb8ad4c",
         "banner": "c3f530c8713350341e672355a218b1d9",
-        "approximate_presence_count": 428,
-        "approximate_member_count": 6430,
-        "premium_subscription_count": 27,
+        "approximate_presence_count": 539,
+        "approximate_member_count": 6179,
+        "premium_subscription_count": 28,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "4c56f2fb9c7e1546bdea5d2d48df1993",
         "primary_category_id": 1,
         "vanity_url_code": "blockstars",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "nftgame",
             "solana",
@@ -64,45 +65,46 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 30,
-                "is_primary": false,
-                "name": "LFG",
+                "id": 2,
+                "is_primary": true,
+                "name": "Music",
                 "name_localizations": {
-                    "bg": "LFG",
-                    "cs": "LFG",
-                    "da": "LFG",
-                    "de": "Gruppensuche",
-                    "el": "LFG",
-                    "fi": "Ryhmähaku",
-                    "fr": "LFG",
-                    "hi": "LFG",
-                    "hr": "LFG",
-                    "hu": "LFG",
-                    "it": "LFG",
-                    "ja": "グループ検索",
-                    "ko": "그룹 찾기",
-                    "lt": "Grupės paieškos",
-                    "nl": "LFG",
-                    "no": "LFG",
-                    "pl": "Szukanie grupy",
-                    "ro": "LFG",
-                    "ru": "Поиск группы",
-                    "th": "LFG",
-                    "tr": "Grup Arama",
-                    "uk": "Пошук гільдії",
-                    "vi": "LFG",
-                    "en-GB": "LFG",
-                    "en-US": "LFG",
-                    "es-ES": "LFG",
-                    "pt-BR": "PG",
-                    "sv-SE": "Letar efter grupp (LFG)",
-                    "zh-CN": "找同好（LFG）",
-                    "zh-TW": "LFG"
+                    "bg": "Музика",
+                    "cs": "Hudba",
+                    "da": "Musik",
+                    "de": "Musik",
+                    "el": "Μουσική",
+                    "fi": "Musiikki",
+                    "fr": "Musique",
+                    "hi": "म्यूज़िक",
+                    "hr": "Glazba",
+                    "hu": "Zene",
+                    "it": "Musica",
+                    "ja": "音楽",
+                    "ko": "음악",
+                    "lt": "Muzika",
+                    "nl": "Muziek",
+                    "no": "Musikk",
+                    "pl": "Muzyka",
+                    "ro": "Muzică",
+                    "ru": "Музыка",
+                    "th": "เพลง",
+                    "tr": "Müzik",
+                    "uk": "Музика",
+                    "vi": "Âm Nhạc",
+                    "en-GB": "Music",
+                    "en-US": "Music",
+                    "es-ES": "Música",
+                    "pt-BR": "Música",
+                    "sv-SE": "Musik",
+                    "zh-CN": "音乐",
+                    "zh-TW": "音樂"
                 }
             },
             {
@@ -364,152 +366,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "LFG",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "LFG",
+                            "value": "Hudba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "LFG",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gruppensuche",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "LFG",
+                            "value": "Μουσική",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Ryhmähaku",
+                            "value": "Musiikki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "LFG",
+                            "value": "Musique",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "LFG",
+                            "value": "म्यूज़िक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "LFG",
+                            "value": "Glazba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "LFG",
+                            "value": "Zene",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "LFG",
+                            "value": "Musica",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "グループ検索",
+                            "value": "音楽",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "그룹 찾기",
+                            "value": "음악",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Grupės paieškos",
+                            "value": "Muzika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "LFG",
+                            "value": "Muziek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "LFG",
+                            "value": "Musikk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Szukanie grupy",
+                            "value": "Muzyka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "LFG",
+                            "value": "Muzică",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Поиск группы",
+                            "value": "Музыка",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "LFG",
+                            "value": "เพลง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Grup Arama",
+                            "value": "Müzik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Пошук гільдії",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "LFG",
+                            "value": "Âm Nhạc",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "LFG",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "LFG",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "LFG",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "PG",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Letar efter grupp (LFG)",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "找同好（LFG）",
+                            "value": "音乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "LFG",
+                            "value": "音樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
