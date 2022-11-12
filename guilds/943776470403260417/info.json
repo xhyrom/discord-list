@@ -6,11 +6,11 @@
     "splash": "004e3cccab044aac3bce03d858d4c9e3",
     "discovery_splash": null,
     "banner": "2e1ab739aa88235dadcda7648dafab8d",
-    "approximate_presence_count": 1631,
-    "approximate_member_count": 30898,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 1243,
+    "approximate_member_count": 30146,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
-    "vanity_url_code": "very-tech",
+    "vanity_url_code": null,
     "keywords": [
         "eth",
         "bots",
@@ -39,14 +39,14 @@
         "icon": "055bc9431400fb6f41561ad7e3421ce2",
         "splash": "004e3cccab044aac3bce03d858d4c9e3",
         "banner": "2e1ab739aa88235dadcda7648dafab8d",
-        "approximate_presence_count": 1631,
-        "approximate_member_count": 30898,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 1243,
+        "approximate_member_count": 30146,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 5,
-        "vanity_url_code": "very-tech",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "eth",
@@ -68,16 +68,6 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 30,
                 "is_primary": false,
@@ -113,6 +103,16 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -313,11 +313,6 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
-            "vanity_url_code": {
-                "value": "very-tech",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
             "keywords": [
                 {
                     "value": "eth",
@@ -371,25 +366,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -539,6 +515,25 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
