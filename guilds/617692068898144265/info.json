@@ -1,13 +1,13 @@
 {
     "id": "617692068898144265",
-    "name": "🐲 • Flash Pub",
+    "name": "🐉 • Flash Pub",
     "description": "Serveur publicitaire Français.",
     "icon": "a_eefe34ce1f3ceadd3f5546e6df8f306f",
     "splash": "b3769156bccd5030e28e3d29d971fc71",
     "discovery_splash": "df1f784de42297271fae94c8558ca33e",
     "banner": "a_df1f784de42297271fae94c8558ca33e",
-    "approximate_presence_count": 242,
-    "approximate_member_count": 2382,
+    "approximate_presence_count": 286,
+    "approximate_member_count": 2609,
     "premium_subscription_count": 16,
     "preferred_locale": "fr",
     "vanity_url_code": "pubfr",
@@ -16,7 +16,9 @@
         "fr",
         "giveaway",
         "publicité",
-        "francais"
+        "francais",
+        "ads",
+        "advertising"
     ],
     "features": [
         "COMMUNITY",
@@ -29,18 +31,18 @@
     "verified": false,
     "raw": {
         "id": "617692068898144265",
-        "name": "🐲 • Flash Pub",
+        "name": "🐉 • Flash Pub",
         "description": "Serveur publicitaire Français.",
         "icon": "a_eefe34ce1f3ceadd3f5546e6df8f306f",
         "splash": "b3769156bccd5030e28e3d29d971fc71",
         "banner": "a_df1f784de42297271fae94c8558ca33e",
-        "approximate_presence_count": 242,
-        "approximate_member_count": 2382,
+        "approximate_presence_count": 286,
+        "approximate_member_count": 2609,
         "premium_subscription_count": 16,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "df1f784de42297271fae94c8558ca33e",
-        "primary_category_id": 13,
+        "primary_category_id": 14,
         "vanity_url_code": "pubfr",
         "is_published": false,
         "keywords": [
@@ -48,7 +50,9 @@
             "fr",
             "giveaway",
             "publicité",
-            "francais"
+            "francais",
+            "ads",
+            "advertising"
         ],
         "features": [
             "COMMUNITY",
@@ -59,67 +63,121 @@
         ],
         "categories": [
             {
-                "id": 36,
+                "id": 40,
                 "is_primary": false,
-                "name": "Business",
+                "name": "Wiki & Guide",
                 "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
                 }
             },
             {
-                "id": 13,
+                "id": 14,
                 "is_primary": true,
-                "name": "Other",
+                "name": "General Chatting",
                 "name_localizations": {
-                    "de": "Sonstiges",
-                    "fr": "Autre",
-                    "ru": "Другое"
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
                 }
             }
         ],
         "primary_category": {
-            "id": 13,
+            "id": 14,
             "is_primary": true,
-            "name": "Other",
+            "name": "General Chatting",
             "name_localizations": {
-                "de": "Sonstiges",
-                "fr": "Autre",
-                "ru": "Другое"
+                "bg": "Общуване",
+                "cs": "Prostě chat",
+                "da": "Generelt",
+                "de": "Allgemeine Chats",
+                "el": "Γενική συζήτηση",
+                "fi": "Yleinen keskustelu",
+                "fr": "Discussion générale",
+                "hi": "जनरल चैटिंग",
+                "hr": "Općenito",
+                "hu": "Általános csevegés",
+                "it": "Discussioni generali",
+                "ja": "雑談",
+                "ko": "일반 채팅",
+                "lt": "Bendro pobūdžio pokalbiai",
+                "nl": "Algemene chat",
+                "no": "Generell chatting",
+                "pl": "Rozmowy",
+                "ro": "Discuții generale",
+                "ru": "Общение",
+                "th": "การสนทนาทั่วไป",
+                "tr": "Genel Sohbet",
+                "uk": "Спілкування на загальні теми",
+                "vi": "Trò Chuyện Chung",
+                "en-GB": "General Chatting",
+                "en-US": "General Chatting",
+                "es-ES": "Chateo general",
+                "pt-BR": "Conversas gerais",
+                "sv-SE": "Chatt i allmänhet",
+                "zh-CN": "综合聊天",
+                "zh-TW": "一般聊天"
             }
         },
         "objectID": "617692068898144265",
         "_highlightResult": {
             "name": {
-                "value": "🐲 • Flash Pub",
+                "value": "🐉 • Flash Pub",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -158,158 +216,168 @@
                     "value": "francais",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "ads",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "advertising",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Бизнес",
+                            "value": "Уики и ръководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Business",
+                            "value": "Wiki a návody",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Forretning",
+                            "value": "Wiki & guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unternehmen",
+                            "value": "Wiki & Anleitungen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιχείρηση",
+                            "value": "Wiki & Οδηγοί",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Liiketoiminta",
+                            "value": "Wikit ja ohjeet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Activités commerciales",
+                            "value": "Wiki et guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "बिज़नेस",
+                            "value": "विकिपीडिया और गाइड",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Posao",
+                            "value": "Wiki i vodiči",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Üzlet",
+                            "value": "Wikik és útmutatók",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Affari",
+                            "value": "Wiki e guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ビジネス",
+                            "value": "ウィキペディア&ガイド",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "사업",
+                            "value": "위키, 가이드",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Verslas",
+                            "value": "Vikis ir instrukcijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Zakelijk",
+                            "value": "Wiki en gids",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Næringsliv",
+                            "value": "Wiki og veiledning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Biznes",
+                            "value": "Wiki i przewodniki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Activități comerciale",
+                            "value": "Wiki și ghid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Бизнес",
+                            "value": "Вики и руководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ธุรกิจ",
+                            "value": "วิกิและคู่มือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Ticaret",
+                            "value": "Wiki ve Rehber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Бізнес",
+                            "value": "Вікі та посібники",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Kinh Doanh",
+                            "value": "Wiki & Hướng Dẫn",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Business",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Business",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Negocios",
+                            "value": "Wikipedia y guías",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Negócios",
+                            "value": "Wiki e Guias",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Affärer",
+                            "value": "Wiki och guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "商务",
+                            "value": "维基&指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "商業",
+                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -317,18 +385,153 @@
                 },
                 {
                     "name_localizations": {
+                        "bg": {
+                            "value": "Общуване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Prostě chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Generelt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
                         "de": {
-                            "value": "Sonstiges",
+                            "value": "Allgemeine Chats",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Γενική συζήτηση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yleinen keskustelu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Autre",
+                            "value": "Discussion générale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "जनरल चैटिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Općenito",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Általános csevegés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Discussioni generali",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "雑談",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "일반 채팅",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendro pobūdžio pokalbiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Algemene chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Generell chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozmowy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Discuții generale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Другое",
+                            "value": "Общение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การสนทนาทั่วไป",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Genel Sohbet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Спілкування на загальні теми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Trò Chuyện Chung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Chateo general",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Conversas gerais",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Chatt i allmänhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "综合聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "一般聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -337,18 +540,153 @@
             ],
             "primary_category": {
                 "name_localizations": {
+                    "bg": {
+                        "value": "Общуване",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Prostě chat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Generelt",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
                     "de": {
-                        "value": "Sonstiges",
+                        "value": "Allgemeine Chats",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Γενική συζήτηση",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Yleinen keskustelu",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Autre",
+                        "value": "Discussion générale",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "जनरल चैटिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Općenito",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Általános csevegés",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Discussioni generali",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "雑談",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "일반 채팅",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Bendro pobūdžio pokalbiai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Algemene chat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Generell chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Rozmowy",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Discuții generale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Другое",
+                        "value": "Общение",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การสนทนาทั่วไป",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Genel Sohbet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Спілкування на загальні теми",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Trò Chuyện Chung",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "General Chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "General Chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Chateo general",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Conversas gerais",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Chatt i allmänhet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "综合聊天",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "一般聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
