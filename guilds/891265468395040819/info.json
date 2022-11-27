@@ -6,9 +6,9 @@
     "splash": "ec6d44f831456a5f7c598d9ac558aa68",
     "discovery_splash": "a5fd48a2281874ede0b9f5dfcb63a2e0",
     "banner": "a_24611abd40b9602fca3a16d51628dd88",
-    "approximate_presence_count": 408,
-    "approximate_member_count": 2324,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 381,
+    "approximate_member_count": 2590,
+    "premium_subscription_count": 1,
     "preferred_locale": "tr",
     "vanity_url_code": null,
     "keywords": [
@@ -19,12 +19,14 @@
         "manga",
         "yayıncı",
         "reddit",
-        "sosyal"
+        "sosyal",
+        "lol"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,9 +39,9 @@
         "icon": "a_777cfa4982874804536266639e079a7d",
         "splash": "ec6d44f831456a5f7c598d9ac558aa68",
         "banner": "a_24611abd40b9602fca3a16d51628dd88",
-        "approximate_presence_count": 408,
-        "approximate_member_count": 2324,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 381,
+        "approximate_member_count": 2590,
+        "premium_subscription_count": 1,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "a5fd48a2281874ede0b9f5dfcb63a2e0",
@@ -54,12 +56,14 @@
             "manga",
             "yayıncı",
             "reddit",
-            "sosyal"
+            "sosyal",
+            "lol"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -263,6 +267,11 @@
                 },
                 {
                     "value": "sosyal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lol",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
