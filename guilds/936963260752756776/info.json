@@ -6,9 +6,9 @@
     "splash": null,
     "discovery_splash": "3321789d6a27eb7c21d65c2c2c3c749d",
     "banner": "5e4b195ecc811baeaf63347633a139d6",
-    "approximate_presence_count": 790,
-    "approximate_member_count": 6619,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 764,
+    "approximate_member_count": 7375,
+    "premium_subscription_count": 11,
     "preferred_locale": "fr",
     "vanity_url_code": null,
     "keywords": [
@@ -34,9 +34,9 @@
         "icon": "fc533234a997713160f4a3a38fcebe25",
         "splash": null,
         "banner": "5e4b195ecc811baeaf63347633a139d6",
-        "approximate_presence_count": 790,
-        "approximate_member_count": 6619,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 764,
+        "approximate_member_count": 7375,
+        "premium_subscription_count": 11,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "3321789d6a27eb7c21d65c2c2c3c749d",
@@ -58,6 +58,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -93,16 +103,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -264,6 +264,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -411,25 +430,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,9 +6,9 @@
     "splash": "5160000488c50d8dc7af74293680f3df",
     "discovery_splash": "e584a92931e32c57389f8939b9ca6fcd",
     "banner": "811d49840b5a4ba30a7386d77de686c1",
-    "approximate_presence_count": 2685,
-    "approximate_member_count": 7301,
-    "premium_subscription_count": 22,
+    "approximate_presence_count": 2527,
+    "approximate_member_count": 7287,
+    "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "theunexpectables",
     "keywords": [
@@ -34,9 +34,9 @@
         "icon": "b9c90c3c18f65ad4ba19747a64387b43",
         "splash": "5160000488c50d8dc7af74293680f3df",
         "banner": "811d49840b5a4ba30a7386d77de686c1",
-        "approximate_presence_count": 2685,
-        "approximate_member_count": 7301,
-        "premium_subscription_count": 22,
+        "approximate_presence_count": 2527,
+        "approximate_member_count": 7287,
+        "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e584a92931e32c57389f8939b9ca6fcd",
@@ -58,6 +58,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 4,
                 "is_primary": true,
@@ -93,16 +103,6 @@
                     "sv-SE": "Kultur",
                     "zh-CN": "创意美术",
                     "zh-TW": "創作藝術"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -296,6 +296,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Художествени изкуства",
                             "matchLevel": "none",
@@ -443,25 +462,6 @@
                         },
                         "zh-TW": {
                             "value": "創作藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
