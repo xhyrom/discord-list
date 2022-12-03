@@ -6,9 +6,9 @@
     "splash": "ac5c99e68a96be1774f17458bff3f69b",
     "discovery_splash": "ac5c99e68a96be1774f17458bff3f69b",
     "banner": "a_c0d3c5dc3da91572518de9eb6225c14e",
-    "approximate_presence_count": 862,
-    "approximate_member_count": 19019,
-    "premium_subscription_count": 19,
+    "approximate_presence_count": 1157,
+    "approximate_member_count": 22327,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "tradehub",
     "keywords": [
@@ -38,9 +38,9 @@
         "icon": "a_4715450917785b60cbdffc78b3c432dd",
         "splash": "ac5c99e68a96be1774f17458bff3f69b",
         "banner": "a_c0d3c5dc3da91572518de9eb6225c14e",
-        "approximate_presence_count": 862,
-        "approximate_member_count": 19019,
-        "premium_subscription_count": 19,
+        "approximate_presence_count": 1157,
+        "approximate_member_count": 22327,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ac5c99e68a96be1774f17458bff3f69b",
@@ -67,40 +67,50 @@
         ],
         "categories": [
             {
-                "id": 27,
+                "id": 36,
                 "is_primary": false,
-                "name": "Cryptocurrency",
+                "name": "Business",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Бизнес",
+                    "cs": "Business",
+                    "da": "Forretning",
+                    "de": "Unternehmen",
+                    "el": "Επιχείρηση",
+                    "fi": "Liiketoiminta",
+                    "fr": "Activités commerciales",
+                    "hi": "बिज़नेस",
+                    "hr": "Posao",
+                    "hu": "Üzlet",
+                    "it": "Affari",
+                    "ja": "ビジネス",
+                    "ko": "사업",
+                    "lt": "Verslas",
+                    "nl": "Zakelijk",
+                    "no": "Næringsliv",
+                    "pl": "Biznes",
+                    "ro": "Activități comerciale",
+                    "ru": "Бизнес",
+                    "th": "ธุรกิจ",
+                    "tr": "Ticaret",
+                    "uk": "Бізнес",
+                    "vi": "Kinh Doanh",
+                    "en-GB": "Business",
+                    "en-US": "Business",
+                    "es-ES": "Negocios",
+                    "pt-BR": "Negócios",
+                    "sv-SE": "Affärer",
+                    "zh-CN": "商务",
+                    "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -141,87 +151,77 @@
                 }
             },
             {
-                "id": 36,
+                "id": 27,
                 "is_primary": false,
-                "name": "Business",
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
                 }
             },
             {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 28,
+                "id": 26,
                 "is_primary": false,
-                "name": "Investing",
+                "name": "News & Current Events",
                 "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
                 }
             }
         ],
@@ -335,152 +335,171 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Forretning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Unternehmen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Επιχείρηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Liiketoiminta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Activités commerciales",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "बिज़नेस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Posao",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Üzlet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Affari",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "ビジネス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "사업",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Verslas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Zakelijk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Næringsliv",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Biznes",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Activități comerciale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "ธุรกิจ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Ticaret",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Бізнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Kinh Doanh",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Negocios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Negócios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Affärer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "商务",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -643,152 +662,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Бизнес",
+                            "value": "Криптовалута",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Business",
+                            "value": "Kryptoměny",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Forretning",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unternehmen",
+                            "value": "Kryptowährung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιχείρηση",
+                            "value": "Κρυπτονόμισμα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Liiketoiminta",
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Activités commerciales",
+                            "value": "Cryptomonnaie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "बिज़नेस",
+                            "value": "क्रिप्टोकरेंसी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Posao",
+                            "value": "Kriptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Üzlet",
+                            "value": "Kriptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Affari",
+                            "value": "Criptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ビジネス",
+                            "value": "暗号通貨",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "사업",
+                            "value": "암호화폐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Verslas",
+                            "value": "Kriptovaliuta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Zakelijk",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Næringsliv",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Biznes",
+                            "value": "Kryptowaluty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Activități comerciale",
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Бизнес",
+                            "value": "Криптовалюта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ธุรกิจ",
+                            "value": "สกุลเงินดิจิทัล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Ticaret",
+                            "value": "Kripto Para Birimleri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Бізнес",
+                            "value": "Криптовалюти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Kinh Doanh",
+                            "value": "Tiền Ảo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Business",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Business",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Negocios",
+                            "value": "Criptomonedas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Negócios",
+                            "value": "Criptomoeda",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Affärer",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "商务",
+                            "value": "数字货币",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "商業",
+                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -797,171 +816,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Забавление",
+                            "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zábava",
+                            "value": "Zprávy a aktuální dění",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Underholdning",
+                            "value": "Nyheder & nuværende begivenheder",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unterhaltung",
+                            "value": "Nachrichten & Zeitgeschehen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ψυχαγωγία",
+                            "value": "Νέα & Επικαιρότητα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Viihde",
+                            "value": "Uutiset ja ajankohtaistapahtumat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Divertissements",
+                            "value": "Actualité",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "एंटरटेनमेंट",
+                            "value": "न्यूज़ और करेंट इवेंट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Zabava",
+                            "value": "Vijesti i aktualnosti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szórakozás",
+                            "value": "Hírek és aktuális események",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Intrattenimento",
+                            "value": "Notizie ed eventi attuali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "エンターテインメント",
+                            "value": "ニュース&時事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "엔터테인먼트",
+                            "value": "뉴스, 시사",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Pramogos",
+                            "value": "Naujienos ir dabartiniai įvykiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Entertainment",
+                            "value": "Nieuws en actualiteiten",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Underholdning",
+                            "value": "Nyheter og aktuelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozrywka",
+                            "value": "Aktualności i bieżące wydarzenia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Divertisment",
+                            "value": "Actualități",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Развлечения",
+                            "value": "Новости и текущие события",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ความบันเทิง",
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğlence",
+                            "value": "Haberler ve Güncel Olaylar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розваги",
+                            "value": "Новини й поточні події",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Giải Trí",
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Entertainment",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Entertainment",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Entretenimiento",
+                            "value": "Noticias y actualidad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Entretenimento",
+                            "value": "Notícias e Atualidades",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Underhållning",
+                            "value": "Nyheter och aktuella händelser",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "娱乐",
+                            "value": "新闻&时事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

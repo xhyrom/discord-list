@@ -1,16 +1,16 @@
 {
     "id": "794911132770238517",
     "name": "SimpMC",
-    "description": "",
+    "description": "Cộng đồng của Simpmc Network cho mọi người giao lưu và tham gia các sự kiện với nhau",
     "icon": "71872e4cc3c0bdf0ad371b3d4ad85a7e",
     "splash": null,
     "discovery_splash": "cd91e9c90bc59f110e45dc720c87919b",
-    "banner": "fe12a2e3da6a084fb73e097de361852e",
-    "approximate_presence_count": 208,
-    "approximate_member_count": 5992,
-    "premium_subscription_count": 24,
+    "banner": "104550b7eb66216503061f598a4a26fd",
+    "approximate_presence_count": 285,
+    "approximate_member_count": 5941,
+    "premium_subscription_count": 9,
     "preferred_locale": "vi",
-    "vanity_url_code": "simpmc",
+    "vanity_url_code": "simpmc-794911132770238517",
     "keywords": [
         "minecraft",
         "earth",
@@ -32,19 +32,19 @@
     "raw": {
         "id": "794911132770238517",
         "name": "SimpMC",
-        "description": "",
+        "description": "Cộng đồng của Simpmc Network cho mọi người giao lưu và tham gia các sự kiện với nhau",
         "icon": "71872e4cc3c0bdf0ad371b3d4ad85a7e",
         "splash": null,
-        "banner": "fe12a2e3da6a084fb73e097de361852e",
-        "approximate_presence_count": 208,
-        "approximate_member_count": 5992,
-        "premium_subscription_count": 24,
+        "banner": "104550b7eb66216503061f598a4a26fd",
+        "approximate_presence_count": 285,
+        "approximate_member_count": 5941,
+        "premium_subscription_count": 9,
         "preferred_locale": "vi",
         "auto_removed": false,
         "discovery_splash": "cd91e9c90bc59f110e45dc720c87919b",
-        "primary_category_id": 1,
-        "vanity_url_code": "simpmc",
-        "is_published": false,
+        "primary_category_id": 3,
+        "vanity_url_code": "simpmc-794911132770238517",
+        "is_published": true,
         "keywords": [
             "minecraft",
             "earth",
@@ -62,6 +62,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
+                "name_localizations": {
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
+                }
+            },
             {
                 "id": 16,
                 "is_primary": false,
@@ -100,6 +137,43 @@
                 }
             },
             {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
+            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -135,43 +209,80 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
+            },
+            {
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
+                "name_localizations": {
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
+                }
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 3,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "Entertainment",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Забавление",
+                "cs": "Zábava",
+                "da": "Underholdning",
+                "de": "Unterhaltung",
+                "el": "Ψυχαγωγία",
+                "fi": "Viihde",
+                "fr": "Divertissements",
+                "hi": "एंटरटेनमेंट",
+                "hr": "Zabava",
+                "hu": "Szórakozás",
+                "it": "Intrattenimento",
+                "ja": "エンターテインメント",
+                "ko": "엔터테인먼트",
+                "lt": "Pramogos",
+                "nl": "Entertainment",
+                "no": "Underholdning",
+                "pl": "Rozrywka",
+                "ro": "Divertisment",
+                "ru": "Развлечения",
+                "th": "ความบันเทิง",
+                "tr": "Eğlence",
+                "uk": "Розваги",
+                "vi": "Giải Trí",
+                "en-GB": "Entertainment",
+                "en-US": "Entertainment",
+                "es-ES": "Entretenimiento",
+                "pt-BR": "Entretenimento",
+                "sv-SE": "Underhållning",
+                "zh-CN": "娱乐",
+                "zh-TW": "娛樂"
             }
         },
         "objectID": "794911132770238517",
@@ -182,12 +293,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Cộng đồng của Simpmc Network cho mọi người giao lưu và tham gia các sự kiện với nhau",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "simpmc",
+                "value": "simpmc-794911132770238517",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -224,6 +335,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความบันเทิง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğlence",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розваги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giải Trí",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Entretenimiento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Entretenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Underhållning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "娱乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -373,6 +638,160 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -531,157 +950,311 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Разработчик на игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vývojář her",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spiludvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Spieleentwicklung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματιστής παιχνιδιών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelinkehittäjät",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Développeur de jeux vidéo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेम डेवलपर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Razvoj igara",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékfejlesztő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Sviluppatore di videogiochi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲームデベロッパー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 개발",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gameontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Spillutvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Deweloper gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Dezvoltarea jocurilor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Разработка игр",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้พัฒนาเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun Geliştiricisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розробка ігор",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Phát Triển Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Desarrollo de juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Desenvolvedor de Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Spelutvecklare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏开发人员",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲開發者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Забавление",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Zábava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Unterhaltung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Ψυχαγωγία",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Viihde",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Divertissements",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "एंटरटेनमेंट",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Zabava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Szórakozás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Intrattenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "エンターテインメント",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "엔터테인먼트",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Pramogos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Rozrywka",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Divertisment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Развлечения",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "ความบันเทิง",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Eğlence",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Розваги",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Giải Trí",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Entretenimiento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Entretenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Underhållning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "娱乐",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "娛樂",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
