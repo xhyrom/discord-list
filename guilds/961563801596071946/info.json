@@ -1,13 +1,13 @@
 {
     "id": "961563801596071946",
     "name": "Hamsa",
-    "description": "اهلا وسهلا بك في همســة , هو سيرفر متخصص في انشاء تصاميم  ب  اسعار منافسة  وندعم اغلب الطرق للدفع",
+    "description": "خـادم هـمـسـة ، هـو خـادم مـتـمـيز مخـتص في التـصاميم لجميع المنـصات و يدعم اغلـب طرق الدفـع",
     "icon": "031041c22d184025453da85b9c312a00",
     "splash": "0d125918f94116527f22ec48ae6c1cf4",
     "discovery_splash": "d84e666ce1ec4f909b0026492d39ce2f",
     "banner": "f7e2b090902f239c6af3a88841ec93d3",
-    "approximate_presence_count": 228,
-    "approximate_member_count": 1825,
+    "approximate_presence_count": 246,
+    "approximate_member_count": 1831,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -32,12 +32,12 @@
     "raw": {
         "id": "961563801596071946",
         "name": "Hamsa",
-        "description": "اهلا وسهلا بك في همســة , هو سيرفر متخصص في انشاء تصاميم  ب  اسعار منافسة  وندعم اغلب الطرق للدفع",
+        "description": "خـادم هـمـسـة ، هـو خـادم مـتـمـيز مخـتص في التـصاميم لجميع المنـصات و يدعم اغلـب طرق الدفـع",
         "icon": "031041c22d184025453da85b9c312a00",
         "splash": "0d125918f94116527f22ec48ae6c1cf4",
         "banner": "f7e2b090902f239c6af3a88841ec93d3",
-        "approximate_presence_count": 228,
-        "approximate_member_count": 1825,
+        "approximate_presence_count": 246,
+        "approximate_member_count": 1831,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -62,6 +62,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 4,
                 "is_primary": true,
@@ -97,16 +107,6 @@
                     "sv-SE": "Kultur",
                     "zh-CN": "创意美术",
                     "zh-TW": "創作藝術"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -192,7 +192,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "اهلا وسهلا بك في همســة , هو سيرفر متخصص في انشاء تصاميم  ب  اسعار منافسة  وندعم اغلب الطرق للدفع",
+                "value": "خـادم هـمـسـة ، هـو خـادم مـتـمـيز مخـتص في التـصاميم لجميع المنـصات و يدعم اغلـب طرق الدفـع",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -239,6 +239,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -388,25 +407,6 @@
                         },
                         "zh-TW": {
                             "value": "創作藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
