@@ -6,11 +6,11 @@
     "splash": "4e5c51d6a796d6bfdc715cdedeaca416",
     "discovery_splash": null,
     "banner": "a_e3ec5bb4ce21feccb5d2cea7fcc589d5",
-    "approximate_presence_count": 976,
-    "approximate_member_count": 5686,
-    "premium_subscription_count": 32,
+    "approximate_presence_count": 564,
+    "approximate_member_count": 5570,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
-    "vanity_url_code": "niscala",
+    "vanity_url_code": null,
     "keywords": [
         "niscala",
         "community",
@@ -35,14 +35,14 @@
         "icon": "a_8f417265eb526f90a51a8c9ddf213961",
         "splash": "4e5c51d6a796d6bfdc715cdedeaca416",
         "banner": "a_e3ec5bb4ce21feccb5d2cea7fcc589d5",
-        "approximate_presence_count": 976,
-        "approximate_member_count": 5686,
-        "premium_subscription_count": 32,
+        "approximate_presence_count": 564,
+        "approximate_member_count": 5570,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 9,
-        "vanity_url_code": "niscala",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "niscala",
@@ -98,6 +98,16 @@
                 }
             },
             {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
+            {
                 "id": 3,
                 "is_primary": true,
                 "name": "Entertainment",
@@ -132,16 +142,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -265,11 +265,6 @@
             },
             "description": {
                 "value": "server tempat nongkrong dan lucu Lucuan untuk menemukan teman baru sampai mungkin seperti namanya dapet pacar baru :v",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "niscala",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -467,6 +462,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -614,25 +628,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
