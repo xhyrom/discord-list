@@ -2,13 +2,13 @@
     "id": "854116779692785735",
     "name": "Queen's Replace",
     "description": "Replaces and mods for FiveM",
-    "icon": "747163c0dcb6ee46d004bca731c4c442",
+    "icon": "a_d8389aa70e8c3fa80a3ac6949c70fb8a",
     "splash": "c911f139a1fd9d89dfabe0511a0b81e0",
     "discovery_splash": "43e67b6207c53869aa9e34111d90a3b3",
-    "banner": "fe01ab946a822c6e9ec1571b109f0aaf",
-    "approximate_presence_count": 537,
-    "approximate_member_count": 3195,
-    "premium_subscription_count": 11,
+    "banner": "909b1347321f0242a7e9b8f39b4a9dd6",
+    "approximate_presence_count": 717,
+    "approximate_member_count": 3177,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
     "vanity_url_code": "queen-s-replace-854116779692785735",
     "keywords": [
@@ -16,12 +16,12 @@
         "replace",
         "fivem",
         "gta5",
-        "adobe",
         "photoshop",
         "skin",
-        "logo",
         "gtaonline",
-        "mod"
+        "mod",
+        "gta",
+        "rp"
     ],
     "features": [
         "COMMUNITY",
@@ -37,12 +37,12 @@
         "id": "854116779692785735",
         "name": "Queen's Replace",
         "description": "Replaces and mods for FiveM",
-        "icon": "747163c0dcb6ee46d004bca731c4c442",
+        "icon": "a_d8389aa70e8c3fa80a3ac6949c70fb8a",
         "splash": "c911f139a1fd9d89dfabe0511a0b81e0",
-        "banner": "fe01ab946a822c6e9ec1571b109f0aaf",
-        "approximate_presence_count": 537,
-        "approximate_member_count": 3195,
-        "premium_subscription_count": 11,
+        "banner": "909b1347321f0242a7e9b8f39b4a9dd6",
+        "approximate_presence_count": 717,
+        "approximate_member_count": 3177,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "43e67b6207c53869aa9e34111d90a3b3",
@@ -54,12 +54,12 @@
             "replace",
             "fivem",
             "gta5",
-            "adobe",
             "photoshop",
             "skin",
-            "logo",
             "gtaonline",
-            "mod"
+            "mod",
+            "gta",
+            "rp"
         ],
         "features": [
             "COMMUNITY",
@@ -71,77 +71,114 @@
         ],
         "categories": [
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
                 }
             },
             {
-                "id": 5,
-                "is_primary": true,
-                "name": "Science & Tech",
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
                 "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 49,
+                "is_primary": true,
+                "name": "Bots",
+                "name_localizations": {
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
                 }
             },
             {
@@ -182,40 +219,40 @@
                 }
             },
             {
-                "id": 49,
+                "id": 1,
                 "is_primary": true,
-                "name": "Bots",
+                "name": "Gaming",
                 "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             }
         ],
@@ -295,22 +332,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "adobe",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "photoshop",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "skin",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "logo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -323,158 +350,168 @@
                     "value": "mod",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "gta",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rp",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Разработчик на игри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Vývojář her",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Spiludvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Spieleentwicklung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Προγραμματιστής παιχνιδιών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Pelinkehittäjät",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Développeur de jeux vidéo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "गेम डेवलपर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Razvoj igara",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Játékfejlesztő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Sviluppatore di videogiochi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "ゲームデベロッパー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "게임 개발",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Žaidimų kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Gameontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Spillutvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Deweloper gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Dezvoltarea jocurilor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Разработка игр",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "ผู้พัฒนาเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Oyun Geliştiricisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Розробка ігор",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Nhà Phát Triển Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Desarrollo de juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Desenvolvedor de Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Spelutvecklare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "游戏开发人员",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -483,152 +520,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Наука и технологии",
+                            "value": "Електронни спортове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Věda a technika",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Videnskab & teknologi",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Wissenschaft & Technik",
+                            "value": "E-Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Tiede ja tekniikka",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Science et technologie",
+                            "value": "eSport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "साइंस और टेक",
+                            "value": "ईस्पोर्ट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Znanost i tehnologija",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tudomány és technológia",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Scienza e tecnologia",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "サイエンス&テクノロジー",
+                            "value": "eスポーツ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "과학, 기술",
+                            "value": "이스포츠",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mokslas ir technologijos",
+                            "value": "E. sportas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Wetenschap en tech",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Vitenskap og teknologi",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Nauka i technika",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Știință și tehnologie",
+                            "value": "eSports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Наука и техника",
+                            "value": "Киберспорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "value": "อีสปอร์ต",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Bilim ve Teknoloji",
+                            "value": "E-spor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Наука й технології",
+                            "value": "Електронний спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Khoa Học & Công Nghệ",
+                            "value": "Thể Thao Điện Tử",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Science & tech",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Science & Tech",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Ciencia y tecnología",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Ciência e Tecnologia",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Vetenskap och teknologi",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "科学&技术",
+                            "value": "电子竞技",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "科學與技術",
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ботове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Boti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Botit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बॉट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Botovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Botok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "봇",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Botai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Boter",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Boty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Boți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Боты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Botlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Боти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bottar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "机器人",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -791,152 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ботове",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Boti",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Bots",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Botit",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "बॉट्स",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Botovi",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Botok",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Bot",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Bot",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "봇",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Botai",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Boter",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Boty",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Boți",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Боты",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Bot",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Botlar",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Боти",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Bot",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Bots",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Bots",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Bots",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bottar",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "机器人",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "機器人",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
