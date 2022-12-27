@@ -4,13 +4,13 @@
     "description": "The official support server for PopCord !",
     "icon": "8b502a85b29b91fc64617ed59b1ba3d3",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "1cd1826a2cc0cf8d36f0082e733be441",
     "banner": null,
-    "approximate_presence_count": 117,
-    "approximate_member_count": 1004,
+    "approximate_presence_count": 149,
+    "approximate_member_count": 1038,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "popcord-support-911936163395301379",
     "keywords": [
         "popcord",
         "bots",
@@ -25,6 +25,8 @@
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -38,15 +40,15 @@
         "icon": "8b502a85b29b91fc64617ed59b1ba3d3",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 117,
-        "approximate_member_count": 1004,
+        "approximate_presence_count": 149,
+        "approximate_member_count": 1038,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "1cd1826a2cc0cf8d36f0082e733be441",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "popcord-support-911936163395301379",
+        "is_published": true,
         "keywords": [
             "popcord",
             "bots",
@@ -61,6 +63,8 @@
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -261,6 +265,11 @@
             },
             "description": {
                 "value": "The official support server for PopCord !",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "popcord-support-911936163395301379",
                 "matchLevel": "none",
                 "matchedWords": []
             },
