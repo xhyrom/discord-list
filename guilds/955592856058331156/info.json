@@ -2,29 +2,34 @@
     "id": "955592856058331156",
     "name": "Cantinho do Tornado",
     "description": "Servidor do atual Youtuber: UltimateTornado",
-    "icon": "a_02d85f4457fae3c6cca6bbfaabafb96e",
-    "splash": null,
-    "discovery_splash": "afa06f873cff27930bdf9c5a1f541d61",
+    "icon": "a_0b2f4af4e23dcb4ea08964d2bd5b4d6e",
+    "splash": "8a0959add52bb1097059b1d6dc32bbe6",
+    "discovery_splash": "8a0959add52bb1097059b1d6dc32bbe6",
     "banner": "179b2b542f1ee51b4ea0fbbcfa7c7b44",
-    "approximate_presence_count": 130,
-    "approximate_member_count": 1863,
+    "approximate_presence_count": 277,
+    "approximate_member_count": 1851,
     "premium_subscription_count": 2,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "cantinho-do-tornado-955592856058331156",
     "keywords": [
-        "youtube",
         "anime",
         "jogos",
         "memes",
         "streamer",
-        "mangá",
-        "social"
+        "social",
+        "kodak",
+        "youtuber",
+        "tiktok",
+        "diversão",
+        "comedia"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -32,69 +37,74 @@
         "id": "955592856058331156",
         "name": "Cantinho do Tornado",
         "description": "Servidor do atual Youtuber: UltimateTornado",
-        "icon": "a_02d85f4457fae3c6cca6bbfaabafb96e",
-        "splash": null,
+        "icon": "a_0b2f4af4e23dcb4ea08964d2bd5b4d6e",
+        "splash": "8a0959add52bb1097059b1d6dc32bbe6",
         "banner": "179b2b542f1ee51b4ea0fbbcfa7c7b44",
-        "approximate_presence_count": 130,
-        "approximate_member_count": 1863,
+        "approximate_presence_count": 277,
+        "approximate_member_count": 1851,
         "premium_subscription_count": 2,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
-        "discovery_splash": "afa06f873cff27930bdf9c5a1f541d61",
-        "primary_category_id": 1,
+        "discovery_splash": "8a0959add52bb1097059b1d6dc32bbe6",
+        "primary_category_id": 3,
         "vanity_url_code": "cantinho-do-tornado-955592856058331156",
         "is_published": true,
         "keywords": [
-            "youtube",
             "anime",
             "jogos",
             "memes",
             "streamer",
-            "mangá",
-            "social"
+            "social",
+            "kodak",
+            "youtuber",
+            "tiktok",
+            "diversão",
+            "comedia"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 46,
-                "is_primary": false,
-                "name": "Console",
+                "id": 2,
+                "is_primary": true,
+                "name": "Music",
                 "name_localizations": {
-                    "bg": "Конзола",
-                    "cs": "Konzole",
-                    "da": "Konsol",
-                    "de": "Konsolen",
-                    "el": "Κονσόλες",
-                    "fi": "Konsolit",
-                    "fr": "Console",
-                    "hi": "कंसोल",
-                    "hr": "Konzole",
-                    "hu": "Konzol",
-                    "it": "Console",
-                    "ja": "コンソール",
-                    "ko": "게임 콘솔",
-                    "lt": "Žaidimų konsolės",
-                    "nl": "Console",
-                    "no": "Konsoll",
-                    "pl": "Konsola",
-                    "ro": "Consolă",
-                    "ru": "Консоли",
-                    "th": "คอนโซล",
-                    "tr": "Konsol",
-                    "uk": "Консолі",
-                    "vi": "Console",
-                    "en-GB": "Console",
-                    "en-US": "Console",
-                    "es-ES": "Consola",
-                    "pt-BR": "Console",
-                    "sv-SE": "Konsol",
-                    "zh-CN": "主机端",
-                    "zh-TW": "遊戲主機"
+                    "bg": "Музика",
+                    "cs": "Hudba",
+                    "da": "Musik",
+                    "de": "Musik",
+                    "el": "Μουσική",
+                    "fi": "Musiikki",
+                    "fr": "Musique",
+                    "hi": "म्यूज़िक",
+                    "hr": "Glazba",
+                    "hu": "Zene",
+                    "it": "Musica",
+                    "ja": "音楽",
+                    "ko": "음악",
+                    "lt": "Muzika",
+                    "nl": "Muziek",
+                    "no": "Musikk",
+                    "pl": "Muzyka",
+                    "ro": "Muzică",
+                    "ru": "Музыка",
+                    "th": "เพลง",
+                    "tr": "Müzik",
+                    "uk": "Музика",
+                    "vi": "Âm Nhạc",
+                    "en-GB": "Music",
+                    "en-US": "Music",
+                    "es-ES": "Música",
+                    "pt-BR": "Música",
+                    "sv-SE": "Musik",
+                    "zh-CN": "音乐",
+                    "zh-TW": "音樂"
                 }
             },
             {
@@ -247,40 +257,40 @@
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 3,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "Entertainment",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Забавление",
+                "cs": "Zábava",
+                "da": "Underholdning",
+                "de": "Unterhaltung",
+                "el": "Ψυχαγωγία",
+                "fi": "Viihde",
+                "fr": "Divertissements",
+                "hi": "एंटरटेनमेंट",
+                "hr": "Zabava",
+                "hu": "Szórakozás",
+                "it": "Intrattenimento",
+                "ja": "エンターテインメント",
+                "ko": "엔터테인먼트",
+                "lt": "Pramogos",
+                "nl": "Entertainment",
+                "no": "Underholdning",
+                "pl": "Rozrywka",
+                "ro": "Divertisment",
+                "ru": "Развлечения",
+                "th": "ความบันเทิง",
+                "tr": "Eğlence",
+                "uk": "Розваги",
+                "vi": "Giải Trí",
+                "en-GB": "Entertainment",
+                "en-US": "Entertainment",
+                "es-ES": "Entretenimiento",
+                "pt-BR": "Entretenimento",
+                "sv-SE": "Underhållning",
+                "zh-CN": "娱乐",
+                "zh-TW": "娛樂"
             }
         },
         "objectID": "955592856058331156",
@@ -302,11 +312,6 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -327,12 +332,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mangá",
+                    "value": "social",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "social",
+                    "value": "kodak",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtuber",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tiktok",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "diversão",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "comedia",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -341,152 +366,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Конзола",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Konzole",
+                            "value": "Hudba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Konsol",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Konsolen",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κονσόλες",
+                            "value": "Μουσική",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Konsolit",
+                            "value": "Musiikki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Console",
+                            "value": "Musique",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कंसोल",
+                            "value": "म्यूज़िक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Konzole",
+                            "value": "Glazba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Konzol",
+                            "value": "Zene",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Console",
+                            "value": "Musica",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コンソール",
+                            "value": "音楽",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 콘솔",
+                            "value": "음악",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų konsolės",
+                            "value": "Muzika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Console",
+                            "value": "Muziek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Konsoll",
+                            "value": "Musikk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Konsola",
+                            "value": "Muzyka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Consolă",
+                            "value": "Muzică",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Консоли",
+                            "value": "Музыка",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "คอนโซล",
+                            "value": "เพลง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Konsol",
+                            "value": "Müzik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Консолі",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Console",
+                            "value": "Âm Nhạc",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Console",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Console",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Consola",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Console",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Konsol",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "主机端",
+                            "value": "音乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲主機",
+                            "value": "音樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1112,152 +1137,152 @@
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Забавление",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Zábava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Unterhaltung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Ψυχαγωγία",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Viihde",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Divertissements",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "एंटरटेनमेंट",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Zabava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Szórakozás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Intrattenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "エンターテインメント",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "엔터테인먼트",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Pramogos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Rozrywka",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Divertisment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Развлечения",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "ความบันเทิง",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Eğlence",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Розваги",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Giải Trí",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Entretenimiento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Entretenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Underhållning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "娱乐",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "娛樂",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
