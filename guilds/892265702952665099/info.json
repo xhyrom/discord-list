@@ -4,9 +4,9 @@
     "description": "Server da OiSakura, servidor brasileiro dedicado a comunidades no geral para conversar e jogar!",
     "icon": "19c31cc40a55740ef5b1f2228d9b66e1",
     "splash": "c97f822e808f3e845bfef70c8653ed31",
-    "discovery_splash": "a7310dfc24e4c0759305b5ba429d050f",
+    "discovery_splash": "19c31cc40a55740ef5b1f2228d9b66e1",
     "banner": "bed738c7b171d7dac4489e492fe250bd",
-    "approximate_presence_count": 324,
+    "approximate_presence_count": 261,
     "approximate_member_count": 1742,
     "premium_subscription_count": 7,
     "preferred_locale": "pt-BR",
@@ -19,7 +19,9 @@
         "live",
         "memes",
         "filme",
-        "games"
+        "games",
+        "gta",
+        "csgo"
     ],
     "features": [
         "COMMUNITY",
@@ -38,12 +40,12 @@
         "icon": "19c31cc40a55740ef5b1f2228d9b66e1",
         "splash": "c97f822e808f3e845bfef70c8653ed31",
         "banner": "bed738c7b171d7dac4489e492fe250bd",
-        "approximate_presence_count": 324,
+        "approximate_presence_count": 261,
         "approximate_member_count": 1742,
         "premium_subscription_count": 7,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
-        "discovery_splash": "a7310dfc24e4c0759305b5ba429d050f",
+        "discovery_splash": "19c31cc40a55740ef5b1f2228d9b66e1",
         "primary_category_id": 3,
         "vanity_url_code": "porao-da-sakura-892265702952665099",
         "is_published": true,
@@ -55,7 +57,9 @@
             "live",
             "memes",
             "filme",
-            "games"
+            "games",
+            "gta",
+            "csgo"
         ],
         "features": [
             "COMMUNITY",
@@ -344,6 +348,16 @@
                 },
                 {
                     "value": "games",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gta",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "csgo",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
