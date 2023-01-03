@@ -4,11 +4,11 @@
     "description": "This is a community for the game in development named Grand Multiverse, an Roblox randomizer x battlegrounds game.",
     "icon": "4f03033c943da598101e5e146439f6f0",
     "splash": "0d495b8c58c4382b04be588f6b991c13",
-    "discovery_splash": null,
+    "discovery_splash": "f4c56b4545ec1f14c11e4120bfb8654f",
     "banner": "86ce583bb4d6b0cd9e9ba025205fcdee",
-    "approximate_presence_count": 386,
-    "approximate_member_count": 1010,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 280,
+    "approximate_member_count": 1083,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "grandmultiverse",
     "keywords": [
@@ -19,10 +19,14 @@
         "upcoming",
         "newgame",
         "newrobloxgame",
-        "robloxgame"
+        "robloxgame",
+        "fightinggame",
+        "pvp"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,12 +39,12 @@
         "icon": "4f03033c943da598101e5e146439f6f0",
         "splash": "0d495b8c58c4382b04be588f6b991c13",
         "banner": "86ce583bb4d6b0cd9e9ba025205fcdee",
-        "approximate_presence_count": 386,
-        "approximate_member_count": 1010,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 280,
+        "approximate_member_count": 1083,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "f4c56b4545ec1f14c11e4120bfb8654f",
         "primary_category_id": 1,
         "vanity_url_code": "grandmultiverse",
         "is_published": false,
@@ -52,10 +56,14 @@
             "upcoming",
             "newgame",
             "newrobloxgame",
-            "robloxgame"
+            "robloxgame",
+            "fightinggame",
+            "pvp"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -190,6 +198,16 @@
                 },
                 {
                     "value": "robloxgame",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fightinggame",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pvp",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
