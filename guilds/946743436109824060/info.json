@@ -4,20 +4,23 @@
     "description": "Discord du Cluster PVE Ark-Age",
     "icon": "34a5c7997db2bf40249e3e9cd708eab8",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "c94e15413d55e98f369cf6fb30568c94",
     "banner": null,
-    "approximate_presence_count": 313,
-    "approximate_member_count": 1025,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 342,
+    "approximate_member_count": 1029,
+    "premium_subscription_count": 16,
     "preferred_locale": "fr",
     "vanity_url_code": null,
     "keywords": [
         "ark",
         "pve",
-        "cluster"
+        "cluster",
+        "serveur"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
@@ -30,22 +33,25 @@
         "icon": "34a5c7997db2bf40249e3e9cd708eab8",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 313,
-        "approximate_member_count": 1025,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 342,
+        "approximate_member_count": 1029,
+        "premium_subscription_count": 16,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "c94e15413d55e98f369cf6fb30568c94",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "ark",
             "pve",
-            "cluster"
+            "cluster",
+            "serveur"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
@@ -150,6 +156,11 @@
                 },
                 {
                     "value": "cluster",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "serveur",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
