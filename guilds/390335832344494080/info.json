@@ -6,9 +6,9 @@
     "splash": "9a56a001754306375724916d8f6559fd",
     "discovery_splash": "c9b67e33ba98b7a8f11cffd02c2aa905",
     "banner": "52a3255b55fd3c44c36fd1f534dea7e3",
-    "approximate_presence_count": 768,
-    "approximate_member_count": 2621,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 580,
+    "approximate_member_count": 3296,
+    "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -40,13 +40,13 @@
         "icon": "4d923e36b606644d1cbcc0c2c50e5539",
         "splash": "9a56a001754306375724916d8f6559fd",
         "banner": "52a3255b55fd3c44c36fd1f534dea7e3",
-        "approximate_presence_count": 768,
-        "approximate_member_count": 2621,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 580,
+        "approximate_member_count": 3296,
+        "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c9b67e33ba98b7a8f11cffd02c2aa905",
-        "primary_category_id": 13,
+        "primary_category_id": 0,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
@@ -219,25 +219,17 @@
                 }
             },
             {
-                "id": 13,
+                "id": 0,
                 "is_primary": true,
-                "name": "Other",
-                "name_localizations": {
-                    "de": "Sonstiges",
-                    "fr": "Autre",
-                    "ru": "Другое"
-                }
+                "name": "General",
+                "name_localizations": null
             }
         ],
         "primary_category": {
-            "id": 13,
+            "id": 0,
             "is_primary": true,
-            "name": "Other",
-            "name_localizations": {
-                "de": "Sonstiges",
-                "fr": "Autre",
-                "ru": "Другое"
-            }
+            "name": "General",
+            "name_localizations": null
         },
         "objectID": "390335832344494080",
         "_highlightResult": {
@@ -919,46 +911,8 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sonstiges",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Autre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Другое",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
-            ],
-            "primary_category": {
-                "name_localizations": {
-                    "de": {
-                        "value": "Sonstiges",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fr": {
-                        "value": "Autre",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ru": {
-                        "value": "Другое",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    }
-                }
-            }
+            ]
         }
     }
 }
