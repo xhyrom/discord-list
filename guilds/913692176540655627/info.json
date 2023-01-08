@@ -4,11 +4,11 @@
     "description": "Najlepszy serwer RP przystosowany w pełni pod bojówkę na platformie FiveM!",
     "icon": "de075f21e71dc0612ba799de298ad0f6",
     "splash": "c4e5b6521c13e2b3d3f5c0c73df23ae6",
-    "discovery_splash": "b79b11aa9ca07cf44764e5dee539c0c8",
+    "discovery_splash": "587d9c80fd40f8f120df65a9efee4a06",
     "banner": "c9d7c00e89d8283565a11458f4fd2e40",
-    "approximate_presence_count": 1928,
-    "approximate_member_count": 8767,
-    "premium_subscription_count": 34,
+    "approximate_presence_count": 2041,
+    "approximate_member_count": 9103,
+    "premium_subscription_count": 21,
     "preferred_locale": "pl",
     "vanity_url_code": "bojowkarp",
     "keywords": [
@@ -20,6 +20,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,15 +33,15 @@
         "icon": "de075f21e71dc0612ba799de298ad0f6",
         "splash": "c4e5b6521c13e2b3d3f5c0c73df23ae6",
         "banner": "c9d7c00e89d8283565a11458f4fd2e40",
-        "approximate_presence_count": 1928,
-        "approximate_member_count": 8767,
-        "premium_subscription_count": 34,
+        "approximate_presence_count": 2041,
+        "approximate_member_count": 9103,
+        "premium_subscription_count": 21,
         "preferred_locale": "pl",
         "auto_removed": false,
-        "discovery_splash": "b79b11aa9ca07cf44764e5dee539c0c8",
+        "discovery_splash": "587d9c80fd40f8f120df65a9efee4a06",
         "primary_category_id": 1,
         "vanity_url_code": "bojowkarp",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "bojowkarp",
             "bojowka",
@@ -50,10 +51,48 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
+                "name_localizations": {
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -126,43 +165,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 15,
-                "is_primary": false,
-                "name": "Esports",
-                "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
                 }
             }
         ],
@@ -238,6 +240,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -541,160 +697,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Електронни спортове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "E-Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "eSport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "ईस्पोर्ट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "eスポーツ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "이스포츠",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "E. sportas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "eSports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Киберспорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "อีสปอร์ต",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "E-spor",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Електронний спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Thể Thao Điện Tử",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "电子竞技",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "電競",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
