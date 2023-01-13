@@ -6,9 +6,9 @@
     "splash": "28648894388849ff7a399f86506b5a61",
     "discovery_splash": null,
     "banner": "24a2d3f355321ecd04eb7abef7503ad9",
-    "approximate_presence_count": 3275,
-    "approximate_member_count": 14169,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 4511,
+    "approximate_member_count": 14624,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-GB",
     "vanity_url_code": null,
     "keywords": null,
@@ -28,9 +28,9 @@
         "icon": "c0ddcc82b19f44d286e732f8f254e9f3",
         "splash": "28648894388849ff7a399f86506b5a61",
         "banner": "24a2d3f355321ecd04eb7abef7503ad9",
-        "approximate_presence_count": 3275,
-        "approximate_member_count": 14169,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 4511,
+        "approximate_member_count": 14624,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-GB",
         "auto_removed": false,
         "discovery_splash": null,
@@ -46,6 +46,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 0,
                 "is_primary": true,
@@ -70,7 +80,28 @@
                 "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
-            }
+            },
+            "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ]
         }
     }
 }

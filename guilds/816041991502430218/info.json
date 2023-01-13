@@ -1,13 +1,13 @@
 {
     "id": "816041991502430218",
-    "name": "Sacred Finance",
+    "name": "Sacred",
     "description": "Earn yield while protecting your privacy.A new privacy solution for Web3.https://sacred.gitbook.io/sacred-finance",
     "icon": "f59b3959fb75b21a6e75274dc15f8361",
     "splash": "c4479d352f92c7d2357bca609f63fc2a",
     "discovery_splash": "f0b8beb3263a27b8178ff59f54aafc47",
     "banner": "2d4e20b1522d35d925614378d0501efd",
-    "approximate_presence_count": 282,
-    "approximate_member_count": 5580,
+    "approximate_presence_count": 301,
+    "approximate_member_count": 5388,
     "premium_subscription_count": 10,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -35,13 +35,13 @@
     "verified": false,
     "raw": {
         "id": "816041991502430218",
-        "name": "Sacred Finance",
+        "name": "Sacred",
         "description": "Earn yield while protecting your privacy.A new privacy solution for Web3.https://sacred.gitbook.io/sacred-finance",
         "icon": "f59b3959fb75b21a6e75274dc15f8361",
         "splash": "c4479d352f92c7d2357bca609f63fc2a",
         "banner": "2d4e20b1522d35d925614378d0501efd",
-        "approximate_presence_count": 282,
-        "approximate_member_count": 5580,
+        "approximate_presence_count": 301,
+        "approximate_member_count": 5388,
         "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -105,16 +115,6 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -232,7 +232,7 @@
         "objectID": "816041991502430218",
         "_highlightResult": {
             "name": {
-                "value": "Sacred Finance",
+                "value": "Sacred",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -294,6 +294,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -443,25 +462,6 @@
                         },
                         "zh-TW": {
                             "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
