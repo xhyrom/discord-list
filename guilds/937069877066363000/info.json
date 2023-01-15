@@ -1,14 +1,14 @@
 {
     "id": "937069877066363000",
-    "name": "Sphere Finance",
+    "name": "Sphere",
     "description": "",
     "icon": "a_fcdce8fb85c75583a3ed9833194a2a5b",
-    "splash": "763c42fef88c82c2f1c715c43a2b7500",
+    "splash": "f0d3043f59c343d488c9b0d85afc04c1",
     "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
-    "banner": "dfb3178ffb11ab8c0cdf67d0204a5868",
-    "approximate_presence_count": 3590,
-    "approximate_member_count": 30383,
-    "premium_subscription_count": 37,
+    "banner": "a_8090bd2b259c2d127947644fede6ebec",
+    "approximate_presence_count": 2741,
+    "approximate_member_count": 29799,
+    "premium_subscription_count": 35,
     "preferred_locale": "en-US",
     "vanity_url_code": "spheredefi",
     "keywords": [
@@ -34,14 +34,14 @@
     "verified": false,
     "raw": {
         "id": "937069877066363000",
-        "name": "Sphere Finance",
+        "name": "Sphere",
         "description": "",
         "icon": "a_fcdce8fb85c75583a3ed9833194a2a5b",
-        "splash": "763c42fef88c82c2f1c715c43a2b7500",
-        "banner": "dfb3178ffb11ab8c0cdf67d0204a5868",
-        "approximate_presence_count": 3590,
-        "approximate_member_count": 30383,
-        "premium_subscription_count": 37,
+        "splash": "f0d3043f59c343d488c9b0d85afc04c1",
+        "banner": "a_8090bd2b259c2d127947644fede6ebec",
+        "approximate_presence_count": 2741,
+        "approximate_member_count": 29799,
+        "premium_subscription_count": 35,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 30,
                 "is_primary": false,
@@ -103,16 +113,6 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -230,7 +230,7 @@
         "objectID": "937069877066363000",
         "_highlightResult": {
             "name": {
-                "value": "Sphere Finance",
+                "value": "Sphere",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -292,6 +292,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -441,25 +460,6 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
