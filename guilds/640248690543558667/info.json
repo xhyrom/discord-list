@@ -1,16 +1,16 @@
 {
     "id": "640248690543558667",
     "name": "Overwatch Consoles FR",
-    "description": "Communauté francophone Overwatch sur consoles. Débat, forme ton équipe et participe aux évènements réguliers du serveur!",
+    "description": "Communauté francophone Overwatch. Débat, joue, forme ton équipe et participe aux évènements réguliers du serveur!",
     "icon": "a_61a5e50b5b0c2dabc3b78b9821e9ae64",
     "splash": "e27980422c984eebc60094ec0dc2b506",
     "discovery_splash": "778f558456673518c5046d38485fb673",
     "banner": "1fa86b4dfde0a6b6e572c25c84fb95fc",
-    "approximate_presence_count": 471,
-    "approximate_member_count": 3637,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 923,
+    "approximate_member_count": 4675,
+    "premium_subscription_count": 15,
     "preferred_locale": "fr",
-    "vanity_url_code": null,
+    "vanity_url_code": "overwatch-consoles-fr",
     "keywords": [
         "overwatch",
         "console",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,19 +36,19 @@
     "raw": {
         "id": "640248690543558667",
         "name": "Overwatch Consoles FR",
-        "description": "Communauté francophone Overwatch sur consoles. Débat, forme ton équipe et participe aux évènements réguliers du serveur!",
+        "description": "Communauté francophone Overwatch. Débat, joue, forme ton équipe et participe aux évènements réguliers du serveur!",
         "icon": "a_61a5e50b5b0c2dabc3b78b9821e9ae64",
         "splash": "e27980422c984eebc60094ec0dc2b506",
         "banner": "1fa86b4dfde0a6b6e572c25c84fb95fc",
-        "approximate_presence_count": 471,
-        "approximate_member_count": 3637,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 923,
+        "approximate_member_count": 4675,
+        "premium_subscription_count": 15,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "778f558456673518c5046d38485fb673",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "overwatch-consoles-fr",
+        "is_published": true,
         "keywords": [
             "overwatch",
             "console",
@@ -64,45 +65,120 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 39,
+                "id": 15,
                 "is_primary": false,
-                "name": "Fandom",
+                "name": "Esports",
                 "name_localizations": {
-                    "bg": "Фендъм",
-                    "cs": "Pro fanoušky",
-                    "da": "Fangruppe",
-                    "de": "Fandom",
-                    "el": "Fandom",
-                    "fi": "Fanikunta",
-                    "fr": "Fandom",
-                    "hi": "फ़ैनडम",
-                    "hr": "Fandom",
-                    "hu": "Rajongói",
-                    "it": "Fandom",
-                    "ja": "ファンダム",
-                    "ko": "팬덤",
-                    "lt": "Fanai",
-                    "nl": "Fandom",
-                    "no": "Fandom",
-                    "pl": "Fandom",
-                    "ro": "Fandom",
-                    "ru": "Фандомы",
-                    "th": "กลุ่มแฟนคลับ",
-                    "tr": "Hayran Kitlesi",
-                    "uk": "Фандом",
-                    "vi": "Cộng Đồng Người Hâm Mộ",
-                    "en-GB": "Fandom",
-                    "en-US": "Fandom",
-                    "es-ES": "Fandom",
-                    "pt-BR": "Fandom",
-                    "sv-SE": "Fandom",
-                    "zh-CN": "同好圈",
-                    "zh-TW": "粉絲社群"
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
+            {
+                "id": 30,
+                "is_primary": false,
+                "name": "LFG",
+                "name_localizations": {
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
                 }
             },
             {
@@ -177,43 +253,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 46,
-                "is_primary": false,
-                "name": "Console",
-                "name_localizations": {
-                    "bg": "Конзола",
-                    "cs": "Konzole",
-                    "da": "Konsol",
-                    "de": "Konsolen",
-                    "el": "Κονσόλες",
-                    "fi": "Konsolit",
-                    "fr": "Console",
-                    "hi": "कंसोल",
-                    "hr": "Konzole",
-                    "hu": "Konzol",
-                    "it": "Console",
-                    "ja": "コンソール",
-                    "ko": "게임 콘솔",
-                    "lt": "Žaidimų konsolės",
-                    "nl": "Console",
-                    "no": "Konsoll",
-                    "pl": "Konsola",
-                    "ro": "Consolă",
-                    "ru": "Консоли",
-                    "th": "คอนโซล",
-                    "tr": "Konsol",
-                    "uk": "Консолі",
-                    "vi": "Console",
-                    "en-GB": "Console",
-                    "en-US": "Console",
-                    "es-ES": "Consola",
-                    "pt-BR": "Console",
-                    "sv-SE": "Konsol",
-                    "zh-CN": "主机端",
-                    "zh-TW": "遊戲主機"
                 }
             },
             {
@@ -299,7 +338,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Communauté francophone Overwatch sur consoles. Débat, forme ton équipe et participe aux évènements réguliers du serveur!",
+                "value": "Communauté francophone Overwatch. Débat, joue, forme ton équipe et participe aux évènements réguliers du serveur!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "overwatch-consoles-fr",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -359,152 +403,460 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Фендъм",
+                            "value": "Електронни спортове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Pro fanoušky",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Fangruppe",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Fandom",
+                            "value": "E-Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Fandom",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Fanikunta",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Fandom",
+                            "value": "eSport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फ़ैनडम",
+                            "value": "ईस्पोर्ट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Fandom",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rajongói",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Fandom",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファンダム",
+                            "value": "eスポーツ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "팬덤",
+                            "value": "이스포츠",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Fanai",
+                            "value": "E. sportas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Fandom",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Fandom",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Fandom",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Fandom",
+                            "value": "eSports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Фандомы",
+                            "value": "Киберспорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กลุ่มแฟนคลับ",
+                            "value": "อีสปอร์ต",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Hayran Kitlesi",
+                            "value": "E-spor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фандом",
+                            "value": "Електронний спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "value": "Thể Thao Điện Tử",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Fandom",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Fandom",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Fandom",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Fandom",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Fandom",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "同好圈",
+                            "value": "电子竞技",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "粉絲社群",
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gruppensuche",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ryhmähaku",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "グループ検索",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "그룹 찾기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Grupės paieškos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Szukanie grupy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Поиск группы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Grup Arama",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Пошук гільдії",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "PG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Letar efter grupp (LFG)",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "找同好（LFG）",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -813,160 +1165,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Конзола",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Konsolen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κονσόλες",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Konsolit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंसोल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Konzol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンソール",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 콘솔",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų konsolės",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Konsoll",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Konsola",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Consolă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Консоли",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "คอนโซล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Консолі",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Consola",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "主机端",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲主機",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
