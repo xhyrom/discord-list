@@ -10,7 +10,7 @@ jobs:
     name: Update activities
     steps:
       - uses: actions/checkout@v3
-      - uses: xhyrom/setup-bun@v0.1.5
+      - uses: oven-sh/setup-bun@v0.1.8
         with:
           bun-version: latest
           github-token: ${{ secrets.GITHUB_TOKEN }}
