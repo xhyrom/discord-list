@@ -6,11 +6,11 @@
     "splash": "16e617455cda09c031fa2d7687d68264",
     "discovery_splash": "16e617455cda09c031fa2d7687d68264",
     "banner": "00849634d4956d2039ca59d74cfbf13f",
-    "approximate_presence_count": 3032,
-    "approximate_member_count": 7804,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 2745,
+    "approximate_member_count": 7887,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "pickleservers",
     "keywords": [
         "rust",
         "twitch",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,14 +40,14 @@
         "icon": "a_493d7f8c9f33698aaf23800bf9f93f51",
         "splash": "16e617455cda09c031fa2d7687d68264",
         "banner": "00849634d4956d2039ca59d74cfbf13f",
-        "approximate_presence_count": 3032,
-        "approximate_member_count": 7804,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 2745,
+        "approximate_member_count": 7887,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "16e617455cda09c031fa2d7687d68264",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "pickleservers",
         "is_published": false,
         "keywords": [
             "rust",
@@ -64,6 +65,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -263,6 +265,11 @@
             },
             "description": {
                 "value": "The official home of PickleServers.com - A Rust gaming community.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "pickleservers",
                 "matchLevel": "none",
                 "matchedWords": []
             },
