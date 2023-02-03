@@ -6,11 +6,11 @@
     "splash": "8a46b95873e5b57f2bb70cbc370622d4",
     "discovery_splash": "ba94c3d2069621a90599c838b56f4a00",
     "banner": "7c9ed960e9e2566cd8364f42e22a5f88",
-    "approximate_presence_count": 923,
-    "approximate_member_count": 2351,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 1078,
+    "approximate_member_count": 2704,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "freesmiley",
     "keywords": [
         "emoji",
         "freesmiley",
@@ -25,6 +25,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,15 +38,15 @@
         "icon": "a_03cf6808ab1c80be668a75268c5cb211",
         "splash": "8a46b95873e5b57f2bb70cbc370622d4",
         "banner": "7c9ed960e9e2566cd8364f42e22a5f88",
-        "approximate_presence_count": 923,
-        "approximate_member_count": 2351,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 1078,
+        "approximate_member_count": 2704,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ba94c3d2069621a90599c838b56f4a00",
         "primary_category_id": 43,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "freesmiley",
+        "is_published": true,
         "keywords": [
             "emoji",
             "freesmiley",
@@ -60,6 +61,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -222,6 +224,11 @@
             },
             "description": {
                 "value": "Epic 3D Free Smileys",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "freesmiley",
                 "matchLevel": "none",
                 "matchedWords": []
             },

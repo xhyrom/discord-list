@@ -6,8 +6,8 @@
     "splash": "5f9dffe4cce03b7d7e90c46e1d11f900",
     "discovery_splash": "7da975fe4e54460131517af989989e9d",
     "banner": "63db3ba6e2ee3dd375e5df015484771e",
-    "approximate_presence_count": 55,
-    "approximate_member_count": 958,
+    "approximate_presence_count": 83,
+    "approximate_member_count": 959,
     "premium_subscription_count": 8,
     "preferred_locale": "ja",
     "vanity_url_code": "acsv",
@@ -30,6 +30,9 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "GUILD_ONBOARDING",
+        "GUILD_ONBOARDING_EVER_ENABLED",
+        "GUILD_ONBOARDING_HAS_PROMPTS",
         "INVITE_SPLASH",
         "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
@@ -44,7 +47,8 @@
         "THREADS_ENABLED",
         "THREE_DAY_THREAD_ARCHIVE",
         "VANITY_URL",
-        "VIP_REGIONS"
+        "VIP_REGIONS",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
     "verified": false,
@@ -55,15 +59,15 @@
         "icon": "a_c5a348e43a90e518e523bdd347a9c153",
         "splash": "5f9dffe4cce03b7d7e90c46e1d11f900",
         "banner": "63db3ba6e2ee3dd375e5df015484771e",
-        "approximate_presence_count": 55,
-        "approximate_member_count": 958,
+        "approximate_presence_count": 83,
+        "approximate_member_count": 959,
         "premium_subscription_count": 8,
         "preferred_locale": "ja",
         "auto_removed": false,
         "discovery_splash": "7da975fe4e54460131517af989989e9d",
         "primary_category_id": 1,
         "vanity_url_code": "acsv",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "マインクラフト",
             "マルチプレイ",
@@ -83,6 +87,9 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "GUILD_ONBOARDING",
+            "GUILD_ONBOARDING_EVER_ENABLED",
+            "GUILD_ONBOARDING_HAS_PROMPTS",
             "INVITE_SPLASH",
             "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
@@ -97,7 +104,8 @@
             "THREADS_ENABLED",
             "THREE_DAY_THREAD_ARCHIVE",
             "VANITY_URL",
-            "VIP_REGIONS"
+            "VIP_REGIONS",
+            "WELCOME_SCREEN_ENABLED"
         ]
     }
 }
