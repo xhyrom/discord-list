@@ -4,13 +4,13 @@
     "description": "Official communication server for the Roblox experience Michael's Zombies!",
     "icon": "dcfc44066f02aca744580519e03acd75",
     "splash": "0a22397d33b3c73fef251fc3ac9cc6fd",
-    "discovery_splash": null,
+    "discovery_splash": "a56256a2b67cb9c30ab19cc2a85ee138",
     "banner": "a_21096b92f858a0498ba7366ab49805d2",
-    "approximate_presence_count": 9535,
-    "approximate_member_count": 28659,
-    "premium_subscription_count": 68,
+    "approximate_presence_count": 6687,
+    "approximate_member_count": 29394,
+    "premium_subscription_count": 61,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "michaelszombies",
     "keywords": [
         "roblox",
         "michaelszombies",
@@ -21,6 +21,8 @@
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -34,15 +36,15 @@
         "icon": "dcfc44066f02aca744580519e03acd75",
         "splash": "0a22397d33b3c73fef251fc3ac9cc6fd",
         "banner": "a_21096b92f858a0498ba7366ab49805d2",
-        "approximate_presence_count": 9535,
-        "approximate_member_count": 28659,
-        "premium_subscription_count": 68,
+        "approximate_presence_count": 6687,
+        "approximate_member_count": 29394,
+        "premium_subscription_count": 61,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "a56256a2b67cb9c30ab19cc2a85ee138",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "michaelszombies",
+        "is_published": true,
         "keywords": [
             "roblox",
             "michaelszombies",
@@ -53,6 +55,8 @@
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -290,6 +294,11 @@
             },
             "description": {
                 "value": "Official communication server for the Roblox experience Michael's Zombies!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "michaelszombies",
                 "matchLevel": "none",
                 "matchedWords": []
             },
