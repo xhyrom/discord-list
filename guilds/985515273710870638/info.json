@@ -4,13 +4,13 @@
     "description": "This server is designed to test various bots, cogs, plugins, scripts, and webhooks for Discord.",
     "icon": "7624c2a5a3a587e543e250bc2c14880c",
     "splash": "83478b62af87ceb3286559a85b756481",
-    "discovery_splash": null,
+    "discovery_splash": "83478b62af87ceb3286559a85b756481",
     "banner": null,
-    "approximate_presence_count": 573,
-    "approximate_member_count": 2823,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 1025,
+    "approximate_member_count": 5134,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "jmes-985515273710870638",
     "keywords": [
         "apps",
         "bots",
@@ -25,6 +25,8 @@
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,15 +39,15 @@
         "icon": "7624c2a5a3a587e543e250bc2c14880c",
         "splash": "83478b62af87ceb3286559a85b756481",
         "banner": null,
-        "approximate_presence_count": 573,
-        "approximate_member_count": 2823,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 1025,
+        "approximate_member_count": 5134,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "83478b62af87ceb3286559a85b756481",
         "primary_category_id": 49,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "jmes-985515273710870638",
+        "is_published": true,
         "keywords": [
             "apps",
             "bots",
@@ -60,6 +62,8 @@
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -333,6 +337,11 @@
             },
             "description": {
                 "value": "This server is designed to test various bots, cogs, plugins, scripts, and webhooks for Discord.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "jmes-985515273710870638",
                 "matchLevel": "none",
                 "matchedWords": []
             },

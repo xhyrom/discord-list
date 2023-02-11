@@ -3,26 +3,30 @@
     "name": "PolarisMC",
     "description": "PolarisMC is a Geopolitical Minecraft Server! Come make your own nations and towns on Planet Earth!",
     "icon": "a_90ba558d7529285c9a7e7fc7e9ab47d2",
-    "splash": null,
-    "discovery_splash": null,
-    "banner": "eb66a53ef15518031c72295ef4a5eea4",
-    "approximate_presence_count": 619,
-    "approximate_member_count": 1531,
-    "premium_subscription_count": 18,
+    "splash": "e848e28f1c723b4462824335ad446363",
+    "discovery_splash": "e848e28f1c723b4462824335ad446363",
+    "banner": "92e1ba8ddd3660ca09357272cadfe76d",
+    "approximate_presence_count": 639,
+    "approximate_member_count": 1833,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "polarismc",
     "keywords": [
         "minecraft",
         "geopolitical",
         "earth",
-        "towny"
+        "towny",
+        "polarismc",
+        "earthpol",
+        "earthmc"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -31,14 +35,14 @@
         "name": "PolarisMC",
         "description": "PolarisMC is a Geopolitical Minecraft Server! Come make your own nations and towns on Planet Earth!",
         "icon": "a_90ba558d7529285c9a7e7fc7e9ab47d2",
-        "splash": null,
-        "banner": "eb66a53ef15518031c72295ef4a5eea4",
-        "approximate_presence_count": 619,
-        "approximate_member_count": 1531,
-        "premium_subscription_count": 18,
+        "splash": "e848e28f1c723b4462824335ad446363",
+        "banner": "92e1ba8ddd3660ca09357272cadfe76d",
+        "approximate_presence_count": 639,
+        "approximate_member_count": 1833,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "e848e28f1c723b4462824335ad446363",
         "primary_category_id": 1,
         "vanity_url_code": "polarismc",
         "is_published": false,
@@ -46,14 +50,18 @@
             "minecraft",
             "geopolitical",
             "earth",
-            "towny"
+            "towny",
+            "polarismc",
+            "earthpol",
+            "earthmc"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -314,6 +322,21 @@
                 },
                 {
                     "value": "towny",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "polarismc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "earthpol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "earthmc",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
