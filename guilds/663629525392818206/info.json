@@ -2,13 +2,13 @@
     "id": "663629525392818206",
     "name": "生 stay krallığı",
     "description": "türkiye'nin en büyük k-pop sunucusu ve ilk türk stray kids sunucusu 𓆩♡𓆪",
-    "icon": "a_d74381a52e9498bb92f59d5e1536876a",
+    "icon": "a_2597bc71e997c817063bf11e6d4c17f6",
     "splash": "6451f87e9248c145696d0bc6562d23ec",
     "discovery_splash": "c37fce438701935a1c3879bf05ea9128",
-    "banner": "a_19456f614dd9f49690a018a98f5c69d5",
-    "approximate_presence_count": 175,
-    "approximate_member_count": 5097,
-    "premium_subscription_count": 44,
+    "banner": "a_f8e140920faa1ffef9ac3b79879a1d9c",
+    "approximate_presence_count": 528,
+    "approximate_member_count": 5613,
+    "premium_subscription_count": 66,
     "preferred_locale": "tr",
     "vanity_url_code": "staykralligi",
     "keywords": [
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,18 +37,18 @@
         "id": "663629525392818206",
         "name": "生 stay krallığı",
         "description": "türkiye'nin en büyük k-pop sunucusu ve ilk türk stray kids sunucusu 𓆩♡𓆪",
-        "icon": "a_d74381a52e9498bb92f59d5e1536876a",
+        "icon": "a_2597bc71e997c817063bf11e6d4c17f6",
         "splash": "6451f87e9248c145696d0bc6562d23ec",
-        "banner": "a_19456f614dd9f49690a018a98f5c69d5",
-        "approximate_presence_count": 175,
-        "approximate_member_count": 5097,
-        "premium_subscription_count": 44,
+        "banner": "a_f8e140920faa1ffef9ac3b79879a1d9c",
+        "approximate_presence_count": 528,
+        "approximate_member_count": 5613,
+        "premium_subscription_count": 66,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "c37fce438701935a1c3879bf05ea9128",
         "primary_category_id": 2,
         "vanity_url_code": "staykralligi",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "stray kids",
             "t-stay",
@@ -64,45 +65,83 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 39,
+                "id": 16,
                 "is_primary": false,
-                "name": "Fandom",
+                "name": "Anime & Manga",
                 "name_localizations": {
-                    "bg": "Фендъм",
-                    "cs": "Pro fanoušky",
-                    "da": "Fangruppe",
-                    "de": "Fandom",
-                    "el": "Fandom",
-                    "fi": "Fanikunta",
-                    "fr": "Fandom",
-                    "hi": "फ़ैनडम",
-                    "hr": "Fandom",
-                    "hu": "Rajongói",
-                    "it": "Fandom",
-                    "ja": "ファンダム",
-                    "ko": "팬덤",
-                    "lt": "Fanai",
-                    "nl": "Fandom",
-                    "no": "Fandom",
-                    "pl": "Fandom",
-                    "ro": "Fandom",
-                    "ru": "Фандомы",
-                    "th": "กลุ่มแฟนคลับ",
-                    "tr": "Hayran Kitlesi",
-                    "uk": "Фандом",
-                    "vi": "Cộng Đồng Người Hâm Mộ",
-                    "en-GB": "Fandom",
-                    "en-US": "Fandom",
-                    "es-ES": "Fandom",
-                    "pt-BR": "Fandom",
-                    "sv-SE": "Fandom",
-                    "zh-CN": "同好圈",
-                    "zh-TW": "粉絲社群"
+                    "bg": "Аниме и манга",
+                    "cs": "Anime a manga",
+                    "da": "Anime & manga",
+                    "de": "Anime & Manga",
+                    "el": "Anime & Manga",
+                    "fi": "Anime ja manga",
+                    "fr": "Animés et mangas",
+                    "hi": "Anime & Manga",
+                    "hr": "Anime i Manga",
+                    "hu": "Anime és manga",
+                    "it": "Anime e manga",
+                    "ja": "アニメ&マンガ",
+                    "ko": "애니메이션, 만화",
+                    "lt": "Animė ir manga",
+                    "nl": "Anime en manga",
+                    "no": "Anime og manga",
+                    "pl": "Anime i manga",
+                    "ro": "Anime și manga",
+                    "ru": "Аниме и манга",
+                    "th": "อนิเมะและมังงะ",
+                    "tr": "Anime ve Manga",
+                    "uk": "Аніме та манга",
+                    "vi": "Anime & Manga",
+                    "en-GB": "Anime & manga",
+                    "en-US": "Anime & Manga",
+                    "es-ES": "Anime y manga",
+                    "pt-BR": "Anime e Mangá",
+                    "sv-SE": "Anime och manga",
+                    "zh-CN": "动画&漫画",
+                    "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             },
             {
@@ -180,77 +219,40 @@
                 }
             },
             {
-                "id": 16,
+                "id": 39,
                 "is_primary": false,
-                "name": "Anime & Manga",
+                "name": "Fandom",
                 "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
                 }
             }
         ],
@@ -364,152 +366,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Фендъм",
+                            "value": "Аниме и манга",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Pro fanoušky",
+                            "value": "Anime a manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Fangruppe",
+                            "value": "Anime & manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Fandom",
+                            "value": "Anime & Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Fandom",
+                            "value": "Anime & Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Fanikunta",
+                            "value": "Anime ja manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Fandom",
+                            "value": "Animés et mangas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फ़ैनडम",
+                            "value": "Anime & Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Fandom",
+                            "value": "Anime i Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rajongói",
+                            "value": "Anime és manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Fandom",
+                            "value": "Anime e manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファンダム",
+                            "value": "アニメ&マンガ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "팬덤",
+                            "value": "애니메이션, 만화",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Fanai",
+                            "value": "Animė ir manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Fandom",
+                            "value": "Anime en manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Fandom",
+                            "value": "Anime og manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Fandom",
+                            "value": "Anime i manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Fandom",
+                            "value": "Anime și manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Фандомы",
+                            "value": "Аниме и манга",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กลุ่มแฟนคลับ",
+                            "value": "อนิเมะและมังงะ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Hayran Kitlesi",
+                            "value": "Anime ve Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фандом",
+                            "value": "Аніме та манга",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "value": "Anime & Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Fandom",
+                            "value": "Anime & manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Fandom",
+                            "value": "Anime & Manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Fandom",
+                            "value": "Anime y manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Fandom",
+                            "value": "Anime e Mangá",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Fandom",
+                            "value": "Anime och manga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "同好圈",
+                            "value": "动画&漫画",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "粉絲社群",
+                            "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -826,306 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Аниме и манга",
+                            "value": "Фендъм",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Anime a manga",
+                            "value": "Pro fanoušky",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Anime & manga",
+                            "value": "Fangruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Anime & Manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Anime & Manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Anime ja manga",
+                            "value": "Fanikunta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Animés et mangas",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "Anime & Manga",
+                            "value": "फ़ैनडम",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Anime i Manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Anime és manga",
+                            "value": "Rajongói",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Anime e manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "アニメ&マンガ",
+                            "value": "ファンダム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "애니메이션, 만화",
+                            "value": "팬덤",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Animė ir manga",
+                            "value": "Fanai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Anime en manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Anime og manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Anime i manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Anime și manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Аниме и манга",
+                            "value": "Фандомы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อนิเมะและมังงะ",
+                            "value": "กลุ่มแฟนคลับ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Anime ve Manga",
+                            "value": "Hayran Kitlesi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Аніме та манга",
+                            "value": "Фандом",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Anime & Manga",
+                            "value": "Cộng Đồng Người Hâm Mộ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Anime & manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Anime & Manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Anime y manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Anime e Mangá",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Anime och manga",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "动画&漫画",
+                            "value": "同好圈",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "動畫與漫畫",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
+                            "value": "粉絲社群",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
