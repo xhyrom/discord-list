@@ -2,13 +2,13 @@
     "id": "949103948978069575",
     "name": "Metro Vancouver RP",
     "description": "The premier Vancouver roleplay experience on ER:LC.",
-    "icon": "3bafee7ede9f0e5b27012d6368a03b1f",
+    "icon": "18239a40e4c5747ab387ef1730d8360b",
     "splash": "250bf9d34bf81d08dc91544cdb142774",
     "discovery_splash": "07436ab6781695ed3028b9d7d3ce4c0b",
     "banner": "795da6406ce5a8faf248bb926a5b59a7",
-    "approximate_presence_count": 564,
-    "approximate_member_count": 1700,
-    "premium_subscription_count": 33,
+    "approximate_presence_count": 398,
+    "approximate_member_count": 2523,
+    "premium_subscription_count": 37,
     "preferred_locale": "en-US",
     "vanity_url_code": "vancouverrp",
     "keywords": [
@@ -18,12 +18,16 @@
         "rcmp",
         "bcas",
         "vancouver",
-        "bc"
+        "bc",
+        "emergency response",
+        "liberty county",
+        "canada"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -32,18 +36,18 @@
         "id": "949103948978069575",
         "name": "Metro Vancouver RP",
         "description": "The premier Vancouver roleplay experience on ER:LC.",
-        "icon": "3bafee7ede9f0e5b27012d6368a03b1f",
+        "icon": "18239a40e4c5747ab387ef1730d8360b",
         "splash": "250bf9d34bf81d08dc91544cdb142774",
         "banner": "795da6406ce5a8faf248bb926a5b59a7",
-        "approximate_presence_count": 564,
-        "approximate_member_count": 1700,
-        "premium_subscription_count": 33,
+        "approximate_presence_count": 398,
+        "approximate_member_count": 2523,
+        "premium_subscription_count": 37,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "07436ab6781695ed3028b9d7d3ce4c0b",
         "primary_category_id": 1,
         "vanity_url_code": "vancouverrp",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "erlc",
             "prc",
@@ -51,12 +55,16 @@
             "rcmp",
             "bcas",
             "vancouver",
-            "bc"
+            "bc",
+            "emergency response",
+            "liberty county",
+            "canada"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -222,6 +230,21 @@
                 },
                 {
                     "value": "bc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "emergency response",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "liberty county",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "canada",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
