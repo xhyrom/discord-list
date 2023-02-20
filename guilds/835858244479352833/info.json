@@ -6,8 +6,8 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 325,
-    "approximate_member_count": 5153,
+    "approximate_presence_count": 250,
+    "approximate_member_count": 5159,
     "premium_subscription_count": 0,
     "preferred_locale": "tr",
     "vanity_url_code": null,
@@ -38,8 +38,8 @@
         "icon": "cf33a76c039c4db61653d425efa807ca",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 325,
-        "approximate_member_count": 5153,
+        "approximate_presence_count": 250,
+        "approximate_member_count": 5159,
         "premium_subscription_count": 0,
         "preferred_locale": "tr",
         "auto_removed": false,
@@ -104,6 +104,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -138,16 +148,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -478,6 +478,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Общуване",
                             "matchLevel": "none",
@@ -625,25 +644,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

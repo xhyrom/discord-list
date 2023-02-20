@@ -6,11 +6,11 @@
     "splash": "c114c2e51e49bcf2567d28763cd65033",
     "discovery_splash": "c114c2e51e49bcf2567d28763cd65033",
     "banner": "a_226dc6b8d9ac08c6022f8a71f16869de",
-    "approximate_presence_count": 143,
-    "approximate_member_count": 1469,
-    "premium_subscription_count": 6,
+    "approximate_presence_count": 101,
+    "approximate_member_count": 1419,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "bahay-ni-kuya-kim-880069748740735026",
     "keywords": [
         "pbb",
         "filipino",
@@ -39,15 +39,15 @@
         "icon": "a_dc8fa8795a24e198afcf27466d6e65b2",
         "splash": "c114c2e51e49bcf2567d28763cd65033",
         "banner": "a_226dc6b8d9ac08c6022f8a71f16869de",
-        "approximate_presence_count": 143,
-        "approximate_member_count": 1469,
-        "premium_subscription_count": 6,
+        "approximate_presence_count": 101,
+        "approximate_member_count": 1419,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c114c2e51e49bcf2567d28763cd65033",
         "primary_category_id": 14,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "bahay-ni-kuya-kim-880069748740735026",
+        "is_published": true,
         "keywords": [
             "pbb",
             "filipino",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 9,
                 "is_primary": true,
@@ -103,16 +113,6 @@
                     "sv-SE": "Förhållanden och identitet",
                     "zh-CN": "情感&认知",
                     "zh-TW": "關係與身分"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -202,6 +202,11 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "bahay-ni-kuya-kim-880069748740735026",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
                     "value": "pbb",
@@ -255,6 +260,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -404,25 +428,6 @@
                         },
                         "zh-TW": {
                             "value": "關係與身分",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

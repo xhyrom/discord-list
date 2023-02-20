@@ -1,14 +1,14 @@
 {
     "id": "847566840682905651",
-    "name": "Wlaze's Slaves",
-    "description": "Hello! Welcome to OfficerBarca discord, an international community where we discuss about FC Barcelona & related stuff!",
+    "name": "OfficerBarça",
+    "description": "Hello! Welcome to OfficerBarça discord, an international community where we discuss about FC Barcelona & related stuff!",
     "icon": "d27aa80d1dfe4f41652151c36d62d175",
     "splash": "f5db17c75cb89388862691ceb292ada0",
     "discovery_splash": "c22a58f9760ff6da7ee835b8d8753a2e",
-    "banner": null,
-    "approximate_presence_count": 156,
-    "approximate_member_count": 2520,
-    "premium_subscription_count": 4,
+    "banner": "bb3d9732de11754a4ee3e1e1254eef14",
+    "approximate_presence_count": 90,
+    "approximate_member_count": 2505,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -19,6 +19,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -26,14 +27,14 @@
     "verified": false,
     "raw": {
         "id": "847566840682905651",
-        "name": "Wlaze's Slaves",
-        "description": "Hello! Welcome to OfficerBarca discord, an international community where we discuss about FC Barcelona & related stuff!",
+        "name": "OfficerBarça",
+        "description": "Hello! Welcome to OfficerBarça discord, an international community where we discuss about FC Barcelona & related stuff!",
         "icon": "d27aa80d1dfe4f41652151c36d62d175",
         "splash": "f5db17c75cb89388862691ceb292ada0",
-        "banner": null,
-        "approximate_presence_count": 156,
-        "approximate_member_count": 2520,
-        "premium_subscription_count": 4,
+        "banner": "bb3d9732de11754a4ee3e1e1254eef14",
+        "approximate_presence_count": 90,
+        "approximate_member_count": 2505,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c22a58f9760ff6da7ee835b8d8753a2e",
@@ -48,10 +49,21 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 35,
                 "is_primary": false,
@@ -88,16 +100,6 @@
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -113,12 +115,12 @@
         "objectID": "847566840682905651",
         "_highlightResult": {
             "name": {
-                "value": "Wlaze's Slaves",
+                "value": "OfficerBarça",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Hello! Welcome to OfficerBarca discord, an international community where we discuss about FC Barcelona & related stuff!",
+                "value": "Hello! Welcome to OfficerBarça discord, an international community where we discuss about FC Barcelona & related stuff!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -135,6 +137,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -284,25 +305,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

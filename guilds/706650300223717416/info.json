@@ -1,27 +1,27 @@
 {
     "id": "706650300223717416",
     "name": "GetMoney Traders LLC",
-    "description": "",
+    "description": "This server is all about investing in the stock market, including stocks, options and crypto. Welcome!",
     "icon": "55875236d4b5efc2246121fb58e29de3",
     "splash": "9d88892837a07791dcd43c3546271400",
-    "discovery_splash": "e8d1f125ea4d546b1e574ee25af7d644",
+    "discovery_splash": "02c2ea2f149e43158b4e4e058c5443a8",
     "banner": "b02a758d28daf5bd663d5cf6a8a2452c",
-    "approximate_presence_count": 3872,
-    "approximate_member_count": 111257,
+    "approximate_presence_count": 3999,
+    "approximate_member_count": 111211,
     "premium_subscription_count": 24,
     "preferred_locale": "en-US",
     "vanity_url_code": "getmoneytraders",
     "keywords": [
-        "trading",
-        "stocks",
-        "trading stocks",
-        "stock alerts",
-        "stock server",
-        "stock channel",
         "alerting stocks",
-        "stock options alerts",
+        "stock alerts",
+        "stock channel",
         "stock market",
-        "stock trader"
+        "stock options alerts",
+        "stock server",
+        "stock trader",
+        "stocks",
+        "trading",
+        "trading stocks"
     ],
     "features": [
         "COMMUNITY",
@@ -34,30 +34,30 @@
     "raw": {
         "id": "706650300223717416",
         "name": "GetMoney Traders LLC",
-        "description": "",
+        "description": "This server is all about investing in the stock market, including stocks, options and crypto. Welcome!",
         "icon": "55875236d4b5efc2246121fb58e29de3",
         "splash": "9d88892837a07791dcd43c3546271400",
         "banner": "b02a758d28daf5bd663d5cf6a8a2452c",
-        "approximate_presence_count": 3872,
-        "approximate_member_count": 111257,
+        "approximate_presence_count": 3999,
+        "approximate_member_count": 111211,
         "premium_subscription_count": 24,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e8d1f125ea4d546b1e574ee25af7d644",
+        "discovery_splash": "02c2ea2f149e43158b4e4e058c5443a8",
         "primary_category_id": 12,
         "vanity_url_code": "getmoneytraders",
         "is_published": false,
         "keywords": [
-            "trading",
-            "stocks",
-            "trading stocks",
-            "stock alerts",
-            "stock server",
-            "stock channel",
             "alerting stocks",
-            "stock options alerts",
+            "stock alerts",
+            "stock channel",
             "stock market",
-            "stock trader"
+            "stock options alerts",
+            "stock server",
+            "stock trader",
+            "stocks",
+            "trading",
+            "trading stocks"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +66,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -138,16 +148,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -233,7 +233,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "This server is all about investing in the stock market, including stocks, options and crypto. Welcome!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -244,17 +244,7 @@
             },
             "keywords": [
                 {
-                    "value": "trading",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "stocks",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "trading stocks",
+                    "value": "alerting stocks",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -264,22 +254,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "stock server",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "stock channel",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "alerting stocks",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "stock options alerts",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -289,12 +264,56 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "stock options alerts",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stock server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "stock trader",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stocks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trading",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trading stocks",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -598,25 +617,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
