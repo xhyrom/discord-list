@@ -6,9 +6,9 @@
     "splash": "064b5d82b564b5f2b411798a4c4bfa10",
     "discovery_splash": "5910623d3a21b5c3892cca2343f67ede",
     "banner": "a_c131e5bbf406d0cd62c75c00ba8733a9",
-    "approximate_presence_count": 2093,
-    "approximate_member_count": 56478,
-    "premium_subscription_count": 19,
+    "approximate_presence_count": 1944,
+    "approximate_member_count": 59464,
+    "premium_subscription_count": 33,
     "preferred_locale": "en-US",
     "vanity_url_code": "kucoinofficial",
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "4afb85309dcec8047ccf60d29dc8a635",
         "splash": "064b5d82b564b5f2b411798a4c4bfa10",
         "banner": "a_c131e5bbf406d0cd62c75c00ba8733a9",
-        "approximate_presence_count": 2093,
-        "approximate_member_count": 56478,
-        "premium_subscription_count": 19,
+        "approximate_presence_count": 1944,
+        "approximate_member_count": 59464,
+        "premium_subscription_count": 33,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "5910623d3a21b5c3892cca2343f67ede",
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 27,
                 "is_primary": false,
@@ -105,16 +115,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -264,6 +264,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Криптовалута",
                             "matchLevel": "none",
@@ -411,25 +430,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
