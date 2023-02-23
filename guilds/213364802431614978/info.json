@@ -4,22 +4,27 @@
     "description": "The official server for Verde, a cafe on Roblox.",
     "icon": "1d3fc308caaa2c8d09690dbb58d7a816",
     "splash": "8488a95b809edd3954ce61ce23572483",
-    "discovery_splash": "8488a95b809edd3954ce61ce23572483",
+    "discovery_splash": "973c6f13dd850e1655214b6b4abc9343",
     "banner": "603644d2372827e79f761b46f03fe26d",
-    "approximate_presence_count": 580,
-    "approximate_member_count": 13699,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 393,
+    "approximate_member_count": 13622,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "verde-213364802431614978",
     "keywords": [
         "cafe",
-        "roblox"
+        "roblox",
+        "boba",
+        "koala",
+        "pastriez"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -30,26 +35,68 @@
         "icon": "1d3fc308caaa2c8d09690dbb58d7a816",
         "splash": "8488a95b809edd3954ce61ce23572483",
         "banner": "603644d2372827e79f761b46f03fe26d",
-        "approximate_presence_count": 580,
-        "approximate_member_count": 13699,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 393,
+        "approximate_member_count": 13622,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "8488a95b809edd3954ce61ce23572483",
+        "discovery_splash": "973c6f13dd850e1655214b6b4abc9343",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "verde-213364802431614978",
+        "is_published": true,
         "keywords": [
             "cafe",
-            "roblox"
+            "roblox",
+            "boba",
+            "koala",
+            "pastriez"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 31,
+                "is_primary": false,
+                "name": "Customer Support",
+                "name_localizations": {
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
+                }
+            },
             {
                 "id": 34,
                 "is_primary": false,
@@ -174,6 +221,11 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "verde-213364802431614978",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
                     "value": "cafe",
@@ -184,9 +236,178 @@
                     "value": "roblox",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "boba",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "koala",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pastriez",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Обслужване на клиенти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Uživatelská podpora",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kundesupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kundensupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εξυπηρέτηση πελατών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Asiakastuki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Assistance clientèle",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कस्टमर सपोर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Podrška korisnicima",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Ügyfélszolgálat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Assistenza clienti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "カスタマーサポート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "고객 지원",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Klientų palaikymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Klantenondersteuning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kundestøtte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pomoc techniczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Asistență clienți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Служба поддержки",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müşteri Desteği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Підтримка користувачів",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Chăm Sóc Khách Hàng",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Atención al cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Suporte ao cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kundsupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "客户支持",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "客戶支援",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {

@@ -3,12 +3,12 @@
     "name": "Lock Hub",
     "description": "#1 Sports Betting server!100% FREEMade for Degens to work together with FREE tools and Bots programmed to help you W",
     "icon": "77814c0ad9429833e27758d093873fe7",
-    "splash": null,
+    "splash": "330e36461ed0280b891140be5b217d9e",
     "discovery_splash": "a1bc122404398d0e82ac133548e0302a",
-    "banner": null,
-    "approximate_presence_count": 412,
-    "approximate_member_count": 6031,
-    "premium_subscription_count": 7,
+    "banner": "a199b88d5881a068c14a186900b15be3",
+    "approximate_presence_count": 307,
+    "approximate_member_count": 6099,
+    "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -37,11 +37,11 @@
         "name": "Lock Hub",
         "description": "#1 Sports Betting server!100% FREEMade for Degens to work together with FREE tools and Bots programmed to help you W",
         "icon": "77814c0ad9429833e27758d093873fe7",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 412,
-        "approximate_member_count": 6031,
-        "premium_subscription_count": 7,
+        "splash": "330e36461ed0280b891140be5b217d9e",
+        "banner": "a199b88d5881a068c14a186900b15be3",
+        "approximate_presence_count": 307,
+        "approximate_member_count": 6099,
+        "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a1bc122404398d0e82ac133548e0302a",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -103,16 +113,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             }
         ],
@@ -186,6 +186,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -335,25 +354,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

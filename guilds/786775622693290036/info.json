@@ -1,14 +1,14 @@
 {
     "id": "786775622693290036",
     "name": "Wealth Empire",
-    "description": "The #1 Options Trading Community! Come Bank With Us 🤝",
+    "description": "Wealth Empire is the #1 online options trading community! We teach A-Z how to become profitable in any market condition.",
     "icon": "a_8f272931795b34dd9094c8dd013ef76e",
-    "splash": "a7bd7ed97398f99fd172d16c9e9a73ef",
+    "splash": "2b69e40a57ecccd812920b88cb15ec7e",
     "discovery_splash": "91a385b18d4ede0d8a7a57ff8f451de8",
     "banner": "a_51a9308f70be73de478189659182be3a",
-    "approximate_presence_count": 1300,
-    "approximate_member_count": 20569,
-    "premium_subscription_count": 20,
+    "approximate_presence_count": 2110,
+    "approximate_member_count": 25627,
+    "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "wealthempire",
     "keywords": [
@@ -19,21 +19,24 @@
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "786775622693290036",
         "name": "Wealth Empire",
-        "description": "The #1 Options Trading Community! Come Bank With Us 🤝",
+        "description": "Wealth Empire is the #1 online options trading community! We teach A-Z how to become profitable in any market condition.",
         "icon": "a_8f272931795b34dd9094c8dd013ef76e",
-        "splash": "a7bd7ed97398f99fd172d16c9e9a73ef",
+        "splash": "2b69e40a57ecccd812920b88cb15ec7e",
         "banner": "a_51a9308f70be73de478189659182be3a",
-        "approximate_presence_count": 1300,
-        "approximate_member_count": 20569,
-        "premium_subscription_count": 20,
+        "approximate_presence_count": 2110,
+        "approximate_member_count": 25627,
+        "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "91a385b18d4ede0d8a7a57ff8f451de8",
@@ -48,8 +51,11 @@
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -90,6 +96,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 6,
                 "is_primary": true,
                 "name": "Education",
@@ -124,16 +140,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -219,7 +225,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The #1 Options Trading Community! Come Bank With Us 🤝",
+                "value": "Wealth Empire is the #1 online options trading community! We teach A-Z how to become profitable in any market condition.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -407,6 +413,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Образование",
                             "matchLevel": "none",
@@ -554,25 +579,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
