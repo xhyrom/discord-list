@@ -6,26 +6,27 @@
     "splash": "24ecae3c34f0f11bf47409458cabdd48",
     "discovery_splash": "bc0f5f0bd675ad350a565d2540d09a88",
     "banner": "dfad9cdb285e8188332a71289f60d8c8",
-    "approximate_presence_count": 1428,
-    "approximate_member_count": 4671,
-    "premium_subscription_count": 24,
+    "approximate_presence_count": 1349,
+    "approximate_member_count": 4697,
+    "premium_subscription_count": 25,
     "preferred_locale": "en-US",
     "vanity_url_code": "catarim",
     "keywords": [
-        "roblox",
         "catarim",
-        "tech",
-        "roblox-tech",
         "develop",
         "developing",
+        "roblox",
+        "roblox-studio",
+        "roblox-tech",
         "studio",
-        "roblox-studio"
+        "tech"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -36,9 +37,9 @@
         "icon": "1dc6075dc0425e9737591d03e62482cf",
         "splash": "24ecae3c34f0f11bf47409458cabdd48",
         "banner": "dfad9cdb285e8188332a71289f60d8c8",
-        "approximate_presence_count": 1428,
-        "approximate_member_count": 4671,
-        "premium_subscription_count": 24,
+        "approximate_presence_count": 1349,
+        "approximate_member_count": 4697,
+        "premium_subscription_count": 25,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "bc0f5f0bd675ad350a565d2540d09a88",
@@ -46,22 +47,60 @@
         "vanity_url_code": "catarim",
         "is_published": false,
         "keywords": [
-            "roblox",
             "catarim",
-            "tech",
-            "roblox-tech",
             "develop",
             "developing",
+            "roblox",
+            "roblox-studio",
+            "roblox-tech",
             "studio",
-            "roblox-studio"
+            "tech"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
+                }
+            },
             {
                 "id": 5,
                 "is_primary": true,
@@ -134,43 +173,6 @@
                     "sv-SE": "Spelutvecklare",
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
-                }
-            },
-            {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
                 }
             },
             {
@@ -267,22 +269,7 @@
             },
             "keywords": [
                 {
-                    "value": "roblox",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "catarim",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tech",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roblox-tech",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -297,7 +284,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "studio",
+                    "value": "roblox",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -305,9 +292,178 @@
                     "value": "roblox-studio",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "roblox-tech",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "studio",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tech",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -611,160 +767,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
