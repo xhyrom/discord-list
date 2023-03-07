@@ -2,13 +2,13 @@
     "id": "668989780398440466",
     "name": "ChartBulls",
     "description": "",
-    "icon": "4d5435ec78688052781c10e68f51f166",
-    "splash": "5d2ce1fb9bdb778756dcbb2df4c6cd1e",
+    "icon": "7c9b7e68281a6c9448b8dfccdab90621",
+    "splash": "2225a8572ff4bd2417cba5568e0977c2",
     "discovery_splash": null,
-    "banner": "84e7567eca68956c640c8617bf2bdb97",
-    "approximate_presence_count": 2197,
-    "approximate_member_count": 16352,
-    "premium_subscription_count": 12,
+    "banner": "163fb189b50ef4ef1a399f6f37119992",
+    "approximate_presence_count": 2469,
+    "approximate_member_count": 17142,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -35,12 +35,12 @@
         "id": "668989780398440466",
         "name": "ChartBulls",
         "description": "",
-        "icon": "4d5435ec78688052781c10e68f51f166",
-        "splash": "5d2ce1fb9bdb778756dcbb2df4c6cd1e",
-        "banner": "84e7567eca68956c640c8617bf2bdb97",
-        "approximate_presence_count": 2197,
-        "approximate_member_count": 16352,
-        "premium_subscription_count": 12,
+        "icon": "7c9b7e68281a6c9448b8dfccdab90621",
+        "splash": "2225a8572ff4bd2417cba5568e0977c2",
+        "banner": "163fb189b50ef4ef1a399f6f37119992",
+        "approximate_presence_count": 2469,
+        "approximate_member_count": 17142,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -104,6 +104,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 38,
                 "is_primary": false,
                 "name": "Collaboration",
@@ -138,16 +148,6 @@
                     "sv-SE": "Samarbete",
                     "zh-CN": "合作",
                     "zh-TW": "合作"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -436,6 +436,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Сътрудничество",
                             "matchLevel": "none",
@@ -583,25 +602,6 @@
                         },
                         "zh-TW": {
                             "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

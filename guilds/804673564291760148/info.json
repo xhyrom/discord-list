@@ -5,10 +5,10 @@
     "icon": "a_a5b51987aac81cae95d62735ec3803c4",
     "splash": "4d2a6e06a953bafb253b0b1295a71a94",
     "discovery_splash": "e14c64d808302ed06876527fd19b374c",
-    "banner": "b73b67516ad252e6138971c174bead87",
-    "approximate_presence_count": 1347,
-    "approximate_member_count": 17311,
-    "premium_subscription_count": 37,
+    "banner": "77f442baba01f3c62a78cee6b0ec4bb1",
+    "approximate_presence_count": 1115,
+    "approximate_member_count": 17070,
+    "premium_subscription_count": 26,
     "preferred_locale": "en-US",
     "vanity_url_code": "filthyrichfutures",
     "keywords": [
@@ -37,10 +37,10 @@
         "description": "Hardcore futures trading. Risk management and education before profit!",
         "icon": "a_a5b51987aac81cae95d62735ec3803c4",
         "splash": "4d2a6e06a953bafb253b0b1295a71a94",
-        "banner": "b73b67516ad252e6138971c174bead87",
-        "approximate_presence_count": 1347,
-        "approximate_member_count": 17311,
-        "premium_subscription_count": 37,
+        "banner": "77f442baba01f3c62a78cee6b0ec4bb1",
+        "approximate_presence_count": 1115,
+        "approximate_member_count": 17070,
+        "premium_subscription_count": 26,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e14c64d808302ed06876527fd19b374c",
@@ -66,6 +66,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -138,16 +148,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -332,6 +332,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -635,25 +654,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
