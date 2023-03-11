@@ -6,11 +6,11 @@
     "splash": "439f971050021710c3491bfb279519cc",
     "discovery_splash": "27d4d2d1513b857b8a43d0f11ab0d2f3",
     "banner": "acd6c0cb0a5f8e1d9ce931cfbf9165c8",
-    "approximate_presence_count": 368,
-    "approximate_member_count": 3655,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 358,
+    "approximate_member_count": 3750,
+    "premium_subscription_count": 9,
     "preferred_locale": "de",
-    "vanity_url_code": "copped-inc-811233408474677289",
+    "vanity_url_code": "coppedinc",
     "keywords": [
         "reselling",
         "sneaker",
@@ -37,14 +37,14 @@
         "icon": "a_96bbfeab3037ba262532d709454cda11",
         "splash": "439f971050021710c3491bfb279519cc",
         "banner": "acd6c0cb0a5f8e1d9ce931cfbf9165c8",
-        "approximate_presence_count": 368,
-        "approximate_member_count": 3655,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 358,
+        "approximate_member_count": 3750,
+        "premium_subscription_count": 9,
         "preferred_locale": "de",
         "auto_removed": false,
         "discovery_splash": "27d4d2d1513b857b8a43d0f11ab0d2f3",
         "primary_category_id": 12,
-        "vanity_url_code": "copped-inc-811233408474677289",
+        "vanity_url_code": "coppedinc",
         "is_published": true,
         "keywords": [
             "reselling",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 49,
                 "is_primary": true,
@@ -99,16 +109,6 @@
                     "sv-SE": "Bottar",
                     "zh-CN": "机器人",
                     "zh-TW": "機器人"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -199,7 +199,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "copped-inc-811233408474677289",
+                "value": "coppedinc",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -241,6 +241,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -390,25 +409,6 @@
                         },
                         "zh-TW": {
                             "value": "機器人",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
