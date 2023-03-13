@@ -5,10 +5,10 @@
     "icon": "fa9798ff8bc0c9c0a35af3536231b2af",
     "splash": "fb5035dc109799c100d92374a04c68aa",
     "discovery_splash": "fb5035dc109799c100d92374a04c68aa",
-    "banner": "e957f4f448a69f3ca2c46fe927381403",
-    "approximate_presence_count": 1484,
-    "approximate_member_count": 16941,
-    "premium_subscription_count": 16,
+    "banner": "8a5637d460d63a4ef62f56000deb1855",
+    "approximate_presence_count": 3334,
+    "approximate_member_count": 39808,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "tradersevolve",
     "keywords": [
@@ -36,10 +36,10 @@
         "description": "Traders Evolve is an educational based server to help you build your day trading career from start to finish!",
         "icon": "fa9798ff8bc0c9c0a35af3536231b2af",
         "splash": "fb5035dc109799c100d92374a04c68aa",
-        "banner": "e957f4f448a69f3ca2c46fe927381403",
-        "approximate_presence_count": 1484,
-        "approximate_member_count": 16941,
-        "premium_subscription_count": 16,
+        "banner": "8a5637d460d63a4ef62f56000deb1855",
+        "approximate_presence_count": 3334,
+        "approximate_member_count": 39808,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fb5035dc109799c100d92374a04c68aa",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -99,16 +109,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -241,6 +241,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -390,25 +409,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
