@@ -1,14 +1,14 @@
 {
     "id": "751105013279096865",
     "name": "RaceDay.watch",
-    "description": "Detailed motorsport guide with tv broadcasts and online livestreams. Updated every week.",
+    "description": "Detailed motorsport guide with official online livestreams and TV broadcasts. Updated every week.",
     "icon": "648c3485cc412b8f32fafe40a801fbf1",
     "splash": "a9e4943e609c5f17c56c86a706683a73",
     "discovery_splash": "a9e4943e609c5f17c56c86a706683a73",
     "banner": null,
-    "approximate_presence_count": 1006,
-    "approximate_member_count": 6847,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 870,
+    "approximate_member_count": 6820,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -35,13 +35,13 @@
     "raw": {
         "id": "751105013279096865",
         "name": "RaceDay.watch",
-        "description": "Detailed motorsport guide with tv broadcasts and online livestreams. Updated every week.",
+        "description": "Detailed motorsport guide with official online livestreams and TV broadcasts. Updated every week.",
         "icon": "648c3485cc412b8f32fafe40a801fbf1",
         "splash": "a9e4943e609c5f17c56c86a706683a73",
         "banner": null,
-        "approximate_presence_count": 1006,
-        "approximate_member_count": 6847,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 870,
+        "approximate_member_count": 6820,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a9e4943e609c5f17c56c86a706683a73",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -141,16 +151,6 @@
                     "zh-CN": "新闻&时事",
                     "zh-TW": "新消息與目前活動"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -171,7 +171,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Detailed motorsport guide with tv broadcasts and online livestreams. Updated every week.",
+                "value": "Detailed motorsport guide with official online livestreams and TV broadcasts. Updated every week.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -228,6 +228,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -531,25 +550,6 @@
                         },
                         "zh-TW": {
                             "value": "新消息與目前活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -2,13 +2,13 @@
     "id": "806353045914517534",
     "name": "𝗠𝗮𝗱𝗱𝗲𝗻 𝗖𝗼𝗿𝗲™",
     "description": "Best place for all your madden needs. Containing the most active football community with daily polls and events.",
-    "icon": "a_b6d292fec75d271a9c81275a6c826ef2",
-    "splash": "b8d3757723f2309ae390dc6891391cb9",
-    "discovery_splash": "23eef6f2cab0ac4946f7834d2134ad0e",
-    "banner": "a_b6d292fec75d271a9c81275a6c826ef2",
-    "approximate_presence_count": 508,
-    "approximate_member_count": 6583,
-    "premium_subscription_count": 8,
+    "icon": "a_b0eb2828d157e82e2b797a4420551ffd",
+    "splash": "9311a697454468bf9cee75a44fbd1aa3",
+    "discovery_splash": "31faf771e2fe11daa6d41bdfe038923e",
+    "banner": "e0e9665e05202c109d88c52d63f12802",
+    "approximate_presence_count": 1261,
+    "approximate_member_count": 8146,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -26,6 +26,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,15 +36,15 @@
         "id": "806353045914517534",
         "name": "𝗠𝗮𝗱𝗱𝗲𝗻 𝗖𝗼𝗿𝗲™",
         "description": "Best place for all your madden needs. Containing the most active football community with daily polls and events.",
-        "icon": "a_b6d292fec75d271a9c81275a6c826ef2",
-        "splash": "b8d3757723f2309ae390dc6891391cb9",
-        "banner": "a_b6d292fec75d271a9c81275a6c826ef2",
-        "approximate_presence_count": 508,
-        "approximate_member_count": 6583,
-        "premium_subscription_count": 8,
+        "icon": "a_b0eb2828d157e82e2b797a4420551ffd",
+        "splash": "9311a697454468bf9cee75a44fbd1aa3",
+        "banner": "e0e9665e05202c109d88c52d63f12802",
+        "approximate_presence_count": 1261,
+        "approximate_member_count": 8146,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "23eef6f2cab0ac4946f7834d2134ad0e",
+        "discovery_splash": "31faf771e2fe11daa6d41bdfe038923e",
         "primary_category_id": 7,
         "vanity_url_code": null,
         "is_published": false,
@@ -62,20 +63,11 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -114,40 +106,50 @@
                 }
             },
             {
-                "id": 46,
-                "is_primary": false,
-                "name": "Console",
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
                 "name_localizations": {
-                    "bg": "Конзола",
-                    "cs": "Konzole",
-                    "da": "Konsol",
-                    "de": "Konsolen",
-                    "el": "Κονσόλες",
-                    "fi": "Konsolit",
-                    "fr": "Console",
-                    "hi": "कंसोल",
-                    "hr": "Konzole",
-                    "hu": "Konzol",
-                    "it": "Console",
-                    "ja": "コンソール",
-                    "ko": "게임 콘솔",
-                    "lt": "Žaidimų konsolės",
-                    "nl": "Console",
-                    "no": "Konsoll",
-                    "pl": "Konsola",
-                    "ro": "Consolă",
-                    "ru": "Консоли",
-                    "th": "คอนโซล",
-                    "tr": "Konsol",
-                    "uk": "Консолі",
-                    "vi": "Console",
-                    "en-GB": "Console",
-                    "en-US": "Console",
-                    "es-ES": "Consola",
-                    "pt-BR": "Console",
-                    "sv-SE": "Konsol",
-                    "zh-CN": "主机端",
-                    "zh-TW": "遊戲主機"
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -188,40 +190,40 @@
                 }
             },
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
+                "id": 46,
+                "is_primary": false,
+                "name": "Console",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Конзола",
+                    "cs": "Konzole",
+                    "da": "Konsol",
+                    "de": "Konsolen",
+                    "el": "Κονσόλες",
+                    "fi": "Konsolit",
+                    "fr": "Console",
+                    "hi": "कंसोल",
+                    "hr": "Konzole",
+                    "hu": "Konzol",
+                    "it": "Console",
+                    "ja": "コンソール",
+                    "ko": "게임 콘솔",
+                    "lt": "Žaidimų konsolės",
+                    "nl": "Console",
+                    "no": "Konsoll",
+                    "pl": "Konsola",
+                    "ro": "Consolă",
+                    "ru": "Консоли",
+                    "th": "คอนโซล",
+                    "tr": "Konsol",
+                    "uk": "Консолі",
+                    "vi": "Console",
+                    "en-GB": "Console",
+                    "en-US": "Console",
+                    "es-ES": "Consola",
+                    "pt-BR": "Console",
+                    "sv-SE": "Konsol",
+                    "zh-CN": "主机端",
+                    "zh-TW": "遊戲主機"
                 }
             }
         ],
@@ -295,25 +297,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -470,153 +453,172 @@
                 },
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Конзола",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Konsolen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κονσόλες",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Konsolit",
+                            "value": "Sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंसोल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Konzol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンソール",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 콘솔",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų konsolės",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Konsoll",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Konsola",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Consolă",
+                            "value": "Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Консоли",
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "คอนโซล",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Konsol",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Консолі",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Console",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Console",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Console",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Consola",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Console",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Konsol",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "主机端",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲主機",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -779,152 +781,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Конзола",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Konsolen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Κονσόλες",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Konsolit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "कंसोल",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Konzol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "コンソール",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "게임 콘솔",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Žaidimų konsolės",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Konsoll",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Konsola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Consolă",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Консоли",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "คอนโซล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Консолі",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Consola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "主机端",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "遊戲主機",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
