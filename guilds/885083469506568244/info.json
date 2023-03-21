@@ -6,9 +6,9 @@
     "splash": null,
     "discovery_splash": null,
     "banner": "96680fa61f33e4705017da6b873a5e49",
-    "approximate_presence_count": 612,
-    "approximate_member_count": 8362,
-    "premium_subscription_count": 17,
+    "approximate_presence_count": 1163,
+    "approximate_member_count": 10762,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "singulardao",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "c22656aac53f4232e2a0f2cbff425f56",
         "splash": null,
         "banner": "96680fa61f33e4705017da6b873a5e49",
-        "approximate_presence_count": 612,
-        "approximate_member_count": 8362,
-        "premium_subscription_count": 17,
+        "approximate_presence_count": 1163,
+        "approximate_member_count": 10762,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -103,6 +103,16 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -177,16 +187,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -483,6 +483,25 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -791,25 +810,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
