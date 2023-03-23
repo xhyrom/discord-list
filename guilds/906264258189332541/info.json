@@ -3,28 +3,29 @@
     "name": "Emerald City",
     "description": "The first DAO on the Flow blockchain. We provide education, build tooling, and lead the way for DAOs on Flow.",
     "icon": "a00485515da4bfac654457b2a9ee4867",
-    "splash": "74864c5199cfe1fe05079e0f47ad6c76",
-    "discovery_splash": "9e439b7f6499cd8b6d0348664ea42bb5",
-    "banner": "7c7794c3eecff0a729a43613a129b7d4",
-    "approximate_presence_count": 719,
-    "approximate_member_count": 17363,
+    "splash": "63e6543b7acafd878c50583ac0e64534",
+    "discovery_splash": "6c2ead3fea4851b483222a43be6d7785",
+    "banner": "63e6543b7acafd878c50583ac0e64534",
+    "approximate_presence_count": 632,
+    "approximate_member_count": 15628,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "emeraldcity",
     "keywords": [
-        "programming",
+        "blockchain",
         "coding",
-        "tech",
         "cryptocurrency",
         "dao",
         "flow",
-        "blockchain",
-        "governance"
+        "governance",
+        "programming",
+        "tech"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,35 +36,73 @@
         "name": "Emerald City",
         "description": "The first DAO on the Flow blockchain. We provide education, build tooling, and lead the way for DAOs on Flow.",
         "icon": "a00485515da4bfac654457b2a9ee4867",
-        "splash": "74864c5199cfe1fe05079e0f47ad6c76",
-        "banner": "7c7794c3eecff0a729a43613a129b7d4",
-        "approximate_presence_count": 719,
-        "approximate_member_count": 17363,
+        "splash": "63e6543b7acafd878c50583ac0e64534",
+        "banner": "63e6543b7acafd878c50583ac0e64534",
+        "approximate_presence_count": 632,
+        "approximate_member_count": 15628,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "9e439b7f6499cd8b6d0348664ea42bb5",
+        "discovery_splash": "6c2ead3fea4851b483222a43be6d7785",
         "primary_category_id": 5,
         "vanity_url_code": "emeraldcity",
         "is_published": false,
         "keywords": [
-            "programming",
+            "blockchain",
             "coding",
-            "tech",
             "cryptocurrency",
             "dao",
             "flow",
-            "blockchain",
-            "governance"
+            "governance",
+            "programming",
+            "tech"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -136,43 +175,6 @@
                     "sv-SE": "Kryptovaluta",
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
                 }
             },
             {
@@ -269,17 +271,12 @@
             },
             "keywords": [
                 {
-                    "value": "programming",
+                    "value": "blockchain",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "coding",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tech",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -299,17 +296,176 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "blockchain",
+                    "value": "governance",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "governance",
+                    "value": "programming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tech",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -613,160 +769,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
