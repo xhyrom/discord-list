@@ -6,8 +6,8 @@
     "splash": "99cded24012f0f4194126cc8ae264c0a",
     "discovery_splash": "5cc7a93a770094356b228d70505914e1",
     "banner": "99cded24012f0f4194126cc8ae264c0a",
-    "approximate_presence_count": 654,
-    "approximate_member_count": 2453,
+    "approximate_presence_count": 768,
+    "approximate_member_count": 2482,
     "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -40,8 +40,8 @@
         "icon": "a_8a06ff9179cf8a2f539733c089bc4c37",
         "splash": "99cded24012f0f4194126cc8ae264c0a",
         "banner": "99cded24012f0f4194126cc8ae264c0a",
-        "approximate_presence_count": 654,
-        "approximate_member_count": 2453,
+        "approximate_presence_count": 768,
+        "approximate_member_count": 2482,
         "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 30,
+                "is_primary": false,
+                "name": "LFG",
+                "name_localizations": {
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -145,80 +182,6 @@
                 }
             },
             {
-                "id": 24,
-                "is_primary": false,
-                "name": "Tabletop Games",
-                "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
-                }
-            },
-            {
-                "id": 30,
-                "is_primary": false,
-                "name": "LFG",
-                "name_localizations": {
-                    "bg": "LFG",
-                    "cs": "LFG",
-                    "da": "LFG",
-                    "de": "Gruppensuche",
-                    "el": "LFG",
-                    "fi": "Ryhmähaku",
-                    "fr": "LFG",
-                    "hi": "LFG",
-                    "hr": "LFG",
-                    "hu": "LFG",
-                    "it": "LFG",
-                    "ja": "グループ検索",
-                    "ko": "그룹 찾기",
-                    "lt": "Grupės paieškos",
-                    "nl": "LFG",
-                    "no": "LFG",
-                    "pl": "Szukanie grupy",
-                    "ro": "LFG",
-                    "ru": "Поиск группы",
-                    "th": "LFG",
-                    "tr": "Grup Arama",
-                    "uk": "Пошук гільдії",
-                    "vi": "LFG",
-                    "en-GB": "LFG",
-                    "en-US": "LFG",
-                    "es-ES": "LFG",
-                    "pt-BR": "PG",
-                    "sv-SE": "Letar efter grupp (LFG)",
-                    "zh-CN": "找同好（LFG）",
-                    "zh-TW": "LFG"
-                }
-            },
-            {
                 "id": 34,
                 "is_primary": false,
                 "name": "Roleplay",
@@ -253,6 +216,43 @@
                     "sv-SE": "Rollspel",
                     "zh-CN": "跑团",
                     "zh-TW": "角色扮演"
+                }
+            },
+            {
+                "id": 24,
+                "is_primary": false,
+                "name": "Tabletop Games",
+                "name_localizations": {
+                    "bg": "Настолни игри",
+                    "cs": "Stolní hry",
+                    "da": "Brætspil",
+                    "de": "Tabletop-Spiele",
+                    "el": "Επιτραπέζια παιχνίδια",
+                    "fi": "Lautapelit",
+                    "fr": "Jeux de société",
+                    "hi": "टेबलटॉप गेम्स",
+                    "hr": "Stolne igre",
+                    "hu": "Társasjátékok",
+                    "it": "Giochi da tavolo",
+                    "ja": "テーブルゲーム",
+                    "ko": "테이블탑 게임",
+                    "lt": "Stalo žaidimai",
+                    "nl": "Bordspellen",
+                    "no": "Brettspill",
+                    "pl": "Gry planszowe",
+                    "ro": "Jocuri pe tablă",
+                    "ru": "Настольные игры",
+                    "th": "เกมกระดาน",
+                    "tr": "Kutu Oyunları",
+                    "uk": "Настільні ігри",
+                    "vi": "Game Chơi Trên Bàn",
+                    "en-GB": "Tabletop Games",
+                    "en-US": "Tabletop Games",
+                    "es-ES": "Juegos de mesa",
+                    "pt-BR": "Jogos de tabuleiro",
+                    "sv-SE": "Bordsspel",
+                    "zh-CN": "桌游",
+                    "zh-TW": "桌遊"
                 }
             },
             {
@@ -395,6 +395,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gruppensuche",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ryhmähaku",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "グループ検索",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "그룹 찾기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Grupės paieškos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Szukanie grupy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Поиск группы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Grup Arama",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Пошук гільдії",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "PG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Letar efter grupp (LFG)",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "找同好（LFG）",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -706,314 +860,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Настолни игри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Stolní hry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Brætspil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Tabletop-Spiele",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Lautapelit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Jeux de société",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "टेबलटॉप गेम्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stolne igre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Társasjátékok",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Giochi da tavolo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "テーブルゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "테이블탑 게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Stalo žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Bordspellen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Brettspill",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry planszowe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Jocuri pe tablă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Настольные игры",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "เกมกระดาน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kutu Oyunları",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Настільні ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Game Chơi Trên Bàn",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Tabletop Games",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Tabletop Games",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juegos de mesa",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Jogos de tabuleiro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Bordsspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "桌游",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "桌遊",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Gruppensuche",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Ryhmähaku",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "グループ検索",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "그룹 찾기",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Grupės paieškos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Szukanie grupy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Поиск группы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Grup Arama",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Пошук гільдії",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "PG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Letar efter grupp (LFG)",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "找同好（LFG）",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Ролева игра",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1160,6 +1006,160 @@
                         },
                         "zh-TW": {
                             "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Настолни игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Stolní hry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Brætspil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Tabletop-Spiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιτραπέζια παιχνίδια",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Lautapelit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de société",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "टेबलटॉप गेम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stolne igre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Társasjátékok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi da tavolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "テーブルゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "테이블탑 게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Stalo žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bordspellen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Brettspill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry planszowe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri pe tablă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Настольные игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เกมกระดาน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kutu Oyunları",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Настільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Game Chơi Trên Bàn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos de mesa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos de tabuleiro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bordsspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "桌游",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
