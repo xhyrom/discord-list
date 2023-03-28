@@ -1,14 +1,14 @@
 {
     "id": "943080704848297984",
     "name": "GOD TIPS",
-    "description": "Ние предлагаме висококачествени съвети за спортни залагания - безплатни и платени",
-    "icon": "a5dd31628311d1476f01fe23c80b81e7",
+    "description": "Кой каза, че и ти не можеш да правиш пари?",
+    "icon": "8d35106b201dddff65d2ae1ed3590edc",
     "splash": "8812c42d83433405c0e8318f28e43f96",
     "discovery_splash": "1578f1b8964abd443d201b76d5308a85",
     "banner": "69e95d041367cdcd37b00322863622a4",
-    "approximate_presence_count": 293,
-    "approximate_member_count": 3502,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 265,
+    "approximate_member_count": 3503,
+    "premium_subscription_count": 0,
     "preferred_locale": "bg",
     "vanity_url_code": null,
     "keywords": [
@@ -33,13 +33,13 @@
     "raw": {
         "id": "943080704848297984",
         "name": "GOD TIPS",
-        "description": "Ние предлагаме висококачествени съвети за спортни залагания - безплатни и платени",
-        "icon": "a5dd31628311d1476f01fe23c80b81e7",
+        "description": "Кой каза, че и ти не можеш да правиш пари?",
+        "icon": "8d35106b201dddff65d2ae1ed3590edc",
         "splash": "8812c42d83433405c0e8318f28e43f96",
         "banner": "69e95d041367cdcd37b00322863622a4",
-        "approximate_presence_count": 293,
-        "approximate_member_count": 3502,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 265,
+        "approximate_member_count": 3503,
+        "premium_subscription_count": 0,
         "preferred_locale": "bg",
         "auto_removed": false,
         "discovery_splash": "1578f1b8964abd443d201b76d5308a85",
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -112,6 +102,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 13,
                 "is_primary": true,
                 "name": "Other",
@@ -140,7 +140,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Ние предлагаме висококачествени съвети за спортни залагания - безплатни и платени",
+                "value": "Кой каза, че и ти не можеш да правиш пари?",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -182,25 +182,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -350,6 +331,25 @@
                         },
                         "zh-TW": {
                             "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
