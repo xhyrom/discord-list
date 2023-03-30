@@ -4,10 +4,10 @@
     "description": "Herní servery z Moravy.",
     "icon": "1ddad60695fba1eb75535923f5258a31",
     "splash": "f880073358c6b2a3355e96260e13888d",
-    "discovery_splash": null,
+    "discovery_splash": "b46ec1c88319c39765e6444e74e23a03",
     "banner": null,
-    "approximate_presence_count": 342,
-    "approximate_member_count": 1183,
+    "approximate_presence_count": 276,
+    "approximate_member_count": 1263,
     "premium_subscription_count": 3,
     "preferred_locale": "cs",
     "vanity_url_code": null,
@@ -20,10 +20,13 @@
         "pve",
         "valheim",
         "mod",
-        "vanilla"
+        "vanilla",
+        "český"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -35,12 +38,12 @@
         "icon": "1ddad60695fba1eb75535923f5258a31",
         "splash": "f880073358c6b2a3355e96260e13888d",
         "banner": null,
-        "approximate_presence_count": 342,
-        "approximate_member_count": 1183,
+        "approximate_presence_count": 276,
+        "approximate_member_count": 1263,
         "premium_subscription_count": 3,
         "preferred_locale": "cs",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "b46ec1c88319c39765e6444e74e23a03",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
@@ -53,10 +56,13 @@
             "pve",
             "valheim",
             "mod",
-            "vanilla"
+            "vanilla",
+            "český"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -190,6 +196,11 @@
                 },
                 {
                     "value": "vanilla",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "český",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
