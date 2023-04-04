@@ -2,13 +2,13 @@
     "id": "807158656940245002",
     "name": "ＭＩＳＦＩＴＺ",
     "description": "Misfit is a server where you can have communication with new people and can be stressless.",
-    "icon": "a_c36ed1b2deb8ec9af89578dc5acd61ed",
-    "splash": "e91e527a05afb3ae074f688396b36b4e",
-    "discovery_splash": "4e87f319b58ebfe90b828bff9ebdf37c",
-    "banner": "a_af5bc546b1dc7cc4f02e3ea06ac4a214",
-    "approximate_presence_count": 57,
-    "approximate_member_count": 1357,
-    "premium_subscription_count": 3,
+    "icon": "a_fa5a0f3ce46aa14dc307d19de9f11592",
+    "splash": "88b93ad36b9dcf53065ae556698fd7a5",
+    "discovery_splash": "88b93ad36b9dcf53065ae556698fd7a5",
+    "banner": "ed15ef9f053619968b1cbc9c3c798248",
+    "approximate_presence_count": 53,
+    "approximate_member_count": 1399,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -27,7 +27,9 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -35,15 +37,15 @@
         "id": "807158656940245002",
         "name": "ＭＩＳＦＩＴＺ",
         "description": "Misfit is a server where you can have communication with new people and can be stressless.",
-        "icon": "a_c36ed1b2deb8ec9af89578dc5acd61ed",
-        "splash": "e91e527a05afb3ae074f688396b36b4e",
-        "banner": "a_af5bc546b1dc7cc4f02e3ea06ac4a214",
-        "approximate_presence_count": 57,
-        "approximate_member_count": 1357,
-        "premium_subscription_count": 3,
+        "icon": "a_fa5a0f3ce46aa14dc307d19de9f11592",
+        "splash": "88b93ad36b9dcf53065ae556698fd7a5",
+        "banner": "ed15ef9f053619968b1cbc9c3c798248",
+        "approximate_presence_count": 53,
+        "approximate_member_count": 1399,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "4e87f319b58ebfe90b828bff9ebdf37c",
+        "discovery_splash": "88b93ad36b9dcf53065ae556698fd7a5",
         "primary_category_id": 14,
         "vanity_url_code": null,
         "is_published": false,
@@ -63,46 +65,11 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
-                "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
-                }
-            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -178,40 +145,40 @@
                 }
             },
             {
-                "id": 24,
-                "is_primary": false,
-                "name": "Tabletop Games",
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
                 "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -249,6 +216,43 @@
                     "sv-SE": "Bottar",
                     "zh-CN": "机器人",
                     "zh-TW": "機器人"
+                }
+            },
+            {
+                "id": 24,
+                "is_primary": false,
+                "name": "Tabletop Games",
+                "name_localizations": {
+                    "bg": "Настолни игри",
+                    "cs": "Stolní hry",
+                    "da": "Brætspil",
+                    "de": "Tabletop-Spiele",
+                    "el": "Επιτραπέζια παιχνίδια",
+                    "fi": "Lautapelit",
+                    "fr": "Jeux de société",
+                    "hi": "टेबलटॉप गेम्स",
+                    "hr": "Stolne igre",
+                    "hu": "Társasjátékok",
+                    "it": "Giochi da tavolo",
+                    "ja": "テーブルゲーム",
+                    "ko": "테이블탑 게임",
+                    "lt": "Stalo žaidimai",
+                    "nl": "Bordspellen",
+                    "no": "Brettspill",
+                    "pl": "Gry planszowe",
+                    "ro": "Jocuri pe tablă",
+                    "ru": "Настольные игры",
+                    "th": "เกมกระดาน",
+                    "tr": "Kutu Oyunları",
+                    "uk": "Настільні ігри",
+                    "vi": "Game Chơi Trên Bàn",
+                    "en-GB": "Tabletop Games",
+                    "en-US": "Tabletop Games",
+                    "es-ES": "Juegos de mesa",
+                    "pt-BR": "Jogos de tabuleiro",
+                    "sv-SE": "Bordsspel",
+                    "zh-CN": "桌游",
+                    "zh-TW": "桌遊"
                 }
             },
             {
@@ -391,160 +395,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Гейминг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hraní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelaaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेमिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játék",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Игры",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นเกม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Oyun",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juegos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Jogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -856,152 +706,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Настолни игри",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Stolní hry",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Brætspil",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Tabletop-Spiele",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Lautapelit",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de société",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "टेबलटॉप गेम्स",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stolne igre",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Társasjátékok",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi da tavolo",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "テーブルゲーム",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "테이블탑 게임",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Stalo žaidimai",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bordspellen",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Brettspill",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry planszowe",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri pe tablă",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Настольные игры",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "เกมกระดาน",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kutu Oyunları",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Настільні ігри",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Game Chơi Trên Bàn",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Tabletop Games",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Tabletop Games",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos de mesa",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos de tabuleiro",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bordsspel",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "桌游",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "桌遊",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1156,6 +1006,160 @@
                         },
                         "zh-TW": {
                             "value": "機器人",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Настолни игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Stolní hry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Brætspil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Tabletop-Spiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιτραπέζια παιχνίδια",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Lautapelit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de société",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "टेबलटॉप गेम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stolne igre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Társasjátékok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi da tavolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "テーブルゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "테이블탑 게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Stalo žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bordspellen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Brettspill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry planszowe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri pe tablă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Настольные игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เกมกระดาน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kutu Oyunları",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Настільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Game Chơi Trên Bàn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos de mesa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos de tabuleiro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bordsspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "桌游",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
