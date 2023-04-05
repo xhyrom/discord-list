@@ -6,18 +6,18 @@
     "splash": "360fd5521dd64d9591c499cd4377d3b4",
     "discovery_splash": "360fd5521dd64d9591c499cd4377d3b4",
     "banner": null,
-    "approximate_presence_count": 171,
-    "approximate_member_count": 2947,
+    "approximate_presence_count": 149,
+    "approximate_member_count": 3224,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "meetup-organizer-community-946857562509308015",
     "keywords": [
         "community",
-        "meetup",
-        "organizers",
+        "events",
         "friends",
         "groups",
-        "events",
+        "meetup",
+        "organizers",
         "social",
         "support"
     ],
@@ -25,6 +25,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,8 +38,8 @@
         "icon": "5d11d7a598f1079e09ded2dcb1c91451",
         "splash": "360fd5521dd64d9591c499cd4377d3b4",
         "banner": null,
-        "approximate_presence_count": 171,
-        "approximate_member_count": 2947,
+        "approximate_presence_count": 149,
+        "approximate_member_count": 3224,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,11 +49,11 @@
         "is_published": true,
         "keywords": [
             "community",
-            "meetup",
-            "organizers",
+            "events",
             "friends",
             "groups",
-            "events",
+            "meetup",
+            "organizers",
             "social",
             "support"
         ],
@@ -60,6 +61,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -200,12 +202,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "meetup",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "organizers",
+                    "value": "events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -220,7 +217,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "events",
+                    "value": "meetup",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "organizers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
