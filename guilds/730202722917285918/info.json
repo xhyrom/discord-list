@@ -6,8 +6,8 @@
     "splash": "327a57bda9cd0a38dc82cc9c444c4852",
     "discovery_splash": "8e058d8cf5c11ec8caa326696432edd6",
     "banner": "e19dad3f59239b26e99f85e826c683be",
-    "approximate_presence_count": 875,
-    "approximate_member_count": 11867,
+    "approximate_presence_count": 536,
+    "approximate_member_count": 11722,
     "premium_subscription_count": 2,
     "preferred_locale": "fr",
     "vanity_url_code": null,
@@ -39,8 +39,8 @@
         "icon": "a_965801eb01a663c41b72b9dd3d5eabc0",
         "splash": "327a57bda9cd0a38dc82cc9c444c4852",
         "banner": "e19dad3f59239b26e99f85e826c683be",
-        "approximate_presence_count": 875,
-        "approximate_member_count": 11867,
+        "approximate_presence_count": 536,
+        "approximate_member_count": 11722,
         "premium_subscription_count": 2,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -68,16 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -113,6 +103,16 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -289,25 +289,6 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
                             "value": "Бизнес",
                             "matchLevel": "none",
@@ -455,6 +436,25 @@
                         },
                         "zh-TW": {
                             "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
