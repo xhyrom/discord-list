@@ -1,13 +1,13 @@
 {
     "id": "990678106790580254",
     "name": "AI MOTION",
-    "description": "Experience semi-hypermotion and enhanced AI that play animations with 60 frames on FIFA 22 PC.",
-    "icon": "65a5acb66a5603637584e90614d8d096",
+    "description": "Experience slow game speed and realistic dribbling speed and enhanced AI on FIFA PC",
+    "icon": "f7e634aa12240160f498465aa76083ea",
     "splash": "bf76140c5dcb6715611cfd2a1fabb2f0",
-    "discovery_splash": null,
+    "discovery_splash": "c3472f628715b3ef4272aafccc91cfec",
     "banner": "38054b05dd9a24edc474091aa7a8d2c4",
-    "approximate_presence_count": 333,
-    "approximate_member_count": 3116,
+    "approximate_presence_count": 349,
+    "approximate_member_count": 3941,
     "premium_subscription_count": 0,
     "preferred_locale": "ko",
     "vanity_url_code": null,
@@ -29,16 +29,16 @@
     "raw": {
         "id": "990678106790580254",
         "name": "AI MOTION",
-        "description": "Experience semi-hypermotion and enhanced AI that play animations with 60 frames on FIFA 22 PC.",
-        "icon": "65a5acb66a5603637584e90614d8d096",
+        "description": "Experience slow game speed and realistic dribbling speed and enhanced AI on FIFA PC",
+        "icon": "f7e634aa12240160f498465aa76083ea",
         "splash": "bf76140c5dcb6715611cfd2a1fabb2f0",
         "banner": "38054b05dd9a24edc474091aa7a8d2c4",
-        "approximate_presence_count": 333,
-        "approximate_member_count": 3116,
+        "approximate_presence_count": 349,
+        "approximate_member_count": 3941,
         "premium_subscription_count": 0,
         "preferred_locale": "ko",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "c3472f628715b3ef4272aafccc91cfec",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
@@ -56,6 +56,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 46,
                 "is_primary": false,
@@ -91,16 +101,6 @@
                     "sv-SE": "Konsol",
                     "zh-CN": "主机端",
                     "zh-TW": "遊戲主機"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -186,7 +186,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Experience semi-hypermotion and enhanced AI that play animations with 60 frames on FIFA 22 PC.",
+                "value": "Experience slow game speed and realistic dribbling speed and enhanced AI on FIFA PC",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -213,6 +213,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -362,25 +381,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲主機",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
