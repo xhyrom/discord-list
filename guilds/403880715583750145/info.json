@@ -1,14 +1,14 @@
 {
     "id": "403880715583750145",
     "name": "Target Hit",
-    "description": "Target Hit! is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
+    "description": "Target Hit is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
     "icon": "86b76dfb959ce1687f05187268e24949",
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 719,
-    "approximate_member_count": 7032,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 739,
+    "approximate_member_count": 7304,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -27,7 +27,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,13 +35,13 @@
     "raw": {
         "id": "403880715583750145",
         "name": "Target Hit",
-        "description": "Target Hit! is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
+        "description": "Target Hit is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
         "icon": "86b76dfb959ce1687f05187268e24949",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 719,
-        "approximate_member_count": 7032,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 739,
+        "approximate_member_count": 7304,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -65,11 +64,20 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -142,16 +150,6 @@
                     "sv-SE": "Memes",
                     "zh-CN": "表情包",
                     "zh-TW": "迷因"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -274,7 +272,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Target Hit! is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
+                "value": "Target Hit is a community of traders specialized in crypto and technical analysis. Join to share your passion with us!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -331,6 +329,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -634,25 +651,6 @@
                         },
                         "zh-TW": {
                             "value": "迷因",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
