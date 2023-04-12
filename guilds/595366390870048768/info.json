@@ -4,24 +4,26 @@
     "description": "A growing community of individuals who love EDM focused in the city of Boston, MA.",
     "icon": "a_abda524f21b9353c4bab22a33c7fe19d",
     "splash": "90641d0a864886a97424c52428ae1769",
-    "discovery_splash": null,
+    "discovery_splash": "90641d0a864886a97424c52428ae1769",
     "banner": "90641d0a864886a97424c52428ae1769",
-    "approximate_presence_count": 194,
-    "approximate_member_count": 1039,
+    "approximate_presence_count": 256,
+    "approximate_member_count": 1472,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "bostonedm",
     "keywords": [
-        "edm",
-        "music-production",
         "boston",
-        "raving",
-        "music",
         "bostonedm",
-        "community"
+        "community",
+        "edm",
+        "music",
+        "music-production",
+        "raving"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -35,26 +37,28 @@
         "icon": "a_abda524f21b9353c4bab22a33c7fe19d",
         "splash": "90641d0a864886a97424c52428ae1769",
         "banner": "90641d0a864886a97424c52428ae1769",
-        "approximate_presence_count": 194,
-        "approximate_member_count": 1039,
+        "approximate_presence_count": 256,
+        "approximate_member_count": 1472,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "90641d0a864886a97424c52428ae1769",
         "primary_category_id": 2,
         "vanity_url_code": "bostonedm",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "edm",
-            "music-production",
             "boston",
-            "raving",
-            "music",
             "bostonedm",
-            "community"
+            "community",
+            "edm",
+            "music",
+            "music-production",
+            "raving"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -339,27 +343,7 @@
             },
             "keywords": [
                 {
-                    "value": "edm",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "music-production",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "boston",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "raving",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "music",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -370,6 +354,26 @@
                 },
                 {
                     "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "edm",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "music",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "music-production",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "raving",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
