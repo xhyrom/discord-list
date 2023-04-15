@@ -6,21 +6,21 @@
     "splash": "9bcaaf766643d289d4c3cd1f68b288d9",
     "discovery_splash": "a767c002478fdf8750bc13fe02f3ac3d",
     "banner": "afb58f67bfab8f5392ff9e7aeb6cf6ef",
-    "approximate_presence_count": 1028,
-    "approximate_member_count": 3665,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 886,
+    "approximate_member_count": 3704,
+    "premium_subscription_count": 38,
     "preferred_locale": "en-US",
     "vanity_url_code": "fategaming",
     "keywords": [
-        "community",
-        "sfw",
-        "clans",
-        "gaming clans",
-        "pc gaming",
-        "console gaming",
         "casual",
+        "clans",
+        "community",
+        "console",
+        "console gaming",
         "friendly",
-        "guild"
+        "gaming clans",
+        "guild",
+        "pc gaming"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "a_1660dd699ed4f58bb3b36c80cee081fa",
         "splash": "9bcaaf766643d289d4c3cd1f68b288d9",
         "banner": "afb58f67bfab8f5392ff9e7aeb6cf6ef",
-        "approximate_presence_count": 1028,
-        "approximate_member_count": 3665,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 886,
+        "approximate_member_count": 3704,
+        "premium_subscription_count": 38,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a767c002478fdf8750bc13fe02f3ac3d",
@@ -49,15 +49,15 @@
         "vanity_url_code": "fategaming",
         "is_published": true,
         "keywords": [
-            "community",
-            "sfw",
-            "clans",
-            "gaming clans",
-            "pc gaming",
-            "console gaming",
             "casual",
+            "clans",
+            "community",
+            "console",
+            "console gaming",
             "friendly",
-            "guild"
+            "gaming clans",
+            "guild",
+            "pc gaming"
         ],
         "features": [
             "COMMUNITY",
@@ -190,40 +190,40 @@
                 }
             },
             {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
+                "id": 46,
+                "is_primary": false,
+                "name": "Console",
                 "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
+                    "bg": "Конзола",
+                    "cs": "Konzole",
+                    "da": "Konsol",
+                    "de": "Konsolen",
+                    "el": "Κονσόλες",
+                    "fi": "Konsolit",
+                    "fr": "Console",
+                    "hi": "कंसोल",
+                    "hr": "Konzole",
+                    "hu": "Konzol",
+                    "it": "Console",
+                    "ja": "コンソール",
+                    "ko": "게임 콘솔",
+                    "lt": "Žaidimų konsolės",
+                    "nl": "Console",
+                    "no": "Konsoll",
+                    "pl": "Konsola",
+                    "ro": "Consolă",
+                    "ru": "Консоли",
+                    "th": "คอนโซล",
+                    "tr": "Konsol",
+                    "uk": "Консолі",
+                    "vi": "Console",
+                    "en-GB": "Console",
+                    "en-US": "Console",
+                    "es-ES": "Consola",
+                    "pt-BR": "Console",
+                    "sv-SE": "Konsol",
+                    "zh-CN": "主机端",
+                    "zh-TW": "遊戲主機"
                 }
             }
         ],
@@ -283,12 +283,7 @@
             },
             "keywords": [
                 {
-                    "value": "community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sfw",
+                    "value": "casual",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -298,12 +293,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming clans",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "pc gaming",
+                    "value": "console",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -313,17 +308,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "casual",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "friendly",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
+                    "value": "gaming clans",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "guild",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pc gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -813,152 +813,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Общуване",
+                            "value": "Конзола",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Prostě chat",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Generelt",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Allgemeine Chats",
+                            "value": "Konsolen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Γενική συζήτηση",
+                            "value": "Κονσόλες",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Yleinen keskustelu",
+                            "value": "Konsolit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Discussion générale",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "जनरल चैटिंग",
+                            "value": "कंसोल",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Općenito",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Általános csevegés",
+                            "value": "Konzol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Discussioni generali",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "雑談",
+                            "value": "コンソール",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "일반 채팅",
+                            "value": "게임 콘솔",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
+                            "value": "Žaidimų konsolės",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Algemene chat",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Generell chatting",
+                            "value": "Konsoll",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozmowy",
+                            "value": "Konsola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Discuții generale",
+                            "value": "Consolă",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Общение",
+                            "value": "Консоли",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การสนทนาทั่วไป",
+                            "value": "คอนโซล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Genel Sohbet",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Спілкування на загальні теми",
+                            "value": "Консолі",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Trò Chuyện Chung",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "General Chatting",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "General Chatting",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Chateo general",
+                            "value": "Consola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Conversas gerais",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Chatt i allmänhet",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "综合聊天",
+                            "value": "主机端",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "一般聊天",
+                            "value": "遊戲主機",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
