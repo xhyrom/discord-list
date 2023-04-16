@@ -4,24 +4,27 @@
     "description": "Welcome to the friendliest Minecraft SMP in the community! There is a place for everyone here! Come join in on the fun!",
     "icon": "36b5c138d857d28dc57d5f1b1233c1b9",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "379336adc9164008a7cce33dbcac6496",
     "banner": "e99d72970f459862cb326c6f0efa44d3",
-    "approximate_presence_count": 321,
-    "approximate_member_count": 1990,
-    "premium_subscription_count": 50,
+    "approximate_presence_count": 723,
+    "approximate_member_count": 3300,
+    "premium_subscription_count": 47,
     "preferred_locale": "en-US",
     "vanity_url_code": "supersmp",
     "keywords": [
-        "minecraft",
-        "minecraftsmp",
-        "smp",
-        "mcsmp",
-        "server",
         "mcserver",
-        "minecraftserver"
+        "mcsmp",
+        "minecraft",
+        "minecraftserver",
+        "minecraftsmp",
+        "server",
+        "smp"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,26 +37,29 @@
         "icon": "36b5c138d857d28dc57d5f1b1233c1b9",
         "splash": null,
         "banner": "e99d72970f459862cb326c6f0efa44d3",
-        "approximate_presence_count": 321,
-        "approximate_member_count": 1990,
-        "premium_subscription_count": 50,
+        "approximate_presence_count": 723,
+        "approximate_member_count": 3300,
+        "premium_subscription_count": 47,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "379336adc9164008a7cce33dbcac6496",
         "primary_category_id": 1,
         "vanity_url_code": "supersmp",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "minecraft",
-            "minecraftsmp",
-            "smp",
-            "mcsmp",
-            "server",
             "mcserver",
-            "minecraftserver"
+            "mcsmp",
+            "minecraft",
+            "minecraftserver",
+            "minecraftsmp",
+            "server",
+            "smp"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -263,17 +269,7 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraftsmp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "smp",
+                    "value": "mcserver",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -283,17 +279,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "server",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mcserver",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "minecraftserver",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraftsmp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "smp",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
