@@ -6,11 +6,11 @@
     "splash": "82d6606a69e8f1d868df11f4aa1ee2fe",
     "discovery_splash": "c3c240ae63b3677cb6555e737e78ca53",
     "banner": "7c4c9dba77370cfcd290821a75e51d10",
-    "approximate_presence_count": 1824,
-    "approximate_member_count": 8561,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 663,
+    "approximate_member_count": 6053,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
-    "vanity_url_code": "vinitopia",
+    "vanity_url_code": null,
     "keywords": [
         "nft",
         "wine",
@@ -31,14 +31,14 @@
         "icon": "e39c02ab2d327f0eafafe864dd8483e6",
         "splash": "82d6606a69e8f1d868df11f4aa1ee2fe",
         "banner": "7c4c9dba77370cfcd290821a75e51d10",
-        "approximate_presence_count": 1824,
-        "approximate_member_count": 8561,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 663,
+        "approximate_member_count": 6053,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c3c240ae63b3677cb6555e737e78ca53",
         "primary_category_id": 13,
-        "vanity_url_code": "vinitopia",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "nft",
@@ -90,6 +90,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 19,
                 "is_primary": false,
                 "name": "Art",
@@ -127,16 +137,6 @@
                 }
             },
             {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
-            {
                 "id": 13,
                 "is_primary": true,
                 "name": "Other",
@@ -166,11 +166,6 @@
             },
             "description": {
                 "value": "Vinitopia by Vinipop is the vineyard of the NFT space.",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "vinitopia",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -348,6 +343,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Изкуство",
                             "matchLevel": "none",
@@ -495,25 +509,6 @@
                         },
                         "zh-TW": {
                             "value": "藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
