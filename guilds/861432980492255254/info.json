@@ -6,9 +6,9 @@
     "splash": "b90b738344896390fec4dba03b9b77d5",
     "discovery_splash": "ef91dc7eaf513c131a453146d3464bec",
     "banner": "04376a46b7c275e1216364309f886837",
-    "approximate_presence_count": 944,
-    "approximate_member_count": 88823,
-    "premium_subscription_count": 17,
+    "approximate_presence_count": 1503,
+    "approximate_member_count": 88488,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "avocadoguild",
     "keywords": [
@@ -36,9 +36,9 @@
         "icon": "a_fcd6553c652cf83e2dad10fc1ce03183",
         "splash": "b90b738344896390fec4dba03b9b77d5",
         "banner": "04376a46b7c275e1216364309f886837",
-        "approximate_presence_count": 944,
-        "approximate_member_count": 88823,
-        "premium_subscription_count": 17,
+        "approximate_presence_count": 1503,
+        "approximate_member_count": 88488,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ef91dc7eaf513c131a453146d3464bec",
@@ -62,6 +62,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -97,16 +107,6 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -310,6 +310,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Електронни спортове",
                             "matchLevel": "none",
@@ -457,25 +476,6 @@
                         },
                         "zh-TW": {
                             "value": "電競",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

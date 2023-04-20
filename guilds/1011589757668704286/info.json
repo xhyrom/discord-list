@@ -3,13 +3,13 @@
     "name": "Nike France",
     "description": "Nike est un serveur, ou tu pourras rencontré une communauté active de passionné de cette marque.",
     "icon": "a_4726eeb291878209e62a1eb486226b8d",
-    "splash": "8a3070e2d68c9672d60b0a04d56a4cf1",
+    "splash": "7894c0fab4a7e7c5f4ee1c4a95031940",
     "discovery_splash": "8a3070e2d68c9672d60b0a04d56a4cf1",
-    "banner": "c96d6113b6dad309999cd4844147a5ed",
-    "approximate_presence_count": 1791,
-    "approximate_member_count": 4171,
-    "premium_subscription_count": 17,
-    "preferred_locale": "fr",
+    "banner": "6be56f7f51fc87b99873010342515ad1",
+    "approximate_presence_count": 1835,
+    "approximate_member_count": 4545,
+    "premium_subscription_count": 15,
+    "preferred_locale": "en-US",
     "vanity_url_code": "nike",
     "keywords": [
         "nike",
@@ -33,12 +33,12 @@
         "name": "Nike France",
         "description": "Nike est un serveur, ou tu pourras rencontré une communauté active de passionné de cette marque.",
         "icon": "a_4726eeb291878209e62a1eb486226b8d",
-        "splash": "8a3070e2d68c9672d60b0a04d56a4cf1",
-        "banner": "c96d6113b6dad309999cd4844147a5ed",
-        "approximate_presence_count": 1791,
-        "approximate_member_count": 4171,
-        "premium_subscription_count": 17,
-        "preferred_locale": "fr",
+        "splash": "7894c0fab4a7e7c5f4ee1c4a95031940",
+        "banner": "6be56f7f51fc87b99873010342515ad1",
+        "approximate_presence_count": 1835,
+        "approximate_member_count": 4545,
+        "premium_subscription_count": 15,
+        "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8a3070e2d68c9672d60b0a04d56a4cf1",
         "primary_category_id": 8,
@@ -60,16 +60,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 8,
                 "is_primary": true,
@@ -105,6 +95,16 @@
                     "sv-SE": "Mode och skönhet",
                     "zh-CN": "时尚&美妆",
                     "zh-TW": "時尚與美容"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             }
         ],
@@ -195,25 +195,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -363,6 +344,25 @@
                         },
                         "zh-TW": {
                             "value": "時尚與美容",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,9 +6,9 @@
     "splash": "03dce687f0b4ef7c5ac9806907e61439",
     "discovery_splash": null,
     "banner": "0d61e88c841c029f963ec9bea5c9ed2c",
-    "approximate_presence_count": 77,
-    "approximate_member_count": 2605,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 85,
+    "approximate_member_count": 2653,
+    "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "fantasytaketv",
     "keywords": [
@@ -38,9 +38,9 @@
         "icon": "38589db25678b3eb179f466e988f6c08",
         "splash": "03dce687f0b4ef7c5ac9806907e61439",
         "banner": "0d61e88c841c029f963ec9bea5c9ed2c",
-        "approximate_presence_count": 77,
-        "approximate_member_count": 2605,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 85,
+        "approximate_member_count": 2653,
+        "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -66,16 +66,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 35,
                 "is_primary": false,
@@ -111,6 +101,16 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -194,25 +194,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -362,6 +343,25 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
