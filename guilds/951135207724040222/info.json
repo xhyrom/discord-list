@@ -6,8 +6,8 @@
     "splash": "c6d253cc3c1856292e127a6445ec8227",
     "discovery_splash": "58418d616a91d9721ca91ac3b7dc2fe7",
     "banner": "ce5ced1f88c52c767825e3630921b126",
-    "approximate_presence_count": 341,
-    "approximate_member_count": 3663,
+    "approximate_presence_count": 274,
+    "approximate_member_count": 3665,
     "premium_subscription_count": 17,
     "preferred_locale": "zh-CN",
     "vanity_url_code": "metalion",
@@ -40,8 +40,8 @@
         "icon": "814cc42ca695849dddad2b93032c847e",
         "splash": "c6d253cc3c1856292e127a6445ec8227",
         "banner": "ce5ced1f88c52c767825e3630921b126",
-        "approximate_presence_count": 341,
-        "approximate_member_count": 3663,
+        "approximate_presence_count": 274,
+        "approximate_member_count": 3665,
         "premium_subscription_count": 17,
         "preferred_locale": "zh-CN",
         "auto_removed": false,
@@ -71,40 +71,77 @@
         ],
         "categories": [
             {
-                "id": 10,
-                "is_primary": true,
-                "name": "Travel & Food",
+                "id": 40,
+                "is_primary": false,
+                "name": "Wiki & Guide",
                 "name_localizations": {
-                    "bg": "Пътуване и храна",
-                    "cs": "Cestování a jídlo",
-                    "da": "Rejse & mad",
-                    "de": "Reisen & Essen",
-                    "el": "Ταξίδια & Φαγητό",
-                    "fi": "Matkailu ja ruoka",
-                    "fr": "Voyage et nourriture",
-                    "hi": "ट्रैवल और फूड",
-                    "hr": "Putovanja i hrana",
-                    "hu": "Utazás és ételek",
-                    "it": "Viaggi e cibo",
-                    "ja": "旅行&食べ物",
-                    "ko": "여행, 음식",
-                    "lt": "Kelionės ir maistas",
-                    "nl": "Reizen en culinair",
-                    "no": "Reise og mat",
-                    "pl": "Podróże i jedzenie",
-                    "ro": "Turism și gastronomie",
-                    "ru": "Путешествия и еда",
-                    "th": "การท่องเที่ยวและอาหาร",
-                    "tr": "Seyahat ve Yemek",
-                    "uk": "Подорожі та їжа",
-                    "vi": "Du Lịch & Ẩm Thực",
-                    "en-GB": "Travel & Food",
-                    "en-US": "Travel & Food",
-                    "es-ES": "Viajes y comida",
-                    "pt-BR": "Viagens e Alimentação",
-                    "sv-SE": "Resor och mat",
-                    "zh-CN": "旅行&美食",
-                    "zh-TW": "旅遊與食物"
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
                 }
             },
             {
@@ -182,77 +219,40 @@
                 }
             },
             {
-                "id": 33,
-                "is_primary": false,
-                "name": "Events",
+                "id": 10,
+                "is_primary": true,
+                "name": "Travel & Food",
                 "name_localizations": {
-                    "bg": "Събития",
-                    "cs": "Události",
-                    "da": "Begivenheder",
-                    "de": "Events",
-                    "el": "Εκδηλώσεις",
-                    "fi": "Tapahtumat",
-                    "fr": "Événements",
-                    "hi": "इवेंट्स",
-                    "hr": "Događanja",
-                    "hu": "Rendezvények",
-                    "it": "Eventi",
-                    "ja": "イベント",
-                    "ko": "행사",
-                    "lt": "Renginiai",
-                    "nl": "Evenementen",
-                    "no": "Eventer",
-                    "pl": "Wydarzenia",
-                    "ro": "Evenimente",
-                    "ru": "Мероприятия",
-                    "th": "กิจกรรม",
-                    "tr": "Etkinlikler",
-                    "uk": "Події",
-                    "vi": "Sự Kiện",
-                    "en-GB": "Events",
-                    "en-US": "Events",
-                    "es-ES": "Eventos",
-                    "pt-BR": "Eventos",
-                    "sv-SE": "Event",
-                    "zh-CN": "组织活动",
-                    "zh-TW": "活動"
-                }
-            },
-            {
-                "id": 40,
-                "is_primary": false,
-                "name": "Wiki & Guide",
-                "name_localizations": {
-                    "bg": "Уики и ръководство",
-                    "cs": "Wiki a návody",
-                    "da": "Wiki & guide",
-                    "de": "Wiki & Anleitungen",
-                    "el": "Wiki & Οδηγοί",
-                    "fi": "Wikit ja ohjeet",
-                    "fr": "Wiki et guide",
-                    "hi": "विकिपीडिया और गाइड",
-                    "hr": "Wiki i vodiči",
-                    "hu": "Wikik és útmutatók",
-                    "it": "Wiki e guide",
-                    "ja": "ウィキペディア&ガイド",
-                    "ko": "위키, 가이드",
-                    "lt": "Vikis ir instrukcijos",
-                    "nl": "Wiki en gids",
-                    "no": "Wiki og veiledning",
-                    "pl": "Wiki i przewodniki",
-                    "ro": "Wiki și ghid",
-                    "ru": "Вики и руководство",
-                    "th": "วิกิและคู่มือ",
-                    "tr": "Wiki ve Rehber",
-                    "uk": "Вікі та посібники",
-                    "vi": "Wiki & Hướng Dẫn",
-                    "en-GB": "Wiki & Guide",
-                    "en-US": "Wiki & Guide",
-                    "es-ES": "Wikipedia y guías",
-                    "pt-BR": "Wiki e Guias",
-                    "sv-SE": "Wiki och guide",
-                    "zh-CN": "维基&指南",
-                    "zh-TW": "維基百科與指南"
+                    "bg": "Пътуване и храна",
+                    "cs": "Cestování a jídlo",
+                    "da": "Rejse & mad",
+                    "de": "Reisen & Essen",
+                    "el": "Ταξίδια & Φαγητό",
+                    "fi": "Matkailu ja ruoka",
+                    "fr": "Voyage et nourriture",
+                    "hi": "ट्रैवल और फूड",
+                    "hr": "Putovanja i hrana",
+                    "hu": "Utazás és ételek",
+                    "it": "Viaggi e cibo",
+                    "ja": "旅行&食べ物",
+                    "ko": "여행, 음식",
+                    "lt": "Kelionės ir maistas",
+                    "nl": "Reizen en culinair",
+                    "no": "Reise og mat",
+                    "pl": "Podróże i jedzenie",
+                    "ro": "Turism și gastronomie",
+                    "ru": "Путешествия и еда",
+                    "th": "การท่องเที่ยวและอาหาร",
+                    "tr": "Seyahat ve Yemek",
+                    "uk": "Подорожі та їжа",
+                    "vi": "Du Lịch & Ẩm Thực",
+                    "en-GB": "Travel & Food",
+                    "en-US": "Travel & Food",
+                    "es-ES": "Viajes y comida",
+                    "pt-BR": "Viagens e Alimentação",
+                    "sv-SE": "Resor och mat",
+                    "zh-CN": "旅行&美食",
+                    "zh-TW": "旅遊與食物"
                 }
             }
         ],
@@ -366,152 +366,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Пътуване и храна",
+                            "value": "Уики и ръководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Cestování a jídlo",
+                            "value": "Wiki a návody",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Rejse & mad",
+                            "value": "Wiki & guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Reisen & Essen",
+                            "value": "Wiki & Anleitungen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ταξίδια & Φαγητό",
+                            "value": "Wiki & Οδηγοί",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Matkailu ja ruoka",
+                            "value": "Wikit ja ohjeet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Voyage et nourriture",
+                            "value": "Wiki et guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "ट्रैवल और फूड",
+                            "value": "विकिपीडिया और गाइड",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Putovanja i hrana",
+                            "value": "Wiki i vodiči",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Utazás és ételek",
+                            "value": "Wikik és útmutatók",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Viaggi e cibo",
+                            "value": "Wiki e guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "旅行&食べ物",
+                            "value": "ウィキペディア&ガイド",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "여행, 음식",
+                            "value": "위키, 가이드",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kelionės ir maistas",
+                            "value": "Vikis ir instrukcijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Reizen en culinair",
+                            "value": "Wiki en gids",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Reise og mat",
+                            "value": "Wiki og veiledning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Podróże i jedzenie",
+                            "value": "Wiki i przewodniki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Turism și gastronomie",
+                            "value": "Wiki și ghid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Путешествия и еда",
+                            "value": "Вики и руководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การท่องเที่ยวและอาหาร",
+                            "value": "วิกิและคู่มือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Seyahat ve Yemek",
+                            "value": "Wiki ve Rehber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Подорожі та їжа",
+                            "value": "Вікі та посібники",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Du Lịch & Ẩm Thực",
+                            "value": "Wiki & Hướng Dẫn",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Travel & Food",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Travel & Food",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Viajes y comida",
+                            "value": "Wikipedia y guías",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Viagens e Alimentação",
+                            "value": "Wiki e Guias",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Resor och mat",
+                            "value": "Wiki och guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "旅行&美食",
+                            "value": "维基&指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "旅遊與食物",
+                            "value": "維基百科與指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -828,306 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Събития",
+                            "value": "Пътуване и храна",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Události",
+                            "value": "Cestování a jídlo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Begivenheder",
+                            "value": "Rejse & mad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Events",
+                            "value": "Reisen & Essen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Εκδηλώσεις",
+                            "value": "Ταξίδια & Φαγητό",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Tapahtumat",
+                            "value": "Matkailu ja ruoka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Événements",
+                            "value": "Voyage et nourriture",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "इवेंट्स",
+                            "value": "ट्रैवल और फूड",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Događanja",
+                            "value": "Putovanja i hrana",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rendezvények",
+                            "value": "Utazás és ételek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Eventi",
+                            "value": "Viaggi e cibo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "イベント",
+                            "value": "旅行&食べ物",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "행사",
+                            "value": "여행, 음식",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Renginiai",
+                            "value": "Kelionės ir maistas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Evenementen",
+                            "value": "Reizen en culinair",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Eventer",
+                            "value": "Reise og mat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Wydarzenia",
+                            "value": "Podróże i jedzenie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Evenimente",
+                            "value": "Turism și gastronomie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мероприятия",
+                            "value": "Путешествия и еда",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กิจกรรม",
+                            "value": "การท่องเที่ยวและอาหาร",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Etkinlikler",
+                            "value": "Seyahat ve Yemek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Події",
+                            "value": "Подорожі та їжа",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Sự Kiện",
+                            "value": "Du Lịch & Ẩm Thực",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Events",
+                            "value": "Travel & Food",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Events",
+                            "value": "Travel & Food",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Eventos",
+                            "value": "Viajes y comida",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Eventos",
+                            "value": "Viagens e Alimentação",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Event",
+                            "value": "Resor och mat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "组织活动",
+                            "value": "旅行&美食",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Уики и ръководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Wiki a návody",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Wiki & guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wiki & Anleitungen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Wiki & Οδηγοί",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Wikit ja ohjeet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Wiki et guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "विकिपीडिया और गाइड",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Wiki i vodiči",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Wikik és útmutatók",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Wiki e guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ウィキペディア&ガイド",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "위키, 가이드",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vikis ir instrukcijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wiki en gids",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Wiki og veiledning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Wiki i przewodniki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Wiki și ghid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Вики и руководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิกิและคู่มือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Wiki ve Rehber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Вікі та посібники",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Wiki & Hướng Dẫn",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Wikipedia y guías",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Wiki e Guias",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Wiki och guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "维基&指南",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "維基百科與指南",
+                            "value": "旅遊與食物",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
