@@ -6,8 +6,8 @@
     "splash": "1f01f57bbbd2d0b69ac3b296ed9ae289",
     "discovery_splash": "101152311b05ed5020f649c9fb259930",
     "banner": "2bf6461ea5a64e46b09221bf77119fc8",
-    "approximate_presence_count": 979,
-    "approximate_member_count": 16023,
+    "approximate_presence_count": 1051,
+    "approximate_member_count": 16011,
     "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "nodle-783056826618216498",
@@ -40,8 +40,8 @@
         "icon": "a_10c3582c22bca5bba6f3c3b943898811",
         "splash": "1f01f57bbbd2d0b69ac3b296ed9ae289",
         "banner": "2bf6461ea5a64e46b09221bf77119fc8",
-        "approximate_presence_count": 979,
-        "approximate_member_count": 16023,
+        "approximate_presence_count": 1051,
+        "approximate_member_count": 16011,
         "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -71,40 +71,77 @@
         ],
         "categories": [
             {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
+                "id": 14,
+                "is_primary": true,
+                "name": "General Chatting",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
+                "name_localizations": {
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -182,77 +219,40 @@
                 }
             },
             {
-                "id": 5,
-                "is_primary": true,
-                "name": "Science & Tech",
+                "id": 27,
+                "is_primary": false,
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
-                }
-            },
-            {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
-                "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -403,152 +403,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Prostě chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Generelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Allgemeine Chats",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Γενική συζήτηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Yleinen keskustelu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Discussion générale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "जनरल चैटिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Općenito",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Általános csevegés",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Discussioni generali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "雑談",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "일반 채팅",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Bendro pobūdžio pokalbiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Algemene chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Generell chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Rozmowy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Discuții generale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Общение",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "การสนทนาทั่วไป",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Genel Sohbet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Спілкування на загальні теми",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Trò Chuyện Chung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Chateo general",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Conversas gerais",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Chatt i allmänhet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "综合聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Наука и технологии",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Věda a technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Videnskab & teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wissenschaft & Technik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιστήμη & Τεχνολογία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tiede ja tekniikka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Science et technologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "साइंस और टेक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Znanost i tehnologija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tudomány és technológia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scienza e tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "サイエンス&テクノロジー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "과학, 기술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mokslas ir technologijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wetenschap en tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Vitenskap og teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Nauka i technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Știință și tehnologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Наука и техника",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Bilim ve Teknoloji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Наука й технології",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Khoa Học & Công Nghệ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Science & tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Science & Tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Ciencia y tecnología",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ciência e Tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Vetenskap och teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "科学&技术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -865,306 +1019,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Наука и технологии",
+                            "value": "Криптовалута",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Věda a technika",
+                            "value": "Kryptoměny",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Videnskab & teknologi",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Wissenschaft & Technik",
+                            "value": "Kryptowährung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
+                            "value": "Κρυπτονόμισμα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Tiede ja tekniikka",
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Science et technologie",
+                            "value": "Cryptomonnaie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "साइंस और टेक",
+                            "value": "क्रिप्टोकरेंसी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Znanost i tehnologija",
+                            "value": "Kriptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tudomány és technológia",
+                            "value": "Kriptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Scienza e tecnologia",
+                            "value": "Criptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "サイエンス&テクノロジー",
+                            "value": "暗号通貨",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "과학, 기술",
+                            "value": "암호화폐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mokslas ir technologijos",
+                            "value": "Kriptovaliuta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Wetenschap en tech",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Vitenskap og teknologi",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Nauka i technika",
+                            "value": "Kryptowaluty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Știință și tehnologie",
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Наука и техника",
+                            "value": "Криптовалюта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "value": "สกุลเงินดิจิทัล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Bilim ve Teknoloji",
+                            "value": "Kripto Para Birimleri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Наука й технології",
+                            "value": "Криптовалюти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Khoa Học & Công Nghệ",
+                            "value": "Tiền Ảo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Science & tech",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Science & Tech",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Ciencia y tecnología",
+                            "value": "Criptomonedas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Ciência e Tecnologia",
+                            "value": "Criptomoeda",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Vetenskap och teknologi",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "科学&技术",
+                            "value": "数字货币",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "科學與技術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Общуване",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Prostě chat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Generelt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Allgemeine Chats",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Γενική συζήτηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yleinen keskustelu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Discussion générale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "जनरल चैटिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Općenito",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Általános csevegés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Discussioni generali",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "雑談",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "일반 채팅",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Algemene chat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Generell chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozmowy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Discuții generale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Общение",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การสนทนาทั่วไป",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Genel Sohbet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Спілкування на загальні теми",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Trò Chuyện Chung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "General Chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "General Chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Chateo general",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Conversas gerais",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Chatt i allmänhet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "综合聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "一般聊天",
+                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
