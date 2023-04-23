@@ -6,8 +6,8 @@
     "splash": "65244bd0e3e6fa10524c81ebb195911c",
     "discovery_splash": "43eaa260bf9257759147ee5b6f88c965",
     "banner": "6f2b8c361559e66ed5054a051de68384",
-    "approximate_presence_count": 234,
-    "approximate_member_count": 5696,
+    "approximate_presence_count": 526,
+    "approximate_member_count": 5688,
     "premium_subscription_count": 5,
     "preferred_locale": "es-ES",
     "vanity_url_code": "ludaloma-934643877124644915",
@@ -39,8 +39,8 @@
         "icon": "1dec809e68c3e330cf2482e1d0cdf6d3",
         "splash": "65244bd0e3e6fa10524c81ebb195911c",
         "banner": "6f2b8c361559e66ed5054a051de68384",
-        "approximate_presence_count": 234,
-        "approximate_member_count": 5696,
+        "approximate_presence_count": 526,
+        "approximate_member_count": 5688,
         "premium_subscription_count": 5,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -106,40 +143,40 @@
                 }
             },
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
+                "id": 44,
+                "is_primary": false,
+                "name": "Comics & Cartoons",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Комикси и рисувани герои",
+                    "cs": "Komiksy",
+                    "da": "Tegneserier og tegnefilm",
+                    "de": "Comics & Cartoons",
+                    "el": "Κόμικς & Καρτούν",
+                    "fi": "Sarjakuvat ja piirretyt",
+                    "fr": "BD et dessins animés",
+                    "hi": "कॉमिक्स और कार्टून",
+                    "hr": "Strip i karikature",
+                    "hu": "Képregények és rajzfilmek",
+                    "it": "Cartoni e fumetti",
+                    "ja": "漫画&カートゥーン",
+                    "ko": "만화",
+                    "lt": "Komiksai ir karikatūros",
+                    "nl": "Strips en cartoons",
+                    "no": "Tegneserier og tegnefilmer",
+                    "pl": "Komiksy i kreskówki",
+                    "ro": "Benzi desenate și desene animate",
+                    "ru": "Комиксы и мультфильмы",
+                    "th": "คอมมิกและการ์ตูน",
+                    "tr": "Çizgi Roman ve Filmler",
+                    "uk": "Комікси та мультфільми",
+                    "vi": "Truyện Tranh và Hoạt Hình",
+                    "en-GB": "Comics & Cartoons",
+                    "en-US": "Comics & Cartoons",
+                    "es-ES": "Cómics y dibujos animados",
+                    "pt-BR": "Quadrinhos e Desenhos Animados",
+                    "sv-SE": "Serietidningar och tecknade serier",
+                    "zh-CN": "漫画&卡通",
+                    "zh-TW": "漫畫與卡通"
                 }
             },
             {
@@ -180,77 +217,40 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
                 "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 44,
-                "is_primary": false,
-                "name": "Comics & Cartoons",
-                "name_localizations": {
-                    "bg": "Комикси и рисувани герои",
-                    "cs": "Komiksy",
-                    "da": "Tegneserier og tegnefilm",
-                    "de": "Comics & Cartoons",
-                    "el": "Κόμικς & Καρτούν",
-                    "fi": "Sarjakuvat ja piirretyt",
-                    "fr": "BD et dessins animés",
-                    "hi": "कॉमिक्स और कार्टून",
-                    "hr": "Strip i karikature",
-                    "hu": "Képregények és rajzfilmek",
-                    "it": "Cartoni e fumetti",
-                    "ja": "漫画&カートゥーン",
-                    "ko": "만화",
-                    "lt": "Komiksai ir karikatūros",
-                    "nl": "Strips en cartoons",
-                    "no": "Tegneserier og tegnefilmer",
-                    "pl": "Komiksy i kreskówki",
-                    "ro": "Benzi desenate și desene animate",
-                    "ru": "Комиксы и мультфильмы",
-                    "th": "คอมมิกและการ์ตูน",
-                    "tr": "Çizgi Roman ve Filmler",
-                    "uk": "Комікси та мультфільми",
-                    "vi": "Truyện Tranh và Hoạt Hình",
-                    "en-GB": "Comics & Cartoons",
-                    "en-US": "Comics & Cartoons",
-                    "es-ES": "Cómics y dibujos animados",
-                    "pt-BR": "Quadrinhos e Desenhos Animados",
-                    "sv-SE": "Serietidningar och tecknade serier",
-                    "zh-CN": "漫画&卡通",
-                    "zh-TW": "漫畫與卡通"
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             }
         ],
@@ -361,6 +361,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -518,152 +672,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Комикси и рисувани герои",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Komiksy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Tegneserier og tegnefilm",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Comics & Cartoons",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Κόμικς & Καρτούν",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Sarjakuvat ja piirretyt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "BD et dessins animés",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "कॉमिक्स और कार्टून",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Strip i karikature",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Képregények és rajzfilmek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Cartoni e fumetti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "漫画&カートゥーン",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "만화",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Komiksai ir karikatūros",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Strips en cartoons",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Tegneserier og tegnefilmer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Komiksy i kreskówki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Benzi desenate și desene animate",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Комиксы и мультфильмы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "คอมมิกและการ์ตูน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Çizgi Roman ve Filmler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Комікси та мультфільми",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Truyện Tranh và Hoạt Hình",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Comics & Cartoons",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Comics & Cartoons",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Cómics y dibujos animados",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Quadrinhos e Desenhos Animados",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Serietidningar och tecknade serier",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "漫画&卡通",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "漫畫與卡通",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -826,306 +980,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Tvůrce obsahu",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Indholdsskaber",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Content Creator",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Δημιουργός Περιεχομένου",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Sisällöntuottaja",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Créateur de contenu",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कंटेंट क्रिएटर",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stvaratelj sadržaja",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tartalomkészítő",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Creazione contenuti",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コンテンツクリエイター",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "콘텐츠 크리에이터",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Turinio kūrėjai",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Contentontwikkelaar",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Innholdsskaper",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Twórca zawartości",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Creator de conținut",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Создатель контента",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้สร้างเนื้อหา",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "İçerik Üreticisi",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Створення контенту",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Content creator",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Content Creator",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Creador de contenido",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criação de Conteúdo",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Innehållsskapare",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "内容创作者",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Комикси и рисувани герои",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Komiksy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Tegneserier og tegnefilm",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κόμικς & Καρτούν",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sarjakuvat ja piirretyt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "BD et dessins animés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कॉमिक्स और कार्टून",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Strip i karikature",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Képregények és rajzfilmek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cartoni e fumetti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "漫画&カートゥーン",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "만화",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Komiksai ir karikatūros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Strips en cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Tegneserier og tegnefilmer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Komiksy i kreskówki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Benzi desenate și desene animate",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Комиксы и мультфильмы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "คอมมิกและการ์ตูน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Çizgi Roman ve Filmler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Комікси та мультфільми",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Truyện Tranh và Hoạt Hình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Cómics y dibujos animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Quadrinhos e Desenhos Animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Serietidningar och tecknade serier",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "漫画&卡通",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "漫畫與卡通",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
