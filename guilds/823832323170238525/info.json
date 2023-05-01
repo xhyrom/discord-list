@@ -4,11 +4,11 @@
     "description": "Home of the Twitch Streamer Krab Nation",
     "icon": "a_56eb2f6985559663807ce45e35809e24",
     "splash": "e3d7f57d82711b446e37ced61fbea133",
-    "discovery_splash": null,
+    "discovery_splash": "0f21b69b8773784b3ac1964519fa503e",
     "banner": "a_8cd7c5ad34291675e8278cfe480d1beb",
-    "approximate_presence_count": 361,
-    "approximate_member_count": 1011,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 515,
+    "approximate_member_count": 1290,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -16,10 +16,14 @@
         "-twitch",
         "-streaming",
         "-games",
-        "-lfg"
+        "-lfg",
+        "simulator",
+        "airsimulator"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -33,12 +37,12 @@
         "icon": "a_56eb2f6985559663807ce45e35809e24",
         "splash": "e3d7f57d82711b446e37ced61fbea133",
         "banner": "a_8cd7c5ad34291675e8278cfe480d1beb",
-        "approximate_presence_count": 361,
-        "approximate_member_count": 1011,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 515,
+        "approximate_member_count": 1290,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "0f21b69b8773784b3ac1964519fa503e",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
@@ -47,10 +51,14 @@
             "-twitch",
             "-streaming",
             "-games",
-            "-lfg"
+            "-lfg",
+            "simulator",
+            "airsimulator"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -277,6 +285,16 @@
                 },
                 {
                     "value": "-lfg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "simulator",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "airsimulator",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

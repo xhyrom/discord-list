@@ -1,22 +1,24 @@
 {
     "id": "822905229598261259",
     "name": "ᴍɪɴᴇᴄʀᴀꜰᴛ ʙᴀꜱᴇʙᴀʟʟ ʟᴇᴀɢᴜᴇ",
-    "description": "MBL is a Java minecraft baseball league. Featuring games  weekly with special community events and content.",
+    "description": "MBL is a Java minecraft baseball league. Featuring weekly games along with special community events and content.",
     "icon": "285c3fc57fca91285597149efe6b3786",
     "splash": "4a4ef9e02a2321af1673a24a44743fd8",
-    "discovery_splash": "ef60f632bee09705ee4f4c54ec4cd1aa",
-    "banner": "d3cdac9d7b1c470805d38b95fa0e236b",
-    "approximate_presence_count": 620,
-    "approximate_member_count": 2551,
-    "premium_subscription_count": 18,
+    "discovery_splash": "ebc83faab826f13af3a3f3c639524853",
+    "banner": "0d3b28e2be9a426984d69148c32e186c",
+    "approximate_presence_count": 646,
+    "approximate_member_count": 2477,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "minecraftbaseball",
     "keywords": [
         "Minecraft",
         "Baseball",
-        "MC",
-        "bball",
-        "Minecraft baseball"
+        "sports",
+        "gaming",
+        "esports",
+        "tiktok",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -31,25 +33,27 @@
     "raw": {
         "id": "822905229598261259",
         "name": "ᴍɪɴᴇᴄʀᴀꜰᴛ ʙᴀꜱᴇʙᴀʟʟ ʟᴇᴀɢᴜᴇ",
-        "description": "MBL is a Java minecraft baseball league. Featuring games  weekly with special community events and content.",
+        "description": "MBL is a Java minecraft baseball league. Featuring weekly games along with special community events and content.",
         "icon": "285c3fc57fca91285597149efe6b3786",
         "splash": "4a4ef9e02a2321af1673a24a44743fd8",
-        "banner": "d3cdac9d7b1c470805d38b95fa0e236b",
-        "approximate_presence_count": 620,
-        "approximate_member_count": 2551,
-        "premium_subscription_count": 18,
+        "banner": "0d3b28e2be9a426984d69148c32e186c",
+        "approximate_presence_count": 646,
+        "approximate_member_count": 2477,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "ef60f632bee09705ee4f4c54ec4cd1aa",
+        "discovery_splash": "ebc83faab826f13af3a3f3c639524853",
         "primary_category_id": 1,
         "vanity_url_code": "minecraftbaseball",
         "is_published": true,
         "keywords": [
             "Minecraft",
             "Baseball",
-            "MC",
-            "bball",
-            "Minecraft baseball"
+            "sports",
+            "gaming",
+            "esports",
+            "tiktok",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -60,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -254,7 +268,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "MBL is a Java minecraft baseball league. Featuring games  weekly with special community events and content.",
+                "value": "MBL is a Java minecraft baseball league. Featuring weekly games along with special community events and content.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -275,22 +289,51 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "MC",
+                    "value": "sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "bball",
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Minecraft baseball",
+                    "value": "esports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tiktok",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
