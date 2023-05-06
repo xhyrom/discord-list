@@ -6,9 +6,9 @@
     "splash": "333978da090ef0378de1e17c0c2691c8",
     "discovery_splash": "333978da090ef0378de1e17c0c2691c8",
     "banner": "333978da090ef0378de1e17c0c2691c8",
-    "approximate_presence_count": 773,
-    "approximate_member_count": 2981,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 565,
+    "approximate_member_count": 3229,
+    "premium_subscription_count": 6,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "a_cf2cc4ada9ed5249c4b0bd263d0ea248",
         "splash": "333978da090ef0378de1e17c0c2691c8",
         "banner": "333978da090ef0378de1e17c0c2691c8",
-        "approximate_presence_count": 773,
-        "approximate_member_count": 2981,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 565,
+        "approximate_member_count": 3229,
+        "premium_subscription_count": 6,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "333978da090ef0378de1e17c0c2691c8",
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 16,
+                "is_primary": false,
+                "name": "Anime & Manga",
+                "name_localizations": {
+                    "bg": "Аниме и манга",
+                    "cs": "Anime a manga",
+                    "da": "Anime & manga",
+                    "de": "Anime & Manga",
+                    "el": "Anime & Manga",
+                    "fi": "Anime ja manga",
+                    "fr": "Animés et mangas",
+                    "hi": "Anime & Manga",
+                    "hr": "Anime i Manga",
+                    "hu": "Anime és manga",
+                    "it": "Anime e manga",
+                    "ja": "アニメ&マンガ",
+                    "ko": "애니메이션, 만화",
+                    "lt": "Animė ir manga",
+                    "nl": "Anime en manga",
+                    "no": "Anime og manga",
+                    "pl": "Anime i manga",
+                    "ro": "Anime și manga",
+                    "ru": "Аниме и манга",
+                    "th": "อนิเมะและมังงะ",
+                    "tr": "Anime ve Manga",
+                    "uk": "Аніме та манга",
+                    "vi": "Anime & Manga",
+                    "en-GB": "Anime & manga",
+                    "en-US": "Anime & Manga",
+                    "es-ES": "Anime y manga",
+                    "pt-BR": "Anime e Mangá",
+                    "sv-SE": "Anime och manga",
+                    "zh-CN": "动画&漫画",
+                    "zh-TW": "動畫與漫畫"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -108,77 +145,40 @@
                 }
             },
             {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 16,
+                "id": 35,
                 "is_primary": false,
-                "name": "Anime & Manga",
+                "name": "Content Creator",
                 "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             },
             {
@@ -219,40 +219,40 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             },
             {
@@ -395,6 +395,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Аниме и манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Anime a manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Anime & manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Anime ja manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Animés et mangas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Anime i Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Anime és manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Anime e manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アニメ&マンガ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "애니메이션, 만화",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Animė ir manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Anime en manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Anime og manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Anime i manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Anime și manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Аниме и манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อนิเมะและมังงะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Anime ve Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Аніме та манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Anime & manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Anime y manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Anime e Mangá",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Anime och manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "动画&漫画",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -552,306 +706,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Забавление",
+                            "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zábava",
+                            "value": "Tvůrce obsahu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Underholdning",
+                            "value": "Indholdsskaber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unterhaltung",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ψυχαγωγία",
+                            "value": "Δημιουργός Περιεχομένου",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Viihde",
+                            "value": "Sisällöntuottaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Divertissements",
+                            "value": "Créateur de contenu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "एंटरटेनमेंट",
+                            "value": "कंटेंट क्रिएटर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Zabava",
+                            "value": "Stvaratelj sadržaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szórakozás",
+                            "value": "Tartalomkészítő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Intrattenimento",
+                            "value": "Creazione contenuti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "エンターテインメント",
+                            "value": "コンテンツクリエイター",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "엔터테인먼트",
+                            "value": "콘텐츠 크리에이터",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Pramogos",
+                            "value": "Turinio kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Entertainment",
+                            "value": "Contentontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Underholdning",
+                            "value": "Innholdsskaper",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozrywka",
+                            "value": "Twórca zawartości",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Divertisment",
+                            "value": "Creator de conținut",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Развлечения",
+                            "value": "Создатель контента",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ความบันเทิง",
+                            "value": "ผู้สร้างเนื้อหา",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğlence",
+                            "value": "İçerik Üreticisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розваги",
+                            "value": "Створення контенту",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Giải Trí",
+                            "value": "Nhà Sáng Tạo Nội Dung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Entertainment",
+                            "value": "Content creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Entertainment",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Entretenimiento",
+                            "value": "Creador de contenido",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Entretenimento",
+                            "value": "Criação de Conteúdo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Underhållning",
+                            "value": "Innehållsskapare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "娱乐",
+                            "value": "内容创作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Аниме и манга",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Anime a manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Anime & manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Anime ja manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Animés et mangas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Anime i Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Anime és manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Anime e manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "アニメ&マンガ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "애니메이션, 만화",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Animė ir manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Anime en manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Anime og manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Anime i manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Anime și manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Аниме и манга",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "อนิเมะและมังงะ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Anime ve Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Аніме та манга",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Anime & manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Anime y manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Anime e Mangá",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Anime och manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "动画&漫画",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "動畫與漫畫",
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1014,152 +1014,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Tvůrce obsahu",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Indholdsskaber",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Content Creator",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Δημιουργός Περιεχομένου",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Sisällöntuottaja",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Créateur de contenu",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कंटेंट क्रिएटर",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stvaratelj sadržaja",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tartalomkészítő",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Creazione contenuti",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コンテンツクリエイター",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "콘텐츠 크리에이터",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Turinio kūrėjai",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Contentontwikkelaar",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Innholdsskaper",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Twórca zawartości",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Creator de conținut",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Создатель контента",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้สร้างเนื้อหา",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "İçerik Üreticisi",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Створення контенту",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Content creator",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Content Creator",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Creador de contenido",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criação de Conteúdo",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Innehållsskapare",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "内容创作者",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "內容創作者",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
