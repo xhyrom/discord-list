@@ -6,8 +6,8 @@
     "splash": "db1cbe4a65721a55a3484e81ed0bf8ed",
     "discovery_splash": "c2697a5ad01b3e1c550819a1df1160e9",
     "banner": null,
-    "approximate_presence_count": 902,
-    "approximate_member_count": 3041,
+    "approximate_presence_count": 426,
+    "approximate_member_count": 3123,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -37,8 +37,8 @@
         "icon": "a_beb88de74c2ef29f213b23cb6b2f3e63",
         "splash": "db1cbe4a65721a55a3484e81ed0bf8ed",
         "banner": null,
-        "approximate_presence_count": 902,
-        "approximate_member_count": 3041,
+        "approximate_presence_count": 426,
+        "approximate_member_count": 3123,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -109,6 +99,16 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -275,25 +275,6 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
                             "value": "Събития",
                             "matchLevel": "none",
@@ -441,6 +422,25 @@
                         },
                         "zh-TW": {
                             "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

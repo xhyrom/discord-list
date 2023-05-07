@@ -1,29 +1,30 @@
 {
     "id": "268276601723027457",
     "name": "r/NewZealand",
-    "description": "r/NewZealand is one of the liveliest and most active servers for New Zealand users. Kiwis welcome, redditors or not!",
+    "description": "The official r/NewZealand Discord server, an NZ-based community perfect for meeting new kiwi friends.",
     "icon": "a_76c1f4dee7099dff9626c1cba8443ed9",
     "splash": "ba518e2d89d3d26d588115c97d5bf144",
     "discovery_splash": "8729aea653b50a4ca12e3f060c1adbc8",
-    "banner": "d52b48607d3bb50d9699feb7db97f0a1",
-    "approximate_presence_count": 908,
-    "approximate_member_count": 7829,
-    "premium_subscription_count": 23,
+    "banner": "28ebc3b62c4a37f0a9d1b858272c32b5",
+    "approximate_presence_count": 536,
+    "approximate_member_count": 2962,
+    "premium_subscription_count": 25,
     "preferred_locale": "en-US",
     "vanity_url_code": "nz",
     "keywords": [
-        "nz",
-        "new zealand",
         "/r/newzealand",
-        "subreddit",
         "kiwi",
+        "new zealand",
+        "nz",
         "oceania",
-        "reddit"
+        "reddit",
+        "subreddit"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,32 +33,33 @@
     "raw": {
         "id": "268276601723027457",
         "name": "r/NewZealand",
-        "description": "r/NewZealand is one of the liveliest and most active servers for New Zealand users. Kiwis welcome, redditors or not!",
+        "description": "The official r/NewZealand Discord server, an NZ-based community perfect for meeting new kiwi friends.",
         "icon": "a_76c1f4dee7099dff9626c1cba8443ed9",
         "splash": "ba518e2d89d3d26d588115c97d5bf144",
-        "banner": "d52b48607d3bb50d9699feb7db97f0a1",
-        "approximate_presence_count": 908,
-        "approximate_member_count": 7829,
-        "premium_subscription_count": 23,
+        "banner": "28ebc3b62c4a37f0a9d1b858272c32b5",
+        "approximate_presence_count": 536,
+        "approximate_member_count": 2962,
+        "premium_subscription_count": 25,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8729aea653b50a4ca12e3f060c1adbc8",
         "primary_category_id": 14,
         "vanity_url_code": "nz",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "nz",
-            "new zealand",
             "/r/newzealand",
-            "subreddit",
             "kiwi",
+            "new zealand",
+            "nz",
             "oceania",
-            "reddit"
+            "reddit",
+            "subreddit"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -256,7 +258,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "r/NewZealand is one of the liveliest and most active servers for New Zealand users. Kiwis welcome, redditors or not!",
+                "value": "The official r/NewZealand Discord server, an NZ-based community perfect for meeting new kiwi friends.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -267,7 +269,12 @@
             },
             "keywords": [
                 {
-                    "value": "nz",
+                    "value": "/r/newzealand",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "kiwi",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -277,17 +284,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "/r/newzealand",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "subreddit",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "kiwi",
+                    "value": "nz",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -298,6 +295,11 @@
                 },
                 {
                     "value": "reddit",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "subreddit",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

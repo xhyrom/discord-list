@@ -1,22 +1,22 @@
 {
     "id": "235859507702398976",
     "name": "NBA City",
-    "description": "",
-    "icon": "edbc21676cc1d19c65cf2c31a85f18af",
+    "description": "A place to chat about basketball and more! Please read the rules.",
+    "icon": "3cde42b3a4ae701b39244347a7a2c4c6",
     "splash": "448baf52e0c53b24a21c26a689eaf3a3",
     "discovery_splash": "997ff39bb16e2e3b2e97c4b513886f45",
-    "banner": "e59d212f232ac4940a0f87b89693c7cb",
-    "approximate_presence_count": 280,
-    "approximate_member_count": 2476,
-    "premium_subscription_count": 8,
+    "banner": "62d3528430e34d858e93c97e7503b141",
+    "approximate_presence_count": 194,
+    "approximate_member_count": 2444,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "nba-city-235859507702398976",
     "keywords": [
-        "nba",
         "basketball",
-        "sports",
+        "community",
         "discussion",
-        "community"
+        "nba",
+        "sports"
     ],
     "features": [
         "COMMUNITY",
@@ -30,25 +30,25 @@
     "raw": {
         "id": "235859507702398976",
         "name": "NBA City",
-        "description": "",
-        "icon": "edbc21676cc1d19c65cf2c31a85f18af",
+        "description": "A place to chat about basketball and more! Please read the rules.",
+        "icon": "3cde42b3a4ae701b39244347a7a2c4c6",
         "splash": "448baf52e0c53b24a21c26a689eaf3a3",
-        "banner": "e59d212f232ac4940a0f87b89693c7cb",
-        "approximate_presence_count": 280,
-        "approximate_member_count": 2476,
-        "premium_subscription_count": 8,
+        "banner": "62d3528430e34d858e93c97e7503b141",
+        "approximate_presence_count": 194,
+        "approximate_member_count": 2444,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "997ff39bb16e2e3b2e97c4b513886f45",
         "primary_category_id": 7,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "nba-city-235859507702398976",
+        "is_published": true,
         "keywords": [
-            "nba",
             "basketball",
-            "sports",
+            "community",
             "discussion",
-            "community"
+            "nba",
+            "sports"
         ],
         "features": [
             "COMMUNITY",
@@ -58,16 +58,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -104,6 +94,16 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
             }
         ],
         "primary_category": {
@@ -124,23 +124,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "A place to chat about basketball and more! Please read the rules.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "nba-city-235859507702398976",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "nba",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "basketball",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "sports",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -150,31 +150,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "nba",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -324,6 +310,25 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
