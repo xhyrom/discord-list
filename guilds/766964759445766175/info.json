@@ -4,23 +4,23 @@
     "description": "Hallo, wir sind ein Dortmund Community Server, von dem Streamer und Youtuber Die_Pöhlerz",
     "icon": "37d69c8fb4d62f28a0956c3dea0b5c23",
     "splash": "37d69c8fb4d62f28a0956c3dea0b5c23",
-    "discovery_splash": null,
+    "discovery_splash": "37d69c8fb4d62f28a0956c3dea0b5c23",
     "banner": "566d9fbd1aa162f77565a69e6bb6777c",
-    "approximate_presence_count": 68,
-    "approximate_member_count": 1452,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 140,
+    "approximate_member_count": 1526,
+    "premium_subscription_count": 10,
     "preferred_locale": "de",
     "vanity_url_code": null,
     "keywords": [
-        "dortmund",
+        "chatting",
         "diepöhlerz",
-        "german",
-        "sport",
+        "dortmund",
         "fussball",
         "games",
-        "chatting",
+        "german",
         "news",
-        "podcast"
+        "podcast",
+        "sport"
     ],
     "features": [
         "COMMUNITY",
@@ -38,25 +38,25 @@
         "icon": "37d69c8fb4d62f28a0956c3dea0b5c23",
         "splash": "37d69c8fb4d62f28a0956c3dea0b5c23",
         "banner": "566d9fbd1aa162f77565a69e6bb6777c",
-        "approximate_presence_count": 68,
-        "approximate_member_count": 1452,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 140,
+        "approximate_member_count": 1526,
+        "premium_subscription_count": 10,
         "preferred_locale": "de",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "37d69c8fb4d62f28a0956c3dea0b5c23",
         "primary_category_id": 7,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "dortmund",
+            "chatting",
             "diepöhlerz",
-            "german",
-            "sport",
+            "dortmund",
             "fussball",
             "games",
-            "chatting",
+            "german",
             "news",
-            "podcast"
+            "podcast",
+            "sport"
         ],
         "features": [
             "COMMUNITY",
@@ -66,16 +66,6 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -112,6 +102,16 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
             }
         ],
         "primary_category": {
@@ -138,7 +138,7 @@
             },
             "keywords": [
                 {
-                    "value": "dortmund",
+                    "value": "chatting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -148,12 +148,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "german",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sport",
+                    "value": "dortmund",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -168,7 +163,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "chatting",
+                    "value": "german",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -181,28 +176,14 @@
                     "value": "podcast",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "sport",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -352,6 +333,25 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

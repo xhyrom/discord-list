@@ -6,8 +6,8 @@
     "splash": "aa0f41624a0ccbec4a99c75298e10ea4",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 266,
-    "approximate_member_count": 1957,
+    "approximate_presence_count": 196,
+    "approximate_member_count": 1958,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -40,8 +40,8 @@
         "icon": "640f10c91ce708146791eb06f068712b",
         "splash": "aa0f41624a0ccbec4a99c75298e10ea4",
         "banner": null,
-        "approximate_presence_count": 266,
-        "approximate_member_count": 1957,
+        "approximate_presence_count": 196,
+        "approximate_member_count": 1958,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -105,16 +115,6 @@
                     "sv-SE": "Fandom",
                     "zh-CN": "同好圈",
                     "zh-TW": "粉絲社群"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -269,6 +269,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Фендъм",
                             "matchLevel": "none",
@@ -416,25 +435,6 @@
                         },
                         "zh-TW": {
                             "value": "粉絲社群",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
