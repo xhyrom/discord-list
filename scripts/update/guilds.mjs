@@ -13,7 +13,7 @@ let offset = 0;
 let page = 0;
 
 const writeGuild = async(server) => {
-    if (!(await existSync(`${path.resolve('..')}/guilds/${server.id}`))) fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
+    if (!(existSync(`${path.resolve('..')}/guilds/${server.id}`))) await fs.mkdir(`${path.resolve('..')}/guilds/${server.id}`);
 
     const icon = server.icon ? await fetch(`https://cdn.discordapp.com/icons/${server.id}/${server.icon}.webp?size=1024`).catch(() => {}) : { arrayBuffer: () => 'null' };
     const banner = server.banner ? await fetch(`https://cdn.discordapp.com/banners/${server.id}/${server.banner}.webp?size=1024`).catch(() => {}) : { arrayBuffer: () => 'null' };
