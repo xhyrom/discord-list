@@ -24,37 +24,41 @@ const writeGuild = async(server) => {
     const nameSplash = `${path.resolve('..')}/guilds/${server.id}/splash.webp`;
     const nameInfo = `${path.resolve('..')}/guilds/${server.id}/info.json`;
 
-    fs.writeFile(
-        nameInfo,
-        JSON.stringify(
-            {
-                id: server.id,
-                name: server.name,
-                description: server.description,
-                icon: server.icon,
-                splash: server.splash,
-                discovery_splash: server.discovery_splash,
-                banner: server.banner,
-                approximate_presence_count: server.approximate_presence_count,
-                approximate_member_count: server.approximate_member_count,
-                premium_subscription_count: server.premium_subscription_count,
-                preferred_locale: server.preferred_locale,
-                vanity_url_code: server.vanity_url_code,
-                keywords: server.keywords,
-                features: server.features,
-                partnered: server.features.includes('PARTNERED'),
-                verified: server.features.includes('VERIFIED'),
-                raw: server
-            },
-            null,
-            4
+    try {
+        await fs.writeFile(
+            nameInfo,
+            JSON.stringify(
+                {
+                    id: server.id,
+                    name: server.name,
+                    description: server.description,
+                    icon: server.icon,
+                    splash: server.splash,
+                    discovery_splash: server.discovery_splash,
+                    banner: server.banner,
+                    approximate_presence_count: server.approximate_presence_count,
+                    approximate_member_count: server.approximate_member_count,
+                    premium_subscription_count: server.premium_subscription_count,
+                    preferred_locale: server.preferred_locale,
+                    vanity_url_code: server.vanity_url_code,
+                    keywords: server.keywords,
+                    features: server.features,
+                    partnered: server.features.includes('PARTNERED'),
+                    verified: server.features.includes('VERIFIED'),
+                    raw: server
+                },
+                null,
+                4
+            )
         )
-    )
-    server.icon && fs.writeFile(nameIcon, Buffer.from((await icon?.arrayBuffer()) || 'null').toString('base64'), 'base64');
-    server.banner && fs.writeFile(nameBanner, Buffer.from((await banner?.arrayBuffer()) || 'null').toString('base64'), 'base64');
-    server.splash && fs.writeFile(nameSplash, Buffer.from((await splash?.arrayBuffer()) || 'null').toString('base64'), 'base64');
-    fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
-    console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
+        server.icon && fs.writeFile(nameIcon, Buffer.from((await icon?.arrayBuffer()) || 'null').toString('base64'), 'base64');
+        server.banner && fs.writeFile(nameBanner, Buffer.from((await banner?.arrayBuffer()) || 'null').toString('base64'), 'base64');
+        server.splash && fs.writeFile(nameSplash, Buffer.from((await splash?.arrayBuffer()) || 'null').toString('base64'), 'base64');
+        await fs.appendFile(`${path.resolve('..')}/guilds/README.md`, `* ${server.name} [${server.id}](./${server.id}/info.json)\n`);	
+        console.log(`Guild ${server.name} (${server.id}) updated. 🚀`);
+    } catch(e) {
+        console.log(`Guild ${server.name} (${server.id}) - ${e}`);
+    }
 }
 
 while(true) {
