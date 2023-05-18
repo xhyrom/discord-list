@@ -1,16 +1,16 @@
 {
     "id": "1006406693334298634",
     "name": "Guild Tempus",
-    "description": "Welcome to Guild Tempus, a Fanmade server for anyone who enjoys Holo Tempus.",
-    "icon": "a_f241b0275ea7cbae3944d19c04ea6681",
+    "description": "Welcome to Guild Tempus, a fanmade server for anyone who enjoys HOLOSTARS TEMPUS.",
+    "icon": "a_5e8ed9eb907c8595006145beb526c30b",
     "splash": "3d0add24409c2ce9e950e89507765d58",
-    "discovery_splash": null,
-    "banner": "f5ef4e03f537837cd12a45e501389ceb",
-    "approximate_presence_count": 415,
-    "approximate_member_count": 1002,
-    "premium_subscription_count": 9,
+    "discovery_splash": "b7897af7543bab86be60425a9c0d83c9",
+    "banner": "18b8ae92208b7d0607bbe3ccf6d9f8f0",
+    "approximate_presence_count": 1090,
+    "approximate_member_count": 3303,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "tempus",
     "keywords": [
         "hololive",
         "holostars",
@@ -20,31 +20,35 @@
         "streamer",
         "social",
         "fandom",
-        "twitch",
-        "fanserver"
+        "fanserver",
+        "holostar"
     ],
     "features": [
         "COMMUNITY",
-        "PREVIEW_ENABLED"
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "1006406693334298634",
         "name": "Guild Tempus",
-        "description": "Welcome to Guild Tempus, a Fanmade server for anyone who enjoys Holo Tempus.",
-        "icon": "a_f241b0275ea7cbae3944d19c04ea6681",
+        "description": "Welcome to Guild Tempus, a fanmade server for anyone who enjoys HOLOSTARS TEMPUS.",
+        "icon": "a_5e8ed9eb907c8595006145beb526c30b",
         "splash": "3d0add24409c2ce9e950e89507765d58",
-        "banner": "f5ef4e03f537837cd12a45e501389ceb",
-        "approximate_presence_count": 415,
-        "approximate_member_count": 1002,
-        "premium_subscription_count": 9,
+        "banner": "18b8ae92208b7d0607bbe3ccf6d9f8f0",
+        "approximate_presence_count": 1090,
+        "approximate_member_count": 3303,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "b7897af7543bab86be60425a9c0d83c9",
         "primary_category_id": 3,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "tempus",
+        "is_published": true,
         "keywords": [
             "hololive",
             "holostars",
@@ -54,12 +58,16 @@
             "streamer",
             "social",
             "fandom",
-            "twitch",
-            "fanserver"
+            "fanserver",
+            "holostar"
         ],
         "features": [
             "COMMUNITY",
-            "PREVIEW_ENABLED"
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -293,7 +301,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Welcome to Guild Tempus, a Fanmade server for anyone who enjoys Holo Tempus.",
+                "value": "Welcome to Guild Tempus, a fanmade server for anyone who enjoys HOLOSTARS TEMPUS.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "tempus",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -339,12 +352,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "fanserver",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "fanserver",
+                    "value": "holostar",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
