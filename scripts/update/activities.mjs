@@ -7,7 +7,7 @@ import { markdownTable } from 'markdown-table';
 
 const discordToken = process.env.DISCORD_TOKEN;
 
-const appIds = (await (await fetch('https://discord.com/api/v10/activities/guilds/169256939211980800/shelf', {
+const appIds = (await (await fetch('https://discord.com/api/v10/activities/guilds/612443491770957833/shelf', {
     headers: {
         'Authorization': discordToken
     }
