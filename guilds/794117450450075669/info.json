@@ -6,8 +6,8 @@
     "splash": null,
     "discovery_splash": "5c87f065b7a4dd108ab6dfbf647883fb",
     "banner": null,
-    "approximate_presence_count": 1811,
-    "approximate_member_count": 13548,
+    "approximate_presence_count": 1777,
+    "approximate_member_count": 13317,
     "premium_subscription_count": 0,
     "preferred_locale": "en-GB",
     "vanity_url_code": null,
@@ -33,8 +33,8 @@
         "icon": "96e7f3dce333949991ba7653c3c0122e",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 1811,
-        "approximate_member_count": 13548,
+        "approximate_presence_count": 1777,
+        "approximate_member_count": 13317,
         "premium_subscription_count": 0,
         "preferred_locale": "en-GB",
         "auto_removed": false,
@@ -56,43 +56,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 45,
-                "is_primary": false,
-                "name": "Mobile",
-                "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
-                }
-            },
             {
                 "id": 40,
                 "is_primary": false,
@@ -131,43 +94,6 @@
                 }
             },
             {
-                "id": 49,
-                "is_primary": true,
-                "name": "Bots",
-                "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
-                }
-            },
-            {
                 "id": 35,
                 "is_primary": false,
                 "name": "Content Creator",
@@ -202,6 +128,80 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
+                }
+            },
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
+                }
+            },
+            {
+                "id": 49,
+                "is_primary": true,
+                "name": "Bots",
+                "name_localizations": {
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
                 }
             },
             {
@@ -309,160 +309,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Мобилни",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Mobily",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Mobilgeräte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κινητά",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Mobiililaitteet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Portable",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "मोबाइल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Mobilno",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cellulare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "モバイル",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "모바일",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mobilieji prietaisai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Mobiel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Mobilne",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Мобильные устройства",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มือถือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мобільні ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Móvil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Dispositivo Móvel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "移动端",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "行動裝置",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -620,160 +466,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ботове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Boti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Botit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बॉट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Botovi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Botok",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "봇",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Botai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Boter",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Boty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Boți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Боты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Botlar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Боти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Bottar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "机器人",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "機器人",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -920,6 +612,314 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ботове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Boti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Botit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बॉट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Botovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Botok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "봇",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Botai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Boter",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Boty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Boți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Боты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Botlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Боти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Bot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Bots",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bottar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "机器人",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
