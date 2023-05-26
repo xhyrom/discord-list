@@ -5,12 +5,12 @@
     "icon": "a_43a1a4793d84a86e121f10fb1b2d980c",
     "splash": "a55c17ca891849192f9b05c97a2680cf",
     "discovery_splash": "ba8d2ee9536bae927b758beeb918270a",
-    "banner": "a_e2ca817c03245e411b8d006b11d1f1aa",
-    "approximate_presence_count": 223,
-    "approximate_member_count": 2717,
-    "premium_subscription_count": 33,
+    "banner": "dc4ea6e1407c8c7a2506d4ed9ea4a1e6",
+    "approximate_presence_count": 132,
+    "approximate_member_count": 2735,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
-    "vanity_url_code": "bisayalang",
+    "vanity_url_code": null,
     "keywords": [
         "bisaya",
         "bisdak",
@@ -27,7 +27,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,15 +38,15 @@
         "description": "Bisaya server with a lot of members, giveaways to win and very active community. Best Bisaya server!",
         "icon": "a_43a1a4793d84a86e121f10fb1b2d980c",
         "splash": "a55c17ca891849192f9b05c97a2680cf",
-        "banner": "a_e2ca817c03245e411b8d006b11d1f1aa",
-        "approximate_presence_count": 223,
-        "approximate_member_count": 2717,
-        "premium_subscription_count": 33,
+        "banner": "dc4ea6e1407c8c7a2506d4ed9ea4a1e6",
+        "approximate_presence_count": 132,
+        "approximate_member_count": 2735,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ba8d2ee9536bae927b758beeb918270a",
         "primary_category_id": 14,
-        "vanity_url_code": "bisayalang",
+        "vanity_url_code": null,
         "is_published": true,
         "keywords": [
             "bisaya",
@@ -65,7 +64,6 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -105,6 +103,16 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -219,16 +227,6 @@
                 }
             },
             {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
-            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -312,11 +310,6 @@
             },
             "description": {
                 "value": "Bisaya server with a lot of members, giveaways to win and very active community. Best Bisaya server!",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "bisayalang",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -522,6 +515,25 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -984,25 +996,6 @@
                         },
                         "zh-TW": {
                             "value": "關係與身分",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

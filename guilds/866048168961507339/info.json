@@ -6,8 +6,8 @@
     "splash": "bb590e6c4ff025a56c89f391e7bed769",
     "discovery_splash": "bb590e6c4ff025a56c89f391e7bed769",
     "banner": "a_941d5c3fa0ea44be1aaa1d27fde9efb1",
-    "approximate_presence_count": 174,
-    "approximate_member_count": 2450,
+    "approximate_presence_count": 145,
+    "approximate_member_count": 2443,
     "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "predictionstrike-army-866048168961507339",
@@ -39,8 +39,8 @@
         "icon": "a_40dfef127dc4d33f1dfbe7b2816df524",
         "splash": "bb590e6c4ff025a56c89f391e7bed769",
         "banner": "a_941d5c3fa0ea44be1aaa1d27fde9efb1",
-        "approximate_presence_count": 174,
-        "approximate_member_count": 2450,
+        "approximate_presence_count": 145,
+        "approximate_member_count": 2443,
         "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -69,16 +69,6 @@
         ],
         "categories": [
             {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
-            {
                 "id": 7,
                 "is_primary": true,
                 "name": "Sports",
@@ -86,6 +76,16 @@
                     "de": "Sport",
                     "fr": "Sports",
                     "ru": "Спорт"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -209,25 +209,6 @@
                 {
                     "name_localizations": {
                         "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
                             "value": "Sport",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -239,6 +220,25 @@
                         },
                         "ru": {
                             "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

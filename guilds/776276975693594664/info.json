@@ -4,11 +4,11 @@
     "description": "Isla Antigua is a gaming community with a main focus for Full Realism on The Isle: Evrima",
     "icon": "84195f09705eb9e56ff8b6893114b812",
     "splash": "fbac61c4e7a2c30555c1554b933d56e4",
-    "discovery_splash": null,
+    "discovery_splash": "80f7108e705d4b4b34c9c02e96f0dad6",
     "banner": "b72ba7a2867ba0c9c14438a65dfbcc55",
-    "approximate_presence_count": 533,
-    "approximate_member_count": 1014,
-    "premium_subscription_count": 50,
+    "approximate_presence_count": 660,
+    "approximate_member_count": 1446,
+    "premium_subscription_count": 46,
     "preferred_locale": "en-US",
     "vanity_url_code": "islaantigua",
     "keywords": [
@@ -18,13 +18,15 @@
         "gaming",
         "community",
         "general-chatting",
-        "the-isle-evrima"
+        "the-isle-evrima",
+        "realism"
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -35,15 +37,15 @@
         "icon": "84195f09705eb9e56ff8b6893114b812",
         "splash": "fbac61c4e7a2c30555c1554b933d56e4",
         "banner": "b72ba7a2867ba0c9c14438a65dfbcc55",
-        "approximate_presence_count": 533,
-        "approximate_member_count": 1014,
-        "premium_subscription_count": 50,
+        "approximate_presence_count": 660,
+        "approximate_member_count": 1446,
+        "premium_subscription_count": 46,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "80f7108e705d4b4b34c9c02e96f0dad6",
         "primary_category_id": 1,
         "vanity_url_code": "islaantigua",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "roleplay",
             "realism",
@@ -51,13 +53,15 @@
             "gaming",
             "community",
             "general-chatting",
-            "the-isle-evrima"
+            "the-isle-evrima",
+            "realism"
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
@@ -333,6 +337,11 @@
                 },
                 {
                     "value": "the-isle-evrima",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "realism",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
