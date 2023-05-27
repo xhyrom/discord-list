@@ -6,8 +6,8 @@
     "splash": "1db256c7c965eb1e7fa8f90d2084080e",
     "discovery_splash": "5363a70a837196b970814107b8452e01",
     "banner": "b48299bea958a4549052729914628c85",
-    "approximate_presence_count": 278,
-    "approximate_member_count": 2757,
+    "approximate_presence_count": 236,
+    "approximate_member_count": 2910,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "totallybaseball",
@@ -38,8 +38,8 @@
         "icon": "a_83990a36d48588c1886545a65c22b603",
         "splash": "1db256c7c965eb1e7fa8f90d2084080e",
         "banner": "b48299bea958a4549052729914628c85",
-        "approximate_presence_count": 278,
-        "approximate_member_count": 2757,
+        "approximate_presence_count": 236,
+        "approximate_member_count": 2910,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -104,6 +104,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 30,
                 "is_primary": false,
                 "name": "LFG",
@@ -138,16 +148,6 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -478,6 +478,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "LFG",
                             "matchLevel": "none",
@@ -625,25 +644,6 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
