@@ -6,9 +6,9 @@
     "splash": "a266e1855e7846195df6a01ef544da34",
     "discovery_splash": "e7ff1bafa79d99f9f8b5f08a23781a6b",
     "banner": "6a2e53302f57e566fe9bfe3f30ab0e3c",
-    "approximate_presence_count": 2426,
-    "approximate_member_count": 33510,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 2825,
+    "approximate_member_count": 33439,
+    "premium_subscription_count": 8,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "6ebb08e472559306e34caa9637bf28c2",
         "splash": "a266e1855e7846195df6a01ef544da34",
         "banner": "6a2e53302f57e566fe9bfe3f30ab0e3c",
-        "approximate_presence_count": 2426,
-        "approximate_member_count": 33510,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 2825,
+        "approximate_member_count": 33439,
+        "premium_subscription_count": 8,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "e7ff1bafa79d99f9f8b5f08a23781a6b",
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -152,6 +142,16 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -368,25 +368,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -690,6 +671,25 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
