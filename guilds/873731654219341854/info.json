@@ -1,14 +1,14 @@
 {
     "id": "873731654219341854",
     "name": "-ˋˏ 𝚄𝙽𝚃𝙰𝙼𝙴𝙳 𝙰𝚇𝙸𝚂 ˎˊ-",
-    "description": "•★• A MULTI GAMING AND STREAMER SUPPORT COMMUNITY •★•",
-    "icon": "a_8ed594de66234e41f424ecabf8b2370b",
-    "splash": "7e8425ba2215dc94052ff6a6b8ce4980",
+    "description": "•★• A MULTI GAMING AND STREAMING SUPPORT COMMUNITY •★•",
+    "icon": "a_b3c51680fc927e7ecb3f4db64e2a01b6",
+    "splash": "b691dafc440da47a4dfa405e6036c5b6",
     "discovery_splash": "9a106c531fbfd339ca52800dc5c29538",
-    "banner": "a_bea929ec935f916179f9991e8c7cc3f1",
-    "approximate_presence_count": 241,
-    "approximate_member_count": 1236,
-    "premium_subscription_count": 17,
+    "banner": "a_b64a68617e93947911f8315bcacc63f5",
+    "approximate_presence_count": 346,
+    "approximate_member_count": 1663,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "untamedaxis",
     "keywords": [
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -34,13 +35,13 @@
     "raw": {
         "id": "873731654219341854",
         "name": "-ˋˏ 𝚄𝙽𝚃𝙰𝙼𝙴𝙳 𝙰𝚇𝙸𝚂 ˎˊ-",
-        "description": "•★• A MULTI GAMING AND STREAMER SUPPORT COMMUNITY •★•",
-        "icon": "a_8ed594de66234e41f424ecabf8b2370b",
-        "splash": "7e8425ba2215dc94052ff6a6b8ce4980",
-        "banner": "a_bea929ec935f916179f9991e8c7cc3f1",
-        "approximate_presence_count": 241,
-        "approximate_member_count": 1236,
-        "premium_subscription_count": 17,
+        "description": "•★• A MULTI GAMING AND STREAMING SUPPORT COMMUNITY •★•",
+        "icon": "a_b3c51680fc927e7ecb3f4db64e2a01b6",
+        "splash": "b691dafc440da47a4dfa405e6036c5b6",
+        "banner": "a_b64a68617e93947911f8315bcacc63f5",
+        "approximate_presence_count": 346,
+        "approximate_member_count": 1663,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9a106c531fbfd339ca52800dc5c29538",
@@ -63,44 +64,45 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
             {
-                "id": 43,
-                "is_primary": true,
-                "name": "Emoji",
+                "id": 46,
+                "is_primary": false,
+                "name": "Console",
                 "name_localizations": {
-                    "bg": "Емотикон",
-                    "cs": "Smajlíci",
-                    "da": "Emoji",
-                    "de": "Emojis",
-                    "el": "Emoji",
-                    "fi": "Emoji",
-                    "fr": "Émoji",
-                    "hi": "इमोजी",
-                    "hr": "Emoji",
-                    "hu": "Emotikon",
-                    "it": "Emoji",
-                    "ja": "絵文字",
-                    "ko": "이모티콘",
-                    "lt": "Jaustukai",
-                    "nl": "Emoji",
-                    "no": "Emoji",
-                    "pl": "Emoji",
-                    "ro": "Emoji",
-                    "ru": "Эмодзи",
-                    "th": "อีโมจิ",
-                    "tr": "Emoji",
-                    "uk": "Емодзі",
-                    "vi": "Emoji",
-                    "en-GB": "Emoji",
-                    "en-US": "Emoji",
-                    "es-ES": "Emojis",
-                    "pt-BR": "Emoji",
-                    "sv-SE": "Emoji",
-                    "zh-CN": "表情符号",
-                    "zh-TW": "表情符號"
+                    "bg": "Конзола",
+                    "cs": "Konzole",
+                    "da": "Konsol",
+                    "de": "Konsolen",
+                    "el": "Κονσόλες",
+                    "fi": "Konsolit",
+                    "fr": "Console",
+                    "hi": "कंसोल",
+                    "hr": "Konzole",
+                    "hu": "Konzol",
+                    "it": "Console",
+                    "ja": "コンソール",
+                    "ko": "게임 콘솔",
+                    "lt": "Žaidimų konsolės",
+                    "nl": "Console",
+                    "no": "Konsoll",
+                    "pl": "Konsola",
+                    "ro": "Consolă",
+                    "ru": "Консоли",
+                    "th": "คอนโซล",
+                    "tr": "Konsol",
+                    "uk": "Консолі",
+                    "vi": "Console",
+                    "en-GB": "Console",
+                    "en-US": "Console",
+                    "es-ES": "Consola",
+                    "pt-BR": "Console",
+                    "sv-SE": "Konsol",
+                    "zh-CN": "主机端",
+                    "zh-TW": "遊戲主機"
                 }
             },
             {
@@ -178,6 +180,43 @@
                 }
             },
             {
+                "id": 43,
+                "is_primary": true,
+                "name": "Emoji",
+                "name_localizations": {
+                    "bg": "Емотикон",
+                    "cs": "Smajlíci",
+                    "da": "Emoji",
+                    "de": "Emojis",
+                    "el": "Emoji",
+                    "fi": "Emoji",
+                    "fr": "Émoji",
+                    "hi": "इमोजी",
+                    "hr": "Emoji",
+                    "hu": "Emotikon",
+                    "it": "Emoji",
+                    "ja": "絵文字",
+                    "ko": "이모티콘",
+                    "lt": "Jaustukai",
+                    "nl": "Emoji",
+                    "no": "Emoji",
+                    "pl": "Emoji",
+                    "ro": "Emoji",
+                    "ru": "Эмодзи",
+                    "th": "อีโมจิ",
+                    "tr": "Emoji",
+                    "uk": "Емодзі",
+                    "vi": "Emoji",
+                    "en-GB": "Emoji",
+                    "en-US": "Emoji",
+                    "es-ES": "Emojis",
+                    "pt-BR": "Emoji",
+                    "sv-SE": "Emoji",
+                    "zh-CN": "表情符号",
+                    "zh-TW": "表情符號"
+                }
+            },
+            {
                 "id": 35,
                 "is_primary": false,
                 "name": "Content Creator",
@@ -212,43 +251,6 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 46,
-                "is_primary": false,
-                "name": "Console",
-                "name_localizations": {
-                    "bg": "Конзола",
-                    "cs": "Konzole",
-                    "da": "Konsol",
-                    "de": "Konsolen",
-                    "el": "Κονσόλες",
-                    "fi": "Konsolit",
-                    "fr": "Console",
-                    "hi": "कंसोल",
-                    "hr": "Konzole",
-                    "hu": "Konzol",
-                    "it": "Console",
-                    "ja": "コンソール",
-                    "ko": "게임 콘솔",
-                    "lt": "Žaidimų konsolės",
-                    "nl": "Console",
-                    "no": "Konsoll",
-                    "pl": "Konsola",
-                    "ro": "Consolă",
-                    "ru": "Консоли",
-                    "th": "คอนโซล",
-                    "tr": "Konsol",
-                    "uk": "Консолі",
-                    "vi": "Console",
-                    "en-GB": "Console",
-                    "en-US": "Console",
-                    "es-ES": "Consola",
-                    "pt-BR": "Console",
-                    "sv-SE": "Konsol",
-                    "zh-CN": "主机端",
-                    "zh-TW": "遊戲主機"
                 }
             },
             {
@@ -334,7 +336,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "•★• A MULTI GAMING AND STREAMER SUPPORT COMMUNITY •★•",
+                "value": "•★• A MULTI GAMING AND STREAMING SUPPORT COMMUNITY •★•",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -399,152 +401,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Емотикон",
+                            "value": "Конзола",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Smajlíci",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Emoji",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Emojis",
+                            "value": "Konsolen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Emoji",
+                            "value": "Κονσόλες",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Emoji",
+                            "value": "Konsolit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Émoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "इमोजी",
+                            "value": "कंसोल",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Emoji",
+                            "value": "Konzole",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Emotikon",
+                            "value": "Konzol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "絵文字",
+                            "value": "コンソール",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이모티콘",
+                            "value": "게임 콘솔",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Jaustukai",
+                            "value": "Žaidimų konsolės",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Emoji",
+                            "value": "Konsoll",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Emoji",
+                            "value": "Konsola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Emoji",
+                            "value": "Consolă",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Эмодзи",
+                            "value": "Консоли",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีโมจิ",
+                            "value": "คอนโซล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Emoji",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Емодзі",
+                            "value": "Консолі",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Emojis",
+                            "value": "Consola",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Emoji",
+                            "value": "Console",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Emoji",
+                            "value": "Konsol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "表情符号",
+                            "value": "主机端",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "表情符號",
+                            "value": "遊戲主機",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -861,6 +863,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Емотикон",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Smajlíci",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Émoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इमोजी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Emotikon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "絵文字",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이모티콘",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Jaustukai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Эмодзи",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีโมจิ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Емодзі",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情符号",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "表情符號",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1007,160 +1163,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Конзола",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Konsolen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κονσόλες",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Konsolit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंसोल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Konzole",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Konzol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンソール",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 콘솔",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų konsolės",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Konsoll",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Konsola",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Consolă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Консоли",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "คอนโซล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Консолі",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Consola",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Console",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Konsol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "主机端",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲主機",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
