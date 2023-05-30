@@ -2,23 +2,23 @@
     "id": "805392415263293440",
     "name": "MXBklf I FR",
     "description": "Le serveur est un espace communautaire basé sur le jeu MxBikes qui est un simulateur de conduite de moto réaliste.",
-    "icon": "8831867cb4c1adf62cc48fcfbed5a1ed",
-    "splash": "03b8c38c49fd5e719f354d06804988ff",
-    "discovery_splash": "d02ee96594b5f4823641b04c3deb2460",
+    "icon": "27595e955d26379a33d3656a94498016",
+    "splash": "38e20838bedccb9a09c9966c655c7e76",
+    "discovery_splash": "5fb701c728da8932b9f874f1cca759fa",
     "banner": "22f3df77ea0d17fac50b041caec6fed0",
-    "approximate_presence_count": 1067,
-    "approximate_member_count": 12771,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 1030,
+    "approximate_member_count": 13102,
+    "premium_subscription_count": 13,
     "preferred_locale": "fr",
     "vanity_url_code": null,
     "keywords": [
-        "youtube",
-        "simulateur",
         "bikelife",
-        "moto",
         "cross",
         "gaming",
-        "mxbike"
+        "moto",
+        "mxbike",
+        "simulateur",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -34,26 +34,26 @@
         "id": "805392415263293440",
         "name": "MXBklf I FR",
         "description": "Le serveur est un espace communautaire basé sur le jeu MxBikes qui est un simulateur de conduite de moto réaliste.",
-        "icon": "8831867cb4c1adf62cc48fcfbed5a1ed",
-        "splash": "03b8c38c49fd5e719f354d06804988ff",
+        "icon": "27595e955d26379a33d3656a94498016",
+        "splash": "38e20838bedccb9a09c9966c655c7e76",
         "banner": "22f3df77ea0d17fac50b041caec6fed0",
-        "approximate_presence_count": 1067,
-        "approximate_member_count": 12771,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 1030,
+        "approximate_member_count": 13102,
+        "premium_subscription_count": 13,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "d02ee96594b5f4823641b04c3deb2460",
+        "discovery_splash": "5fb701c728da8932b9f874f1cca759fa",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "youtube",
-            "simulateur",
             "bikelife",
-            "moto",
             "cross",
             "gaming",
-            "mxbike"
+            "moto",
+            "mxbike",
+            "simulateur",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -99,16 +109,6 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -237,22 +237,7 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "simulateur",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bikelife",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "moto",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -267,12 +252,46 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "moto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "mxbike",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "simulateur",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -422,25 +441,6 @@
                         },
                         "zh-TW": {
                             "value": "電競",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

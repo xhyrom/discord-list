@@ -6,22 +6,22 @@
     "splash": "670a105b3cd9f703a435d5737182295a",
     "discovery_splash": "4d6f7715c7ff9e9d2e3576118ea9fb0f",
     "banner": "db0236dc555ce50cb3c8fc62a013de6b",
-    "approximate_presence_count": 3887,
-    "approximate_member_count": 10303,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 3516,
+    "approximate_member_count": 10276,
+    "premium_subscription_count": 14,
     "preferred_locale": "fr",
     "vanity_url_code": "aiekillu",
     "keywords": [
-        "aiekillu",
-        "foxhole",
-        "Nabil",
         "Lahrech",
-        "twitch",
-        "youtube",
+        "Nabil",
+        "aiekillu",
         "bannerlord",
-        "s&box",
-        "rust",
-        "project zomboid"
+        "eco",
+        "foxhole",
+        "kenshi",
+        "meute",
+        "project zomboid",
+        "s&box"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "a_618f8e1180cc2e92a137db63a8750ae6",
         "splash": "670a105b3cd9f703a435d5737182295a",
         "banner": "db0236dc555ce50cb3c8fc62a013de6b",
-        "approximate_presence_count": 3887,
-        "approximate_member_count": 10303,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 3516,
+        "approximate_member_count": 10276,
+        "premium_subscription_count": 14,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "4d6f7715c7ff9e9d2e3576118ea9fb0f",
@@ -50,16 +50,16 @@
         "vanity_url_code": "aiekillu",
         "is_published": true,
         "keywords": [
-            "aiekillu",
-            "foxhole",
-            "Nabil",
             "Lahrech",
-            "twitch",
-            "youtube",
+            "Nabil",
+            "aiekillu",
             "bannerlord",
-            "s&box",
-            "rust",
-            "project zomboid"
+            "eco",
+            "foxhole",
+            "kenshi",
+            "meute",
+            "project zomboid",
+            "s&box"
         ],
         "features": [
             "COMMUNITY",
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -152,6 +142,16 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -285,12 +285,7 @@
             },
             "keywords": [
                 {
-                    "value": "aiekillu",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "foxhole",
+                    "value": "Lahrech",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -300,17 +295,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Lahrech",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
+                    "value": "aiekillu",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,12 +305,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "s&box",
+                    "value": "eco",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "rust",
+                    "value": "foxhole",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "kenshi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "meute",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -333,28 +328,14 @@
                     "value": "project zomboid",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "s&box",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -658,6 +639,25 @@
                         },
                         "zh-TW": {
                             "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
