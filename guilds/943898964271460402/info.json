@@ -1,16 +1,16 @@
 {
     "id": "943898964271460402",
-    "name": "teyvat site",
-    "description": "genshin impact server but we accept anyone if you don't play genshin. ind server but provides a special channel for eng",
-    "icon": "8b411757faa346418625f08a6f533829",
-    "splash": "2dcee487ba55392dde9f0ad28d479407",
+    "name": "AfterLife",
+    "description": "Welcome to AfterLife, all game servers, we accept all game fandoms and we also accept those of you who don't play games",
+    "icon": "a_a6747d56e162d280d93e1cda6724576f",
+    "splash": "03a0e6e3e115a3bffa6a91e9903b20e0",
     "discovery_splash": "1111f1ffec9a3faddfd70a5ec2de47c2",
-    "banner": "a_e1d1e6152c8ec68ba904f15cdf961660",
-    "approximate_presence_count": 504,
-    "approximate_member_count": 3833,
-    "premium_subscription_count": 6,
+    "banner": "1fe00f3c95c817cc56ae0f2bcbd40a33",
+    "approximate_presence_count": 221,
+    "approximate_member_count": 3866,
+    "premium_subscription_count": 28,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "afterlife-id",
     "keywords": [
         "genshinimpact",
         "mobilelegends",
@@ -26,6 +26,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,19 +34,19 @@
     "verified": false,
     "raw": {
         "id": "943898964271460402",
-        "name": "teyvat site",
-        "description": "genshin impact server but we accept anyone if you don't play genshin. ind server but provides a special channel for eng",
-        "icon": "8b411757faa346418625f08a6f533829",
-        "splash": "2dcee487ba55392dde9f0ad28d479407",
-        "banner": "a_e1d1e6152c8ec68ba904f15cdf961660",
-        "approximate_presence_count": 504,
-        "approximate_member_count": 3833,
-        "premium_subscription_count": 6,
+        "name": "AfterLife",
+        "description": "Welcome to AfterLife, all game servers, we accept all game fandoms and we also accept those of you who don't play games",
+        "icon": "a_a6747d56e162d280d93e1cda6724576f",
+        "splash": "03a0e6e3e115a3bffa6a91e9903b20e0",
+        "banner": "1fe00f3c95c817cc56ae0f2bcbd40a33",
+        "approximate_presence_count": 221,
+        "approximate_member_count": 3866,
+        "premium_subscription_count": 28,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "1111f1ffec9a3faddfd70a5ec2de47c2",
         "primary_category_id": 14,
-        "vanity_url_code": null,
+        "vanity_url_code": "afterlife-id",
         "is_published": false,
         "keywords": [
             "genshinimpact",
@@ -62,10 +63,21 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -101,16 +113,6 @@
                     "sv-SE": "Fandom",
                     "zh-CN": "同好圈",
                     "zh-TW": "粉絲社群"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -228,12 +230,17 @@
         "objectID": "943898964271460402",
         "_highlightResult": {
             "name": {
-                "value": "teyvat site",
+                "value": "AfterLife",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "genshin impact server but we accept anyone if you don't play genshin. ind server but provides a special channel for eng",
+                "value": "Welcome to AfterLife, all game servers, we accept all game fandoms and we also accept those of you who don't play games",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "afterlife-id",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -285,6 +292,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -434,25 +460,6 @@
                         },
                         "zh-TW": {
                             "value": "粉絲社群",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
