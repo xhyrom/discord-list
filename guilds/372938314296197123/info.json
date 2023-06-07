@@ -6,11 +6,11 @@
     "splash": "5dc85f5981e3f5adec1693fe5724ff58",
     "discovery_splash": "60bb8cdbb69f569779f3b17f8ad87c1c",
     "banner": "a9decaa77e560047f0c179d946dc812f",
-    "approximate_presence_count": 144,
-    "approximate_member_count": 1301,
-    "premium_subscription_count": 17,
+    "approximate_presence_count": 84,
+    "approximate_member_count": 1322,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "wrestlingsoup",
     "keywords": [
         "wrestling",
         "aew",
@@ -38,14 +38,14 @@
         "icon": "e90c615d25a0ead591aada1b1564c061",
         "splash": "5dc85f5981e3f5adec1693fe5724ff58",
         "banner": "a9decaa77e560047f0c179d946dc812f",
-        "approximate_presence_count": 144,
-        "approximate_member_count": 1301,
-        "premium_subscription_count": 17,
+        "approximate_presence_count": 84,
+        "approximate_member_count": 1322,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "60bb8cdbb69f569779f3b17f8ad87c1c",
         "primary_category_id": 7,
-        "vanity_url_code": null,
+        "vanity_url_code": "wrestlingsoup",
         "is_published": false,
         "keywords": [
             "wrestling",
@@ -66,26 +66,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -124,6 +104,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 33,
                 "is_primary": false,
                 "name": "Events",
@@ -159,6 +149,16 @@
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
                 }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
             }
         ],
         "primary_category": {
@@ -180,6 +180,11 @@
             },
             "description": {
                 "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "wrestlingsoup",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -231,44 +236,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -425,6 +392,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Събития",
                             "matchLevel": "none",
@@ -572,6 +558,25 @@
                         },
                         "zh-TW": {
                             "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
