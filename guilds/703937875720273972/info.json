@@ -6,8 +6,8 @@
     "splash": "84828f827004345e2c88bf31f87c8f01",
     "discovery_splash": "e1eac1adca1589a14bd372b395a49967",
     "banner": "84828f827004345e2c88bf31f87c8f01",
-    "approximate_presence_count": 994,
-    "approximate_member_count": 18473,
+    "approximate_presence_count": 1069,
+    "approximate_member_count": 18502,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "study-vibes-703937875720273972",
@@ -40,8 +40,8 @@
         "icon": "c3780c021c3b59770bf09cc4bab83372",
         "splash": "84828f827004345e2c88bf31f87c8f01",
         "banner": "84828f827004345e2c88bf31f87c8f01",
-        "approximate_presence_count": 994,
-        "approximate_member_count": 18473,
+        "approximate_presence_count": 1069,
+        "approximate_member_count": 18502,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
             {
                 "id": 19,
                 "is_primary": false,
@@ -145,80 +182,6 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
-                }
-            },
-            {
                 "id": 29,
                 "is_primary": false,
                 "name": "Studying & Teaching",
@@ -253,6 +216,43 @@
                     "sv-SE": "Studier och undervisning",
                     "zh-CN": "研究&教学",
                     "zh-TW": "研究與教學"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             }
         ],
@@ -363,6 +363,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -674,314 +828,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Учене и преподаване",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1128,6 +974,160 @@
                         },
                         "zh-TW": {
                             "value": "研究與教學",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

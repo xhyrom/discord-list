@@ -6,9 +6,9 @@
     "splash": "753f294530a31eb7cd3e4e3db08e8b78",
     "discovery_splash": "05c80c2fc3df8a5eaf236872640fe798",
     "banner": "1638831233e4f6a7743af83508680ad6",
-    "approximate_presence_count": 1669,
-    "approximate_member_count": 29538,
-    "premium_subscription_count": 46,
+    "approximate_presence_count": 1493,
+    "approximate_member_count": 29560,
+    "premium_subscription_count": 48,
     "preferred_locale": "en-US",
     "vanity_url_code": "englishhouse",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_114b8a3d5853b72b80d4f2156d852fcd",
         "splash": "753f294530a31eb7cd3e4e3db08e8b78",
         "banner": "1638831233e4f6a7743af83508680ad6",
-        "approximate_presence_count": 1669,
-        "approximate_member_count": 29538,
-        "premium_subscription_count": 46,
+        "approximate_presence_count": 1493,
+        "approximate_member_count": 29560,
+        "premium_subscription_count": 48,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "05c80c2fc3df8a5eaf236872640fe798",
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 18,
+                "is_primary": false,
+                "name": "Books",
+                "name_localizations": {
+                    "bg": "Книги",
+                    "cs": "Knihy",
+                    "da": "Bøger",
+                    "de": "Bücher",
+                    "el": "Βιβλία",
+                    "fi": "Kirjat",
+                    "fr": "Livres",
+                    "hi": "बुक्स",
+                    "hr": "Knjiga",
+                    "hu": "Könyvek",
+                    "it": "Libri",
+                    "ja": "書籍",
+                    "ko": "책",
+                    "lt": "Knygos",
+                    "nl": "Boeken",
+                    "no": "Bøker",
+                    "pl": "Książki",
+                    "ro": "Cărți",
+                    "ru": "Книги",
+                    "th": "หนังสือ",
+                    "tr": "Kitaplar",
+                    "uk": "Книги",
+                    "vi": "Sách",
+                    "en-GB": "Books",
+                    "en-US": "Books",
+                    "es-ES": "Libros",
+                    "pt-BR": "Livros",
+                    "sv-SE": "Böcker",
+                    "zh-CN": "读书",
+                    "zh-TW": "書籍"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -103,6 +140,43 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
+                }
+            },
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
                 }
             },
             {
@@ -143,43 +217,6 @@
                 }
             },
             {
-                "id": 18,
-                "is_primary": false,
-                "name": "Books",
-                "name_localizations": {
-                    "bg": "Книги",
-                    "cs": "Knihy",
-                    "da": "Bøger",
-                    "de": "Bücher",
-                    "el": "Βιβλία",
-                    "fi": "Kirjat",
-                    "fr": "Livres",
-                    "hi": "बुक्स",
-                    "hr": "Knjiga",
-                    "hu": "Könyvek",
-                    "it": "Libri",
-                    "ja": "書籍",
-                    "ko": "책",
-                    "lt": "Knygos",
-                    "nl": "Boeken",
-                    "no": "Bøker",
-                    "pl": "Książki",
-                    "ro": "Cărți",
-                    "ru": "Книги",
-                    "th": "หนังสือ",
-                    "tr": "Kitaplar",
-                    "uk": "Книги",
-                    "vi": "Sách",
-                    "en-GB": "Books",
-                    "en-US": "Books",
-                    "es-ES": "Libros",
-                    "pt-BR": "Livros",
-                    "sv-SE": "Böcker",
-                    "zh-CN": "读书",
-                    "zh-TW": "書籍"
-                }
-            },
-            {
                 "id": 29,
                 "is_primary": false,
                 "name": "Studying & Teaching",
@@ -214,43 +251,6 @@
                     "sv-SE": "Studier och undervisning",
                     "zh-CN": "研究&教学",
                     "zh-TW": "研究與教學"
-                }
-            },
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
                 }
             }
         ],
@@ -361,6 +361,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Knihy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Bøger",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bücher",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Βιβλία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kirjat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Livres",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बुक्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Knjiga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Könyvek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Libri",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "書籍",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "책",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Knygos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Boeken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Bøker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Książki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Cărți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "หนังสือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kitaplar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sách",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Books",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Books",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Libros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Livros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Böcker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "读书",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "書籍",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -510,6 +664,160 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -672,160 +980,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Knihy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bøger",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bücher",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Βιβλία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Livres",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बुक्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Knjiga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Könyvek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Libri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "書籍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "책",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Knygos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Boeken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Bøker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Książki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Cărți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "หนังสือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kitaplar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Sách",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Libros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Livros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Böcker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "读书",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "書籍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Учене и преподаване",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -972,160 +1126,6 @@
                         },
                         "zh-TW": {
                             "value": "研究與教學",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
