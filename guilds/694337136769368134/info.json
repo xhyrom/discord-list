@@ -6,11 +6,11 @@
     "splash": "df86623b72b28d82f97423ad53226231",
     "discovery_splash": null,
     "banner": "df86623b72b28d82f97423ad53226231",
-    "approximate_presence_count": 361,
-    "approximate_member_count": 1331,
-    "premium_subscription_count": 6,
+    "approximate_presence_count": 323,
+    "approximate_member_count": 1278,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
-    "vanity_url_code": "catsalley",
+    "vanity_url_code": null,
     "keywords": [
         "movies",
         "TV",
@@ -19,23 +19,13 @@
         "community"
     ],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
         "COMMUNITY",
-        "CREATOR_MONETIZABLE",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ROLE_SUBSCRIPTIONS",
-        "INVITE_SPLASH",
-        "NEWS",
-        "PARTNERED",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
-    "partnered": true,
+    "partnered": false,
     "verified": false,
     "raw": {
         "id": "694337136769368134",
@@ -44,14 +34,14 @@
         "icon": "a_c7e33079e625bdc17ebbdf6f4edfbac4",
         "splash": "df86623b72b28d82f97423ad53226231",
         "banner": "df86623b72b28d82f97423ad53226231",
-        "approximate_presence_count": 361,
-        "approximate_member_count": 1331,
-        "premium_subscription_count": 6,
+        "approximate_presence_count": 323,
+        "approximate_member_count": 1278,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 3,
-        "vanity_url_code": "catsalley",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "movies",
@@ -61,21 +51,628 @@
             "community"
         ],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
             "COMMUNITY",
-            "CREATOR_MONETIZABLE",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ROLE_SUBSCRIPTIONS",
-            "INVITE_SPLASH",
-            "NEWS",
-            "PARTNERED",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "is_primary": false,
+                "name": "Movies & TV",
+                "name_localizations": {
+                    "bg": "Филми и телевизия",
+                    "cs": "Filmy a TV",
+                    "da": "Film & TV",
+                    "de": "Film & TV",
+                    "el": "Ταινίες & TV",
+                    "fi": "Elokuvat ja TV",
+                    "fr": "Films et TV",
+                    "hi": "मूवीज़ और टीवी",
+                    "hr": "Film i TV",
+                    "hu": "Filmek és TV",
+                    "it": "Film e TV",
+                    "ja": "映画&TV",
+                    "ko": "영화, TV",
+                    "lt": "Filmai ir televizija",
+                    "nl": "Film en tv",
+                    "no": "Film og TV",
+                    "pl": "Kino i telewizja",
+                    "ro": "Filme și seriale",
+                    "ru": "Кино и телевидение",
+                    "th": "ภาพยนตร์และทีวี",
+                    "tr": "Film ve Televizyon",
+                    "uk": "Фільми й телебачення",
+                    "vi": "Phim Ảnh & Truyền Hình",
+                    "en-GB": "Films & TV",
+                    "en-US": "Movies & TV",
+                    "es-ES": "Películas y televisión",
+                    "pt-BR": "Filmes e TV",
+                    "sv-SE": "Film och tv",
+                    "zh-CN": "电影&电视",
+                    "zh-TW": "電影與電視"
+                }
+            },
+            {
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
+                "name_localizations": {
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 3,
+            "is_primary": true,
+            "name": "Entertainment",
+            "name_localizations": {
+                "bg": "Забавление",
+                "cs": "Zábava",
+                "da": "Underholdning",
+                "de": "Unterhaltung",
+                "el": "Ψυχαγωγία",
+                "fi": "Viihde",
+                "fr": "Divertissements",
+                "hi": "एंटरटेनमेंट",
+                "hr": "Zabava",
+                "hu": "Szórakozás",
+                "it": "Intrattenimento",
+                "ja": "エンターテインメント",
+                "ko": "엔터테인먼트",
+                "lt": "Pramogos",
+                "nl": "Entertainment",
+                "no": "Underholdning",
+                "pl": "Rozrywka",
+                "ro": "Divertisment",
+                "ru": "Развлечения",
+                "th": "ความบันเทิง",
+                "tr": "Eğlence",
+                "uk": "Розваги",
+                "vi": "Giải Trí",
+                "en-GB": "Entertainment",
+                "en-US": "Entertainment",
+                "es-ES": "Entretenimiento",
+                "pt-BR": "Entretenimento",
+                "sv-SE": "Underhållning",
+                "zh-CN": "娱乐",
+                "zh-TW": "娛樂"
+            }
+        },
+        "objectID": "694337136769368134",
+        "_highlightResult": {
+            "name": {
+                "value": "Cat's Alley",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "This is a place for everyone. We play games and love hanging around the community, newcomers are always welcomed! 💗",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "movies",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "TV",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Kdrama",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Филми и телевизия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Filmy a TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταινίες & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Elokuvat ja TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Films et TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मूवीज़ और टीवी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Film i TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Filmek és TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Film e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "映画&TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "영화, TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Filmai ir televizija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Film en tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Film og TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kino i telewizja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Filme și seriale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Кино и телевидение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ภาพยนตร์และทีวี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Film ve Televizyon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фільми й телебачення",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Phim Ảnh & Truyền Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Films & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Movies & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Películas y televisión",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Filmes e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Film och tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电影&电视",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電影與電視",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความบันเทิง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğlence",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розваги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giải Trí",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Entretenimiento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Entretenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Underhållning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "娱乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Забавление",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Zábava",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Underholdning",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Unterhaltung",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Ψυχαγωγία",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Viihde",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Divertissements",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "एंटरटेनमेंट",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Zabava",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Szórakozás",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Intrattenimento",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "エンターテインメント",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "엔터테인먼트",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Pramogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Entertainment",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Underholdning",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Rozrywka",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Divertisment",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Развлечения",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "ความบันเทิง",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Eğlence",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Розваги",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Giải Trí",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Entertainment",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Entertainment",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Entretenimiento",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Entretenimento",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Underhållning",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "娱乐",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "娛樂",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
