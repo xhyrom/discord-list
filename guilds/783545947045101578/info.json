@@ -1,26 +1,29 @@
 {
     "id": "783545947045101578",
     "name": "Real",
-    "description": "",
+    "description": "Real Sports is an interactive and gamified live sports platform powered by data and our members.",
     "icon": "a_bdbba95b8bb800dc03d3f922b6324b2e",
-    "splash": null,
+    "splash": "108727b347369b00bd3aa735c80a3b4e",
     "discovery_splash": "f7135e683be8b409b741ab01465ff585",
-    "banner": null,
-    "approximate_presence_count": 1061,
-    "approximate_member_count": 9283,
-    "premium_subscription_count": 30,
+    "banner": "a_108727b347369b00bd3aa735c80a3b4e",
+    "approximate_presence_count": 940,
+    "approximate_member_count": 9464,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "realapp",
     "keywords": [
         "football",
+        "mlb",
         "nba",
         "nfl",
+        "nhl",
         "sports"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -29,33 +32,46 @@
     "raw": {
         "id": "783545947045101578",
         "name": "Real",
-        "description": "",
+        "description": "Real Sports is an interactive and gamified live sports platform powered by data and our members.",
         "icon": "a_bdbba95b8bb800dc03d3f922b6324b2e",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 1061,
-        "approximate_member_count": 9283,
-        "premium_subscription_count": 30,
+        "splash": "108727b347369b00bd3aa735c80a3b4e",
+        "banner": "a_108727b347369b00bd3aa735c80a3b4e",
+        "approximate_presence_count": 940,
+        "approximate_member_count": 9464,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f7135e683be8b409b741ab01465ff585",
         "primary_category_id": 7,
         "vanity_url_code": "realapp",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "football",
+            "mlb",
             "nba",
             "nfl",
+            "nhl",
             "sports"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -92,53 +108,6 @@
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
                 }
-            },
-            {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
-                "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -159,7 +128,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Real Sports is an interactive and gamified live sports platform powered by data and our members.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -175,6 +144,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "mlb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "nba",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -185,12 +159,36 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "nhl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -340,179 +338,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Криптовалута",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Kryptoměny",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kryptowährung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κρυπτονόμισμα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kryptovaluutta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Cryptomonnaie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "क्रिप्टोकरेंसी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Kriptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Kriptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Criptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "暗号通貨",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "암호화폐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Kriptovaliuta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kryptowaluty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Criptomonede",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Криптовалюта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "สกุลเงินดิจิทัล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kripto Para Birimleri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Криптовалюти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tiền Ảo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Criptomonedas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criptomoeda",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "数字货币",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

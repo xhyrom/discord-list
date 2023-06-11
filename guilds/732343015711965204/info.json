@@ -2,26 +2,26 @@
     "id": "732343015711965204",
     "name": "Video Editing Hub",
     "description": "The Video Editing Hub is your one-stop-shop for video editing help, tutorials, guidance, and to create!",
-    "icon": "383f81f327fbea90ee7b3e63c0c01a07",
-    "splash": "8428457c22b196a908676a06abcc6e41",
-    "discovery_splash": "8428457c22b196a908676a06abcc6e41",
+    "icon": "a_f66bb9358faa2dde0d8d505c30f8b3fa",
+    "splash": "383f81f327fbea90ee7b3e63c0c01a07",
+    "discovery_splash": "da09d02a91fdda0cd2ded9b4f5ce28b4",
     "banner": null,
-    "approximate_presence_count": 826,
-    "approximate_member_count": 3838,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 807,
+    "approximate_member_count": 4095,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "video-editing-hub-732343015711965204",
     "keywords": [
-        "amv",
-        "videoediting",
-        "premierepro",
         "adobe",
-        "editing",
         "ae",
         "aftereffects",
-        "youtube",
+        "amv",
+        "editing",
+        "editors",
         "photography",
-        "editors"
+        "premierepro",
+        "videoediting",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -37,29 +37,29 @@
         "id": "732343015711965204",
         "name": "Video Editing Hub",
         "description": "The Video Editing Hub is your one-stop-shop for video editing help, tutorials, guidance, and to create!",
-        "icon": "383f81f327fbea90ee7b3e63c0c01a07",
-        "splash": "8428457c22b196a908676a06abcc6e41",
+        "icon": "a_f66bb9358faa2dde0d8d505c30f8b3fa",
+        "splash": "383f81f327fbea90ee7b3e63c0c01a07",
         "banner": null,
-        "approximate_presence_count": 826,
-        "approximate_member_count": 3838,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 807,
+        "approximate_member_count": 4095,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "8428457c22b196a908676a06abcc6e41",
+        "discovery_splash": "da09d02a91fdda0cd2ded9b4f5ce28b4",
         "primary_category_id": 4,
         "vanity_url_code": "video-editing-hub-732343015711965204",
         "is_published": true,
         "keywords": [
-            "amv",
-            "videoediting",
-            "premierepro",
             "adobe",
-            "editing",
             "ae",
             "aftereffects",
-            "youtube",
+            "amv",
+            "editing",
+            "editors",
             "photography",
-            "editors"
+            "premierepro",
+            "videoediting",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -145,40 +145,77 @@
                 }
             },
             {
-                "id": 17,
+                "id": 38,
                 "is_primary": false,
-                "name": "Movies & TV",
+                "name": "Collaboration",
                 "name_localizations": {
-                    "bg": "Филми и телевизия",
-                    "cs": "Filmy a TV",
-                    "da": "Film & TV",
-                    "de": "Film & TV",
-                    "el": "Ταινίες & TV",
-                    "fi": "Elokuvat ja TV",
-                    "fr": "Films et TV",
-                    "hi": "मूवीज़ और टीवी",
-                    "hr": "Film i TV",
-                    "hu": "Filmek és TV",
-                    "it": "Film e TV",
-                    "ja": "映画&TV",
-                    "ko": "영화, TV",
-                    "lt": "Filmai ir televizija",
-                    "nl": "Film en tv",
-                    "no": "Film og TV",
-                    "pl": "Kino i telewizja",
-                    "ro": "Filme și seriale",
-                    "ru": "Кино и телевидение",
-                    "th": "ภาพยนตร์และทีวี",
-                    "tr": "Film ve Televizyon",
-                    "uk": "Фільми й телебачення",
-                    "vi": "Phim Ảnh & Truyền Hình",
-                    "en-GB": "Films & TV",
-                    "en-US": "Movies & TV",
-                    "es-ES": "Películas y televisión",
-                    "pt-BR": "Filmes e TV",
-                    "sv-SE": "Film och tv",
-                    "zh-CN": "电影&电视",
-                    "zh-TW": "電影與電視"
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
+                }
+            },
+            {
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
+                "name_localizations": {
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -312,27 +349,7 @@
             },
             "keywords": [
                 {
-                    "value": "amv",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "videoediting",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "premierepro",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "adobe",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "editing",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -347,7 +364,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "amv",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "editing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "editors",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -357,7 +384,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "editors",
+                    "value": "premierepro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "videoediting",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -674,152 +711,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Филми и телевизия",
+                            "value": "Сътрудничество",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Filmy a TV",
+                            "value": "Spolupráce",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Film & TV",
+                            "value": "Samarbejde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Film & TV",
+                            "value": "Kollaboration",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ταινίες & TV",
+                            "value": "Συνεργασία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Elokuvat ja TV",
+                            "value": "Yhteistyö",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Films et TV",
+                            "value": "Collaboration",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मूवीज़ और टीवी",
+                            "value": "सहयोग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Film i TV",
+                            "value": "Suradnja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Filmek és TV",
+                            "value": "Együttműködés",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Film e TV",
+                            "value": "Collaborazione",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "映画&TV",
+                            "value": "コラボレーション",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "영화, TV",
+                            "value": "협동",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Filmai ir televizija",
+                            "value": "Bendradarbiavimas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Film en tv",
+                            "value": "Samenwerken",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Film og TV",
+                            "value": "Samarbeid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kino i telewizja",
+                            "value": "Współpraca",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Filme și seriale",
+                            "value": "Colaborare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Кино и телевидение",
+                            "value": "Совместная работа",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ภาพยนตร์และทีวี",
+                            "value": "การร่วมมือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Film ve Televizyon",
+                            "value": "İşbirliği",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фільми й телебачення",
+                            "value": "Співробітництво",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Phim Ảnh & Truyền Hình",
+                            "value": "Hợp Tác",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Films & TV",
+                            "value": "Collaboration",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Movies & TV",
+                            "value": "Collaboration",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Películas y televisión",
+                            "value": "Colaboración",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Filmes e TV",
+                            "value": "Colaboração",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Film och tv",
+                            "value": "Samarbete",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "电影&电视",
+                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "電影與電視",
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Наука и технологии",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Věda a technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Videnskab & teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wissenschaft & Technik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιστήμη & Τεχνολογία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tiede ja tekniikka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Science et technologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "साइंस और टेक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Znanost i tehnologija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tudomány és technológia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scienza e tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "サイエンス&テクノロジー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "과학, 기술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mokslas ir technologijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wetenschap en tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Vitenskap og teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Nauka i technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Știință și tehnologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Наука и техника",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Bilim ve Teknoloji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Наука й технології",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Khoa Học & Công Nghệ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Science & tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Science & Tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Ciencia y tecnología",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ciência e Tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Vetenskap och teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "科学&技术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

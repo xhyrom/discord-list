@@ -1,27 +1,26 @@
 {
     "id": "791818283867045941",
     "name": "Cell Machine",
-    "description": "Welcome to the official Cell Machine server!",
-    "icon": "a_9cc57bf1459b7929ad4d53b2a35c1797",
+    "description": "Welcome to the Cell Machine server!",
+    "icon": "a_4b1da9a3eba4734d176cea79a68770ff",
     "splash": "fe8b313d52631b41c1dd93a76ae70a58",
     "discovery_splash": "45d3da7e9d0c113a84e19e6522cf8a3a",
     "banner": "a_efc246b3d6ef1e9d04cda061bc1efa43",
-    "approximate_presence_count": 1165,
-    "approximate_member_count": 9282,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 1190,
+    "approximate_member_count": 9121,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
-    "vanity_url_code": "cell-machine-791818283867045941",
+    "vanity_url_code": "cellmachine",
     "keywords": [
         "Cell Machine",
+        "Cell Machine Mystic Mod",
         "Mystic Mod",
-        "Puzzle",
-        "Cell Machine Mystic Mod"
+        "Puzzle"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -30,71 +29,33 @@
     "raw": {
         "id": "791818283867045941",
         "name": "Cell Machine",
-        "description": "Welcome to the official Cell Machine server!",
-        "icon": "a_9cc57bf1459b7929ad4d53b2a35c1797",
+        "description": "Welcome to the Cell Machine server!",
+        "icon": "a_4b1da9a3eba4734d176cea79a68770ff",
         "splash": "fe8b313d52631b41c1dd93a76ae70a58",
         "banner": "a_efc246b3d6ef1e9d04cda061bc1efa43",
-        "approximate_presence_count": 1165,
-        "approximate_member_count": 9282,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 1190,
+        "approximate_member_count": 9121,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "45d3da7e9d0c113a84e19e6522cf8a3a",
         "primary_category_id": 1,
-        "vanity_url_code": "cell-machine-791818283867045941",
-        "is_published": true,
+        "vanity_url_code": "cellmachine",
+        "is_published": false,
         "keywords": [
             "Cell Machine",
+            "Cell Machine Mystic Mod",
             "Mystic Mod",
-            "Puzzle",
-            "Cell Machine Mystic Mod"
+            "Puzzle"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 48,
-                "is_primary": false,
-                "name": "Game Developer",
-                "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
-                }
-            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -130,6 +91,43 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
+                "name_localizations": {
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
                 }
             }
         ],
@@ -178,18 +176,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Welcome to the official Cell Machine server!",
+                "value": "Welcome to the Cell Machine server!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "cell-machine-791818283867045941",
+                "value": "cellmachine",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
                     "value": "Cell Machine",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Cell Machine Mystic Mod",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -202,168 +205,9 @@
                     "value": "Puzzle",
                     "matchLevel": "none",
                     "matchedWords": []
-                },
-                {
-                    "value": "Cell Machine Mystic Mod",
-                    "matchLevel": "none",
-                    "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Разработчик на игри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vývojář her",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spiludvikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Spieleentwicklung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelinkehittäjät",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Développeur de jeux vidéo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेम डेवलपर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Razvoj igara",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játékfejlesztő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Sviluppatore di videogiochi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲームデベロッパー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 개발",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gameontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Spillutvikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Deweloper gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Dezvoltarea jocurilor",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Разработка игр",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้พัฒนาเกม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Oyun Geliştiricisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розробка ігор",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Phát Triển Game",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Game Developer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Game Developer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Desarrollo de juegos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Spelutvecklare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏开发人员",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -513,6 +357,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Разработчик на игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vývojář her",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spiludvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Spieleentwicklung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματιστής παιχνιδιών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelinkehittäjät",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Développeur de jeux vidéo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेम डेवलपर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Razvoj igara",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékfejlesztő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Sviluppatore di videogiochi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲームデベロッパー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 개발",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gameontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Spillutvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Deweloper gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Dezvoltarea jocurilor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Разработка игр",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้พัฒนาเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun Geliştiricisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розробка ігор",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Phát Triển Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Desarrollo de juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Desenvolvedor de Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Spelutvecklare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏开发人员",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

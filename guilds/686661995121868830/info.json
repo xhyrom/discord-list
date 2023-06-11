@@ -6,8 +6,8 @@
     "splash": "c2cf708554a921a3dc923966ddda4460",
     "discovery_splash": "a5f12fc7ef0401cfea7eb50d8b9d8e5e",
     "banner": "d3d3c710d81620e8ffbcd119db21af17",
-    "approximate_presence_count": 12506,
-    "approximate_member_count": 184934,
+    "approximate_presence_count": 10261,
+    "approximate_member_count": 184834,
     "premium_subscription_count": 114,
     "preferred_locale": "en-US",
     "vanity_url_code": "rtfkt",
@@ -24,33 +24,11 @@
         "MNTLH"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTOMOD_TRIGGER_KEYWORD_FILTER",
-        "AUTOMOD_TRIGGER_SPAM_LINK_FILTER",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_AUTOMOD_DEFAULT_LIST",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "RESTRICT_SPAM_RISK_GUILDS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREADS_ONLY_CHANNEL",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -63,8 +41,8 @@
         "icon": "a_4f81a5b29e701fbf4602e877ff9f9c65",
         "splash": "c2cf708554a921a3dc923966ddda4460",
         "banner": "d3d3c710d81620e8ffbcd119db21af17",
-        "approximate_presence_count": 12506,
-        "approximate_member_count": 184934,
+        "approximate_presence_count": 10261,
+        "approximate_member_count": 184834,
         "premium_subscription_count": 114,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -85,35 +63,660 @@
             "MNTLH"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTOMOD_TRIGGER_KEYWORD_FILTER",
-            "AUTOMOD_TRIGGER_SPAM_LINK_FILTER",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_AUTOMOD_DEFAULT_LIST",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "RESTRICT_SPAM_RISK_GUILDS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREADS_ONLY_CHANNEL",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 27,
+                "is_primary": false,
+                "name": "Cryptocurrency",
+                "name_localizations": {
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
+                }
+            },
+            {
+                "id": 4,
+                "is_primary": true,
+                "name": "Creative Arts",
+                "name_localizations": {
+                    "bg": "Художествени изкуства",
+                    "cs": "Umění",
+                    "da": "Kreativt",
+                    "de": "Kreative Künste",
+                    "el": "Δημιουργικές τέχνες",
+                    "fi": "Luovat alat",
+                    "fr": "Arts créatifs",
+                    "hi": "क्रिएटिव आर्ट",
+                    "hr": "Umjetnost i rukotvorine",
+                    "hu": "Kreatív művészetek",
+                    "it": "Arti creative",
+                    "ja": "クリエイティブアート",
+                    "ko": "창작 예술",
+                    "lt": "Kūrybiniai menai",
+                    "nl": "Beeldende kunst",
+                    "no": "Kreativt arbeid",
+                    "pl": "Twórczość artystyczna",
+                    "ro": "Arte creative",
+                    "ru": "Искусство",
+                    "th": "นฤมิตศิลป์",
+                    "tr": "Yaratıcı Sanatlar",
+                    "uk": "Креативне мистецтво",
+                    "vi": "Nghệ Thuật Sáng Tạo",
+                    "en-GB": "Creative Arts",
+                    "en-US": "Creative Arts",
+                    "es-ES": "Artes creativas",
+                    "pt-BR": "Artes",
+                    "sv-SE": "Kultur",
+                    "zh-CN": "创意美术",
+                    "zh-TW": "創作藝術"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 4,
+            "is_primary": true,
+            "name": "Creative Arts",
+            "name_localizations": {
+                "bg": "Художествени изкуства",
+                "cs": "Umění",
+                "da": "Kreativt",
+                "de": "Kreative Künste",
+                "el": "Δημιουργικές τέχνες",
+                "fi": "Luovat alat",
+                "fr": "Arts créatifs",
+                "hi": "क्रिएटिव आर्ट",
+                "hr": "Umjetnost i rukotvorine",
+                "hu": "Kreatív művészetek",
+                "it": "Arti creative",
+                "ja": "クリエイティブアート",
+                "ko": "창작 예술",
+                "lt": "Kūrybiniai menai",
+                "nl": "Beeldende kunst",
+                "no": "Kreativt arbeid",
+                "pl": "Twórczość artystyczna",
+                "ro": "Arte creative",
+                "ru": "Искусство",
+                "th": "นฤมิตศิลป์",
+                "tr": "Yaratıcı Sanatlar",
+                "uk": "Креативне мистецтво",
+                "vi": "Nghệ Thuật Sáng Tạo",
+                "en-GB": "Creative Arts",
+                "en-US": "Creative Arts",
+                "es-ES": "Artes creativas",
+                "pt-BR": "Artes",
+                "sv-SE": "Kultur",
+                "zh-CN": "创意美术",
+                "zh-TW": "創作藝術"
+            }
+        },
+        "objectID": "686661995121868830",
+        "_highlightResult": {
+            "name": {
+                "value": "🥚 RTFKT HUB",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Merging Worlds 🌎⚔🌐 Avatars, next Gen Sneakers and Collectibles for the Metaverse.  The Future is now.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "rtfkt",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "NFT",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Non-fungible token",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "RTFKT",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Nike",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "CLONEX",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Metaverse",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Sneakers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Collectibles",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Animus",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "MNTLH",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Криптовалута",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Kryptoměny",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kryptowährung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κρυπτονόμισμα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kryptovaluutta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Cryptomonnaie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिप्टोकरेंसी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Kriptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kriptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Criptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "暗号通貨",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "암호화폐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kriptovaliuta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kryptowaluty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Criptomonede",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Криптовалюта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "สกุลเงินดิจิทัล",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kripto Para Birimleri",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Криптовалюти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tiền Ảo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Criptomonedas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criptomoeda",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "数字货币",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "加密貨幣",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Художествени изкуства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kreativt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kreative Künste",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργικές τέχνες",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Luovat alat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Arts créatifs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिएटिव आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost i rukotvorine",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kreatív művészetek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arti creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "クリエイティブアート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "창작 예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kūrybiniai menai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Beeldende kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kreativt arbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórczość artystyczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Arte creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Искусство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "นฤมิตศิลป์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yaratıcı Sanatlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Креативне мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật Sáng Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artes creativas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kultur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "创意美术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "創作藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Художествени изкуства",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Umění",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Kreativt",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Kreative Künste",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Δημιουργικές τέχνες",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Luovat alat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Arts créatifs",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "क्रिएटिव आर्ट",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Umjetnost i rukotvorine",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Kreatív művészetek",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Arti creative",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "クリエイティブアート",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "창작 예술",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Kūrybiniai menai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Beeldende kunst",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Kreativt arbeid",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Twórczość artystyczna",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Arte creative",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Искусство",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "นฤมิตศิลป์",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Yaratıcı Sanatlar",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Креативне мистецтво",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Nghệ Thuật Sáng Tạo",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Creative Arts",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Creative Arts",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Artes creativas",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Artes",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Kultur",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "创意美术",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "創作藝術",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
