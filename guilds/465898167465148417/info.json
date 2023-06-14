@@ -6,22 +6,22 @@
     "splash": "b937f4f44313fad92d463b98b28e3e54",
     "discovery_splash": "5733b2770e2a0ee381ca5a6a587077c6",
     "banner": "e95ee30ae0415891ec167927afe924bc",
-    "approximate_presence_count": 1538,
-    "approximate_member_count": 6382,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 878,
+    "approximate_member_count": 6797,
+    "premium_subscription_count": 33,
     "preferred_locale": "ru",
-    "vanity_url_code": null,
+    "vanity_url_code": "danganronpa-online",
     "keywords": [
         "danganronpa",
         "danganronpa online",
-        "данганронпа",
-        "ронпа",
         "dro",
-        "дро",
+        "ronpa",
         "аниме",
+        "данганронпа",
+        "дро",
+        "ронпа",
         "ронпер",
-        "школа отчаяния",
-        "ronpa"
+        "школа отчаяния"
     ],
     "features": [
         "COMMUNITY",
@@ -38,26 +38,26 @@
         "icon": "a_7587047fc04f7804aabec0530ceb1790",
         "splash": "b937f4f44313fad92d463b98b28e3e54",
         "banner": "e95ee30ae0415891ec167927afe924bc",
-        "approximate_presence_count": 1538,
-        "approximate_member_count": 6382,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 878,
+        "approximate_member_count": 6797,
+        "premium_subscription_count": 33,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "5733b2770e2a0ee381ca5a6a587077c6",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "danganronpa-online",
+        "is_published": true,
         "keywords": [
             "danganronpa",
             "danganronpa online",
-            "данганронпа",
-            "ронпа",
             "dro",
-            "дро",
+            "ronpa",
             "аниме",
+            "данганронпа",
+            "дро",
+            "ронпа",
             "ронпер",
-            "школа отчаяния",
-            "ronpa"
+            "школа отчаяния"
         ],
         "features": [
             "COMMUNITY",
@@ -176,6 +176,43 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
+                }
             }
         ],
         "primary_category": {
@@ -227,6 +264,11 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "danganronpa-online",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
                     "value": "danganronpa",
@@ -239,17 +281,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "данганронпа",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ронпа",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "dro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ronpa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "аниме",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "данганронпа",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -259,7 +306,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "аниме",
+                    "value": "ронпа",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -270,11 +317,6 @@
                 },
                 {
                     "value": "школа отчаяния",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ronpa",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -737,6 +779,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
