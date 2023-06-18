@@ -6,9 +6,9 @@
     "splash": "8904cedfdbda58efd2159ef12417da5f",
     "discovery_splash": "ec517aaab694216246bb67b2977d4dad",
     "banner": "72686d2c147e12c65dc51ba5f77597e3",
-    "approximate_presence_count": 618,
-    "approximate_member_count": 9457,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 578,
+    "approximate_member_count": 9367,
+    "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "to-be-a-zelensky-1009284095706144878",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "5e7a75d64f1535e851333882280270d3",
         "splash": "8904cedfdbda58efd2159ef12417da5f",
         "banner": "72686d2c147e12c65dc51ba5f77597e3",
-        "approximate_presence_count": 618,
-        "approximate_member_count": 9457,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 578,
+        "approximate_member_count": 9367,
+        "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ec517aaab694216246bb67b2977d4dad",
@@ -68,16 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 30,
                 "is_primary": false,
@@ -113,6 +103,16 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -153,43 +153,6 @@
                 }
             },
             {
-                "id": 47,
-                "is_primary": false,
-                "name": "Charity & Nonprofit",
-                "name_localizations": {
-                    "bg": "Благотворителност и нестопански организации",
-                    "cs": "Charita a neziskovky",
-                    "da": "Velgørenhed og nonprofit",
-                    "de": "Wohltätigkeit & Gemeinnützigkeit",
-                    "el": "Φιλανθρωπία & ΜΚΟ",
-                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                    "fr": "Caritatif et non lucratif",
-                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
-                    "hr": "Humanitarni i neprofitni rad",
-                    "hu": "Jótékonyság és nonprofit",
-                    "it": "Beneficenza e non profit",
-                    "ja": "チャリティ&非営利活動",
-                    "ko": "자선 및 비영리",
-                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
-                    "nl": "Liefdadigheid en non-profit",
-                    "no": "Veldedig arbeid",
-                    "pl": "Działalność charytatywna/non-profit",
-                    "ro": "Organizații caritabile și non-profit",
-                    "ru": "Благотворительность и некоммерческая деятельность",
-                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
-                    "uk": "Благодійність та неприбуткова діяльність",
-                    "vi": "Từ Thiện và Phi Lợi Nhuận",
-                    "en-GB": "Charity & Non-profit",
-                    "en-US": "Charity & Nonprofit",
-                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
-                    "pt-BR": "Caridade e Sem Fins Lucrativos",
-                    "sv-SE": "Välgörenhet och ideellt arbete",
-                    "zh-CN": "慈善&非盈利",
-                    "zh-TW": "慈善及非營利活動"
-                }
-            },
-            {
                 "id": 19,
                 "is_primary": false,
                 "name": "Art",
@@ -224,6 +187,43 @@
                     "sv-SE": "Konst",
                     "zh-CN": "艺术",
                     "zh-TW": "藝術"
+                }
+            },
+            {
+                "id": 47,
+                "is_primary": false,
+                "name": "Charity & Nonprofit",
+                "name_localizations": {
+                    "bg": "Благотворителност и нестопански организации",
+                    "cs": "Charita a neziskovky",
+                    "da": "Velgørenhed og nonprofit",
+                    "de": "Wohltätigkeit & Gemeinnützigkeit",
+                    "el": "Φιλανθρωπία & ΜΚΟ",
+                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
+                    "fr": "Caritatif et non lucratif",
+                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
+                    "hr": "Humanitarni i neprofitni rad",
+                    "hu": "Jótékonyság és nonprofit",
+                    "it": "Beneficenza e non profit",
+                    "ja": "チャリティ&非営利活動",
+                    "ko": "자선 및 비영리",
+                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
+                    "nl": "Liefdadigheid en non-profit",
+                    "no": "Veldedig arbeid",
+                    "pl": "Działalność charytatywna/non-profit",
+                    "ro": "Organizații caritabile și non-profit",
+                    "ru": "Благотворительность и некоммерческая деятельность",
+                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
+                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
+                    "uk": "Благодійність та неприбуткова діяльність",
+                    "vi": "Từ Thiện và Phi Lợi Nhuận",
+                    "en-GB": "Charity & Non-profit",
+                    "en-US": "Charity & Nonprofit",
+                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
+                    "pt-BR": "Caridade e Sem Fins Lucrativos",
+                    "sv-SE": "Välgörenhet och ideellt arbete",
+                    "zh-CN": "慈善&非盈利",
+                    "zh-TW": "慈善及非營利活動"
                 }
             }
         ],
@@ -334,25 +334,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -502,6 +483,25 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -664,160 +664,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Благотворителност и нестопански организации",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Charita a neziskovky",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Velgørenhed og nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wohltätigkeit & Gemeinnützigkeit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Φιλανθρωπία & ΜΚΟ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Caritatif et non lucratif",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "चैरिटी और नॉन प्रॉफ़िट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Humanitarni i neprofitni rad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Jótékonyság és nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Beneficenza e non profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "チャリティ&非営利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "자선 및 비영리",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Labdara ir pelno nesiekiančios organizacijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Liefdadigheid en non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Veldedig arbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Działalność charytatywna/non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Organizații caritabile și non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Благотворительность и некоммерческая деятельность",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Благодійність та неприбуткова діяльність",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Từ Thiện và Phi Lợi Nhuận",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Charity & Non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Charity & Nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos benéficos y sin ánimo de lucro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Caridade e Sem Fins Lucrativos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Välgörenhet och ideellt arbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "慈善&非盈利",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "慈善及非營利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Изкуство",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -964,6 +810,160 @@
                         },
                         "zh-TW": {
                             "value": "藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Благотворителност и нестопански организации",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Charita a neziskovky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Velgørenhed og nonprofit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wohltätigkeit & Gemeinnützigkeit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Φιλανθρωπία & ΜΚΟ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Caritatif et non lucratif",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "चैरिटी और नॉन प्रॉफ़िट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Humanitarni i neprofitni rad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Jótékonyság és nonprofit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Beneficenza e non profit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "チャリティ&非営利活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "자선 및 비영리",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Labdara ir pelno nesiekiančios organizacijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Liefdadigheid en non-profit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Veldedig arbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Działalność charytatywna/non-profit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Organizații caritabile și non-profit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Благотворительность и некоммерческая деятельность",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Благодійність та неприбуткова діяльність",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Từ Thiện và Phi Lợi Nhuận",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Charity & Non-profit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Charity & Nonprofit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos benéficos y sin ánimo de lucro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Caridade e Sem Fins Lucrativos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Välgörenhet och ideellt arbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "慈善&非盈利",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "慈善及非營利活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
