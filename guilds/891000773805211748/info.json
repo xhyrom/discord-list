@@ -6,8 +6,8 @@
     "splash": "3d0d8de5025941af89c59b01d992f31c",
     "discovery_splash": "48d77e4ffd4fb5a1910298713341f679",
     "banner": "5cb64545f3406a92578dcb94e9c34306",
-    "approximate_presence_count": 582,
-    "approximate_member_count": 9721,
+    "approximate_presence_count": 512,
+    "approximate_member_count": 9949,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "aagventures",
@@ -39,8 +39,8 @@
         "icon": "e5524a14db64377734144fde9aa3f538",
         "splash": "3d0d8de5025941af89c59b01d992f31c",
         "banner": "5cb64545f3406a92578dcb94e9c34306",
-        "approximate_presence_count": 582,
-        "approximate_member_count": 9721,
+        "approximate_presence_count": 512,
+        "approximate_member_count": 9949,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
+                "name_localizations": {
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -103,43 +140,6 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
-                }
-            },
-            {
-                "id": 12,
-                "is_primary": true,
-                "name": "Finance",
-                "name_localizations": {
-                    "bg": "Финанси",
-                    "cs": "Finance",
-                    "da": "Finans",
-                    "de": "Finanzen",
-                    "el": "Οικονομία",
-                    "fi": "Talous",
-                    "fr": "Finance",
-                    "hi": "फ़ाइनेंस",
-                    "hr": "Financije",
-                    "hu": "Pénzügyek",
-                    "it": "Finanza",
-                    "ja": "ファイナンス",
-                    "ko": "금융",
-                    "lt": "Finansai",
-                    "nl": "Financiën",
-                    "no": "Økonomi",
-                    "pl": "Finanse",
-                    "ro": "Finanțe",
-                    "ru": "Финансы",
-                    "th": "การเงิน",
-                    "tr": "Finans",
-                    "uk": "Фінанси",
-                    "vi": "Tài Chính",
-                    "en-GB": "Finance",
-                    "en-US": "Finance",
-                    "es-ES": "Finanzas",
-                    "pt-BR": "Finanças",
-                    "sv-SE": "Ekonomi",
-                    "zh-CN": "理财",
-                    "zh-TW": "財經"
                 }
             },
             {
@@ -180,40 +180,40 @@
                 }
             },
             {
-                "id": 15,
-                "is_primary": false,
-                "name": "Esports",
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
                 "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
                 }
             },
             {
@@ -401,6 +401,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -547,160 +701,6 @@
                         },
                         "zh-TW": {
                             "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Финанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Finanzen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Οικονομία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Talous",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "फ़ाइनेंस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Financije",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Pénzügyek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Finanza",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ファイナンス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "금융",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Finansai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Financiën",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Økonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Finanse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Finanțe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Финансы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเงิน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фінанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tài Chính",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Finanzas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Finanças",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Ekonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "理财",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "財經",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -863,152 +863,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Електронни спортове",
+                            "value": "Финанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Esport",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Esport",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "E-Sports",
+                            "value": "Finanzen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Esports",
+                            "value": "Οικονομία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Esports",
+                            "value": "Talous",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "eSport",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "ईस्पोर्ट्स",
+                            "value": "फ़ाइनेंस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "E-sport",
+                            "value": "Financije",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "E-sport",
+                            "value": "Pénzügyek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Esport",
+                            "value": "Finanza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "eスポーツ",
+                            "value": "ファイナンス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이스포츠",
+                            "value": "금융",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "E. sportas",
+                            "value": "Finansai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "E-sport",
+                            "value": "Financiën",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "E-sport",
+                            "value": "Økonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "E-sport",
+                            "value": "Finanse",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "eSports",
+                            "value": "Finanțe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Киберспорт",
+                            "value": "Финансы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีสปอร์ต",
+                            "value": "การเงิน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "E-spor",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Електронний спорт",
+                            "value": "Фінанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Thể Thao Điện Tử",
+                            "value": "Tài Chính",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Esports",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Esports",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "E-sports",
+                            "value": "Finanzas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "E-sports",
+                            "value": "Finanças",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "E-sport",
+                            "value": "Ekonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "电子竞技",
+                            "value": "理财",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "電競",
+                            "value": "財經",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
