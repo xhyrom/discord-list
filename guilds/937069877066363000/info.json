@@ -6,9 +6,9 @@
     "splash": "f0d3043f59c343d488c9b0d85afc04c1",
     "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
     "banner": "a_d6968ad62b8a6735c9263d0863a20af4",
-    "approximate_presence_count": 2673,
-    "approximate_member_count": 28801,
-    "premium_subscription_count": 32,
+    "approximate_presence_count": 2793,
+    "approximate_member_count": 28152,
+    "premium_subscription_count": 31,
     "preferred_locale": "en-US",
     "vanity_url_code": "spheredefi",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_fcdce8fb85c75583a3ed9833194a2a5b",
         "splash": "f0d3043f59c343d488c9b0d85afc04c1",
         "banner": "a_d6968ad62b8a6735c9263d0863a20af4",
-        "approximate_presence_count": 2673,
-        "approximate_member_count": 28801,
-        "premium_subscription_count": 32,
+        "approximate_presence_count": 2793,
+        "approximate_member_count": 28152,
+        "premium_subscription_count": 31,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
@@ -68,16 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 30,
                 "is_primary": false,
@@ -113,6 +103,16 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -294,25 +294,6 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
                             "value": "LFG",
                             "matchLevel": "none",
@@ -460,6 +441,25 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
