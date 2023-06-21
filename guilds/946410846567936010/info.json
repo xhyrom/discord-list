@@ -6,22 +6,23 @@
     "splash": "a4f71d697d4622d4d917b5ab4f649b63",
     "discovery_splash": "a4f71d697d4622d4d917b5ab4f649b63",
     "banner": "c639173ecaae61d796b2d905cb8264ec",
-    "approximate_presence_count": 7494,
-    "approximate_member_count": 130864,
-    "premium_subscription_count": 42,
+    "approximate_presence_count": 5079,
+    "approximate_member_count": 130856,
+    "premium_subscription_count": 41,
     "preferred_locale": "en-US",
     "vanity_url_code": "aceracer",
     "keywords": [
-        "aceracer",
         "ace",
+        "aceracer",
         "racer",
-        "王牌竞速",
-        "エイスレーサー"
+        "エイスレーサー",
+        "王牌竞速"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,26 +35,27 @@
         "icon": "a_b96644a55102a3eb0110088d431dea0a",
         "splash": "a4f71d697d4622d4d917b5ab4f649b63",
         "banner": "c639173ecaae61d796b2d905cb8264ec",
-        "approximate_presence_count": 7494,
-        "approximate_member_count": 130864,
-        "premium_subscription_count": 42,
+        "approximate_presence_count": 5079,
+        "approximate_member_count": 130856,
+        "premium_subscription_count": 41,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a4f71d697d4622d4d917b5ab4f649b63",
         "primary_category_id": 1,
         "vanity_url_code": "aceracer",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "aceracer",
             "ace",
+            "aceracer",
             "racer",
-            "王牌竞速",
-            "エイスレーサー"
+            "エイスレーサー",
+            "王牌竞速"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -96,40 +98,77 @@
                 }
             },
             {
-                "id": 32,
-                "is_primary": false,
-                "name": "Theorycraft",
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Теорикрафт",
-                    "cs": "Theorycraft",
-                    "da": "Theorycraft",
-                    "de": "Theorycraft",
-                    "el": "Theorycraft",
-                    "fi": "Pelianalysointi",
-                    "fr": "Theorycraft",
-                    "hi": "थ्योरीक्राफ़्ट",
-                    "hr": "Theorycraft",
-                    "hu": "Játékelméletek",
-                    "it": "Theorycraft",
-                    "ja": "ゲーム戦略研究",
-                    "ko": "게임 분석",
-                    "lt": "Žaidimų teorijos analizė",
-                    "nl": "Theorycraft",
-                    "no": "Theorycraft",
-                    "pl": "Theorycrafting",
-                    "ro": "Theorycraft",
-                    "ru": "Теорикрафтинг",
-                    "th": "การสร้างทฤษฎี",
-                    "tr": "Teoriler",
-                    "uk": "Теорікрафт",
-                    "vi": "Phân Tích Game",
-                    "en-GB": "Theorycraft",
-                    "en-US": "Theorycraft",
-                    "es-ES": "Theorycraft",
-                    "pt-BR": "Metajogo",
-                    "sv-SE": "Theorycraft",
-                    "zh-CN": "游戏机制研究",
-                    "zh-TW": "Theorycraft"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
+                }
+            },
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
                 }
             },
             {
@@ -263,12 +302,12 @@
             },
             "keywords": [
                 {
-                    "value": "aceracer",
+                    "value": "ace",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "ace",
+                    "value": "aceracer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -278,12 +317,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "王牌竞速",
+                    "value": "エイスレーサー",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "エイスレーサー",
+                    "value": "王牌竞速",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -446,152 +485,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Теорикрафт",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Theorycraft",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Theorycraft",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Theorycraft",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Theorycraft",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelianalysointi",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Theorycraft",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "थ्योरीक्राफ़्ट",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Theorycraft",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játékelméletek",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Theorycraft",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム戦略研究",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 분석",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų teorijos analizė",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Theorycraft",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Theorycraft",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Theorycrafting",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Theorycraft",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Теорикрафтинг",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การสร้างทฤษฎี",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Teoriler",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Теорікрафт",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Phân Tích Game",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Theorycraft",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Theorycraft",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Theorycraft",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Metajogo",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Theorycraft",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏机制研究",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "Theorycraft",
+                            "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
