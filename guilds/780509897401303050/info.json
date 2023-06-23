@@ -2,13 +2,13 @@
     "id": "780509897401303050",
     "name": "Storable Futebol - Servidor Oficial",
     "description": "Comunidade focada em futebol, servidor oficial do YouTuber Storable Futebol.",
-    "icon": "a_b4bfddcd314e627e6075a0a3aed8ad75",
+    "icon": "a_497106eda099736bfe2a9b0e9bb97228",
     "splash": "8304c544174594c646a981c0960b5986",
     "discovery_splash": "2544a411f6817b74c844afea6636ab6f",
     "banner": "b19eb78eb7615ae9c6d902dd1feab4f1",
-    "approximate_presence_count": 274,
-    "approximate_member_count": 3086,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 183,
+    "approximate_member_count": 3089,
+    "premium_subscription_count": 5,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "storable-futebol-servidor-oficial-780509897401303050",
     "keywords": [
@@ -29,12 +29,12 @@
         "id": "780509897401303050",
         "name": "Storable Futebol - Servidor Oficial",
         "description": "Comunidade focada em futebol, servidor oficial do YouTuber Storable Futebol.",
-        "icon": "a_b4bfddcd314e627e6075a0a3aed8ad75",
+        "icon": "a_497106eda099736bfe2a9b0e9bb97228",
         "splash": "8304c544174594c646a981c0960b5986",
         "banner": "b19eb78eb7615ae9c6d902dd1feab4f1",
-        "approximate_presence_count": 274,
-        "approximate_member_count": 3086,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 183,
+        "approximate_member_count": 3089,
+        "premium_subscription_count": 5,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "2544a411f6817b74c844afea6636ab6f",
@@ -92,6 +92,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 3,
                 "is_primary": true,
                 "name": "Entertainment",
@@ -126,16 +136,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             }
         ],
@@ -345,6 +345,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -492,25 +511,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

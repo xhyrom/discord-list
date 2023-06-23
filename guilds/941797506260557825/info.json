@@ -5,28 +5,30 @@
     "icon": "a_2b85349028fc5784bdf0007e414152f2",
     "splash": "24be86ac4f3f3b3d975882e9aedb86e7",
     "discovery_splash": "24be86ac4f3f3b3d975882e9aedb86e7",
-    "banner": "a6b35eee17d5ee79a9a53c5a4b2d4278",
-    "approximate_presence_count": 263,
-    "approximate_member_count": 1236,
-    "premium_subscription_count": 29,
+    "banner": "8f0d70a62a236979ebac7853dd3865b9",
+    "approximate_presence_count": 508,
+    "approximate_member_count": 2458,
+    "premium_subscription_count": 18,
     "preferred_locale": "ru",
     "vanity_url_code": "mayki",
     "keywords": [
-        "аниме",
-        "игры",
-        "сообщество",
         "genshin",
+        "аниме",
+        "второй-дом",
+        "игры",
+        "комфорт",
         "манга",
         "общение",
-        "уют",
-        "комфорт",
-        "второй-дом"
+        "сообщество",
+        "уют"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -36,32 +38,34 @@
         "description": "Уютный сервер с тематикой игр, аниме и общения! У нас нет ни токсиков, ни негатива, только ламповая атмосфера.",
         "icon": "a_2b85349028fc5784bdf0007e414152f2",
         "splash": "24be86ac4f3f3b3d975882e9aedb86e7",
-        "banner": "a6b35eee17d5ee79a9a53c5a4b2d4278",
-        "approximate_presence_count": 263,
-        "approximate_member_count": 1236,
-        "premium_subscription_count": 29,
+        "banner": "8f0d70a62a236979ebac7853dd3865b9",
+        "approximate_presence_count": 508,
+        "approximate_member_count": 2458,
+        "premium_subscription_count": 18,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "24be86ac4f3f3b3d975882e9aedb86e7",
         "primary_category_id": 14,
         "vanity_url_code": "mayki",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "аниме",
-            "игры",
-            "сообщество",
             "genshin",
+            "аниме",
+            "второй-дом",
+            "игры",
+            "комфорт",
             "манга",
             "общение",
-            "уют",
-            "комфорт",
-            "второй-дом"
+            "сообщество",
+            "уют"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -306,7 +310,17 @@
             },
             "keywords": [
                 {
+                    "value": "genshin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "аниме",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "второй-дом",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -316,12 +330,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "сообщество",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "genshin",
+                    "value": "комфорт",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -336,17 +345,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "сообщество",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "уют",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "комфорт",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "второй-дом",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

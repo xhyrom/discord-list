@@ -6,8 +6,8 @@
     "splash": "b20f230521e4f92a65dce3fded65a3bf",
     "discovery_splash": "b20f230521e4f92a65dce3fded65a3bf",
     "banner": "b4d8119f4755998fa5334a0a9169c125",
-    "approximate_presence_count": 191,
-    "approximate_member_count": 1569,
+    "approximate_presence_count": 133,
+    "approximate_member_count": 1596,
     "premium_subscription_count": 2,
     "preferred_locale": "es-ES",
     "vanity_url_code": "laciudaddemonterrey-899083147403198464",
@@ -29,8 +29,8 @@
         "icon": "b20f230521e4f92a65dce3fded65a3bf",
         "splash": "b20f230521e4f92a65dce3fded65a3bf",
         "banner": "b4d8119f4755998fa5334a0a9169c125",
-        "approximate_presence_count": 191,
-        "approximate_member_count": 1569,
+        "approximate_presence_count": 133,
+        "approximate_member_count": 1596,
         "premium_subscription_count": 2,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -48,6 +48,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -86,53 +96,6 @@
                 }
             },
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
-                "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
-            {
                 "id": 34,
                 "is_primary": false,
                 "name": "Roleplay",
@@ -167,6 +130,43 @@
                     "sv-SE": "Rollspel",
                     "zh-CN": "跑团",
                     "zh-TW": "角色扮演"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -269,6 +269,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -426,179 +445,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hraní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelaaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेमिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játék",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Игры",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นเกม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Oyun",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juegos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Jogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Ролева игра",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -745,6 +591,160 @@
                         },
                         "zh-TW": {
                             "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
