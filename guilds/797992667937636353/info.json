@@ -1,13 +1,13 @@
 {
     "id": "797992667937636353",
     "name": "TK Twelve",
-    "description": "Sports youtuber TK Twelve's server, where you can discuss NBA, NFL, music, and more",
+    "description": "Sports youtuber TK Twelve's server, where you can discuss, NFL, NBA, any other sports, music, and more",
     "icon": "72b9ac99f7c705185ccfed2437a3ce02",
     "splash": "85e786059a825c45d98f7b068bd95c93",
     "discovery_splash": "a0ce7239c03990eeca84a14d6ed04b16",
     "banner": "d00d0012ee60204fc2af120f86ce9afa",
-    "approximate_presence_count": 173,
-    "approximate_member_count": 2698,
+    "approximate_presence_count": 214,
+    "approximate_member_count": 2780,
     "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -36,12 +36,12 @@
     "raw": {
         "id": "797992667937636353",
         "name": "TK Twelve",
-        "description": "Sports youtuber TK Twelve's server, where you can discuss NBA, NFL, music, and more",
+        "description": "Sports youtuber TK Twelve's server, where you can discuss, NFL, NBA, any other sports, music, and more",
         "icon": "72b9ac99f7c705185ccfed2437a3ce02",
         "splash": "85e786059a825c45d98f7b068bd95c93",
         "banner": "d00d0012ee60204fc2af120f86ce9afa",
-        "approximate_presence_count": 173,
-        "approximate_member_count": 2698,
+        "approximate_presence_count": 214,
+        "approximate_member_count": 2780,
         "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -217,16 +227,6 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -247,7 +247,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Sports youtuber TK Twelve's server, where you can discuss NBA, NFL, music, and more",
+                "value": "Sports youtuber TK Twelve's server, where you can discuss, NFL, NBA, any other sports, music, and more",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -304,6 +304,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -915,25 +934,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
