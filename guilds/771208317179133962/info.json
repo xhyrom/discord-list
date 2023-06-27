@@ -6,23 +6,24 @@
     "splash": "72ea2db26845f03be654f87c81ad78f3",
     "discovery_splash": "fb31c47c3e571257cb4a8ece928c0bc0",
     "banner": "d8be19dc27a2f8bd1ce304b5c2c24cc0",
-    "approximate_presence_count": 80,
-    "approximate_member_count": 3476,
+    "approximate_presence_count": 192,
+    "approximate_member_count": 3893,
     "premium_subscription_count": 33,
     "preferred_locale": "en-US",
     "vanity_url_code": "rattler",
     "keywords": [
-        "esports",
+        "enjoyment",
         "entertainment",
+        "esports",
         "freefire",
         "gaming",
-        "social",
-        "enjoyment"
+        "social"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,27 +36,28 @@
         "icon": "a_2410821ff9778d7057cc9aef5247eb34",
         "splash": "72ea2db26845f03be654f87c81ad78f3",
         "banner": "d8be19dc27a2f8bd1ce304b5c2c24cc0",
-        "approximate_presence_count": 80,
-        "approximate_member_count": 3476,
+        "approximate_presence_count": 192,
+        "approximate_member_count": 3893,
         "premium_subscription_count": 33,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fb31c47c3e571257cb4a8ece928c0bc0",
         "primary_category_id": 1,
         "vanity_url_code": "rattler",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "esports",
+            "enjoyment",
             "entertainment",
+            "esports",
             "freefire",
             "gaming",
-            "social",
-            "enjoyment"
+            "social"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -339,12 +341,17 @@
             },
             "keywords": [
                 {
-                    "value": "esports",
+                    "value": "enjoyment",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "entertainment",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -360,11 +367,6 @@
                 },
                 {
                     "value": "social",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "enjoyment",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
