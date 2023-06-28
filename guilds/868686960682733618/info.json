@@ -1,14 +1,14 @@
 {
     "id": "868686960682733618",
-    "name": "𝐗𝐓𝐖𝐎 𝐄-𝐒𝐏𝐎𝐑𝐓𝐒",
-    "description": "",
-    "icon": "a_c7300bdc5cc6e982c686893d85aa2253",
-    "splash": null,
+    "name": "𝗫𝗧𝗪𝗢 𝗖𝗥𝗘𝗪",
+    "description": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗕𝗶𝗴𝗴𝗲𝘀𝘁 𝗖𝗿𝗲𝘄 𝗶𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆",
+    "icon": "d0ae646127af22a67218062d988d1e5e",
+    "splash": "a77e347043860407e636771da87a974d",
     "discovery_splash": "808cd2b5472dd91a8c2eff5e31d0a5fc",
-    "banner": "2b3d8d2fe1f6c8cc5b6607cc4a89d86a",
-    "approximate_presence_count": 634,
-    "approximate_member_count": 4849,
-    "premium_subscription_count": 5,
+    "banner": "1bc890b986eff4ee4318a20bd7747760",
+    "approximate_presence_count": 516,
+    "approximate_member_count": 4876,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -27,14 +27,14 @@
     "verified": false,
     "raw": {
         "id": "868686960682733618",
-        "name": "𝐗𝐓𝐖𝐎 𝐄-𝐒𝐏𝐎𝐑𝐓𝐒",
-        "description": "",
-        "icon": "a_c7300bdc5cc6e982c686893d85aa2253",
-        "splash": null,
-        "banner": "2b3d8d2fe1f6c8cc5b6607cc4a89d86a",
-        "approximate_presence_count": 634,
-        "approximate_member_count": 4849,
-        "premium_subscription_count": 5,
+        "name": "𝗫𝗧𝗪𝗢 𝗖𝗥𝗘𝗪",
+        "description": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗕𝗶𝗴𝗴𝗲𝘀𝘁 𝗖𝗿𝗲𝘄 𝗶𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆",
+        "icon": "d0ae646127af22a67218062d988d1e5e",
+        "splash": "a77e347043860407e636771da87a974d",
+        "banner": "1bc890b986eff4ee4318a20bd7747760",
+        "approximate_presence_count": 516,
+        "approximate_member_count": 4876,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "808cd2b5472dd91a8c2eff5e31d0a5fc",
@@ -54,6 +54,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -89,16 +99,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             }
         ],
@@ -142,12 +142,12 @@
         "objectID": "868686960682733618",
         "_highlightResult": {
             "name": {
-                "value": "𝐗𝐓𝐖𝐎 𝐄-𝐒𝐏𝐎𝐑𝐓𝐒",
+                "value": "𝗫𝗧𝗪𝗢 𝗖𝗥𝗘𝗪",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗕𝗶𝗴𝗴𝗲𝘀𝘁 𝗖𝗿𝗲𝘄 𝗶𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -169,6 +169,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -318,25 +337,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
