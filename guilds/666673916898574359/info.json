@@ -6,8 +6,8 @@
     "splash": "1dd29932d077ad65370be9d8324ca785",
     "discovery_splash": "4160138b2338ede6bf8aaad37dcd785e",
     "banner": "53419bba8aabbf1c048264928cbe6b34",
-    "approximate_presence_count": 318,
-    "approximate_member_count": 5795,
+    "approximate_presence_count": 313,
+    "approximate_member_count": 5789,
     "premium_subscription_count": 25,
     "preferred_locale": "en-US",
     "vanity_url_code": "waypointrefinery",
@@ -34,8 +34,8 @@
         "icon": "cb5fb52aa8882bde239f3deb5ca68c62",
         "splash": "1dd29932d077ad65370be9d8324ca785",
         "banner": "53419bba8aabbf1c048264928cbe6b34",
-        "approximate_presence_count": 318,
-        "approximate_member_count": 5795,
+        "approximate_presence_count": 313,
+        "approximate_member_count": 5789,
         "premium_subscription_count": 25,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -58,16 +58,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -103,6 +93,16 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -230,25 +230,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -398,6 +379,25 @@
                         },
                         "zh-TW": {
                             "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

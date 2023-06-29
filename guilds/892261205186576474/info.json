@@ -6,8 +6,8 @@
     "splash": "785246b62df3472703d3801ee27d7e68",
     "discovery_splash": "c2c015f7a44fad2b420593f14a252aba",
     "banner": "d24c4444c63ae11068b99dea87a6a6a5",
-    "approximate_presence_count": 2974,
-    "approximate_member_count": 24125,
+    "approximate_presence_count": 2972,
+    "approximate_member_count": 24135,
     "premium_subscription_count": 23,
     "preferred_locale": "es-ES",
     "vanity_url_code": "sintiendome",
@@ -24,12 +24,33 @@
         "lgbt"
     ],
     "features": [
+        "ANIMATED_BANNER",
+        "ANIMATED_ICON",
+        "AUTO_MODERATION",
+        "BANNER",
+        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
+        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "GUILD_ONBOARDING",
+        "GUILD_ONBOARDING_EVER_ENABLED",
+        "GUILD_ONBOARDING_HAS_PROMPTS",
+        "GUILD_WEB_PAGE_VANITY_URL",
+        "INVITE_SPLASH",
+        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
+        "NEWS",
         "PARTNERED",
         "PREVIEW_ENABLED",
+        "PRIVATE_THREADS",
+        "ROLE_ICONS",
+        "SEVEN_DAY_THREAD_ARCHIVE",
+        "SOUNDBOARD",
+        "TEXT_IN_VOICE_ENABLED",
+        "THREE_DAY_THREAD_ARCHIVE",
+        "VANITY_URL",
+        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -41,8 +62,8 @@
         "icon": "a_2f54f447e3ac8434421e1c7ba3541fef",
         "splash": "785246b62df3472703d3801ee27d7e68",
         "banner": "d24c4444c63ae11068b99dea87a6a6a5",
-        "approximate_presence_count": 2974,
-        "approximate_member_count": 24125,
+        "approximate_presence_count": 2972,
+        "approximate_member_count": 24135,
         "premium_subscription_count": 23,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -63,718 +84,34 @@
             "lgbt"
         ],
         "features": [
+            "ANIMATED_BANNER",
+            "ANIMATED_ICON",
+            "AUTO_MODERATION",
+            "BANNER",
+            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
+            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "GUILD_ONBOARDING",
+            "GUILD_ONBOARDING_EVER_ENABLED",
+            "GUILD_ONBOARDING_HAS_PROMPTS",
+            "GUILD_WEB_PAGE_VANITY_URL",
+            "INVITE_SPLASH",
+            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
+            "NEWS",
             "PARTNERED",
             "PREVIEW_ENABLED",
+            "PRIVATE_THREADS",
+            "ROLE_ICONS",
+            "SEVEN_DAY_THREAD_ARCHIVE",
+            "SOUNDBOARD",
+            "TEXT_IN_VOICE_ENABLED",
+            "THREE_DAY_THREAD_ARCHIVE",
+            "VANITY_URL",
+            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ],
-        "categories": [
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 47,
-                "is_primary": false,
-                "name": "Charity & Nonprofit",
-                "name_localizations": {
-                    "bg": "Благотворителност и нестопански организации",
-                    "cs": "Charita a neziskovky",
-                    "da": "Velgørenhed og nonprofit",
-                    "de": "Wohltätigkeit & Gemeinnützigkeit",
-                    "el": "Φιλανθρωπία & ΜΚΟ",
-                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                    "fr": "Caritatif et non lucratif",
-                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
-                    "hr": "Humanitarni i neprofitni rad",
-                    "hu": "Jótékonyság és nonprofit",
-                    "it": "Beneficenza e non profit",
-                    "ja": "チャリティ&非営利活動",
-                    "ko": "자선 및 비영리",
-                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
-                    "nl": "Liefdadigheid en non-profit",
-                    "no": "Veldedig arbeid",
-                    "pl": "Działalność charytatywna/non-profit",
-                    "ro": "Organizații caritabile și non-profit",
-                    "ru": "Благотворительность и некоммерческая деятельность",
-                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
-                    "uk": "Благодійність та неприбуткова діяльність",
-                    "vi": "Từ Thiện và Phi Lợi Nhuận",
-                    "en-GB": "Charity & Non-profit",
-                    "en-US": "Charity & Nonprofit",
-                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
-                    "pt-BR": "Caridade e Sem Fins Lucrativos",
-                    "sv-SE": "Välgörenhet och ideellt arbete",
-                    "zh-CN": "慈善&非盈利",
-                    "zh-TW": "慈善及非營利活動"
-                }
-            },
-            {
-                "id": 13,
-                "is_primary": true,
-                "name": "Other",
-                "name_localizations": {
-                    "de": "Sonstiges",
-                    "fr": "Autre",
-                    "ru": "Другое"
-                }
-            }
-        ],
-        "primary_category": {
-            "id": 13,
-            "is_primary": true,
-            "name": "Other",
-            "name_localizations": {
-                "de": "Sonstiges",
-                "fr": "Autre",
-                "ru": "Другое"
-            }
-        },
-        "objectID": "892261205186576474",
-        "_highlightResult": {
-            "name": {
-                "value": "Sintiendo.me",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "description": {
-                "value": "💖Esto es sintiendo.me La comunidad de Apoyo psicológico y Terapia Online más importante de Discord en Habla Hispana",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "sintiendome",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "keywords": [
-                {
-                    "value": "psicología",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "apoyo-emocional",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "terapia",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "psicoterapia",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sentimientos",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "depresión",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ansiedad",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "psicólogo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "emociones",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lgbt",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                }
-            ],
-            "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Благотворителност и нестопански организации",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Charita a neziskovky",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Velgørenhed og nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wohltätigkeit & Gemeinnützigkeit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Φιλανθρωπία & ΜΚΟ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Caritatif et non lucratif",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "चैरिटी और नॉन प्रॉफ़िट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Humanitarni i neprofitni rad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Jótékonyság és nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Beneficenza e non profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "チャリティ&非営利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "자선 및 비영리",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Labdara ir pelno nesiekiančios organizacijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Liefdadigheid en non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Veldedig arbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Działalność charytatywna/non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Organizații caritabile și non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Благотворительность и некоммерческая деятельность",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Благодійність та неприбуткова діяльність",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Từ Thiện và Phi Lợi Nhuận",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Charity & Non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Charity & Nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos benéficos y sin ánimo de lucro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Caridade e Sem Fins Lucrativos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Välgörenhet och ideellt arbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "慈善&非盈利",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "慈善及非營利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sonstiges",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Autre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Другое",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                }
-            ],
-            "primary_category": {
-                "name_localizations": {
-                    "de": {
-                        "value": "Sonstiges",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fr": {
-                        "value": "Autre",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ru": {
-                        "value": "Другое",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    }
-                }
-            }
-        }
+        ]
     }
 }
