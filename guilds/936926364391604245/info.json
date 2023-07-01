@@ -1,13 +1,13 @@
 {
     "id": "936926364391604245",
     "name": "EraLend",
-    "description": "EraLend is A Low Risk, Capital Efficient & Community-focused Lending Protocol",
+    "description": "EraLend is A Low-risk, Capital Efficient & Community-focused Lending Protocol",
     "icon": "beac00823a08e93a98e9b7a3294347bd",
     "splash": "4525397714927cf5b65a7aa1056a1027",
     "discovery_splash": "217d71c2e0b35bc76ef4c45d2f25b2f7",
     "banner": "d0e6c1d8dc683e94ee052d051330d1b1",
-    "approximate_presence_count": 4493,
-    "approximate_member_count": 102878,
+    "approximate_presence_count": 5337,
+    "approximate_member_count": 103347,
     "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "eralend-previously-nexon-finance-936926364391604245",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,12 +36,12 @@
     "raw": {
         "id": "936926364391604245",
         "name": "EraLend",
-        "description": "EraLend is A Low Risk, Capital Efficient & Community-focused Lending Protocol",
+        "description": "EraLend is A Low-risk, Capital Efficient & Community-focused Lending Protocol",
         "icon": "beac00823a08e93a98e9b7a3294347bd",
         "splash": "4525397714927cf5b65a7aa1056a1027",
         "banner": "d0e6c1d8dc683e94ee052d051330d1b1",
-        "approximate_presence_count": 4493,
-        "approximate_member_count": 102878,
+        "approximate_presence_count": 5337,
+        "approximate_member_count": 103347,
         "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,20 +65,11 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -113,6 +105,16 @@
                     "sv-SE": "Programmering",
                     "zh-CN": "编程",
                     "zh-TW": "程式設計"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -235,7 +237,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "EraLend is A Low Risk, Capital Efficient & Community-focused Lending Protocol",
+                "value": "EraLend is A Low-risk, Capital Efficient & Community-focused Lending Protocol",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -297,25 +299,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -465,6 +448,25 @@
                         },
                         "zh-TW": {
                             "value": "程式設計",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
