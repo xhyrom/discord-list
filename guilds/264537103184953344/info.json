@@ -5,9 +5,9 @@
     "icon": "a_351aa0cf8c9924560b1b0428298d8b1b",
     "splash": "6544c7e1143271d3796f76740fa6b1b4",
     "discovery_splash": "4d90813ad7fd07bf251f14348d9263d0",
-    "banner": "95d2b5deb9f2f35f8111199a9ae9e81a",
-    "approximate_presence_count": 599,
-    "approximate_member_count": 3903,
+    "banner": "1810a6b82c25f2b12384a253e0c978f2",
+    "approximate_presence_count": 579,
+    "approximate_member_count": 3865,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "the-nfl-draft-on-reddit-264537103184953344",
@@ -36,9 +36,9 @@
         "description": "The best spot on discord to discuss college prospects on their journey to becoming NFL Stars",
         "icon": "a_351aa0cf8c9924560b1b0428298d8b1b",
         "splash": "6544c7e1143271d3796f76740fa6b1b4",
-        "banner": "95d2b5deb9f2f35f8111199a9ae9e81a",
-        "approximate_presence_count": 599,
-        "approximate_member_count": 3903,
+        "banner": "1810a6b82c25f2b12384a253e0c978f2",
+        "approximate_presence_count": 579,
+        "approximate_member_count": 3865,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -147,6 +137,16 @@
                     "zh-CN": "Reddit讨论区",
                     "zh-TW": "討論區"
                 }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
             }
         ],
         "primary_category": {
@@ -214,25 +214,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -536,6 +517,25 @@
                         },
                         "zh-TW": {
                             "value": "討論區",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
