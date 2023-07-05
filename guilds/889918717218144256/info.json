@@ -6,8 +6,8 @@
     "splash": "c821d5bd9724951c4e925a525b3fbb04",
     "discovery_splash": "cfa524ddb5a1374e2e3fa2b1ca173f13",
     "banner": "a_a24fa18c6ff1ffbc25104ef9f1a1ec77",
-    "approximate_presence_count": 565,
-    "approximate_member_count": 10837,
+    "approximate_presence_count": 541,
+    "approximate_member_count": 10810,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -40,8 +40,8 @@
         "icon": "a_39f7895b28c913e0c2eade2b706019d8",
         "splash": "c821d5bd9724951c4e925a525b3fbb04",
         "banner": "a_a24fa18c6ff1ffbc25104ef9f1a1ec77",
-        "approximate_presence_count": 565,
-        "approximate_member_count": 10837,
+        "approximate_presence_count": 541,
+        "approximate_member_count": 10810,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,26 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -125,6 +105,26 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -306,44 +306,6 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
                             "value": "Образование",
                             "matchLevel": "none",
@@ -491,6 +453,44 @@
                         },
                         "zh-TW": {
                             "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
