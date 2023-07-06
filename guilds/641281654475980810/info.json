@@ -6,7 +6,7 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 9,
+    "approximate_presence_count": 10,
     "approximate_member_count": 395,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
@@ -32,20 +32,23 @@
     "partnered": false,
     "verified": true,
     "raw": {
-        "id": "641281654475980810",
-        "name": "Word Life",
-        "description": "",
-        "icon": "6ac7026b803dc01893b5ebee259cd326",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 9,
         "approximate_member_count": 395,
-        "premium_subscription_count": 0,
-        "preferred_locale": "en-US",
+        "approximate_presence_count": 10,
         "auto_removed": false,
+        "banner": null,
+        "description": "",
         "discovery_splash": null,
-        "primary_category_id": 1,
-        "vanity_url_code": "wordlife",
+        "features": [
+            "COMMUNITY",
+            "DISCOVERABLE",
+            "INVITE_SPLASH",
+            "NEWS",
+            "PREVIEW_ENABLED",
+            "VANITY_URL",
+            "VERIFIED"
+        ],
+        "icon": "6ac7026b803dc01893b5ebee259cd326",
+        "id": "641281654475980810",
         "is_published": false,
         "keywords": [
             "word life",
@@ -56,14 +59,11 @@
             "social point",
             "wordlife"
         ],
-        "features": [
-            "COMMUNITY",
-            "DISCOVERABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "PREVIEW_ENABLED",
-            "VANITY_URL",
-            "VERIFIED"
-        ]
+        "name": "Word Life",
+        "preferred_locale": "en-US",
+        "premium_subscription_count": 0,
+        "primary_category_id": 1,
+        "splash": null,
+        "vanity_url_code": "wordlife"
     }
 }
