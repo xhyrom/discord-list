@@ -6,22 +6,22 @@
     "splash": "c9d74cfb77b3510ad53f384d2fd3a3e1",
     "discovery_splash": "c9d74cfb77b3510ad53f384d2fd3a3e1",
     "banner": "f48b1df06cd0d006fad60cb7a9bed67a",
-    "approximate_presence_count": 4093,
-    "approximate_member_count": 16653,
-    "premium_subscription_count": 75,
+    "approximate_presence_count": 4875,
+    "approximate_member_count": 23303,
+    "premium_subscription_count": 105,
     "preferred_locale": "en-US",
     "vanity_url_code": "regiment",
     "keywords": [
+        "Air Force",
+        "Army",
+        "Coast Guard",
+        "Marines",
+        "Mil",
         "Military",
-        "Veteran",
+        "Navy",
         "Twitch",
         "Vet",
-        "Mil",
-        "Army",
-        "Marines",
-        "Navy",
-        "Air Force",
-        "Coast Guard"
+        "Veteran"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "8745f46919e74df50cd817f80e56fb56",
         "splash": "c9d74cfb77b3510ad53f384d2fd3a3e1",
         "banner": "f48b1df06cd0d006fad60cb7a9bed67a",
-        "approximate_presence_count": 4093,
-        "approximate_member_count": 16653,
-        "premium_subscription_count": 75,
+        "approximate_presence_count": 4875,
+        "approximate_member_count": 23303,
+        "premium_subscription_count": 105,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c9d74cfb77b3510ad53f384d2fd3a3e1",
@@ -50,16 +50,16 @@
         "vanity_url_code": "regiment",
         "is_published": true,
         "keywords": [
+            "Air Force",
+            "Army",
+            "Coast Guard",
+            "Marines",
+            "Mil",
             "Military",
-            "Veteran",
+            "Navy",
             "Twitch",
             "Vet",
-            "Mil",
-            "Army",
-            "Marines",
-            "Navy",
-            "Air Force",
-            "Coast Guard"
+            "Veteran"
         ],
         "features": [
             "COMMUNITY",
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
+            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -182,43 +219,6 @@
                 }
             },
             {
-                "id": 47,
-                "is_primary": false,
-                "name": "Charity & Nonprofit",
-                "name_localizations": {
-                    "bg": "Благотворителност и нестопански организации",
-                    "cs": "Charita a neziskovky",
-                    "da": "Velgørenhed og nonprofit",
-                    "de": "Wohltätigkeit & Gemeinnützigkeit",
-                    "el": "Φιλανθρωπία & ΜΚΟ",
-                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                    "fr": "Caritatif et non lucratif",
-                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
-                    "hr": "Humanitarni i neprofitni rad",
-                    "hu": "Jótékonyság és nonprofit",
-                    "it": "Beneficenza e non profit",
-                    "ja": "チャリティ&非営利活動",
-                    "ko": "자선 및 비영리",
-                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
-                    "nl": "Liefdadigheid en non-profit",
-                    "no": "Veldedig arbeid",
-                    "pl": "Działalność charytatywna/non-profit",
-                    "ro": "Organizații caritabile și non-profit",
-                    "ru": "Благотворительность и некоммерческая деятельность",
-                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
-                    "uk": "Благодійність та неприбуткова діяльність",
-                    "vi": "Từ Thiện và Phi Lợi Nhuận",
-                    "en-GB": "Charity & Non-profit",
-                    "en-US": "Charity & Nonprofit",
-                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
-                    "pt-BR": "Caridade e Sem Fins Lucrativos",
-                    "sv-SE": "Välgörenhet och ideellt arbete",
-                    "zh-CN": "慈善&非盈利",
-                    "zh-TW": "慈善及非營利活動"
-                }
-            },
-            {
                 "id": 35,
                 "is_primary": false,
                 "name": "Content Creator",
@@ -253,43 +253,6 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
-                "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
                 }
             }
         ],
@@ -349,12 +312,37 @@
             },
             "keywords": [
                 {
+                    "value": "Air Force",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Army",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Coast Guard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Marines",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Mil",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Military",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Veteran",
+                    "value": "Navy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -369,37 +357,166 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Mil",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Army",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Marines",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Navy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Air Force",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Coast Guard",
+                    "value": "Veteran",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -865,160 +982,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Благотворителност и нестопански организации",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Charita a neziskovky",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Velgørenhed og nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wohltätigkeit & Gemeinnützigkeit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Φιλανθρωπία & ΜΚΟ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Caritatif et non lucratif",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "चैरिटी और नॉन प्रॉफ़िट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Humanitarni i neprofitni rad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Jótékonyság és nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Beneficenza e non profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "チャリティ&非営利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "자선 및 비영리",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Labdara ir pelno nesiekiančios organizacijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Liefdadigheid en non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Veldedig arbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Działalność charytatywna/non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Organizații caritabile și non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Благотворительность и некоммерческая деятельность",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Благодійність та неприбуткова діяльність",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Từ Thiện và Phi Lợi Nhuận",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Charity & Non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Charity & Nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos benéficos y sin ánimo de lucro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Caridade e Sem Fins Lucrativos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Välgörenhet och ideellt arbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "慈善&非盈利",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "慈善及非營利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1165,160 +1128,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Гейминг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hraní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelaaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेमिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játék",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Игры",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นเกม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Oyun",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juegos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Jogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
