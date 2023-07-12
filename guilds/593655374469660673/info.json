@@ -6,8 +6,8 @@
     "splash": null,
     "discovery_splash": "2b0321dd4c238be5713fcdac927d4f01",
     "banner": null,
-    "approximate_presence_count": 896,
-    "approximate_member_count": 7355,
+    "approximate_presence_count": 991,
+    "approximate_member_count": 7453,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -40,8 +40,8 @@
         "icon": "4f16fe24d8539f27ce8ca4fb9a4f50c3",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 896,
-        "approximate_member_count": 7355,
+        "approximate_presence_count": 991,
+        "approximate_member_count": 7453,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
-                }
-            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -145,40 +108,77 @@
                 }
             },
             {
-                "id": 27,
+                "id": 48,
                 "is_primary": false,
-                "name": "Cryptocurrency",
+                "name": "Game Developer",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
+                }
+            },
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
                 }
             },
             {
@@ -219,40 +219,40 @@
                 }
             },
             {
-                "id": 48,
+                "id": 27,
                 "is_primary": false,
-                "name": "Game Developer",
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
                 }
             }
         ],
@@ -358,160 +358,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -669,152 +515,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Разработчик на игри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Vývojář her",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Spiludvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Spieleentwicklung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Προγραμματιστής παιχνιδιών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Pelinkehittäjät",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Développeur de jeux vidéo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "गेम डेवलपर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Razvoj igara",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Játékfejlesztő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Sviluppatore di videogiochi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "ゲームデベロッパー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "게임 개발",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Žaidimų kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Gameontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Spillutvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Deweloper gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Dezvoltarea jocurilor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Разработка игр",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "ผู้พัฒนาเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Oyun Geliştiricisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Розробка ігор",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Nhà Phát Triển Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Desarrollo de juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Desenvolvedor de Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Spelutvecklare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "游戏开发人员",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "遊戲開發者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -977,152 +977,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Разработчик на игри",
+                            "value": "Криптовалута",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Vývojář her",
+                            "value": "Kryptoměny",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spiludvikler",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Spieleentwicklung",
+                            "value": "Kryptowährung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
+                            "value": "Κρυπτονόμισμα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelinkehittäjät",
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Développeur de jeux vidéo",
+                            "value": "Cryptomonnaie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेम डेवलपर",
+                            "value": "क्रिप्टोकरेंसी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Razvoj igara",
+                            "value": "Kriptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játékfejlesztő",
+                            "value": "Kriptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Sviluppatore di videogiochi",
+                            "value": "Criptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲームデベロッパー",
+                            "value": "暗号通貨",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 개발",
+                            "value": "암호화폐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų kūrėjai",
+                            "value": "Kriptovaliuta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gameontwikkelaar",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Spillutvikler",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Deweloper gry",
+                            "value": "Kryptowaluty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Dezvoltarea jocurilor",
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Разработка игр",
+                            "value": "Криптовалюта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้พัฒนาเกม",
+                            "value": "สกุลเงินดิจิทัล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun Geliştiricisi",
+                            "value": "Kripto Para Birimleri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розробка ігор",
+                            "value": "Криптовалюти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Phát Triển Game",
+                            "value": "Tiền Ảo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Game Developer",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Game Developer",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Desarrollo de juegos",
+                            "value": "Criptomonedas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
+                            "value": "Criptomoeda",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Spelutvecklare",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏开发人员",
+                            "value": "数字货币",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲開發者",
+                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
