@@ -6,20 +6,21 @@
     "splash": "4f351ffc97fca81d76f18297008bd802",
     "discovery_splash": "53af59f1eb6d33e2c75d909e52a2759b",
     "banner": null,
-    "approximate_presence_count": 863,
-    "approximate_member_count": 17205,
+    "approximate_presence_count": 792,
+    "approximate_member_count": 17153,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "dantdm-fan-server-428912688702423041",
     "keywords": [
-        "DanTDM",
         "Dan",
-        "TDM",
+        "DanTDM",
         "DanTDM Discord Server",
         "DanTDM Server",
-        "gaming",
+        "TDM",
+        "chatting",
+        "fandom",
         "games",
-        "chatting"
+        "gaming"
     ],
     "features": [
         "COMMUNITY",
@@ -38,8 +39,8 @@
         "icon": "a_c1282516fd6fb725c9fede192e6e0d45",
         "splash": "4f351ffc97fca81d76f18297008bd802",
         "banner": null,
-        "approximate_presence_count": 863,
-        "approximate_member_count": 17205,
+        "approximate_presence_count": 792,
+        "approximate_member_count": 17153,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,14 +49,15 @@
         "vanity_url_code": "dantdm-fan-server-428912688702423041",
         "is_published": true,
         "keywords": [
-            "DanTDM",
             "Dan",
-            "TDM",
+            "DanTDM",
             "DanTDM Discord Server",
             "DanTDM Server",
-            "gaming",
+            "TDM",
+            "chatting",
+            "fandom",
             "games",
-            "chatting"
+            "gaming"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 39,
+                "is_primary": false,
+                "name": "Fandom",
+                "name_localizations": {
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            },
             {
                 "id": 35,
                 "is_primary": false,
@@ -197,17 +236,12 @@
             },
             "keywords": [
                 {
-                    "value": "DanTDM",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "Dan",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "TDM",
+                    "value": "DanTDM",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -222,7 +256,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
+                    "value": "TDM",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "chatting",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fandom",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -232,12 +276,166 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "chatting",
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фендъм",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Pro fanoušky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fangruppe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fanikunta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ैनडम",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rajongói",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファンダム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "팬덤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Fanai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фандомы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กลุ่มแฟนคลับ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Hayran Kitlesi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фандом",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "同好圈",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
