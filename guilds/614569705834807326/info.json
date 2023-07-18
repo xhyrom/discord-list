@@ -4,13 +4,13 @@
     "description": "Poskytovatel a provozovatel herních serverů.",
     "icon": "a_6833074e18e6c9b030faa3663b37e710",
     "splash": "dbb9774c180cf9d16d926cfd4692e3f0",
-    "discovery_splash": null,
+    "discovery_splash": "dbb9774c180cf9d16d926cfd4692e3f0",
     "banner": null,
-    "approximate_presence_count": 447,
-    "approximate_member_count": 1001,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 100,
+    "approximate_member_count": 1410,
+    "premium_subscription_count": 1,
     "preferred_locale": "cs",
-    "vanity_url_code": null,
+    "vanity_url_code": "gamearea-cz-614569705834807326",
     "keywords": [
         "rust",
         "project-zomboid",
@@ -25,6 +25,8 @@
     ],
     "features": [
         "COMMUNITY",
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -38,15 +40,15 @@
         "icon": "a_6833074e18e6c9b030faa3663b37e710",
         "splash": "dbb9774c180cf9d16d926cfd4692e3f0",
         "banner": null,
-        "approximate_presence_count": 447,
-        "approximate_member_count": 1001,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 100,
+        "approximate_member_count": 1410,
+        "premium_subscription_count": 1,
         "preferred_locale": "cs",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "dbb9774c180cf9d16d926cfd4692e3f0",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "gamearea-cz-614569705834807326",
+        "is_published": true,
         "keywords": [
             "rust",
             "project-zomboid",
@@ -61,6 +63,8 @@
         ],
         "features": [
             "COMMUNITY",
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -150,6 +154,11 @@
             },
             "description": {
                 "value": "Poskytovatel a provozovatel herních serverů.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "gamearea-cz-614569705834807326",
                 "matchLevel": "none",
                 "matchedWords": []
             },
