@@ -6,28 +6,30 @@
     "splash": "8cde70517e900ba0aa63c0cab1d2079c",
     "discovery_splash": "8cde70517e900ba0aa63c0cab1d2079c",
     "banner": "595dad2799eb369d4e559d42947f0fba",
-    "approximate_presence_count": 199,
-    "approximate_member_count": 2572,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 156,
+    "approximate_member_count": 2507,
+    "premium_subscription_count": 12,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "starybtw-398708753010130945",
     "keywords": [
-        "twitch",
-        "juegos",
-        "youtube",
-        "streamer",
-        "social",
-        "twitter",
         "anime",
-        "memes",
         "fortnite",
-        "games"
+        "games",
+        "juegos",
+        "memes",
+        "social",
+        "streamer",
+        "twitch",
+        "twitter",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -38,44 +40,36 @@
         "icon": "2ca1d6c6fe80bf6c91cfca04482b45e6",
         "splash": "8cde70517e900ba0aa63c0cab1d2079c",
         "banner": "595dad2799eb369d4e559d42947f0fba",
-        "approximate_presence_count": 199,
-        "approximate_member_count": 2572,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 156,
+        "approximate_member_count": 2507,
+        "premium_subscription_count": 12,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "8cde70517e900ba0aa63c0cab1d2079c",
         "primary_category_id": 3,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "starybtw-398708753010130945",
+        "is_published": true,
         "keywords": [
-            "twitch",
-            "juegos",
-            "youtube",
-            "streamer",
-            "social",
-            "twitter",
             "anime",
-            "memes",
             "fortnite",
-            "games"
+            "games",
+            "juegos",
+            "memes",
+            "social",
+            "streamer",
+            "twitch",
+            "twitter",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -111,6 +105,16 @@
                     "sv-SE": "Musik",
                     "zh-CN": "音乐",
                     "zh-TW": "音樂"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             },
             {
@@ -237,44 +241,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "starybtw-398708753010130945",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "juegos",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "social",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitter",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "memes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -287,28 +261,44 @@
                     "value": "games",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "juegos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "memes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitter",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -458,6 +448,25 @@
                         },
                         "zh-TW": {
                             "value": "音樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
