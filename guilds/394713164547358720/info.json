@@ -6,22 +6,23 @@
     "splash": "a17a45a2ae9274d946f72baa58e13bb3",
     "discovery_splash": "a4beb3eecaf201df7862eb0acd95f0a0",
     "banner": "2566dca6d0571eff4bdcb06e33c15488",
-    "approximate_presence_count": 225,
-    "approximate_member_count": 1385,
+    "approximate_presence_count": 223,
+    "approximate_member_count": 1525,
     "premium_subscription_count": 14,
     "preferred_locale": "ja",
     "vanity_url_code": "canned-catfood",
     "keywords": [
-        "arma3",
-        "squad",
         "arma-reforger",
-        "twitch",
-        "milsim"
+        "arma3",
+        "milsim",
+        "squad",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,8 +35,8 @@
         "icon": "0dbd3585a32a36f788b922719060e888",
         "splash": "a17a45a2ae9274d946f72baa58e13bb3",
         "banner": "2566dca6d0571eff4bdcb06e33c15488",
-        "approximate_presence_count": 225,
-        "approximate_member_count": 1385,
+        "approximate_presence_count": 223,
+        "approximate_member_count": 1525,
         "premium_subscription_count": 14,
         "preferred_locale": "ja",
         "auto_removed": false,
@@ -44,16 +45,17 @@
         "vanity_url_code": "canned-catfood",
         "is_published": false,
         "keywords": [
-            "arma3",
-            "squad",
             "arma-reforger",
-            "twitch",
-            "milsim"
+            "arma3",
+            "milsim",
+            "squad",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -152,7 +154,17 @@
             },
             "keywords": [
                 {
+                    "value": "arma-reforger",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "arma3",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "milsim",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -162,17 +174,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "arma-reforger",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "milsim",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
