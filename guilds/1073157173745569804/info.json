@@ -1,14 +1,14 @@
 {
     "id": "1073157173745569804",
     "name": "Lionsafarena Of Clips",
-    "description": "Futbol Klipleri Ve Daha Fazlası",
-    "icon": "efd46360401e4b9b8ffeb1a93f2815c7",
-    "splash": "066406634f83e51660d732b95cef9066",
+    "description": "Türkiye'nin en büyük clip paylaşım sunucusu #1 🇹🇷",
+    "icon": "a_ac091e29473ff5fc7b1df28718e25abd",
+    "splash": "938af75d0eb990ebb8af97790f5b853c",
     "discovery_splash": "95963964d4022404272607e3f64a5abc",
-    "banner": "7c5b322ae502779c2abe270a408c4d98",
-    "approximate_presence_count": 382,
-    "approximate_member_count": 3595,
-    "premium_subscription_count": 25,
+    "banner": "a_38fcaf1d6035fbcd9225273583347759",
+    "approximate_presence_count": 570,
+    "approximate_member_count": 5055,
+    "premium_subscription_count": 23,
     "preferred_locale": "tr",
     "vanity_url_code": "lionsafarena",
     "keywords": [
@@ -27,7 +27,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,13 +35,13 @@
     "raw": {
         "id": "1073157173745569804",
         "name": "Lionsafarena Of Clips",
-        "description": "Futbol Klipleri Ve Daha Fazlası",
-        "icon": "efd46360401e4b9b8ffeb1a93f2815c7",
-        "splash": "066406634f83e51660d732b95cef9066",
-        "banner": "7c5b322ae502779c2abe270a408c4d98",
-        "approximate_presence_count": 382,
-        "approximate_member_count": 3595,
-        "premium_subscription_count": 25,
+        "description": "Türkiye'nin en büyük clip paylaşım sunucusu #1 🇹🇷",
+        "icon": "a_ac091e29473ff5fc7b1df28718e25abd",
+        "splash": "938af75d0eb990ebb8af97790f5b853c",
+        "banner": "a_38fcaf1d6035fbcd9225273583347759",
+        "approximate_presence_count": 570,
+        "approximate_member_count": 5055,
+        "premium_subscription_count": 23,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "95963964d4022404272607e3f64a5abc",
@@ -65,11 +64,20 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -143,16 +151,6 @@
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -173,7 +171,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Futbol Klipleri Ve Daha Fazlası",
+                "value": "Türkiye'nin en büyük clip paylaşım sunucusu #1 🇹🇷",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -235,6 +233,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -538,25 +555,6 @@
                         },
                         "zh-TW": {
                             "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
