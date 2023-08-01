@@ -6,9 +6,9 @@
     "splash": "1b6935714825984486f0902d001788b4",
     "discovery_splash": "3f801f0330f78b99b8d95b196077b70f",
     "banner": "e98ed5f058bd3f2418a58f47c98f0e57",
-    "approximate_presence_count": 960,
-    "approximate_member_count": 2836,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 803,
+    "approximate_member_count": 2887,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "hellforge",
     "keywords": [
@@ -37,9 +37,9 @@
         "icon": "8b78fcc6ffa67c85beb0f5ce7907fed8",
         "splash": "1b6935714825984486f0902d001788b4",
         "banner": "e98ed5f058bd3f2418a58f47c98f0e57",
-        "approximate_presence_count": 960,
-        "approximate_member_count": 2836,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 803,
+        "approximate_member_count": 2887,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "3f801f0330f78b99b8d95b196077b70f",
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -146,6 +136,16 @@
                     "sv-SE": "Samarbete",
                     "zh-CN": "合作",
                     "zh-TW": "合作"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -320,25 +320,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -642,6 +623,25 @@
                         },
                         "zh-TW": {
                             "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
