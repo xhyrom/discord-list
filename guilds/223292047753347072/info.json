@@ -6,7 +6,7 @@
     "splash": "67f3f77551f5ba7ec90cf9939551bf10",
     "discovery_splash": "bd37e2c915cfa5b137f1cf41d96cd268",
     "banner": "a_4f0a6ac82f6d114870d075b6213d7f44",
-    "approximate_presence_count": 631,
+    "approximate_presence_count": 601,
     "approximate_member_count": 4652,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
@@ -20,31 +20,11 @@
         "nba"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
-        "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS"
+        "PREVIEW_ENABLED"
     ],
     "partnered": true,
     "verified": false,
@@ -55,7 +35,7 @@
         "icon": "a_bd044e46c4b7e74de20fc8750afde53d",
         "splash": "67f3f77551f5ba7ec90cf9939551bf10",
         "banner": "a_4f0a6ac82f6d114870d075b6213d7f44",
-        "approximate_presence_count": 631,
+        "approximate_presence_count": 601,
         "approximate_member_count": 4652,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
@@ -73,31 +53,314 @@
             "nba"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
-            "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS"
-        ]
+            "PREVIEW_ENABLED"
+        ],
+        "categories": [
+            {
+                "id": 39,
+                "is_primary": false,
+                "name": "Fandom",
+                "name_localizations": {
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 7,
+            "is_primary": true,
+            "name": "Sports",
+            "name_localizations": {
+                "de": "Sport",
+                "fr": "Sports",
+                "ru": "Спорт"
+            }
+        },
+        "objectID": "223292047753347072",
+        "_highlightResult": {
+            "name": {
+                "value": "r/chicagobulls",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "A server for follow redditors who are subscribed to the Chicago Bulls subreddit :)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "bullsreddit",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "basketball",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "bulls",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "bullsnation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "chicago",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hoops",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nba",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фендъм",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Pro fanoušky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fangruppe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fanikunta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ैनडम",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rajongói",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファンダム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "팬덤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Fanai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фандомы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กลุ่มแฟนคลับ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Hayran Kitlesi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фандом",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "同好圈",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "de": {
+                        "value": "Sport",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Sports",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Спорт",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
