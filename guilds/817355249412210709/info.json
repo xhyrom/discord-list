@@ -5,9 +5,9 @@
     "icon": "a4ab699b5a163e534b7f8908d76b93b2",
     "splash": "01583cf068b07d4c99e8ed4ff29de032",
     "discovery_splash": "dec79d2b1a9894f385db392e6138e7cd",
-    "banner": "89b7269be0323c05d0f43d8b4b636316",
-    "approximate_presence_count": 482,
-    "approximate_member_count": 3570,
+    "banner": "b9c70d5b84d5e546a5f415ff6fa0a19e",
+    "approximate_presence_count": 698,
+    "approximate_member_count": 3935,
     "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "official-fexalan-server-817355249412210709",
@@ -35,9 +35,9 @@
         "description": "This is a community hangout for all people who support Fexalan's YouTube channel and also enjoy Roblox F1 Games.",
         "icon": "a4ab699b5a163e534b7f8908d76b93b2",
         "splash": "01583cf068b07d4c99e8ed4ff29de032",
-        "banner": "89b7269be0323c05d0f43d8b4b636316",
-        "approximate_presence_count": 482,
-        "approximate_member_count": 3570,
+        "banner": "b9c70d5b84d5e546a5f415ff6fa0a19e",
+        "approximate_presence_count": 698,
+        "approximate_member_count": 3935,
         "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -62,6 +62,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -97,16 +107,6 @@
                     "sv-SE": "Fandom",
                     "zh-CN": "同好圈",
                     "zh-TW": "粉絲社群"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -278,6 +278,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Фендъм",
                             "matchLevel": "none",
@@ -425,25 +444,6 @@
                         },
                         "zh-TW": {
                             "value": "粉絲社群",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
