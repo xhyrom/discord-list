@@ -6,9 +6,9 @@
     "splash": "6d7e999cfc108df2c85dd2d2f1fddbc2",
     "discovery_splash": "cdd6a22336b5fabc3e6f6d5afa95f3ec",
     "banner": "f0e69629c57532f1b8ab4bd57afba2fa",
-    "approximate_presence_count": 814,
-    "approximate_member_count": 6745,
-    "premium_subscription_count": 174,
+    "approximate_presence_count": 1084,
+    "approximate_member_count": 7461,
+    "premium_subscription_count": 149,
     "preferred_locale": "tr",
     "vanity_url_code": "fenerbahce",
     "keywords": [
@@ -35,9 +35,9 @@
         "icon": "a_db019184e1ea890f7a655871b4a30577",
         "splash": "6d7e999cfc108df2c85dd2d2f1fddbc2",
         "banner": "f0e69629c57532f1b8ab4bd57afba2fa",
-        "approximate_presence_count": 814,
-        "approximate_member_count": 6745,
-        "premium_subscription_count": 174,
+        "approximate_presence_count": 1084,
+        "approximate_member_count": 7461,
+        "premium_subscription_count": 149,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "cdd6a22336b5fabc3e6f6d5afa95f3ec",
@@ -60,16 +60,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -105,6 +95,16 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             }
         ],
@@ -163,25 +163,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -331,6 +312,25 @@
                         },
                         "zh-TW": {
                             "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
