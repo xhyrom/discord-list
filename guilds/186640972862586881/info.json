@@ -6,8 +6,8 @@
     "splash": "946225d825872ba01b5e4d52af0d35fb",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 501,
-    "approximate_member_count": 3060,
+    "approximate_presence_count": 402,
+    "approximate_member_count": 3092,
     "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -38,8 +38,8 @@
         "icon": "61d99ade61e4b5ca9542c5f655b5e7bc",
         "splash": "946225d825872ba01b5e4d52af0d35fb",
         "banner": null,
-        "approximate_presence_count": 501,
-        "approximate_member_count": 3060,
+        "approximate_presence_count": 402,
+        "approximate_member_count": 3092,
         "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -66,6 +66,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 17,
+                "is_primary": false,
+                "name": "Movies & TV",
+                "name_localizations": {
+                    "bg": "Филми и телевизия",
+                    "cs": "Filmy a TV",
+                    "da": "Film & TV",
+                    "de": "Film & TV",
+                    "el": "Ταινίες & TV",
+                    "fi": "Elokuvat ja TV",
+                    "fr": "Films et TV",
+                    "hi": "मूवीज़ और टीवी",
+                    "hr": "Film i TV",
+                    "hu": "Filmek és TV",
+                    "it": "Film e TV",
+                    "ja": "映画&TV",
+                    "ko": "영화, TV",
+                    "lt": "Filmai ir televizija",
+                    "nl": "Film en tv",
+                    "no": "Film og TV",
+                    "pl": "Kino i telewizja",
+                    "ro": "Filme și seriale",
+                    "ru": "Кино и телевидение",
+                    "th": "ภาพยนตร์และทีวี",
+                    "tr": "Film ve Televizyon",
+                    "uk": "Фільми й телебачення",
+                    "vi": "Phim Ảnh & Truyền Hình",
+                    "en-GB": "Films & TV",
+                    "en-US": "Movies & TV",
+                    "es-ES": "Películas y televisión",
+                    "pt-BR": "Filmes e TV",
+                    "sv-SE": "Film och tv",
+                    "zh-CN": "电影&电视",
+                    "zh-TW": "電影與電視"
+                }
+            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -104,13 +141,40 @@
                 }
             },
             {
-                "id": 23,
+                "id": 26,
                 "is_primary": false,
-                "name": "Podcasts",
+                "name": "News & Current Events",
                 "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
                 }
             },
             {
@@ -151,77 +215,13 @@
                 }
             },
             {
-                "id": 17,
+                "id": 23,
                 "is_primary": false,
-                "name": "Movies & TV",
+                "name": "Podcasts",
                 "name_localizations": {
-                    "bg": "Филми и телевизия",
-                    "cs": "Filmy a TV",
-                    "da": "Film & TV",
-                    "de": "Film & TV",
-                    "el": "Ταινίες & TV",
-                    "fi": "Elokuvat ja TV",
-                    "fr": "Films et TV",
-                    "hi": "मूवीज़ और टीवी",
-                    "hr": "Film i TV",
-                    "hu": "Filmek és TV",
-                    "it": "Film e TV",
-                    "ja": "映画&TV",
-                    "ko": "영화, TV",
-                    "lt": "Filmai ir televizija",
-                    "nl": "Film en tv",
-                    "no": "Film og TV",
-                    "pl": "Kino i telewizja",
-                    "ro": "Filme și seriale",
-                    "ru": "Кино и телевидение",
-                    "th": "ภาพยนตร์และทีวี",
-                    "tr": "Film ve Televizyon",
-                    "uk": "Фільми й телебачення",
-                    "vi": "Phim Ảnh & Truyền Hình",
-                    "en-GB": "Films & TV",
-                    "en-US": "Movies & TV",
-                    "es-ES": "Películas y televisión",
-                    "pt-BR": "Filmes e TV",
-                    "sv-SE": "Film och tv",
-                    "zh-CN": "电影&电视",
-                    "zh-TW": "電影與電視"
-                }
-            },
-            {
-                "id": 26,
-                "is_primary": false,
-                "name": "News & Current Events",
-                "name_localizations": {
-                    "bg": "Новини и актуални събития",
-                    "cs": "Zprávy a aktuální dění",
-                    "da": "Nyheder & nuværende begivenheder",
-                    "de": "Nachrichten & Zeitgeschehen",
-                    "el": "Νέα & Επικαιρότητα",
-                    "fi": "Uutiset ja ajankohtaistapahtumat",
-                    "fr": "Actualité",
-                    "hi": "न्यूज़ और करेंट इवेंट्स",
-                    "hr": "Vijesti i aktualnosti",
-                    "hu": "Hírek és aktuális események",
-                    "it": "Notizie ed eventi attuali",
-                    "ja": "ニュース&時事",
-                    "ko": "뉴스, 시사",
-                    "lt": "Naujienos ir dabartiniai įvykiai",
-                    "nl": "Nieuws en actualiteiten",
-                    "no": "Nyheter og aktuelt",
-                    "pl": "Aktualności i bieżące wydarzenia",
-                    "ro": "Actualități",
-                    "ru": "Новости и текущие события",
-                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                    "tr": "Haberler ve Güncel Olaylar",
-                    "uk": "Новини й поточні події",
-                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                    "en-GB": "News & Current Events",
-                    "en-US": "News & Current Events",
-                    "es-ES": "Noticias y actualidad",
-                    "pt-BR": "Notícias e Atualidades",
-                    "sv-SE": "Nyheter och aktuella händelser",
-                    "zh-CN": "新闻&时事",
-                    "zh-TW": "新消息與目前活動"
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             }
         ],
@@ -322,6 +322,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Филми и телевизия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Filmy a TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταινίες & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Elokuvat ja TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Films et TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मूवीज़ और टीवी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Film i TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Filmek és TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Film e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "映画&TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "영화, TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Filmai ir televizija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Film en tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Film og TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kino i telewizja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Filme și seriale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Кино и телевидение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ภาพยนตร์และทีวี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Film ve Televizyon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фільми й телебачення",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Phim Ảnh & Truyền Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Films & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Movies & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Películas y televisión",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Filmes e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Film och tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电影&电视",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電影與電視",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -478,18 +632,153 @@
                 },
                 {
                     "name_localizations": {
+                        "bg": {
+                            "value": "Новини и актуални събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zprávy a aktuální dění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Nyheder & nuværende begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
                         "de": {
-                            "value": "Podcasts",
+                            "value": "Nachrichten & Zeitgeschehen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Νέα & Επικαιρότητα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Uutiset ja ajankohtaistapahtumat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Podcasts",
+                            "value": "Actualité",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "न्यूज़ और करेंट इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Vijesti i aktualnosti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Hírek és aktuális események",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Notizie ed eventi attuali",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ニュース&時事",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "뉴스, 시사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Naujienos ir dabartiniai įvykiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Nieuws en actualiteiten",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Nyheter og aktuelt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Aktualności i bieżące wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Actualități",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Подкасты",
+                            "value": "Новости и текущие события",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Haberler ve Güncel Olaylar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Новини й поточні події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "News & Current Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "News & Current Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Noticias y actualidad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Notícias e Atualidades",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Nyheter och aktuella händelser",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "新闻&时事",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -651,307 +940,18 @@
                 },
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Филми и телевизия",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Filmy a TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Film & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Film & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ταινίες & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Elokuvat ja TV",
+                            "value": "Podcasts",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Films et TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "मूवीज़ और टीवी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Film i TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Filmek és TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Film e TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "映画&TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "영화, TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Filmai ir televizija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Film en tv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Film og TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kino i telewizja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Filme și seriale",
+                            "value": "Podcasts",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Кино и телевидение",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ภาพยนตร์และทีวี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Film ve Televizyon",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фільми й телебачення",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Phim Ảnh & Truyền Hình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Films & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Movies & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Películas y televisión",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Filmes e TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Film och tv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "电影&电视",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "電影與電視",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Новини и актуални събития",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zprávy a aktuální dění",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Nyheder & nuværende begivenheder",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Nachrichten & Zeitgeschehen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Νέα & Επικαιρότητα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Uutiset ja ajankohtaistapahtumat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Actualité",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "न्यूज़ और करेंट इवेंट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Vijesti i aktualnosti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Hírek és aktuális események",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Notizie ed eventi attuali",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ニュース&時事",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "뉴스, 시사",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Naujienos ir dabartiniai įvykiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Nieuws en actualiteiten",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Nyheter og aktuelt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Aktualności i bieżące wydarzenia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Actualități",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Новости и текущие события",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Haberler ve Güncel Olaylar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Новини й поточні події",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "News & Current Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "News & Current Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Noticias y actualidad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Notícias e Atualidades",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Nyheter och aktuella händelser",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "新闻&时事",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "新消息與目前活動",
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

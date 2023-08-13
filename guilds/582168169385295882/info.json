@@ -2,31 +2,32 @@
     "id": "582168169385295882",
     "name": "Nexus-Games | Hébergeur serveurs de Jeux et VPS",
     "description": "Hébergeur de serveurs de Jeux (FiveM, Minecraft, GMOD...).Hébergeur de VPS (Linux et Windows)",
-    "icon": "6cc4f892dae53e9fb81b5db9c9842bab",
-    "splash": "9b7dac5fa28fb317032cad58ecd36453",
-    "discovery_splash": "c887cb30ebee1ad743a82e9bab19c248",
-    "banner": "5d6ac59368b4bc0d17c5b3079e8ea0e0",
-    "approximate_presence_count": 847,
-    "approximate_member_count": 2817,
-    "premium_subscription_count": 15,
+    "icon": "dd30d176fed47500ca195e2563b27c07",
+    "splash": "71d868375cd0cedc4e6a936321633f3a",
+    "discovery_splash": "71d868375cd0cedc4e6a936321633f3a",
+    "banner": "c9ccbad2a025bbfcfdfdf36932d413d3",
+    "approximate_presence_count": 711,
+    "approximate_member_count": 2886,
+    "premium_subscription_count": 14,
     "preferred_locale": "fr",
     "vanity_url_code": "nexus-games",
     "keywords": [
-        "minecraft",
-        "fivem",
-        "vps",
-        "gmod",
         "ark",
+        "cloud",
+        "fivem",
+        "gmod",
         "hébergeur",
-        "valheim",
-        "redm",
+        "minecraft",
         "nom de domaine",
-        "cloud"
+        "redm",
+        "valheim",
+        "vps"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -35,34 +36,35 @@
         "id": "582168169385295882",
         "name": "Nexus-Games | Hébergeur serveurs de Jeux et VPS",
         "description": "Hébergeur de serveurs de Jeux (FiveM, Minecraft, GMOD...).Hébergeur de VPS (Linux et Windows)",
-        "icon": "6cc4f892dae53e9fb81b5db9c9842bab",
-        "splash": "9b7dac5fa28fb317032cad58ecd36453",
-        "banner": "5d6ac59368b4bc0d17c5b3079e8ea0e0",
-        "approximate_presence_count": 847,
-        "approximate_member_count": 2817,
-        "premium_subscription_count": 15,
+        "icon": "dd30d176fed47500ca195e2563b27c07",
+        "splash": "71d868375cd0cedc4e6a936321633f3a",
+        "banner": "c9ccbad2a025bbfcfdfdf36932d413d3",
+        "approximate_presence_count": 711,
+        "approximate_member_count": 2886,
+        "premium_subscription_count": 14,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "c887cb30ebee1ad743a82e9bab19c248",
+        "discovery_splash": "71d868375cd0cedc4e6a936321633f3a",
         "primary_category_id": 1,
         "vanity_url_code": "nexus-games",
         "is_published": false,
         "keywords": [
-            "minecraft",
-            "fivem",
-            "vps",
-            "gmod",
             "ark",
+            "cloud",
+            "fivem",
+            "gmod",
             "hébergeur",
-            "valheim",
-            "redm",
+            "minecraft",
             "nom de domaine",
-            "cloud"
+            "redm",
+            "valheim",
+            "vps"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -197,7 +199,12 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "ark",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "cloud",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -207,17 +214,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "vps",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "gmod",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ark",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -227,12 +224,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "valheim",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "redm",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -242,7 +234,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "cloud",
+                    "value": "redm",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valheim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vps",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

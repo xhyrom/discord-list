@@ -6,22 +6,22 @@
     "splash": "d2c1ce0835ca4b327b2f1ccdd41b8724",
     "discovery_splash": null,
     "banner": "a_39e8b37e9cae3fca56cf5a0e82dff9f5",
-    "approximate_presence_count": 441,
-    "approximate_member_count": 1665,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 340,
+    "approximate_member_count": 1744,
+    "premium_subscription_count": 1,
     "preferred_locale": "tr",
     "vanity_url_code": null,
     "keywords": [
         "espor",
         "esports",
-        "wildcats",
-        "msi",
         "game",
         "gaming",
         "holyphoenix",
-        "iw",
         "istanbulwildcats",
-        "leagueoflegends"
+        "iw",
+        "leagueoflegends",
+        "msi",
+        "wildcats"
     ],
     "features": [
         "COMMUNITY",
@@ -39,26 +39,26 @@
         "icon": "b2ce3624ce759a163a1a306f3f4edd0e",
         "splash": "d2c1ce0835ca4b327b2f1ccdd41b8724",
         "banner": "a_39e8b37e9cae3fca56cf5a0e82dff9f5",
-        "approximate_presence_count": 441,
-        "approximate_member_count": 1665,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 340,
+        "approximate_member_count": 1744,
+        "premium_subscription_count": 1,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": null,
-        "primary_category_id": 7,
+        "primary_category_id": 0,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "espor",
             "esports",
-            "wildcats",
-            "msi",
             "game",
             "gaming",
             "holyphoenix",
-            "iw",
             "istanbulwildcats",
-            "leagueoflegends"
+            "iw",
+            "leagueoflegends",
+            "msi",
+            "wildcats"
         ],
         "features": [
             "COMMUNITY",
@@ -254,25 +254,17 @@
                 }
             },
             {
-                "id": 7,
+                "id": 0,
                 "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
+                "name": "General",
+                "name_localizations": null
             }
         ],
         "primary_category": {
-            "id": 7,
+            "id": 0,
             "is_primary": true,
-            "name": "Sports",
-            "name_localizations": {
-                "de": "Sport",
-                "fr": "Sports",
-                "ru": "Спорт"
-            }
+            "name": "General",
+            "name_localizations": null
         },
         "objectID": "919249604548120586",
         "_highlightResult": {
@@ -298,16 +290,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "wildcats",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "msi",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "game",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -323,17 +305,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "iw",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "istanbulwildcats",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
+                    "value": "iw",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "leagueoflegends",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "msi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wildcats",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -1108,46 +1100,8 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
-            ],
-            "primary_category": {
-                "name_localizations": {
-                    "de": {
-                        "value": "Sport",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fr": {
-                        "value": "Sports",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ru": {
-                        "value": "Спорт",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    }
-                }
-            }
+            ]
         }
     }
 }
