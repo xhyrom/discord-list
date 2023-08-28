@@ -4,26 +4,27 @@
     "description": "This is the unofficial fan server for the VTuber Maria Marionette of NIJISANJI EN's \"ILUNA\" wave.",
     "icon": "5b070b1417323ff4a9fe2c5c40ba445b",
     "splash": "ab16af4d4f8ae72aeef84b2b5cc06235",
-    "discovery_splash": null,
+    "discovery_splash": "ab16af4d4f8ae72aeef84b2b5cc06235",
     "banner": "a7c56855e76b801719db5d4176ff6d2f",
-    "approximate_presence_count": 1746,
-    "approximate_member_count": 5929,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 1873,
+    "approximate_member_count": 6037,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "marionette",
     "keywords": [
-        "vtuber",
-        "nijisanji",
-        "streamer",
-        "iluna",
         "anime",
         "gaming",
+        "iluna",
+        "nijisanji",
+        "streamer",
+        "vtuber",
         "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -35,28 +36,29 @@
         "icon": "5b070b1417323ff4a9fe2c5c40ba445b",
         "splash": "ab16af4d4f8ae72aeef84b2b5cc06235",
         "banner": "a7c56855e76b801719db5d4176ff6d2f",
-        "approximate_presence_count": 1746,
-        "approximate_member_count": 5929,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 1873,
+        "approximate_member_count": 6037,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "ab16af4d4f8ae72aeef84b2b5cc06235",
         "primary_category_id": 3,
         "vanity_url_code": "marionette",
         "is_published": false,
         "keywords": [
-            "vtuber",
-            "nijisanji",
-            "streamer",
-            "iluna",
             "anime",
             "gaming",
+            "iluna",
+            "nijisanji",
+            "streamer",
+            "vtuber",
             "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -191,7 +193,17 @@
             },
             "keywords": [
                 {
-                    "value": "vtuber",
+                    "value": "anime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "iluna",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -206,17 +218,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "iluna",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
+                    "value": "vtuber",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
