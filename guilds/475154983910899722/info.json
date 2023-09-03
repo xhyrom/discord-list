@@ -1,14 +1,14 @@
 {
     "id": "475154983910899722",
-    "name": "JIIT Open Source Developer's Circle",
-    "description": "The JODC is an initiative by students of Jaypee Institute Of Information Technology-128 to promote open source culture.",
-    "icon": "0c9e23dfebaac4cc843e72d5683b40e9",
+    "name": "JIIT Open Source Developers’ Circle",
+    "description": "An initiative by the students of JIIT Noida to promote FOSS culture. We talk about everything tech & life.",
+    "icon": "b58c52f07f8ea168d07471b1e1e72597",
     "splash": "93c449dc0cf070ac9bb98f17f7144170",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 55,
-    "approximate_member_count": 1090,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 39,
+    "approximate_member_count": 1250,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -24,6 +24,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -31,14 +32,14 @@
     "verified": false,
     "raw": {
         "id": "475154983910899722",
-        "name": "JIIT Open Source Developer's Circle",
-        "description": "The JODC is an initiative by students of Jaypee Institute Of Information Technology-128 to promote open source culture.",
-        "icon": "0c9e23dfebaac4cc843e72d5683b40e9",
+        "name": "JIIT Open Source Developers’ Circle",
+        "description": "An initiative by the students of JIIT Noida to promote FOSS culture. We talk about everything tech & life.",
+        "icon": "b58c52f07f8ea168d07471b1e1e72597",
         "splash": "93c449dc0cf070ac9bb98f17f7144170",
         "banner": null,
-        "approximate_presence_count": 55,
-        "approximate_member_count": 1090,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 39,
+        "approximate_member_count": 1250,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -58,47 +59,11 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
-                }
-            },
             {
                 "id": 17,
                 "is_primary": false,
@@ -134,6 +99,43 @@
                     "sv-SE": "Film och tv",
                     "zh-CN": "电影&电视",
                     "zh-TW": "電影與電視"
+                }
+            },
+            {
+                "id": 40,
+                "is_primary": false,
+                "name": "Wiki & Guide",
+                "name_localizations": {
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
                 }
             },
             {
@@ -174,6 +176,43 @@
                 }
             },
             {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
+            {
                 "id": 38,
                 "is_primary": false,
                 "name": "Collaboration",
@@ -208,43 +247,6 @@
                     "sv-SE": "Samarbete",
                     "zh-CN": "合作",
                     "zh-TW": "合作"
-                }
-            },
-            {
-                "id": 40,
-                "is_primary": false,
-                "name": "Wiki & Guide",
-                "name_localizations": {
-                    "bg": "Уики и ръководство",
-                    "cs": "Wiki a návody",
-                    "da": "Wiki & guide",
-                    "de": "Wiki & Anleitungen",
-                    "el": "Wiki & Οδηγοί",
-                    "fi": "Wikit ja ohjeet",
-                    "fr": "Wiki et guide",
-                    "hi": "विकिपीडिया और गाइड",
-                    "hr": "Wiki i vodiči",
-                    "hu": "Wikik és útmutatók",
-                    "it": "Wiki e guide",
-                    "ja": "ウィキペディア&ガイド",
-                    "ko": "위키, 가이드",
-                    "lt": "Vikis ir instrukcijos",
-                    "nl": "Wiki en gids",
-                    "no": "Wiki og veiledning",
-                    "pl": "Wiki i przewodniki",
-                    "ro": "Wiki și ghid",
-                    "ru": "Вики и руководство",
-                    "th": "วิกิและคู่มือ",
-                    "tr": "Wiki ve Rehber",
-                    "uk": "Вікі та посібники",
-                    "vi": "Wiki & Hướng Dẫn",
-                    "en-GB": "Wiki & Guide",
-                    "en-US": "Wiki & Guide",
-                    "es-ES": "Wikipedia y guías",
-                    "pt-BR": "Wiki e Guias",
-                    "sv-SE": "Wiki och guide",
-                    "zh-CN": "维基&指南",
-                    "zh-TW": "維基百科與指南"
                 }
             },
             {
@@ -325,12 +327,12 @@
         "objectID": "475154983910899722",
         "_highlightResult": {
             "name": {
-                "value": "JIIT Open Source Developer's Circle",
+                "value": "JIIT Open Source Developers’ Circle",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "The JODC is an initiative by students of Jaypee Institute Of Information Technology-128 to promote open source culture.",
+                "value": "An initiative by the students of JIIT Noida to promote FOSS culture. We talk about everything tech & life.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -372,160 +374,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -675,6 +523,160 @@
                         },
                         "zh-TW": {
                             "value": "電影與電視",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Уики и ръководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Wiki a návody",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Wiki & guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wiki & Anleitungen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Wiki & Οδηγοί",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Wikit ja ohjeet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Wiki et guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "विकिपीडिया और गाइड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Wiki i vodiči",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Wikik és útmutatók",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Wiki e guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ウィキペディア&ガイド",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "위키, 가이드",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vikis ir instrukcijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wiki en gids",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Wiki og veiledning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wiki i przewodniki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Wiki și ghid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Вики и руководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิกิและคู่มือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Wiki ve Rehber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Вікі та посібники",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Wiki & Hướng Dẫn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Wikipedia y guías",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Wiki e Guias",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Wiki och guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "维基&指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -837,6 +839,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Сътрудничество",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -983,160 +1139,6 @@
                         },
                         "zh-TW": {
                             "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Уики и ръководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Wiki a návody",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Wiki & guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wiki & Anleitungen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Wiki & Οδηγοί",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Wikit ja ohjeet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Wiki et guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "विकिपीडिया और गाइड",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Wiki i vodiči",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Wikik és útmutatók",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Wiki e guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ウィキペディア&ガイド",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "위키, 가이드",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vikis ir instrukcijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wiki en gids",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Wiki og veiledning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Wiki i przewodniki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Wiki și ghid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Вики и руководство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิกิและคู่มือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Wiki ve Rehber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Вікі та посібники",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Wiki & Hướng Dẫn",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Wiki & Guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Wikipedia y guías",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Wiki e Guias",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Wiki och guide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "维基&指南",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
