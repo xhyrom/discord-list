@@ -6,8 +6,8 @@
     "splash": "6cef1d1b2a59dfd4dfb2530b260f5a5f",
     "discovery_splash": "a96b3423cb9401ef49cb35348ed156af",
     "banner": null,
-    "approximate_presence_count": 283,
-    "approximate_member_count": 2922,
+    "approximate_presence_count": 196,
+    "approximate_member_count": 2958,
     "premium_subscription_count": 2,
     "preferred_locale": "fr",
     "vanity_url_code": "discord-je-677908198094667807",
@@ -34,8 +34,8 @@
         "icon": "243dbdd6295d89c589854e238205d733",
         "splash": "6cef1d1b2a59dfd4dfb2530b260f5a5f",
         "banner": null,
-        "approximate_presence_count": 283,
-        "approximate_member_count": 2922,
+        "approximate_presence_count": 196,
+        "approximate_member_count": 2958,
         "premium_subscription_count": 2,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -59,13 +59,40 @@
         ],
         "categories": [
             {
-                "id": 23,
+                "id": 38,
                 "is_primary": false,
-                "name": "Podcasts",
+                "name": "Collaboration",
                 "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
                 }
             },
             {
@@ -143,43 +170,6 @@
                 }
             },
             {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
-                }
-            },
-            {
                 "id": 26,
                 "is_primary": false,
                 "name": "News & Current Events",
@@ -214,6 +204,16 @@
                     "sv-SE": "Nyheter och aktuella händelser",
                     "zh-CN": "新闻&时事",
                     "zh-TW": "新消息與目前活動"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -338,18 +338,153 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
                         "de": {
-                            "value": "Podcasts",
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Podcasts",
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Подкасты",
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -666,160 +801,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -966,6 +947,25 @@
                         },
                         "zh-TW": {
                             "value": "新消息與目前活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
