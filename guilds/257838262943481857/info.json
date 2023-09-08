@@ -1,25 +1,25 @@
 {
     "id": "257838262943481857",
     "name": "Forum Gotterfunken",
-    "description": "European Open Source Intelligence & Discussion",
+    "description": "EU-OSINT - European Union Open Source Intelligence & Discussion server.",
     "icon": "cc28e427085b6efc1926e705511d9c63",
     "splash": "857c877a80c0875af50057011ef5fc0c",
-    "discovery_splash": "857c877a80c0875af50057011ef5fc0c",
+    "discovery_splash": "d1381e1880ddeb27428bff3ce1ff23c7",
     "banner": "b693de120f68e8a67d06a04c8c9a9731",
-    "approximate_presence_count": 327,
-    "approximate_member_count": 2109,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 316,
+    "approximate_member_count": 2112,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "forum-gotterfunken-257838262943481857",
     "keywords": [
         "OSINT",
         "eu",
         "europe",
         "european-union",
-        "events",
         "geopolitics",
         "news",
         "podcasts",
+        "politics",
         "politics",
         "youtube"
     ],
@@ -36,28 +36,28 @@
     "raw": {
         "id": "257838262943481857",
         "name": "Forum Gotterfunken",
-        "description": "European Open Source Intelligence & Discussion",
+        "description": "EU-OSINT - European Union Open Source Intelligence & Discussion server.",
         "icon": "cc28e427085b6efc1926e705511d9c63",
         "splash": "857c877a80c0875af50057011ef5fc0c",
         "banner": "b693de120f68e8a67d06a04c8c9a9731",
-        "approximate_presence_count": 327,
-        "approximate_member_count": 2109,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 316,
+        "approximate_member_count": 2112,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "857c877a80c0875af50057011ef5fc0c",
+        "discovery_splash": "d1381e1880ddeb27428bff3ce1ff23c7",
         "primary_category_id": 13,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "forum-gotterfunken-257838262943481857",
+        "is_published": true,
         "keywords": [
             "OSINT",
             "eu",
             "europe",
             "european-union",
-            "events",
             "geopolitics",
             "news",
             "podcasts",
+            "politics",
             "politics",
             "youtube"
         ],
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 42,
+                "is_primary": false,
+                "name": "Subreddit",
+                "name_localizations": {
+                    "bg": "Тема в reddit",
+                    "cs": "Subreddit",
+                    "da": "Subreddit",
+                    "de": "Subreddit",
+                    "el": "Subreddit",
+                    "fi": "Alareddit",
+                    "fr": "Subreddit",
+                    "hi": "सब-रेडिट",
+                    "hr": "Subreddit",
+                    "hu": "Subreddit",
+                    "it": "Subreddit",
+                    "ja": "Subreddit",
+                    "ko": "서브레딧",
+                    "lt": "Subreddit",
+                    "nl": "Subreddit",
+                    "no": "Subreddit",
+                    "pl": "Subreddit",
+                    "ro": "Subreddit",
+                    "ru": "Сабреддит",
+                    "th": "Subreddit",
+                    "tr": "Subreddit",
+                    "uk": "Сабреддіт",
+                    "vi": "Subreddit",
+                    "en-GB": "Subreddit",
+                    "en-US": "Subreddit",
+                    "es-ES": "Subreddit",
+                    "pt-BR": "Subreddit",
+                    "sv-SE": "Subreddit",
+                    "zh-CN": "Reddit讨论区",
+                    "zh-TW": "討論區"
+                }
+            },
             {
                 "id": 5,
                 "is_primary": true,
@@ -142,43 +179,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
                 }
             },
             {
@@ -257,7 +257,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "European Open Source Intelligence & Discussion",
+                "value": "EU-OSINT - European Union Open Source Intelligence & Discussion server.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "forum-gotterfunken-257838262943481857",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -283,11 +288,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "events",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "geopolitics",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -308,12 +308,171 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "politics",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Тема в reddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Alareddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सब-रेडिट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "서브레딧",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Сабреддит",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Сабреддіт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "Reddit讨论区",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "討論區",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -617,160 +776,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
