@@ -6,8 +6,8 @@
     "splash": "f93977d625f1f77902131d6616d82d44",
     "discovery_splash": "fcf99077d87032c850857f0ca39ba11c",
     "banner": "a_1892883dfb16164f1e64b6e20c7c582f",
-    "approximate_presence_count": 1264,
-    "approximate_member_count": 11881,
+    "approximate_presence_count": 580,
+    "approximate_member_count": 11435,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,8 +40,8 @@
         "icon": "c2c65606e79df7208ee8f1d840b1f6c4",
         "splash": "f93977d625f1f77902131d6616d82d44",
         "banner": "a_1892883dfb16164f1e64b6e20c7c582f",
-        "approximate_presence_count": 1264,
-        "approximate_member_count": 11881,
+        "approximate_presence_count": 580,
+        "approximate_member_count": 11435,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,82 +65,46 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 39,
+                "id": 31,
                 "is_primary": false,
-                "name": "Fandom",
+                "name": "Customer Support",
                 "name_localizations": {
-                    "bg": "Фендъм",
-                    "cs": "Pro fanoušky",
-                    "da": "Fangruppe",
-                    "de": "Fandom",
-                    "el": "Fandom",
-                    "fi": "Fanikunta",
-                    "fr": "Fandom",
-                    "hi": "फ़ैनडम",
-                    "hr": "Fandom",
-                    "hu": "Rajongói",
-                    "it": "Fandom",
-                    "ja": "ファンダム",
-                    "ko": "팬덤",
-                    "lt": "Fanai",
-                    "nl": "Fandom",
-                    "no": "Fandom",
-                    "pl": "Fandom",
-                    "ro": "Fandom",
-                    "ru": "Фандомы",
-                    "th": "กลุ่มแฟนคลับ",
-                    "tr": "Hayran Kitlesi",
-                    "uk": "Фандом",
-                    "vi": "Cộng Đồng Người Hâm Mộ",
-                    "en-GB": "Fandom",
-                    "en-US": "Fandom",
-                    "es-ES": "Fandom",
-                    "pt-BR": "Fandom",
-                    "sv-SE": "Fandom",
-                    "zh-CN": "同好圈",
-                    "zh-TW": "粉絲社群"
-                }
-            },
-            {
-                "id": 45,
-                "is_primary": false,
-                "name": "Mobile",
-                "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
                 }
             },
             {
@@ -180,40 +145,40 @@
                 }
             },
             {
-                "id": 31,
+                "id": 39,
                 "is_primary": false,
-                "name": "Customer Support",
+                "name": "Fandom",
                 "name_localizations": {
-                    "bg": "Обслужване на клиенти",
-                    "cs": "Uživatelská podpora",
-                    "da": "Kundesupport",
-                    "de": "Kundensupport",
-                    "el": "Εξυπηρέτηση πελατών",
-                    "fi": "Asiakastuki",
-                    "fr": "Assistance clientèle",
-                    "hi": "कस्टमर सपोर्ट",
-                    "hr": "Podrška korisnicima",
-                    "hu": "Ügyfélszolgálat",
-                    "it": "Assistenza clienti",
-                    "ja": "カスタマーサポート",
-                    "ko": "고객 지원",
-                    "lt": "Klientų palaikymas",
-                    "nl": "Klantenondersteuning",
-                    "no": "Kundestøtte",
-                    "pl": "Pomoc techniczna",
-                    "ro": "Asistență clienți",
-                    "ru": "Служба поддержки",
-                    "th": "ฝ่ายสนับสนุนลูกค้า",
-                    "tr": "Müşteri Desteği",
-                    "uk": "Підтримка користувачів",
-                    "vi": "Chăm Sóc Khách Hàng",
-                    "en-GB": "Customer Support",
-                    "en-US": "Customer Support",
-                    "es-ES": "Atención al cliente",
-                    "pt-BR": "Suporte ao cliente",
-                    "sv-SE": "Kundsupport",
-                    "zh-CN": "客户支持",
-                    "zh-TW": "客戶支援"
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
                 }
             },
             {
@@ -251,6 +216,43 @@
                     "sv-SE": "Spelutvecklare",
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
+                }
+            },
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
                 }
             },
             {
@@ -396,306 +398,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Фендъм",
+                            "value": "Обслужване на клиенти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Pro fanoušky",
+                            "value": "Uživatelská podpora",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Fangruppe",
+                            "value": "Kundesupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Fandom",
+                            "value": "Kundensupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Fandom",
+                            "value": "Εξυπηρέτηση πελατών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Fanikunta",
+                            "value": "Asiakastuki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Fandom",
+                            "value": "Assistance clientèle",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फ़ैनडम",
+                            "value": "कस्टमर सपोर्ट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Fandom",
+                            "value": "Podrška korisnicima",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rajongói",
+                            "value": "Ügyfélszolgálat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Fandom",
+                            "value": "Assistenza clienti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファンダム",
+                            "value": "カスタマーサポート",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "팬덤",
+                            "value": "고객 지원",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Fanai",
+                            "value": "Klientų palaikymas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Fandom",
+                            "value": "Klantenondersteuning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Fandom",
+                            "value": "Kundestøtte",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Fandom",
+                            "value": "Pomoc techniczna",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Fandom",
+                            "value": "Asistență clienți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Фандомы",
+                            "value": "Служба поддержки",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กลุ่มแฟนคลับ",
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Hayran Kitlesi",
+                            "value": "Müşteri Desteği",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фандом",
+                            "value": "Підтримка користувачів",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "value": "Chăm Sóc Khách Hàng",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Fandom",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Fandom",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Fandom",
+                            "value": "Atención al cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Fandom",
+                            "value": "Suporte ao cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Fandom",
+                            "value": "Kundsupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "同好圈",
+                            "value": "客户支持",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "粉絲社群",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Мобилни",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Mobily",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Mobilgeräte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κινητά",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Mobiililaitteet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Portable",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "मोबाइल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Mobilno",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cellulare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "モバイル",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "모바일",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mobilieji prietaisai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Mobiel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Mobilne",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Мобильные устройства",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มือถือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мобільні ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Móvil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Dispositivo Móvel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "移动端",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "行動裝置",
+                            "value": "客戶支援",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -858,152 +706,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Обслужване на клиенти",
+                            "value": "Фендъм",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Uživatelská podpora",
+                            "value": "Pro fanoušky",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kundesupport",
+                            "value": "Fangruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kundensupport",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Εξυπηρέτηση πελατών",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Asiakastuki",
+                            "value": "Fanikunta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Assistance clientèle",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कस्टमर सपोर्ट",
+                            "value": "फ़ैनडम",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Podrška korisnicima",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Ügyfélszolgálat",
+                            "value": "Rajongói",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Assistenza clienti",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "カスタマーサポート",
+                            "value": "ファンダム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "고객 지원",
+                            "value": "팬덤",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Klientų palaikymas",
+                            "value": "Fanai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Klantenondersteuning",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kundestøtte",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Pomoc techniczna",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Asistență clienți",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Служба поддержки",
+                            "value": "Фандомы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "value": "กลุ่มแฟนคลับ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Müşteri Desteği",
+                            "value": "Hayran Kitlesi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Підтримка користувачів",
+                            "value": "Фандом",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Chăm Sóc Khách Hàng",
+                            "value": "Cộng Đồng Người Hâm Mộ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Customer Support",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Customer Support",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Atención al cliente",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Suporte ao cliente",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kundsupport",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "客户支持",
+                            "value": "同好圈",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "客戶支援",
+                            "value": "粉絲社群",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1158,6 +1006,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
