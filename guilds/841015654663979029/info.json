@@ -2,13 +2,13 @@
     "id": "841015654663979029",
     "name": "IEM",
     "description": "IEM is a FIFA-series mod which aims to add new teams and leagues globally from around the world.",
-    "icon": "a_807b3730551ef1aacb1407f62d72da58",
+    "icon": "bc76c9e0bd6806ca32a9f8825f9f546f",
     "splash": "e239cc32ab25c64e0166fe0a9c888659",
     "discovery_splash": "c54772f8ec42fe22594efd44a1fb5d2e",
     "banner": "02e60c0fb89676cd7a576bc7704345c3",
-    "approximate_presence_count": 822,
-    "approximate_member_count": 8116,
-    "premium_subscription_count": 33,
+    "approximate_presence_count": 1202,
+    "approximate_member_count": 8270,
+    "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "iem-841015654663979029",
     "keywords": [
@@ -34,12 +34,12 @@
         "id": "841015654663979029",
         "name": "IEM",
         "description": "IEM is a FIFA-series mod which aims to add new teams and leagues globally from around the world.",
-        "icon": "a_807b3730551ef1aacb1407f62d72da58",
+        "icon": "bc76c9e0bd6806ca32a9f8825f9f546f",
         "splash": "e239cc32ab25c64e0166fe0a9c888659",
         "banner": "02e60c0fb89676cd7a576bc7704345c3",
-        "approximate_presence_count": 822,
-        "approximate_member_count": 8116,
-        "premium_subscription_count": 33,
+        "approximate_presence_count": 1202,
+        "approximate_member_count": 8270,
+        "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c54772f8ec42fe22594efd44a1fb5d2e",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -99,16 +109,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             }
         ],
@@ -204,6 +204,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -353,25 +372,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
