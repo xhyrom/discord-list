@@ -5,23 +5,23 @@
     "icon": "864ac4daa734f70c01337da099d204c9",
     "splash": "aa82d44723196a6bcc652da238246ab3",
     "discovery_splash": "6c8d6214bf321feafefce89024065c1d",
-    "banner": "3cf97a637dbc33d6f57e710420593d08",
-    "approximate_presence_count": 968,
-    "approximate_member_count": 3303,
-    "premium_subscription_count": 2,
+    "banner": "c7225a5e5ccf443f93e4227d6aea24b1",
+    "approximate_presence_count": 888,
+    "approximate_member_count": 3339,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "communityvolleyball",
     "keywords": [
-        "roblox",
-        "volleyball",
-        "roleplay",
-        "league",
-        "sports",
-        "4.4",
         "4.2",
+        "4.4",
+        "Anime",
         "Haikyu",
         "Haikyuu",
-        "Anime"
+        "league",
+        "roblox",
+        "roleplay",
+        "sports",
+        "volleyball"
     ],
     "features": [
         "COMMUNITY",
@@ -39,27 +39,27 @@
         "description": "Welcome to CVL, this is the official Volleyball 4.4 community/league server, glad to have you with us! 🏐",
         "icon": "864ac4daa734f70c01337da099d204c9",
         "splash": "aa82d44723196a6bcc652da238246ab3",
-        "banner": "3cf97a637dbc33d6f57e710420593d08",
-        "approximate_presence_count": 968,
-        "approximate_member_count": 3303,
-        "premium_subscription_count": 2,
+        "banner": "c7225a5e5ccf443f93e4227d6aea24b1",
+        "approximate_presence_count": 888,
+        "approximate_member_count": 3339,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6c8d6214bf321feafefce89024065c1d",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "communityvolleyball",
+        "is_published": true,
         "keywords": [
-            "roblox",
-            "volleyball",
-            "roleplay",
-            "league",
-            "sports",
-            "4.4",
             "4.2",
+            "4.4",
+            "Anime",
             "Haikyu",
             "Haikyuu",
-            "Anime"
+            "league",
+            "roblox",
+            "roleplay",
+            "sports",
+            "volleyball"
         ],
         "features": [
             "COMMUNITY",
@@ -108,6 +108,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 16,
                 "is_primary": false,
                 "name": "Anime & Manga",
@@ -142,16 +152,6 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -241,29 +241,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "communityvolleyball",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "roblox",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "volleyball",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roleplay",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "league",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sports",
+                    "value": "4.2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -273,7 +258,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "4.2",
+                    "value": "Anime",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -288,7 +273,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Anime",
+                    "value": "league",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roblox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roleplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "volleyball",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -450,6 +455,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Аниме и манга",
                             "matchLevel": "none",
@@ -597,25 +621,6 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
