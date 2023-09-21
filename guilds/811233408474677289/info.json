@@ -6,8 +6,8 @@
     "splash": "439f971050021710c3491bfb279519cc",
     "discovery_splash": "439f971050021710c3491bfb279519cc",
     "banner": "acd6c0cb0a5f8e1d9ce931cfbf9165c8",
-    "approximate_presence_count": 128,
-    "approximate_member_count": 3672,
+    "approximate_presence_count": 71,
+    "approximate_member_count": 3633,
     "premium_subscription_count": 5,
     "preferred_locale": "de",
     "vanity_url_code": "copped-inc-811233408474677289",
@@ -37,8 +37,8 @@
         "icon": "a_023ae83a5fbefed822b95073f3367101",
         "splash": "439f971050021710c3491bfb279519cc",
         "banner": "acd6c0cb0a5f8e1d9ce931cfbf9165c8",
-        "approximate_presence_count": 128,
-        "approximate_member_count": 3672,
+        "approximate_presence_count": 71,
+        "approximate_member_count": 3633,
         "premium_subscription_count": 5,
         "preferred_locale": "de",
         "auto_removed": false,
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 49,
                 "is_primary": true,
@@ -109,6 +99,16 @@
                     "sv-SE": "Bottar",
                     "zh-CN": "机器人",
                     "zh-TW": "機器人"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -241,25 +241,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -409,6 +390,25 @@
                         },
                         "zh-TW": {
                             "value": "機器人",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
