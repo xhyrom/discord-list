@@ -1,14 +1,14 @@
 {
     "id": "515962317083770882",
     "name": "Game Sat Community",
-    "description": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران \"...لێرە١- فێردەبیت٢- خۆشی دەبینیت٣- هاوکاری دەکرێیت",
-    "icon": "c85bd7677735f380006f2a984b390ce4",
-    "splash": "b4b5cd740b05459f82dc69effafb38e3",
-    "discovery_splash": "b4b5cd740b05459f82dc69effafb38e3",
-    "banner": "a_7230222aca9407ebb9e50b80f3aee3dd",
-    "approximate_presence_count": 333,
-    "approximate_member_count": 2530,
-    "premium_subscription_count": 9,
+    "description": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران لێرە فێردەبیت و چێژ وەردەگریت وە هاوکاری دەکرێیت \"",
+    "icon": "56b1fa2844eb4cc93c5247dcab6124a3",
+    "splash": "6502f91b5c127135db2703db13f269c4",
+    "discovery_splash": "c8f65c1e266c7b33b323dc30de2e6132",
+    "banner": "4c5855e72a0ae69c4965b231dbf19abf",
+    "approximate_presence_count": 94,
+    "approximate_member_count": 2740,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,16 +36,16 @@
     "raw": {
         "id": "515962317083770882",
         "name": "Game Sat Community",
-        "description": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران \"...لێرە١- فێردەبیت٢- خۆشی دەبینیت٣- هاوکاری دەکرێیت",
-        "icon": "c85bd7677735f380006f2a984b390ce4",
-        "splash": "b4b5cd740b05459f82dc69effafb38e3",
-        "banner": "a_7230222aca9407ebb9e50b80f3aee3dd",
-        "approximate_presence_count": 333,
-        "approximate_member_count": 2530,
-        "premium_subscription_count": 9,
+        "description": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران لێرە فێردەبیت و چێژ وەردەگریت وە هاوکاری دەکرێیت \"",
+        "icon": "56b1fa2844eb4cc93c5247dcab6124a3",
+        "splash": "6502f91b5c127135db2703db13f269c4",
+        "banner": "4c5855e72a0ae69c4965b231dbf19abf",
+        "approximate_presence_count": 94,
+        "approximate_member_count": 2740,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "b4b5cd740b05459f82dc69effafb38e3",
+        "discovery_splash": "c8f65c1e266c7b33b323dc30de2e6132",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
@@ -64,45 +65,46 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 15,
-                "is_primary": false,
-                "name": "Esports",
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             },
             {
@@ -180,40 +182,40 @@
                 }
             },
             {
-                "id": 48,
-                "is_primary": false,
-                "name": "Game Developer",
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
                 "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -299,7 +301,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران \"...لێرە١- فێردەبیت٢- خۆشی دەبینیت٣- هاوکاری دەکرێیت",
+                "value": "\" گەیم سات گونجاوترین کۆمەڵگە بۆ گەیمەران لێرە فێردەبیت و چێژ وەردەگریت وە هاوکاری دەکرێیت \"",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -359,152 +361,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Електронни спортове",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Esport",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Esport",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "E-Sports",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Esports",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Esports",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "eSport",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "ईस्पोर्ट्स",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "E-sport",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "E-sport",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Esport",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "eスポーツ",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이스포츠",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "E. sportas",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "E-sport",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "E-sport",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "E-sport",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "eSports",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Киберспорт",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีสปอร์ต",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "E-spor",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Електронний спорт",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Thể Thao Điện Tử",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Esports",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Esports",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "E-sports",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "E-sports",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "E-sport",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "电子竞技",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "電競",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -821,152 +823,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Разработчик на игри",
+                            "value": "Наука и технологии",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Vývojář her",
+                            "value": "Věda a technika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spiludvikler",
+                            "value": "Videnskab & teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Spieleentwicklung",
+                            "value": "Wissenschaft & Technik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
+                            "value": "Επιστήμη & Τεχνολογία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelinkehittäjät",
+                            "value": "Tiede ja tekniikka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Développeur de jeux vidéo",
+                            "value": "Science et technologie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेम डेवलपर",
+                            "value": "साइंस और टेक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Razvoj igara",
+                            "value": "Znanost i tehnologija",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játékfejlesztő",
+                            "value": "Tudomány és technológia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Sviluppatore di videogiochi",
+                            "value": "Scienza e tecnologia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲームデベロッパー",
+                            "value": "サイエンス&テクノロジー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 개발",
+                            "value": "과학, 기술",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų kūrėjai",
+                            "value": "Mokslas ir technologijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gameontwikkelaar",
+                            "value": "Wetenschap en tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Spillutvikler",
+                            "value": "Vitenskap og teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Deweloper gry",
+                            "value": "Nauka i technika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Dezvoltarea jocurilor",
+                            "value": "Știință și tehnologie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Разработка игр",
+                            "value": "Наука и техника",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้พัฒนาเกม",
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun Geliştiricisi",
+                            "value": "Bilim ve Teknoloji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розробка ігор",
+                            "value": "Наука й технології",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Phát Triển Game",
+                            "value": "Khoa Học & Công Nghệ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Game Developer",
+                            "value": "Science & tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Game Developer",
+                            "value": "Science & Tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Desarrollo de juegos",
+                            "value": "Ciencia y tecnología",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
+                            "value": "Ciência e Tecnologia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Spelutvecklare",
+                            "value": "Vetenskap och teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏开发人员",
+                            "value": "科学&技术",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲開發者",
+                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
