@@ -4,29 +4,30 @@
     "description": "TsunamiX: https://tsunami.finance/",
     "icon": "d9d3bfa760eda4d1e2a088f136cdcf58",
     "splash": "0a9a56b273444c3f267451d336752e39",
-    "discovery_splash": "671619d64945061ad1f761e6730f2635",
+    "discovery_splash": "5dcd3decd5d050eddc4a07a76e0edc9b",
     "banner": "a_cb033ac6521804172e0c0fec07cb31fd",
     "approximate_presence_count": 2555,
     "approximate_member_count": 66048,
-    "premium_subscription_count": 19,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "tsunamifinance",
     "keywords": [
-        "defi",
-        "cryptocurrency",
-        "trading",
         "aptos",
-        "dex",
-        "decentralized",
-        "crypto",
         "blockchain",
+        "crypto",
+        "cryptocurrency",
+        "decentralized",
+        "defi",
+        "dex",
         "margin",
-        "spot"
+        "spot",
+        "trading"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -41,29 +42,30 @@
         "banner": "a_cb033ac6521804172e0c0fec07cb31fd",
         "approximate_presence_count": 2555,
         "approximate_member_count": 66048,
-        "premium_subscription_count": 19,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "671619d64945061ad1f761e6730f2635",
+        "discovery_splash": "5dcd3decd5d050eddc4a07a76e0edc9b",
         "primary_category_id": 12,
         "vanity_url_code": "tsunamifinance",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "defi",
-            "cryptocurrency",
-            "trading",
             "aptos",
-            "dex",
-            "decentralized",
-            "crypto",
             "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "decentralized",
+            "defi",
+            "dex",
             "margin",
-            "spot"
+            "spot",
+            "trading"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -199,32 +201,12 @@
             },
             "keywords": [
                 {
-                    "value": "defi",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cryptocurrency",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "trading",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "aptos",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "dex",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "decentralized",
+                    "value": "blockchain",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -234,7 +216,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "blockchain",
+                    "value": "cryptocurrency",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "decentralized",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "defi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dex",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -245,6 +242,11 @@
                 },
                 {
                     "value": "spot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trading",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
