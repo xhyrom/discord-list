@@ -6,20 +6,20 @@
     "splash": "48b7cfdf91acd9d6d545713164367dfc",
     "discovery_splash": "4a4b87c81f1a90016d3ec5f0d2d1284b",
     "banner": "a_a9ef3ca8d0f42828ceaadabbff83d721",
-    "approximate_presence_count": 17930,
-    "approximate_member_count": 168763,
+    "approximate_presence_count": 15609,
+    "approximate_member_count": 168742,
     "premium_subscription_count": 23,
     "preferred_locale": "en-US",
     "vanity_url_code": "dbl",
     "keywords": [
-        "bots",
         "bot",
-        "top",
-        "top.gg",
         "botlist",
-        "servers",
+        "bots",
+        "list",
         "serverlist",
-        "list"
+        "servers",
+        "top",
+        "top.gg"
     ],
     "features": [
         "COMMUNITY",
@@ -38,8 +38,8 @@
         "icon": "a_8629e5d96a88d50aa26754d458c0b7d5",
         "splash": "48b7cfdf91acd9d6d545713164367dfc",
         "banner": "a_a9ef3ca8d0f42828ceaadabbff83d721",
-        "approximate_presence_count": 17930,
-        "approximate_member_count": 168763,
+        "approximate_presence_count": 15609,
+        "approximate_member_count": 168742,
         "premium_subscription_count": 23,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,14 +48,14 @@
         "vanity_url_code": "dbl",
         "is_published": true,
         "keywords": [
-            "bots",
             "bot",
-            "top",
-            "top.gg",
             "botlist",
-            "servers",
+            "bots",
+            "list",
             "serverlist",
-            "list"
+            "servers",
+            "top",
+            "top.gg"
         ],
         "features": [
             "COMMUNITY",
@@ -308,12 +308,32 @@
             },
             "keywords": [
                 {
+                    "value": "bot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "botlist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "bots",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "bot",
+                    "value": "list",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "serverlist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "servers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -324,26 +344,6 @@
                 },
                 {
                     "value": "top.gg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "botlist",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "servers",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "serverlist",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "list",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
