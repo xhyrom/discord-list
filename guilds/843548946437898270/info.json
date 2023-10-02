@@ -1,13 +1,13 @@
 {
     "id": "843548946437898270",
     "name": "Francify | Restock",
-    "description": "Tu cherches à te lancer dans le resell des sneakers ? Alors rejoins-nous, Francify donne les infos dont tu as besoin !",
+    "description": "",
     "icon": "7227acb719009e533e7484cbdebf5672",
     "splash": null,
     "discovery_splash": "d516dd1e2482e1ebd3b0dad57d755613",
     "banner": null,
-    "approximate_presence_count": 132,
-    "approximate_member_count": 3643,
+    "approximate_presence_count": 195,
+    "approximate_member_count": 3290,
     "premium_subscription_count": 0,
     "preferred_locale": "fr",
     "vanity_url_code": null,
@@ -27,19 +27,20 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "843548946437898270",
         "name": "Francify | Restock",
-        "description": "Tu cherches à te lancer dans le resell des sneakers ? Alors rejoins-nous, Francify donne les infos dont tu as besoin !",
+        "description": "",
         "icon": "7227acb719009e533e7484cbdebf5672",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 132,
-        "approximate_member_count": 3643,
+        "approximate_presence_count": 195,
+        "approximate_member_count": 3290,
         "premium_subscription_count": 0,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -63,19 +64,10 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -114,40 +106,50 @@
                 }
             },
             {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
+                "id": 49,
+                "is_primary": true,
+                "name": "Bots",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -185,43 +187,6 @@
                     "sv-SE": "Mode och skönhet",
                     "zh-CN": "时尚&美妆",
                     "zh-TW": "時尚與美容"
-                }
-            },
-            {
-                "id": 49,
-                "is_primary": true,
-                "name": "Bots",
-                "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
                 }
             }
         ],
@@ -270,7 +235,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Tu cherches à te lancer dans le resell des sneakers ? Alors rejoins-nous, Francify donne les infos dont tu as besoin !",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -327,25 +292,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -503,152 +449,171 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Ботове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Boti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Botit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "बॉट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Botovi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Botok",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "봇",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Botai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Boter",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Boty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Boți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Боты",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Botlar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Боти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Bottar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "机器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "機器人",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -803,160 +768,6 @@
                         },
                         "zh-TW": {
                             "value": "時尚與美容",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Ботове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Boti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Botit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बॉट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Botovi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Botok",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "봇",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Botai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Boter",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Boty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Boți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Боты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Botlar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Боти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Bottar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "机器人",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
