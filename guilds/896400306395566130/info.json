@@ -2,13 +2,13 @@
     "id": "896400306395566130",
     "name": "Diep.io",
     "description": "Active server, daily events with prizes, make new friends and enjoy your stay here!",
-    "icon": "b3f9da927aa1d9840e2f12fa56731960",
+    "icon": "cc1e87d82bff4b3fc3d24d972172219f",
     "splash": "a3f1d48cdd0102ff3b07b52a391d7c4a",
     "discovery_splash": "7230e2429f856f6aa4d7aee0686ca006",
-    "banner": "fd94703cdeeb0f513b6bc0c5df45c223",
-    "approximate_presence_count": 520,
-    "approximate_member_count": 2957,
-    "premium_subscription_count": 18,
+    "banner": "1cb428eadcc3537ef370b01e0a15059a",
+    "approximate_presence_count": 510,
+    "approximate_member_count": 3283,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "diep",
     "keywords": [
@@ -37,12 +37,12 @@
         "id": "896400306395566130",
         "name": "Diep.io",
         "description": "Active server, daily events with prizes, make new friends and enjoy your stay here!",
-        "icon": "b3f9da927aa1d9840e2f12fa56731960",
+        "icon": "cc1e87d82bff4b3fc3d24d972172219f",
         "splash": "a3f1d48cdd0102ff3b07b52a391d7c4a",
-        "banner": "fd94703cdeeb0f513b6bc0c5df45c223",
-        "approximate_presence_count": 520,
-        "approximate_member_count": 2957,
-        "premium_subscription_count": 18,
+        "banner": "1cb428eadcc3537ef370b01e0a15059a",
+        "approximate_presence_count": 510,
+        "approximate_member_count": 3283,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7230e2429f856f6aa4d7aee0686ca006",
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 43,
                 "is_primary": true,
@@ -105,16 +115,6 @@
                     "sv-SE": "Emoji",
                     "zh-CN": "表情符号",
                     "zh-TW": "表情符號"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -375,6 +375,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Емотикон",
                             "matchLevel": "none",
@@ -522,25 +541,6 @@
                         },
                         "zh-TW": {
                             "value": "表情符號",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
