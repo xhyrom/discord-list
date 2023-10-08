@@ -6,11 +6,11 @@
     "splash": "26a6ac6a3628f8686a9ef1d8e814a31d",
     "discovery_splash": "26a6ac6a3628f8686a9ef1d8e814a31d",
     "banner": "a_cb24f180d8acd52b9bf9b4a78750625e",
-    "approximate_presence_count": 310,
-    "approximate_member_count": 4382,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 311,
+    "approximate_member_count": 4252,
+    "premium_subscription_count": 12,
     "preferred_locale": "it",
-    "vanity_url_code": "bonysosa",
+    "vanity_url_code": null,
     "keywords": [
         "bonysosa",
         "rp",
@@ -37,14 +37,14 @@
         "icon": "6827aa7ecb4542a310481eda4f9f1446",
         "splash": "26a6ac6a3628f8686a9ef1d8e814a31d",
         "banner": "a_cb24f180d8acd52b9bf9b4a78750625e",
-        "approximate_presence_count": 310,
-        "approximate_member_count": 4382,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 311,
+        "approximate_member_count": 4252,
+        "premium_subscription_count": 12,
         "preferred_locale": "it",
         "auto_removed": false,
         "discovery_splash": "26a6ac6a3628f8686a9ef1d8e814a31d",
         "primary_category_id": 1,
-        "vanity_url_code": "bonysosa",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "bonysosa",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -99,16 +109,6 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -309,11 +309,6 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
-            "vanity_url_code": {
-                "value": "bonysosa",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
             "keywords": [
                 {
                     "value": "bonysosa",
@@ -352,6 +347,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -501,25 +515,6 @@
                         },
                         "zh-TW": {
                             "value": "電競",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
