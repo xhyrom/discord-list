@@ -5,24 +5,25 @@
     "icon": "a_fd42de5319cd5f9cdfed3e56ba38ec41",
     "splash": "5be5df0b0c68eeda970f830aef539ec8",
     "discovery_splash": "f5cac8082c7e87afde8b7cde4ab16efe",
-    "banner": "a_fbeb598cd449a1614d582c738d6b46e5",
-    "approximate_presence_count": 574,
-    "approximate_member_count": 6487,
-    "premium_subscription_count": 22,
+    "banner": "a_776b4406c41262ed04fa12b9e58f9604",
+    "approximate_presence_count": 1068,
+    "approximate_member_count": 6753,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "alist",
     "keywords": [
-        "amc",
-        "movies",
         "alist",
+        "amc",
+        "cinema",
+        "movies",
         "reddit",
-        "theater",
-        "cinema"
+        "theater"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,10 +35,10 @@
         "description": "A place to discuss AMC Theatres' A-List movie subscription program, the film industry, and general entertainment media!",
         "icon": "a_fd42de5319cd5f9cdfed3e56ba38ec41",
         "splash": "5be5df0b0c68eeda970f830aef539ec8",
-        "banner": "a_fbeb598cd449a1614d582c738d6b46e5",
-        "approximate_presence_count": 574,
-        "approximate_member_count": 6487,
-        "premium_subscription_count": 22,
+        "banner": "a_776b4406c41262ed04fa12b9e58f9604",
+        "approximate_presence_count": 1068,
+        "approximate_member_count": 6753,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f5cac8082c7e87afde8b7cde4ab16efe",
@@ -45,17 +46,18 @@
         "vanity_url_code": "alist",
         "is_published": true,
         "keywords": [
-            "amc",
-            "movies",
             "alist",
+            "amc",
+            "cinema",
+            "movies",
             "reddit",
-            "theater",
-            "cinema"
+            "theater"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -191,17 +193,22 @@
             },
             "keywords": [
                 {
+                    "value": "alist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "amc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "movies",
+                    "value": "cinema",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "alist",
+                    "value": "movies",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -212,11 +219,6 @@
                 },
                 {
                     "value": "theater",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cinema",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
