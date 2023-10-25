@@ -1,13 +1,13 @@
 {
     "id": "696030305580220537",
     "name": "読書",
-    "description": "Discordで最大規模の読書系サーバー📚",
+    "description": "Discordで最大手の読書系サーバーです！📚 / 本の感想の共有、情報交換ができます。通話もあります。 / 全く本を読んだことがない方であっても大歓迎ですので、まずは一度だけでも覗いてみてください！ROM専 & 即抜けOK。",
     "icon": "823d8e2c55e2ca84e6a017999c7193aa",
     "splash": "f3d083b56ef1ff512bd9fd7bafbf8e34",
     "discovery_splash": "cdac8caa5930ad31f713bee34e7e9c94",
     "banner": "f3d083b56ef1ff512bd9fd7bafbf8e34",
-    "approximate_presence_count": 176,
-    "approximate_member_count": 1911,
+    "approximate_presence_count": 157,
+    "approximate_member_count": 2084,
     "premium_subscription_count": 0,
     "preferred_locale": "ja",
     "vanity_url_code": null,
@@ -22,6 +22,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -30,12 +31,12 @@
     "raw": {
         "id": "696030305580220537",
         "name": "読書",
-        "description": "Discordで最大規模の読書系サーバー📚",
+        "description": "Discordで最大手の読書系サーバーです！📚 / 本の感想の共有、情報交換ができます。通話もあります。 / 全く本を読んだことがない方であっても大歓迎ですので、まずは一度だけでも覗いてみてください！ROM専 & 即抜けOK。",
         "icon": "823d8e2c55e2ca84e6a017999c7193aa",
         "splash": "f3d083b56ef1ff512bd9fd7bafbf8e34",
         "banner": "f3d083b56ef1ff512bd9fd7bafbf8e34",
-        "approximate_presence_count": 176,
-        "approximate_member_count": 1911,
+        "approximate_presence_count": 157,
+        "approximate_member_count": 2084,
         "premium_subscription_count": 0,
         "preferred_locale": "ja",
         "auto_removed": false,
@@ -54,47 +55,11 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 18,
-                "is_primary": false,
-                "name": "Books",
-                "name_localizations": {
-                    "bg": "Книги",
-                    "cs": "Knihy",
-                    "da": "Bøger",
-                    "de": "Bücher",
-                    "el": "Βιβλία",
-                    "fi": "Kirjat",
-                    "fr": "Livres",
-                    "hi": "बुक्स",
-                    "hr": "Knjiga",
-                    "hu": "Könyvek",
-                    "it": "Libri",
-                    "ja": "書籍",
-                    "ko": "책",
-                    "lt": "Knygos",
-                    "nl": "Boeken",
-                    "no": "Bøker",
-                    "pl": "Książki",
-                    "ro": "Cărți",
-                    "ru": "Книги",
-                    "th": "หนังสือ",
-                    "tr": "Kitaplar",
-                    "uk": "Книги",
-                    "vi": "Sách",
-                    "en-GB": "Books",
-                    "en-US": "Books",
-                    "es-ES": "Libros",
-                    "pt-BR": "Livros",
-                    "sv-SE": "Böcker",
-                    "zh-CN": "读书",
-                    "zh-TW": "書籍"
-                }
-            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -130,6 +95,43 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 18,
+                "is_primary": false,
+                "name": "Books",
+                "name_localizations": {
+                    "bg": "Книги",
+                    "cs": "Knihy",
+                    "da": "Bøger",
+                    "de": "Bücher",
+                    "el": "Βιβλία",
+                    "fi": "Kirjat",
+                    "fr": "Livres",
+                    "hi": "बुक्स",
+                    "hr": "Knjiga",
+                    "hu": "Könyvek",
+                    "it": "Libri",
+                    "ja": "書籍",
+                    "ko": "책",
+                    "lt": "Knygos",
+                    "nl": "Boeken",
+                    "no": "Bøker",
+                    "pl": "Książki",
+                    "ro": "Cărți",
+                    "ru": "Книги",
+                    "th": "หนังสือ",
+                    "tr": "Kitaplar",
+                    "uk": "Книги",
+                    "vi": "Sách",
+                    "en-GB": "Books",
+                    "en-US": "Books",
+                    "es-ES": "Libros",
+                    "pt-BR": "Livros",
+                    "sv-SE": "Böcker",
+                    "zh-CN": "读书",
+                    "zh-TW": "書籍"
                 }
             }
         ],
@@ -178,7 +180,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Discordで最大規模の読書系サーバー📚",
+                "value": "Discordで最大手の読書系サーバーです！📚 / 本の感想の共有、情報交換ができます。通話もあります。 / 全く本を読んだことがない方であっても大歓迎ですので、まずは一度だけでも覗いてみてください！ROM専 & 即抜けOK。",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -210,160 +212,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Knihy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bøger",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bücher",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Βιβλία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Livres",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बुक्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Knjiga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Könyvek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Libri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "書籍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "책",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Knygos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Boeken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Bøker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Książki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Cărți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "หนังสือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kitaplar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Sách",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Libros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Livros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Böcker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "读书",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "書籍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -513,6 +361,160 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Knihy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Bøger",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bücher",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Βιβλία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kirjat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Livres",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बुक्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Knjiga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Könyvek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Libri",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "書籍",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "책",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Knygos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Boeken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Bøker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Książki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Cărți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "หนังสือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kitaplar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Книги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sách",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Books",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Books",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Libros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Livros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Böcker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "读书",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "書籍",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
