@@ -6,8 +6,8 @@
     "splash": "d84f9166c4a9f7396b28e5925bfb3127",
     "discovery_splash": "65dce29f2ef322fc0a93dbf9cda42a4b",
     "banner": "46020ec857f18331c1c535b48cba37d9",
-    "approximate_presence_count": 367,
-    "approximate_member_count": 5295,
+    "approximate_presence_count": 518,
+    "approximate_member_count": 5060,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -39,8 +39,8 @@
         "icon": "51e1fc4a8cff6abf67cd9de17eca068d",
         "splash": "d84f9166c4a9f7396b28e5925bfb3127",
         "banner": "46020ec857f18331c1c535b48cba37d9",
-        "approximate_presence_count": 367,
-        "approximate_member_count": 5295,
+        "approximate_presence_count": 518,
+        "approximate_member_count": 5060,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -69,77 +69,40 @@
         ],
         "categories": [
             {
-                "id": 29,
+                "id": 18,
                 "is_primary": false,
-                "name": "Studying & Teaching",
+                "name": "Books",
                 "name_localizations": {
-                    "bg": "Учене и преподаване",
-                    "cs": "Studium a výuka",
-                    "da": "Studier & undervisning",
-                    "de": "Lernen & Lehren",
-                    "el": "Μάθηση & Διδασκαλία",
-                    "fi": "Opiskelu ja opetus",
-                    "fr": "Études et enseignement",
-                    "hi": "पढ़ना और पढ़ाना",
-                    "hr": "Učenje i podučavanje",
-                    "hu": "Tanulás és tanítás",
-                    "it": "Studiare e insegnare",
-                    "ja": "学習&教育",
-                    "ko": "공부, 교육",
-                    "lt": "Studijos ir mokymas",
-                    "nl": "Studeren en lesgeven",
-                    "no": "Studier og undervisning",
-                    "pl": "Studia i nauczanie",
-                    "ro": "Învățământ și studii",
-                    "ru": "Обучение",
-                    "th": "การศึกษาและการสอน",
-                    "tr": "Eğitim ve Öğretim",
-                    "uk": "Навчання й викладання",
-                    "vi": "Học và Dạy",
-                    "en-GB": "Studying & Teaching",
-                    "en-US": "Studying & Teaching",
-                    "es-ES": "Estudios y enseñanza",
-                    "pt-BR": "Didática e Aprendizado",
-                    "sv-SE": "Studier och undervisning",
-                    "zh-CN": "研究&教学",
-                    "zh-TW": "研究與教學"
-                }
-            },
-            {
-                "id": 5,
-                "is_primary": true,
-                "name": "Science & Tech",
-                "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
+                    "bg": "Книги",
+                    "cs": "Knihy",
+                    "da": "Bøger",
+                    "de": "Bücher",
+                    "el": "Βιβλία",
+                    "fi": "Kirjat",
+                    "fr": "Livres",
+                    "hi": "बुक्स",
+                    "hr": "Knjiga",
+                    "hu": "Könyvek",
+                    "it": "Libri",
+                    "ja": "書籍",
+                    "ko": "책",
+                    "lt": "Knygos",
+                    "nl": "Boeken",
+                    "no": "Bøker",
+                    "pl": "Książki",
+                    "ro": "Cărți",
+                    "ru": "Книги",
+                    "th": "หนังสือ",
+                    "tr": "Kitaplar",
+                    "uk": "Книги",
+                    "vi": "Sách",
+                    "en-GB": "Books",
+                    "en-US": "Books",
+                    "es-ES": "Libros",
+                    "pt-BR": "Livros",
+                    "sv-SE": "Böcker",
+                    "zh-CN": "读书",
+                    "zh-TW": "書籍"
                 }
             },
             {
@@ -180,6 +143,80 @@
                 }
             },
             {
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
+                "name_localizations": {
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
+                }
+            },
+            {
+                "id": 29,
+                "is_primary": false,
+                "name": "Studying & Teaching",
+                "name_localizations": {
+                    "bg": "Учене и преподаване",
+                    "cs": "Studium a výuka",
+                    "da": "Studier & undervisning",
+                    "de": "Lernen & Lehren",
+                    "el": "Μάθηση & Διδασκαλία",
+                    "fi": "Opiskelu ja opetus",
+                    "fr": "Études et enseignement",
+                    "hi": "पढ़ना और पढ़ाना",
+                    "hr": "Učenje i podučavanje",
+                    "hu": "Tanulás és tanítás",
+                    "it": "Studiare e insegnare",
+                    "ja": "学習&教育",
+                    "ko": "공부, 교육",
+                    "lt": "Studijos ir mokymas",
+                    "nl": "Studeren en lesgeven",
+                    "no": "Studier og undervisning",
+                    "pl": "Studia i nauczanie",
+                    "ro": "Învățământ și studii",
+                    "ru": "Обучение",
+                    "th": "การศึกษาและการสอน",
+                    "tr": "Eğitim ve Öğretim",
+                    "uk": "Навчання й викладання",
+                    "vi": "Học và Dạy",
+                    "en-GB": "Studying & Teaching",
+                    "en-US": "Studying & Teaching",
+                    "es-ES": "Estudios y enseñanza",
+                    "pt-BR": "Didática e Aprendizado",
+                    "sv-SE": "Studier och undervisning",
+                    "zh-CN": "研究&教学",
+                    "zh-TW": "研究與教學"
+                }
+            },
+            {
                 "id": 35,
                 "is_primary": false,
                 "name": "Content Creator",
@@ -214,43 +251,6 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 18,
-                "is_primary": false,
-                "name": "Books",
-                "name_localizations": {
-                    "bg": "Книги",
-                    "cs": "Knihy",
-                    "da": "Bøger",
-                    "de": "Bücher",
-                    "el": "Βιβλία",
-                    "fi": "Kirjat",
-                    "fr": "Livres",
-                    "hi": "बुक्स",
-                    "hr": "Knjiga",
-                    "hu": "Könyvek",
-                    "it": "Libri",
-                    "ja": "書籍",
-                    "ko": "책",
-                    "lt": "Knygos",
-                    "nl": "Boeken",
-                    "no": "Bøker",
-                    "pl": "Książki",
-                    "ro": "Cărți",
-                    "ru": "Книги",
-                    "th": "หนังสือ",
-                    "tr": "Kitaplar",
-                    "uk": "Книги",
-                    "vi": "Sách",
-                    "en-GB": "Books",
-                    "en-US": "Books",
-                    "es-ES": "Libros",
-                    "pt-BR": "Livros",
-                    "sv-SE": "Böcker",
-                    "zh-CN": "读书",
-                    "zh-TW": "書籍"
                 }
             }
         ],
@@ -354,306 +354,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Учене и преподаване",
+                            "value": "Книги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Studium a výuka",
+                            "value": "Knihy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Studier & undervisning",
+                            "value": "Bøger",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Lernen & Lehren",
+                            "value": "Bücher",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Μάθηση & Διδασκαλία",
+                            "value": "Βιβλία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Opiskelu ja opetus",
+                            "value": "Kirjat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Études et enseignement",
+                            "value": "Livres",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "पढ़ना और पढ़ाना",
+                            "value": "बुक्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Učenje i podučavanje",
+                            "value": "Knjiga",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tanulás és tanítás",
+                            "value": "Könyvek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Studiare e insegnare",
+                            "value": "Libri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "学習&教育",
+                            "value": "書籍",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "공부, 교육",
+                            "value": "책",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Studijos ir mokymas",
+                            "value": "Knygos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Studeren en lesgeven",
+                            "value": "Boeken",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Studier og undervisning",
+                            "value": "Bøker",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Studia i nauczanie",
+                            "value": "Książki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Învățământ și studii",
+                            "value": "Cărți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Обучение",
+                            "value": "Книги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การศึกษาและการสอน",
+                            "value": "หนังสือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğitim ve Öğretim",
+                            "value": "Kitaplar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Навчання й викладання",
+                            "value": "Книги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Học và Dạy",
+                            "value": "Sách",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Studying & Teaching",
+                            "value": "Books",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Studying & Teaching",
+                            "value": "Books",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Estudios y enseñanza",
+                            "value": "Libros",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Didática e Aprendizado",
+                            "value": "Livros",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Studier och undervisning",
+                            "value": "Böcker",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "研究&教学",
+                            "value": "读书",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "研究與教學",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Наука и технологии",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Věda a technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Videnskab & teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wissenschaft & Technik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tiede ja tekniikka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Science et technologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "साइंस और टेक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Znanost i tehnologija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tudomány és technológia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scienza e tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "サイエンス&テクノロジー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "과학, 기술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mokslas ir technologijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wetenschap en tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Vitenskap og teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Nauka i technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Știință și tehnologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Наука и техника",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Bilim ve Teknoloji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Наука й технології",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Khoa Học & Công Nghệ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Science & tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Science & Tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Ciencia y tecnología",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Ciência e Tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Vetenskap och teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "科学&技术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "科學與技術",
+                            "value": "書籍",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -816,6 +662,314 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Наука и технологии",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Věda a technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Videnskab & teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wissenschaft & Technik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιστήμη & Τεχνολογία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tiede ja tekniikka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Science et technologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "साइंस और टेक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Znanost i tehnologija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tudomány és technológia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scienza e tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "サイエンス&テクノロジー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "과학, 기술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mokslas ir technologijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wetenschap en tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Vitenskap og teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Nauka i technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Știință și tehnologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Наука и техника",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Bilim ve Teknoloji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Наука й технології",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Khoa Học & Công Nghệ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Science & tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Science & Tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Ciencia y tecnología",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ciência e Tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Vetenskap och teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "科学&技术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "科學與技術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Учене и преподаване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Studium a výuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Studier & undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Lernen & Lehren",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μάθηση & Διδασκαλία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Opiskelu ja opetus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Études et enseignement",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "पढ़ना और पढ़ाना",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Učenje i podučavanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tanulás és tanítás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Studiare e insegnare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "学習&教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "공부, 교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Studijos ir mokymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Studeren en lesgeven",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Studier og undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Studia i nauczanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Învățământ și studii",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Обучение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษาและการสอน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim ve Öğretim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Навчання й викладання",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Học và Dạy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Estudios y enseñanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Didática e Aprendizado",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Studier och undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "研究&教学",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "研究與教學",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -962,160 +1116,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Knihy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bøger",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bücher",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Βιβλία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Livres",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बुक्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Knjiga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Könyvek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Libri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "書籍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "책",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Knygos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Boeken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Bøker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Książki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Cărți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "หนังสือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kitaplar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Книги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Sách",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Books",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Libros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Livros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Böcker",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "读书",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "書籍",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

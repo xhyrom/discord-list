@@ -2,12 +2,12 @@
     "id": "297317403690532864",
     "name": "Age of Magic",
     "description": "Welcome to the official Age of Magic Server! Feel free to share your experience with other players and have fun!",
-    "icon": "24aae5adfff620e98fe774f1d5a3f1ce",
+    "icon": "09eafb52acca87ed330291cc4575a44b",
     "splash": "7280a4f9f86b93e1286a8a70c5035488",
     "discovery_splash": "7280a4f9f86b93e1286a8a70c5035488",
     "banner": null,
-    "approximate_presence_count": 1112,
-    "approximate_member_count": 80886,
+    "approximate_presence_count": 1824,
+    "approximate_member_count": 80662,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "ageofmagic",
@@ -22,18 +22,12 @@
         "Fantasy"
     ],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -43,11 +37,11 @@
         "id": "297317403690532864",
         "name": "Age of Magic",
         "description": "Welcome to the official Age of Magic Server! Feel free to share your experience with other players and have fun!",
-        "icon": "24aae5adfff620e98fe774f1d5a3f1ce",
+        "icon": "09eafb52acca87ed330291cc4575a44b",
         "splash": "7280a4f9f86b93e1286a8a70c5035488",
         "banner": null,
-        "approximate_presence_count": 1112,
-        "approximate_member_count": 80886,
+        "approximate_presence_count": 1824,
+        "approximate_member_count": 80662,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -66,20 +60,842 @@
             "Fantasy"
         ],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
+                }
+            },
+            {
+                "id": 31,
+                "is_primary": false,
+                "name": "Customer Support",
+                "name_localizations": {
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 1,
+            "is_primary": true,
+            "name": "Gaming",
+            "name_localizations": {
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
+            }
+        },
+        "objectID": "297317403690532864",
+        "_highlightResult": {
+            "name": {
+                "value": "Age of Magic",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Welcome to the official Age of Magic Server! Feel free to share your experience with other players and have fun!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "ageofmagic",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "AoM",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Age Of Magic",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Mobile RPG",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "RPG",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Hero Battler",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Turn-Based",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Mobile",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Fantasy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Обслужване на клиенти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Uživatelská podpora",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kundesupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kundensupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εξυπηρέτηση πελατών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Asiakastuki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Assistance clientèle",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कस्टमर सपोर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Podrška korisnicima",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Ügyfélszolgálat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Assistenza clienti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "カスタマーサポート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "고객 지원",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Klientų palaikymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Klantenondersteuning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kundestøtte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pomoc techniczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Asistență clienți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Служба поддержки",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müşteri Desteği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Підтримка користувачів",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Chăm Sóc Khách Hàng",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Atención al cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Suporte ao cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kundsupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "客户支持",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "客戶支援",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

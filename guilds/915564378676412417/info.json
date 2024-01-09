@@ -3,11 +3,11 @@
     "name": "TRON DAO Community",
     "description": "",
     "icon": "eef5de4c5b3ae31f40ea81c0b3574c25",
-    "splash": "43c69ca5da14c6d52e955218d2c40bf1",
+    "splash": "1cfcb6363b6f186a40f469a048faf0b1",
     "discovery_splash": "40325eb0f1588fcf126d73283558f702",
-    "banner": "0eebfa6f1d53972c7b10a7eb5b64c657",
-    "approximate_presence_count": 370,
-    "approximate_member_count": 120725,
+    "banner": "11ab898abfabe9a63ca180257981dd33",
+    "approximate_presence_count": 899,
+    "approximate_member_count": 128645,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "trondao",
@@ -38,10 +38,10 @@
         "name": "TRON DAO Community",
         "description": "",
         "icon": "eef5de4c5b3ae31f40ea81c0b3574c25",
-        "splash": "43c69ca5da14c6d52e955218d2c40bf1",
-        "banner": "0eebfa6f1d53972c7b10a7eb5b64c657",
-        "approximate_presence_count": 370,
-        "approximate_member_count": 120725,
+        "splash": "1cfcb6363b6f186a40f469a048faf0b1",
+        "banner": "11ab898abfabe9a63ca180257981dd33",
+        "approximate_presence_count": 899,
+        "approximate_member_count": 128645,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -108,13 +118,40 @@
                 }
             },
             {
-                "id": 28,
+                "id": 27,
                 "is_primary": false,
-                "name": "Investing",
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -152,43 +189,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
-                "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -336,6 +336,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -492,18 +511,153 @@
                 },
                 {
                     "name_localizations": {
+                        "bg": {
+                            "value": "Криптовалута",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Kryptoměny",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
                         "de": {
-                            "value": "Geldanlage",
+                            "value": "Kryptowährung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κρυπτονόμισμα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Investissements",
+                            "value": "Cryptomonnaie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिप्टोकरेंसी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Kriptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kriptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Criptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "暗号通貨",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "암호화폐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kriptovaliuta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kryptowaluty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Инвестиции",
+                            "value": "Криптовалюта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "สกุลเงินดิจิทัล",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kripto Para Birimleri",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Криптовалюти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tiền Ảo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Criptomonedas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criptomoeda",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "数字货币",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -658,160 +812,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Криптовалута",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Kryptoměny",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kryptowährung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κρυπτονόμισμα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kryptovaluutta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Cryptomonnaie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "क्रिप्टोकरेंसी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Kriptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Kriptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Criptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "暗号通貨",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "암호화폐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Kriptovaliuta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kryptowaluty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Criptomonede",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Криптовалюта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "สกุลเงินดิจิทัล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kripto Para Birimleri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Криптовалюти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tiền Ảo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Criptomonedas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criptomoeda",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "数字货币",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
