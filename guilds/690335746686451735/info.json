@@ -6,8 +6,8 @@
     "splash": "4bae550ed52ac0a93a66a50356e52a51",
     "discovery_splash": "d20322c6012a98bc0026ddcfe335c69d",
     "banner": "82673a7f488ef182942dfbc04820f8ef",
-    "approximate_presence_count": 7850,
-    "approximate_member_count": 20851,
+    "approximate_presence_count": 5108,
+    "approximate_member_count": 20685,
     "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -37,8 +37,8 @@
         "icon": "a_bd315d666951a181e68fde31b075efed",
         "splash": "4bae550ed52ac0a93a66a50356e52a51",
         "banner": "82673a7f488ef182942dfbc04820f8ef",
-        "approximate_presence_count": 7850,
-        "approximate_member_count": 20851,
+        "approximate_presence_count": 5108,
+        "approximate_member_count": 20685,
         "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -65,40 +65,77 @@
         ],
         "categories": [
             {
-                "id": 31,
+                "id": 36,
                 "is_primary": false,
-                "name": "Customer Support",
+                "name": "Business",
                 "name_localizations": {
-                    "bg": "Обслужване на клиенти",
-                    "cs": "Uživatelská podpora",
-                    "da": "Kundesupport",
-                    "de": "Kundensupport",
-                    "el": "Εξυπηρέτηση πελατών",
-                    "fi": "Asiakastuki",
-                    "fr": "Assistance clientèle",
-                    "hi": "कस्टमर सपोर्ट",
-                    "hr": "Podrška korisnicima",
-                    "hu": "Ügyfélszolgálat",
-                    "it": "Assistenza clienti",
-                    "ja": "カスタマーサポート",
-                    "ko": "고객 지원",
-                    "lt": "Klientų palaikymas",
-                    "nl": "Klantenondersteuning",
-                    "no": "Kundestøtte",
-                    "pl": "Pomoc techniczna",
-                    "ro": "Asistență clienți",
-                    "ru": "Служба поддержки",
-                    "th": "ฝ่ายสนับสนุนลูกค้า",
-                    "tr": "Müşteri Desteği",
-                    "uk": "Підтримка користувачів",
-                    "vi": "Chăm Sóc Khách Hàng",
-                    "en-GB": "Customer Support",
-                    "en-US": "Customer Support",
-                    "es-ES": "Atención al cliente",
-                    "pt-BR": "Suporte ao cliente",
-                    "sv-SE": "Kundsupport",
-                    "zh-CN": "客户支持",
-                    "zh-TW": "客戶支援"
+                    "bg": "Бизнес",
+                    "cs": "Business",
+                    "da": "Forretning",
+                    "de": "Unternehmen",
+                    "el": "Επιχείρηση",
+                    "fi": "Liiketoiminta",
+                    "fr": "Activités commerciales",
+                    "hi": "बिज़नेस",
+                    "hr": "Posao",
+                    "hu": "Üzlet",
+                    "it": "Affari",
+                    "ja": "ビジネス",
+                    "ko": "사업",
+                    "lt": "Verslas",
+                    "nl": "Zakelijk",
+                    "no": "Næringsliv",
+                    "pl": "Biznes",
+                    "ro": "Activități comerciale",
+                    "ru": "Бизнес",
+                    "th": "ธุรกิจ",
+                    "tr": "Ticaret",
+                    "uk": "Бізнес",
+                    "vi": "Kinh Doanh",
+                    "en-GB": "Business",
+                    "en-US": "Business",
+                    "es-ES": "Negocios",
+                    "pt-BR": "Negócios",
+                    "sv-SE": "Affärer",
+                    "zh-CN": "商务",
+                    "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
                 }
             },
             {
@@ -139,43 +176,6 @@
                 }
             },
             {
-                "id": 36,
-                "is_primary": false,
-                "name": "Business",
-                "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
-                }
-            },
-            {
                 "id": 22,
                 "is_primary": false,
                 "name": "Programming",
@@ -213,40 +213,40 @@
                 }
             },
             {
-                "id": 45,
+                "id": 31,
                 "is_primary": false,
-                "name": "Mobile",
+                "name": "Customer Support",
                 "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
                 }
             },
             {
@@ -323,152 +323,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Обслужване на клиенти",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Uživatelská podpora",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kundesupport",
+                            "value": "Forretning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kundensupport",
+                            "value": "Unternehmen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Εξυπηρέτηση πελατών",
+                            "value": "Επιχείρηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Asiakastuki",
+                            "value": "Liiketoiminta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Assistance clientèle",
+                            "value": "Activités commerciales",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कस्टमर सपोर्ट",
+                            "value": "बिज़नेस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Podrška korisnicima",
+                            "value": "Posao",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Ügyfélszolgálat",
+                            "value": "Üzlet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Assistenza clienti",
+                            "value": "Affari",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "カスタマーサポート",
+                            "value": "ビジネス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "고객 지원",
+                            "value": "사업",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Klientų palaikymas",
+                            "value": "Verslas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Klantenondersteuning",
+                            "value": "Zakelijk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kundestøtte",
+                            "value": "Næringsliv",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Pomoc techniczna",
+                            "value": "Biznes",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Asistență clienți",
+                            "value": "Activități comerciale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Служба поддержки",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "value": "ธุรกิจ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Müşteri Desteği",
+                            "value": "Ticaret",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Підтримка користувачів",
+                            "value": "Бізнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Chăm Sóc Khách Hàng",
+                            "value": "Kinh Doanh",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Customer Support",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Customer Support",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Atención al cliente",
+                            "value": "Negocios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Suporte ao cliente",
+                            "value": "Negócios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kundsupport",
+                            "value": "Affärer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "客户支持",
+                            "value": "商务",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "客戶支援",
+                            "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -631,160 +785,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Forretning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unternehmen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιχείρηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Liiketoiminta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Activités commerciales",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बिज़नेस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Posao",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Üzlet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Affari",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ビジネス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "사업",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Verslas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Zakelijk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Næringsliv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Biznes",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Activități comerciale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ธุรกิจ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Ticaret",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Бізнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Kinh Doanh",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Negocios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Negócios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Affärer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "商务",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Програмиране",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -939,152 +939,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мобилни",
+                            "value": "Обслужване на клиенти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Mobily",
+                            "value": "Uživatelská podpora",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Mobil",
+                            "value": "Kundesupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Mobilgeräte",
+                            "value": "Kundensupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κινητά",
+                            "value": "Εξυπηρέτηση πελατών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Mobiililaitteet",
+                            "value": "Asiakastuki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Portable",
+                            "value": "Assistance clientèle",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मोबाइल",
+                            "value": "कस्टमर सपोर्ट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Mobilno",
+                            "value": "Podrška korisnicima",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Mobil",
+                            "value": "Ügyfélszolgálat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Cellulare",
+                            "value": "Assistenza clienti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "モバイル",
+                            "value": "カスタマーサポート",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "모바일",
+                            "value": "고객 지원",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mobilieji prietaisai",
+                            "value": "Klientų palaikymas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Mobiel",
+                            "value": "Klantenondersteuning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Mobil",
+                            "value": "Kundestøtte",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Mobilne",
+                            "value": "Pomoc techniczna",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Mobil",
+                            "value": "Asistență clienți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мобильные устройства",
+                            "value": "Служба поддержки",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "มือถือ",
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Mobil",
+                            "value": "Müşteri Desteği",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Мобільні ігри",
+                            "value": "Підтримка користувачів",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Mobile",
+                            "value": "Chăm Sóc Khách Hàng",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Mobile",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Mobile",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Móvil",
+                            "value": "Atención al cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Dispositivo Móvel",
+                            "value": "Suporte ao cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Mobil",
+                            "value": "Kundsupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "移动端",
+                            "value": "客户支持",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "行動裝置",
+                            "value": "客戶支援",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

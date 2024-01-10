@@ -6,9 +6,9 @@
     "splash": "49bcac7116d2794a17fa5e50c2a3323e",
     "discovery_splash": "f78041dc2fbc974be907be0421569a5b",
     "banner": "b0c305c34b06adfee5fed632585524ea",
-    "approximate_presence_count": 71,
-    "approximate_member_count": 10315,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 283,
+    "approximate_member_count": 11167,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "svk-s-communal-space-743434659848912957",
     "keywords": [
@@ -28,7 +28,8 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -39,9 +40,9 @@
         "icon": "a_3549e9e3cec68a0a301c3b34878ac1a2",
         "splash": "49bcac7116d2794a17fa5e50c2a3323e",
         "banner": "b0c305c34b06adfee5fed632585524ea",
-        "approximate_presence_count": 71,
-        "approximate_member_count": 10315,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 283,
+        "approximate_member_count": 11167,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f78041dc2fbc974be907be0421569a5b",
@@ -65,81 +66,18 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
-                "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 16,
+                "id": 23,
                 "is_primary": false,
-                "name": "Anime & Manga",
+                "name": "Podcasts",
                 "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -180,13 +118,77 @@
                 }
             },
             {
-                "id": 23,
+                "id": 16,
                 "is_primary": false,
-                "name": "Podcasts",
+                "name": "Anime & Manga",
                 "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
+                    "bg": "Аниме и манга",
+                    "cs": "Anime a manga",
+                    "da": "Anime & manga",
+                    "de": "Anime & Manga",
+                    "el": "Anime & Manga",
+                    "fi": "Anime ja manga",
+                    "fr": "Animés et mangas",
+                    "hi": "Anime & Manga",
+                    "hr": "Anime i Manga",
+                    "hu": "Anime és manga",
+                    "it": "Anime e manga",
+                    "ja": "アニメ&マンガ",
+                    "ko": "애니메이션, 만화",
+                    "lt": "Animė ir manga",
+                    "nl": "Anime en manga",
+                    "no": "Anime og manga",
+                    "pl": "Anime i manga",
+                    "ro": "Anime și manga",
+                    "ru": "Аниме и манга",
+                    "th": "อนิเมะและมังงะ",
+                    "tr": "Anime ve Manga",
+                    "uk": "Аніме та манга",
+                    "vi": "Anime & Manga",
+                    "en-GB": "Anime & manga",
+                    "en-US": "Anime & Manga",
+                    "es-ES": "Anime y manga",
+                    "pt-BR": "Anime e Mangá",
+                    "sv-SE": "Anime och manga",
+                    "zh-CN": "动画&漫画",
+                    "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -319,153 +321,172 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Гейминг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hraní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Podcasts",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेमिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játék",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Gaming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Gaming",
+                            "value": "Podcasts",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -628,171 +649,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Забавление",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zábava",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Underholdning",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unterhaltung",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ψυχαγωγία",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Viihde",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Divertissements",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "एंटरटेनमेंट",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Zabava",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szórakozás",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Intrattenimento",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "エンターテインメント",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "엔터테인먼트",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Pramogos",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Entertainment",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Underholdning",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozrywka",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Divertisment",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Развлечения",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ความบันเทิง",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğlence",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розваги",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Giải Trí",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Entertainment",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Entertainment",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Entretenimiento",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Entretenimento",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Underhållning",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "娱乐",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
