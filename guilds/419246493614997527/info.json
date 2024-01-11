@@ -2,13 +2,13 @@
     "id": "419246493614997527",
     "name": "Hockey Jerseys",
     "description": "",
-    "icon": "b566d5712dc60a21f8e72e434cf1c400",
+    "icon": "18b5732db04826bd4e89e8c9f584df1f",
     "splash": "00c87ea9ac78f7dc07c3097f32ee9560",
     "discovery_splash": "393a83e8322ad382641a068ddcd51b30",
-    "banner": "8487da32ef026c2cf416d7a17df1f987",
-    "approximate_presence_count": 409,
-    "approximate_member_count": 2057,
-    "premium_subscription_count": 16,
+    "banner": "219e3f6076f86f2c8aa79140709107f9",
+    "approximate_presence_count": 363,
+    "approximate_member_count": 2218,
+    "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "hockeyjerseys",
     "keywords": [
@@ -37,12 +37,12 @@
         "id": "419246493614997527",
         "name": "Hockey Jerseys",
         "description": "",
-        "icon": "b566d5712dc60a21f8e72e434cf1c400",
+        "icon": "18b5732db04826bd4e89e8c9f584df1f",
         "splash": "00c87ea9ac78f7dc07c3097f32ee9560",
-        "banner": "8487da32ef026c2cf416d7a17df1f987",
-        "approximate_presence_count": 409,
-        "approximate_member_count": 2057,
-        "premium_subscription_count": 16,
+        "banner": "219e3f6076f86f2c8aa79140709107f9",
+        "approximate_presence_count": 363,
+        "approximate_member_count": 2218,
+        "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "393a83e8322ad382641a068ddcd51b30",
@@ -70,6 +70,26 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -180,26 +200,6 @@
                     "zh-CN": "手工，DIY & 创作",
                     "zh-TW": "工藝、DIY與製作"
                 }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -282,6 +282,44 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -739,44 +777,6 @@
                         },
                         "zh-TW": {
                             "value": "工藝、DIY與製作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
