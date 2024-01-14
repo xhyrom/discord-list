@@ -6,8 +6,8 @@
     "splash": "106c69f5001bb066e8d91601a4323e61",
     "discovery_splash": "106c69f5001bb066e8d91601a4323e61",
     "banner": "464cd6b122f144196886bafc0ca53552",
-    "approximate_presence_count": 398,
-    "approximate_member_count": 6181,
+    "approximate_presence_count": 545,
+    "approximate_member_count": 5805,
     "premium_subscription_count": 0,
     "preferred_locale": "fr",
     "vanity_url_code": "ksar-fifa-23-904317846610382859",
@@ -40,8 +40,8 @@
         "icon": "9fb457149113538ea62f7521d229870d",
         "splash": "106c69f5001bb066e8d91601a4323e61",
         "banner": "464cd6b122f144196886bafc0ca53552",
-        "approximate_presence_count": 398,
-        "approximate_member_count": 6181,
+        "approximate_presence_count": 545,
+        "approximate_member_count": 5805,
         "premium_subscription_count": 0,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -105,16 +115,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             }
         ],
@@ -225,6 +225,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -374,25 +393,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
