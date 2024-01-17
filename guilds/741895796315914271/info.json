@@ -6,9 +6,9 @@
     "splash": "84cde34a2ebaed5fa55fc798808316b2",
     "discovery_splash": "edf4191a3d660d0f0fc923c7d597f9e2",
     "banner": "350b3f4ca3d8ab5b518a05337ab1b1b6",
-    "approximate_presence_count": 5741,
-    "approximate_member_count": 33090,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 5859,
+    "approximate_member_count": 33225,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "retrohandhelds",
     "keywords": [
@@ -41,9 +41,9 @@
         "icon": "b9c3a82bb7f3c14f48d59d2195fc2b68",
         "splash": "84cde34a2ebaed5fa55fc798808316b2",
         "banner": "350b3f4ca3d8ab5b518a05337ab1b1b6",
-        "approximate_presence_count": 5741,
-        "approximate_member_count": 33090,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 5859,
+        "approximate_member_count": 33225,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "edf4191a3d660d0f0fc923c7d597f9e2",
@@ -72,16 +72,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -191,6 +181,16 @@
                     "sv-SE": "Subreddit",
                     "zh-CN": "Reddit讨论区",
                     "zh-TW": "討論區"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -375,25 +375,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -851,6 +832,25 @@
                         },
                         "zh-TW": {
                             "value": "討論區",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
