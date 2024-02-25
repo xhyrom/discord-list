@@ -6,9 +6,9 @@
     "splash": "8fd059ebfc3555baafa3f730511e9ac7",
     "discovery_splash": "1b200ca1f78343f57c7aa5e5d7d12f66",
     "banner": null,
-    "approximate_presence_count": 186,
-    "approximate_member_count": 1629,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 197,
+    "approximate_member_count": 1895,
+    "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "vans-496186109663903747",
     "keywords": [
@@ -38,9 +38,9 @@
         "icon": "a_db0bf640dc21e63ba4df1a0cc6a8c6f5",
         "splash": "8fd059ebfc3555baafa3f730511e9ac7",
         "banner": null,
-        "approximate_presence_count": 186,
-        "approximate_member_count": 1629,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 197,
+        "approximate_member_count": 1895,
+        "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "1b200ca1f78343f57c7aa5e5d7d12f66",
@@ -66,6 +66,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 42,
                 "is_primary": false,
@@ -101,16 +111,6 @@
                     "sv-SE": "Subreddit",
                     "zh-CN": "Reddit讨论区",
                     "zh-TW": "討論區"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -253,6 +253,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -402,25 +421,6 @@
                         },
                         "zh-TW": {
                             "value": "討論區",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

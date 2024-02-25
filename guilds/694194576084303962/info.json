@@ -6,8 +6,8 @@
     "splash": "914a93cef62e9a0aa53e241fad72604d",
     "discovery_splash": "8d65c3d0f2740250527669bf7e25286e",
     "banner": "eda598dbba95f3b53702ae254cc3689c",
-    "approximate_presence_count": 674,
-    "approximate_member_count": 3020,
+    "approximate_presence_count": 815,
+    "approximate_member_count": 3015,
     "premium_subscription_count": 4,
     "preferred_locale": "fr",
     "vanity_url_code": "le-grenier-de-l-hardware-694194576084303962",
@@ -38,8 +38,8 @@
         "icon": "a_2a0bd85fea139ad3536ff29ad14b1fb9",
         "splash": "914a93cef62e9a0aa53e241fad72604d",
         "banner": "eda598dbba95f3b53702ae254cc3689c",
-        "approximate_presence_count": 674,
-        "approximate_member_count": 3020,
+        "approximate_presence_count": 815,
+        "approximate_member_count": 3015,
         "premium_subscription_count": 4,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -67,40 +67,77 @@
         ],
         "categories": [
             {
-                "id": 26,
+                "id": 27,
                 "is_primary": false,
-                "name": "News & Current Events",
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "bg": "Новини и актуални събития",
-                    "cs": "Zprávy a aktuální dění",
-                    "da": "Nyheder & nuværende begivenheder",
-                    "de": "Nachrichten & Zeitgeschehen",
-                    "el": "Νέα & Επικαιρότητα",
-                    "fi": "Uutiset ja ajankohtaistapahtumat",
-                    "fr": "Actualité",
-                    "hi": "न्यूज़ और करेंट इवेंट्स",
-                    "hr": "Vijesti i aktualnosti",
-                    "hu": "Hírek és aktuális események",
-                    "it": "Notizie ed eventi attuali",
-                    "ja": "ニュース&時事",
-                    "ko": "뉴스, 시사",
-                    "lt": "Naujienos ir dabartiniai įvykiai",
-                    "nl": "Nieuws en actualiteiten",
-                    "no": "Nyheter og aktuelt",
-                    "pl": "Aktualności i bieżące wydarzenia",
-                    "ro": "Actualități",
-                    "ru": "Новости и текущие события",
-                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                    "tr": "Haberler ve Güncel Olaylar",
-                    "uk": "Новини й поточні події",
-                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                    "en-GB": "News & Current Events",
-                    "en-US": "News & Current Events",
-                    "es-ES": "Noticias y actualidad",
-                    "pt-BR": "Notícias e Atualidades",
-                    "sv-SE": "Nyheter och aktuella händelser",
-                    "zh-CN": "新闻&时事",
-                    "zh-TW": "新消息與目前活動"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
+                }
+            },
+            {
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
+                "name_localizations": {
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -141,40 +178,40 @@
                 }
             },
             {
-                "id": 27,
+                "id": 26,
                 "is_primary": false,
-                "name": "Cryptocurrency",
+                "name": "News & Current Events",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
                 }
             },
             {
@@ -212,43 +249,6 @@
                     "sv-SE": "Konsol",
                     "zh-CN": "主机端",
                     "zh-TW": "遊戲主機"
-                }
-            },
-            {
-                "id": 5,
-                "is_primary": true,
-                "name": "Science & Tech",
-                "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -394,152 +394,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Новини и актуални събития",
+                            "value": "Криптовалута",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zprávy a aktuální dění",
+                            "value": "Kryptoměny",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Nyheder & nuværende begivenheder",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Nachrichten & Zeitgeschehen",
+                            "value": "Kryptowährung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Νέα & Επικαιρότητα",
+                            "value": "Κρυπτονόμισμα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Uutiset ja ajankohtaistapahtumat",
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Actualité",
+                            "value": "Cryptomonnaie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "न्यूज़ और करेंट इवेंट्स",
+                            "value": "क्रिप्टोकरेंसी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Vijesti i aktualnosti",
+                            "value": "Kriptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Hírek és aktuális események",
+                            "value": "Kriptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Notizie ed eventi attuali",
+                            "value": "Criptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ニュース&時事",
+                            "value": "暗号通貨",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "뉴스, 시사",
+                            "value": "암호화폐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Naujienos ir dabartiniai įvykiai",
+                            "value": "Kriptovaliuta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Nieuws en actualiteiten",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Nyheter og aktuelt",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Aktualności i bieżące wydarzenia",
+                            "value": "Kryptowaluty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Actualități",
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Новости и текущие события",
+                            "value": "Криптовалюта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                            "value": "สกุลเงินดิจิทัล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Haberler ve Güncel Olaylar",
+                            "value": "Kripto Para Birimleri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Новини й поточні події",
+                            "value": "Криптовалюти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                            "value": "Tiền Ảo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "News & Current Events",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "News & Current Events",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Noticias y actualidad",
+                            "value": "Criptomonedas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Notícias e Atualidades",
+                            "value": "Criptomoeda",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Nyheter och aktuella händelser",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "新闻&时事",
+                            "value": "数字货币",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "新消息與目前活動",
+                            "value": "加密貨幣",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Наука и технологии",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Věda a technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Videnskab & teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wissenschaft & Technik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιστήμη & Τεχνολογία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tiede ja tekniikka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Science et technologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "साइंस और टेक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Znanost i tehnologija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tudomány és technológia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scienza e tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "サイエンス&テクノロジー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "과학, 기술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mokslas ir technologijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wetenschap en tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Vitenskap og teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Nauka i technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Știință și tehnologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Наука и техника",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Bilim ve Teknoloji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Наука й технології",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Khoa Học & Công Nghệ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Science & tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Science & Tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Ciencia y tecnología",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ciência e Tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Vetenskap och teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "科学&技术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -702,152 +856,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Zprávy a aktuální dění",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Nyheder & nuværende begivenheder",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Nachrichten & Zeitgeschehen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Νέα & Επικαιρότητα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Uutiset ja ajankohtaistapahtumat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Actualité",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "न्यूज़ और करेंट इवेंट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Vijesti i aktualnosti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Hírek és aktuális események",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Notizie ed eventi attuali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "ニュース&時事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "뉴스, 시사",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Naujienos ir dabartiniai įvykiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Nieuws en actualiteiten",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Nyheter og aktuelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Aktualności i bieżące wydarzenia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Actualități",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Новости и текущие события",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Haberler ve Güncel Olaylar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Новини й поточні події",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Noticias y actualidad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Notícias e Atualidades",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Nyheter och aktuella händelser",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "新闻&时事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1002,160 +1156,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲主機",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Наука и технологии",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Věda a technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Videnskab & teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wissenschaft & Technik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tiede ja tekniikka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Science et technologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "साइंस और टेक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Znanost i tehnologija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tudomány és technológia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scienza e tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "サイエンス&テクノロジー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "과학, 기술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mokslas ir technologijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wetenschap en tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Vitenskap og teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Nauka i technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Știință și tehnologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Наука и техника",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Bilim ve Teknoloji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Наука й технології",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Khoa Học & Công Nghệ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Science & tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Science & Tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Ciencia y tecnología",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Ciência e Tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Vetenskap och teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "科学&技术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

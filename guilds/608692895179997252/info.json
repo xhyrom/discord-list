@@ -6,9 +6,9 @@
     "splash": "423b0893811d3a18622d4250ba6195f6",
     "discovery_splash": "80980e4f01cb2db98349c5a58be6346d",
     "banner": "5cc48a1941970c3893c4e28639826b24",
-    "approximate_presence_count": 901,
-    "approximate_member_count": 2893,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 940,
+    "approximate_member_count": 2985,
+    "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "open-note-block-studio-608692895179997252",
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "a_7232c528e880f799564063054c4e0aa8",
         "splash": "423b0893811d3a18622d4250ba6195f6",
         "banner": "5cc48a1941970c3893c4e28639826b24",
-        "approximate_presence_count": 901,
-        "approximate_member_count": 2893,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 940,
+        "approximate_member_count": 2985,
+        "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "80980e4f01cb2db98349c5a58be6346d",
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 22,
-                "is_primary": false,
-                "name": "Programming",
-                "name_localizations": {
-                    "bg": "Програмиране",
-                    "cs": "Programování",
-                    "da": "Programmering",
-                    "de": "Programmieren",
-                    "el": "Προγραμματισμός",
-                    "fi": "Ohjelmointi",
-                    "fr": "Programmation",
-                    "hi": "प्रोग्रामिंग",
-                    "hr": "Programiranje",
-                    "hu": "Programozás",
-                    "it": "Programmazione",
-                    "ja": "プログラミング",
-                    "ko": "프로그래밍",
-                    "lt": "Programavimas",
-                    "nl": "Programmeren",
-                    "no": "Programmering",
-                    "pl": "Programowanie",
-                    "ro": "Programare",
-                    "ru": "Программирование",
-                    "th": "การเขียนโปรแกรม",
-                    "tr": "Kodlama",
-                    "uk": "Програмування",
-                    "vi": "Lập Trình",
-                    "en-GB": "Programming",
-                    "en-US": "Programming",
-                    "es-ES": "Programación",
-                    "pt-BR": "Programação",
-                    "sv-SE": "Programmering",
-                    "zh-CN": "编程",
-                    "zh-TW": "程式設計"
-                }
-            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -145,40 +108,77 @@
                 }
             },
             {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
+                "id": 22,
+                "is_primary": false,
+                "name": "Programming",
                 "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
+                    "bg": "Програмиране",
+                    "cs": "Programování",
+                    "da": "Programmering",
+                    "de": "Programmieren",
+                    "el": "Προγραμματισμός",
+                    "fi": "Ohjelmointi",
+                    "fr": "Programmation",
+                    "hi": "प्रोग्रामिंग",
+                    "hr": "Programiranje",
+                    "hu": "Programozás",
+                    "it": "Programmazione",
+                    "ja": "プログラミング",
+                    "ko": "프로그래밍",
+                    "lt": "Programavimas",
+                    "nl": "Programmeren",
+                    "no": "Programmering",
+                    "pl": "Programowanie",
+                    "ro": "Programare",
+                    "ru": "Программирование",
+                    "th": "การเขียนโปรแกรม",
+                    "tr": "Kodlama",
+                    "uk": "Програмування",
+                    "vi": "Lập Trình",
+                    "en-GB": "Programming",
+                    "en-US": "Programming",
+                    "es-ES": "Programación",
+                    "pt-BR": "Programação",
+                    "sv-SE": "Programmering",
+                    "zh-CN": "编程",
+                    "zh-TW": "程式設計"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
                 }
             },
             {
@@ -219,40 +219,40 @@
                 }
             },
             {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
+                "id": 14,
+                "is_primary": true,
+                "name": "General Chatting",
                 "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
                 }
             }
         ],
@@ -363,160 +363,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Програмиране",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Programování",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Programmieren",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Προγραμματισμός",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Ohjelmointi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Programmation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "प्रोग्रामिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Programiranje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Programozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Programmazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "プログラミング",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "프로그래밍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Programavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Programmeren",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Programowanie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Programare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Программирование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเขียนโปรแกรม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kodlama",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Програмування",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Lập Trình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Programming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Programming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Programación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Programação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "编程",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "程式設計",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -674,152 +520,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Общуване",
+                            "value": "Програмиране",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Prostě chat",
+                            "value": "Programování",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Generelt",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Allgemeine Chats",
+                            "value": "Programmieren",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Γενική συζήτηση",
+                            "value": "Προγραμματισμός",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Yleinen keskustelu",
+                            "value": "Ohjelmointi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Discussion générale",
+                            "value": "Programmation",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "जनरल चैटिंग",
+                            "value": "प्रोग्रामिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Općenito",
+                            "value": "Programiranje",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Általános csevegés",
+                            "value": "Programozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Discussioni generali",
+                            "value": "Programmazione",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "雑談",
+                            "value": "プログラミング",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "일반 채팅",
+                            "value": "프로그래밍",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
+                            "value": "Programavimas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Algemene chat",
+                            "value": "Programmeren",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Generell chatting",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozmowy",
+                            "value": "Programowanie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Discuții generale",
+                            "value": "Programare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Общение",
+                            "value": "Программирование",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การสนทนาทั่วไป",
+                            "value": "การเขียนโปรแกรม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Genel Sohbet",
+                            "value": "Kodlama",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Спілкування на загальні теми",
+                            "value": "Програмування",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Trò Chuyện Chung",
+                            "value": "Lập Trình",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "General Chatting",
+                            "value": "Programming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "General Chatting",
+                            "value": "Programming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Chateo general",
+                            "value": "Programación",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Conversas gerais",
+                            "value": "Programação",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Chatt i allmänhet",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "综合聊天",
+                            "value": "编程",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "一般聊天",
+                            "value": "程式設計",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -982,152 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Сътрудничество",
+                            "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Spolupráce",
+                            "value": "Prostě chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Samarbejde",
+                            "value": "Generelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kollaboration",
+                            "value": "Allgemeine Chats",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Συνεργασία",
+                            "value": "Γενική συζήτηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Yhteistyö",
+                            "value": "Yleinen keskustelu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Collaboration",
+                            "value": "Discussion générale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "सहयोग",
+                            "value": "जनरल चैटिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Suradnja",
+                            "value": "Općenito",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Együttműködés",
+                            "value": "Általános csevegés",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Collaborazione",
+                            "value": "Discussioni generali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コラボレーション",
+                            "value": "雑談",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "협동",
+                            "value": "일반 채팅",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Bendradarbiavimas",
+                            "value": "Bendro pobūdžio pokalbiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Samenwerken",
+                            "value": "Algemene chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Samarbeid",
+                            "value": "Generell chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Współpraca",
+                            "value": "Rozmowy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Colaborare",
+                            "value": "Discuții generale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Совместная работа",
+                            "value": "Общение",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การร่วมมือ",
+                            "value": "การสนทนาทั่วไป",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "İşbirliği",
+                            "value": "Genel Sohbet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Співробітництво",
+                            "value": "Спілкування на загальні теми",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Hợp Tác",
+                            "value": "Trò Chuyện Chung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Collaboration",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Collaboration",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Colaboración",
+                            "value": "Chateo general",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Colaboração",
+                            "value": "Conversas gerais",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Samarbete",
+                            "value": "Chatt i allmänhet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "合作",
+                            "value": "综合聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "合作",
+                            "value": "一般聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
